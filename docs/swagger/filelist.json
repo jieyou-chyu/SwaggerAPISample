@@ -1,0 +1,4029 @@
+{
+  "generatedAt": "2025-11-23T09:07:07.512339Z",
+  "files": [
+    {
+      "src": "taifex",
+      "file": "GET__AcceptableCollateralGovernmentBonds.json",
+      "summary": "有價證券保證金之可抵繳標的-公債",
+      "display": "有價證券保證金之可抵繳標的-公債 (GET__AcceptableCollateralGovernmentBonds.json)",
+      "count": 144,
+      "sizeKB": 21.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AcceptableCollateralInternationalBonds.json",
+      "summary": "有價證券保證金之可抵繳標的-國際債",
+      "display": "有價證券保證金之可抵繳標的-國際債 (GET__AcceptableCollateralInternationalBonds.json)",
+      "count": 796,
+      "sizeKB": 119.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AcceptableCollateralLogStock.json",
+      "summary": "有價證券保證金之可抵繳標的增刪紀錄",
+      "display": "有價證券保證金之可抵繳標的增刪紀錄 (GET__AcceptableCollateralLogStock.json)",
+      "count": 13,
+      "sizeKB": 2.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AcceptableCollateralStock.json",
+      "summary": "有價證券保證金之可抵繳標的-股票(含ETF)",
+      "display": "有價證券保證金之可抵繳標的-股票(含ETF) (GET__AcceptableCollateralStock.json)",
+      "count": 270,
+      "sizeKB": 29.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AccumulatedIncomeStateF.json",
+      "summary": "專營期貨商稅前累計損益明細表",
+      "display": "專營期貨商稅前累計損益明細表 (GET__AccumulatedIncomeStateF.json)",
+      "count": 15,
+      "sizeKB": 4.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AccumulatedIncomeStatementBeforeTaxStatement.json",
+      "summary": "期貨商稅前累計損益明細表",
+      "display": "期貨商稅前累計損益明細表 (GET__AccumulatedIncomeStatementBeforeTaxStatement.json)",
+      "count": 40,
+      "sizeKB": 7.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AccumulatedIncomeStateR.json",
+      "summary": "複委託期貨商稅前累計損益明細表",
+      "display": "複委託期貨商稅前累計損益明細表 (GET__AccumulatedIncomeStateR.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AccumulatedIncomeStateS.json",
+      "summary": "兼營期貨商稅前累計損益明細表",
+      "display": "兼營期貨商稅前累計損益明細表 (GET__AccumulatedIncomeStateS.json)",
+      "count": 24,
+      "sizeKB": 5.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingFX.json",
+      "summary": "商品年成交量統計-匯率類",
+      "display": "商品年成交量統計-匯率類 (GET__AnnualTradingFX.json)",
+      "count": 66,
+      "sizeKB": 16.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingGold.json",
+      "summary": "商品年成交量統計-商品類",
+      "display": "商品年成交量統計-商品類 (GET__AnnualTradingGold.json)",
+      "count": 59,
+      "sizeKB": 14.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingIndexFutures.json",
+      "summary": "商品年成交量統計-股價指數類（指數期貨）",
+      "display": "商品年成交量統計-股價指數類（指數期貨） (GET__AnnualTradingIndexFutures.json)",
+      "count": 241,
+      "sizeKB": 54.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingIndexOptions.json",
+      "summary": "商品年成交量統計-股價指數類（指數選擇權）",
+      "display": "商品年成交量統計-股價指數類（指數選擇權） (GET__AnnualTradingIndexOptions.json)",
+      "count": 96,
+      "sizeKB": 22.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingIR.json",
+      "summary": "商品年成交量統計-利率類",
+      "display": "商品年成交量統計-利率類 (GET__AnnualTradingIR.json)",
+      "count": 26,
+      "sizeKB": 6.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingSSF.json",
+      "summary": "商品年成交量統計-股票類（股票期貨）",
+      "display": "商品年成交量統計-股票類（股票期貨） (GET__AnnualTradingSSF.json)",
+      "count": 26,
+      "sizeKB": 6.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingSSO.json",
+      "summary": "商品年成交量統計-股票類（股票選擇權）",
+      "display": "商品年成交量統計-股票類（股票選擇權） (GET__AnnualTradingSSO.json)",
+      "count": 32,
+      "sizeKB": 8.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__AnnualTradingVolume.json",
+      "summary": "各商品年成交量統計表",
+      "display": "各商品年成交量統計表 (GET__AnnualTradingVolume.json)",
+      "count": 39,
+      "sizeKB": 9.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BlockTrade.json",
+      "summary": "鉅額交易各商品成交資訊",
+      "display": "鉅額交易各商品成交資訊 (GET__BlockTrade.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BlockTradeContinuousMatchingCombinationOrder.json",
+      "summary": "鉅額交易逐筆撮合之組合式委託成交",
+      "display": "鉅額交易逐筆撮合之組合式委託成交 (GET__BlockTradeContinuousMatchingCombinationOrder.json)",
+      "count": 2,
+      "sizeKB": 1.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BlockTradeContinuousMatchingSingleOrder.json",
+      "summary": "鉅額交易逐筆撮合之單式委託成交",
+      "display": "鉅額交易逐筆撮合之單式委託成交 (GET__BlockTradeContinuousMatchingSingleOrder.json)",
+      "count": 1,
+      "sizeKB": 1.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BlockTradeNegotiation.json",
+      "summary": "鉅額交易議價申報成交",
+      "display": "鉅額交易議價申報成交 (GET__BlockTradeNegotiation.json)",
+      "count": 1,
+      "sizeKB": 1.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BTContinuousMatchingSingleOrderFutures.json",
+      "summary": "鉅額交易逐筆撮合之單式委託成交-期貨商品",
+      "display": "鉅額交易逐筆撮合之單式委託成交-期貨商品 (GET__BTContinuousMatchingSingleOrderFutures.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BTContinuousMatchingSingleOrderOptions.json",
+      "summary": "鉅額交易逐筆撮合之單式委託成交-選擇權商品",
+      "display": "鉅額交易逐筆撮合之單式委託成交-選擇權商品 (GET__BTContinuousMatchingSingleOrderOptions.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BTDailyTradeInformationFutures.json",
+      "summary": "鉅額交易各商品成交資訊-期貨商品",
+      "display": "鉅額交易各商品成交資訊-期貨商品 (GET__BTDailyTradeInformationFutures.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__BTDailyTradeInformationOptions.json",
+      "summary": "鉅額交易各商品成交資訊-選擇權商品",
+      "display": "鉅額交易各商品成交資訊-選擇權商品 (GET__BTDailyTradeInformationOptions.json)",
+      "count": 2,
+      "sizeKB": 1.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__CCP_CMLists.json",
+      "summary": "店頭集中結算會員名冊",
+      "display": "店頭集中結算會員名冊 (GET__CCP_CMLists.json)",
+      "count": 32,
+      "sizeKB": 5.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__ClearingBankLists.json",
+      "summary": "結算銀行名冊",
+      "display": "結算銀行名冊 (GET__ClearingBankLists.json)",
+      "count": 8,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__CMLists.json",
+      "summary": "結算會員名冊",
+      "display": "結算會員名冊 (GET__CMLists.json)",
+      "count": 26,
+      "sizeKB": 4.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__ContractAdj.json",
+      "summary": "股票期貨/選擇權契約調整一覽事項",
+      "display": "股票期貨/選擇權契約調整一覽事項 (GET__ContractAdj.json)",
+      "count": 61,
+      "sizeKB": 17.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__CustodianBankLists.json",
+      "summary": "保管銀行名冊",
+      "display": "保管銀行名冊 (GET__CustodianBankLists.json)",
+      "count": 30,
+      "sizeKB": 6.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailyForeignExchangeRates.json",
+      "summary": "每日外幣參考匯率",
+      "display": "每日外幣參考匯率 (GET__DailyForeignExchangeRates.json)",
+      "count": 35,
+      "sizeKB": 13.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailyMarketReportFut.json",
+      "summary": "期貨每日交易行情",
+      "display": "期貨每日交易行情 (GET__DailyMarketReportFut.json)",
+      "count": 2125,
+      "sizeKB": 1253.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailyMarketReportOpt.json",
+      "summary": "選擇權每日交易行情",
+      "display": "選擇權每日交易行情 (GET__DailyMarketReportOpt.json)",
+      "count": 8506,
+      "sizeKB": 4467.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailyOptionsDelta.json",
+      "summary": "選擇權每日Delta值",
+      "display": "選擇權每日Delta值 (GET__DailyOptionsDelta.json)",
+      "count": 6292,
+      "sizeKB": 1103.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailySummaryOfBlockTradeFutures.json",
+      "summary": "鉅額交易成交量統計-期貨商品",
+      "display": "鉅額交易成交量統計-期貨商品 (GET__DailySummaryOfBlockTradeFutures.json)",
+      "count": 1,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailySummaryOfBlockTradeOptions.json",
+      "summary": "鉅額交易成交量統計-選擇權商品",
+      "display": "鉅額交易成交量統計-選擇權商品 (GET__DailySummaryOfBlockTradeOptions.json)",
+      "count": 1,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__DailyVolumeReportOnCalendarSpreadOrders.json",
+      "summary": "每日期貨價差委託成交概況表",
+      "display": "每日期貨價差委託成交概況表 (GET__DailyVolumeReportOnCalendarSpreadOrders.json)",
+      "count": 356,
+      "sizeKB": 85.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Daily_FUT.json",
+      "summary": "期貨商交易量日報表－期貨",
+      "display": "期貨商交易量日報表－期貨 (GET__Daily_FUT.json)",
+      "count": 25740,
+      "sizeKB": 4302.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Daily_OPT.json",
+      "summary": "期貨商交易量日報表－選擇權",
+      "display": "期貨商交易量日報表－選擇權 (GET__Daily_OPT.json)",
+      "count": 4140,
+      "sizeKB": 692.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Daily_OPT_W.json",
+      "summary": "期貨商交易量週到期選擇權日報表",
+      "display": "期貨商交易量週到期選擇權日報表 (GET__Daily_OPT_W.json)",
+      "count": 39,
+      "sizeKB": 7.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__EPSBeforeTaxF.json",
+      "summary": "專營期貨商每股稅前盈餘統計表",
+      "display": "專營期貨商每股稅前盈餘統計表 (GET__EPSBeforeTaxF.json)",
+      "count": 15,
+      "sizeKB": 5.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__EPSBeforeTaxR.json",
+      "summary": "複委託期貨商每股稅前盈餘統計表",
+      "display": "複委託期貨商每股稅前盈餘統計表 (GET__EPSBeforeTaxR.json)",
+      "count": 1,
+      "sizeKB": 1.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__EPSBeforeTaxS.json",
+      "summary": "兼營期貨商每股稅前盈餘統計表",
+      "display": "兼營期貨商每股稅前盈餘統計表 (GET__EPSBeforeTaxS.json)",
+      "count": 24,
+      "sizeKB": 8.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__eTradeQty.json",
+      "summary": "每月市場電子式交易下單統計（網路與DMA下單）",
+      "display": "每月市場電子式交易下單統計（網路與DMA下單） (GET__eTradeQty.json)",
+      "count": 9,
+      "sizeKB": 1.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FCMBranchLists.json",
+      "summary": "期貨商分公司名冊",
+      "display": "期貨商分公司名冊 (GET__FCMBranchLists.json)",
+      "count": 91,
+      "sizeKB": 20.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FCMLists.json",
+      "summary": "期貨商總公司名冊",
+      "display": "期貨商總公司名冊 (GET__FCMLists.json)",
+      "count": 40,
+      "sizeKB": 9.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPrice.json",
+      "summary": "最後結算價",
+      "display": "最後結算價 (GET__FinalSettlementPrice.json)",
+      "count": 777,
+      "sizeKB": 166.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceFutures.json",
+      "summary": "最後結算價-期貨商品",
+      "display": "最後結算價-期貨商品 (GET__FinalSettlementPriceFutures.json)",
+      "count": 324,
+      "sizeKB": 72.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceFx.json",
+      "summary": "最後結算價-匯率類",
+      "display": "最後結算價-匯率類 (GET__FinalSettlementPriceFx.json)",
+      "count": 2,
+      "sizeKB": 1.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceGold.json",
+      "summary": "最後結算價-商品類",
+      "display": "最後結算價-商品類 (GET__FinalSettlementPriceGold.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceIndexFutures.json",
+      "summary": "最後結算價-股價指數類（指數期貨）",
+      "display": "最後結算價-股價指數類（指數期貨） (GET__FinalSettlementPriceIndexFutures.json)",
+      "count": 11,
+      "sizeKB": 3.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceIndexOptions.json",
+      "summary": "最後結算價-股價指數類（指數選擇權）",
+      "display": "最後結算價-股價指數類（指數選擇權） (GET__FinalSettlementPriceIndexOptions.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceIR.json",
+      "summary": "最後結算價-利率類",
+      "display": "最後結算價-利率類 (GET__FinalSettlementPriceIR.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceOptions.json",
+      "summary": "最後結算價-選擇權商品",
+      "display": "最後結算價-選擇權商品 (GET__FinalSettlementPriceOptions.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceSSF.json",
+      "summary": "最後結算價-股票期貨",
+      "display": "最後結算價-股票期貨 (GET__FinalSettlementPriceSSF.json)",
+      "count": 311,
+      "sizeKB": 69.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FinalSettlementPriceSSO.json",
+      "summary": "最後結算價-股票選擇權",
+      "display": "最後結算價-股票選擇權 (GET__FinalSettlementPriceSSO.json)",
+      "count": 48,
+      "sizeKB": 11.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FuturesAndOptionsFeeSchedule.json",
+      "summary": "期交所期貨暨選擇權商品相關費用表",
+      "display": "期交所期貨暨選擇權商品相關費用表 (GET__FuturesAndOptionsFeeSchedule.json)",
+      "count": 46,
+      "sizeKB": 8.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__FXFuturesAndOptionsMargining.json",
+      "summary": "保證金一覽表-匯率類",
+      "display": "保證金一覽表-匯率類 (GET__FXFuturesAndOptionsMargining.json)",
+      "count": 6,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__GoldFuturesAndOptionsMargining.json",
+      "summary": "保證金一覽表-商品類",
+      "display": "保證金一覽表-商品類 (GET__GoldFuturesAndOptionsMargining.json)",
+      "count": 6,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__IncomeStatementF.json",
+      "summary": "專營期貨商稅前累計損益彙總表",
+      "display": "專營期貨商稅前累計損益彙總表 (GET__IncomeStatementF.json)",
+      "count": 15,
+      "sizeKB": 4.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__IncomeStatementR.json",
+      "summary": "複委託期貨商稅前累計損益彙總表",
+      "display": "複委託期貨商稅前累計損益彙總表 (GET__IncomeStatementR.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__IncomeStatementS.json",
+      "summary": "兼營期貨商稅前累計損益彙總表",
+      "display": "兼營期貨商稅前累計損益彙總表 (GET__IncomeStatementS.json)",
+      "count": 24,
+      "sizeKB": 7.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__IndexFuturesAndOptionsMargining.json",
+      "summary": "保證金一覽表-股價指數類",
+      "display": "保證金一覽表-股價指數類 (GET__IndexFuturesAndOptionsMargining.json)",
+      "count": 31,
+      "sizeKB": 7.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__InterestRateFuturesMargining.json",
+      "summary": "保證金一覽表-利率類",
+      "display": "保證金一覽表-利率類 (GET__InterestRateFuturesMargining.json)",
+      "count": 1,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheDate.json",
+      "summary": "三大法人-選擇權買賣權分計-依日期",
+      "display": "三大法人-選擇權買賣權分計-依日期 (GET__MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheDate.json)",
+      "count": 30,
+      "sizeKB": 21.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheWeek.json",
+      "summary": "三大法人-選擇權買賣權分計-依週別",
+      "display": "三大法人-選擇權買賣權分計-依週別 (GET__MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheWeek.json)",
+      "count": 30,
+      "sizeKB": 23.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheDate.json",
+      "summary": "三大法人-區分各期貨契約-依日期",
+      "display": "三大法人-區分各期貨契約-依日期 (GET__MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheDate.json)",
+      "count": 66,
+      "sizeKB": 46.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheWeek.json",
+      "summary": "三大法人-區分各期貨契約-依週別",
+      "display": "三大法人-區分各期貨契約-依週別 (GET__MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheWeek.json)",
+      "count": 66,
+      "sizeKB": 48.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheDate.json",
+      "summary": "三大法人-區分各選擇權契約-依日期",
+      "display": "三大法人-區分各選擇權契約-依日期 (GET__MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheDate.json)",
+      "count": 15,
+      "sizeKB": 11.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheWeek.json",
+      "summary": "三大法人-區分各選擇權契約-依週別",
+      "display": "三大法人-區分各選擇權契約-依週別 (GET__MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheWeek.json)",
+      "count": 15,
+      "sizeKB": 11.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheDate.json",
+      "summary": "三大法人-區分期貨與選擇權二類-依日期",
+      "display": "三大法人-區分期貨與選擇權二類-依日期 (GET__MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheDate.json)",
+      "count": 3,
+      "sizeKB": 5.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheWeek.json",
+      "summary": "三大法人-區分期貨與選擇權二類-依週別",
+      "display": "三大法人-區分期貨與選擇權二類-依週別 (GET__MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheWeek.json)",
+      "count": 3,
+      "sizeKB": 5.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersGeneralBytheDate.json",
+      "summary": "三大法人-總表-依日期",
+      "display": "三大法人-總表-依日期 (GET__MarketDataOfMajorInstitutionalTradersGeneralBytheDate.json)",
+      "count": 3,
+      "sizeKB": 3.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketDataOfMajorInstitutionalTradersGeneralBytheWeek.json",
+      "summary": "三大法人-總表-依週別",
+      "display": "三大法人-總表-依週別 (GET__MarketDataOfMajorInstitutionalTradersGeneralBytheWeek.json)",
+      "count": 3,
+      "sizeKB": 3.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketMakerListsFut.json",
+      "summary": "期貨商品造市者清單",
+      "display": "期貨商品造市者清單 (GET__MarketMakerListsFut.json)",
+      "count": 54,
+      "sizeKB": 9.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketMakerListsOpt.json",
+      "summary": "選擇權商品造市者清單",
+      "display": "選擇權商品造市者清單 (GET__MarketMakerListsOpt.json)",
+      "count": 22,
+      "sizeKB": 4.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MarketParticipants.json",
+      "summary": "市場參與者統計",
+      "display": "市場參與者統計 (GET__MarketParticipants.json)",
+      "count": 22,
+      "sizeKB": 28.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MonthlyTradingStatisticsFutures.json",
+      "summary": "期貨各類交易人各商品交易量統計表",
+      "display": "期貨各類交易人各商品交易量統計表 (GET__MonthlyTradingStatisticsFutures.json)",
+      "count": 4,
+      "sizeKB": 5.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__MonthlyTradingStatisticsOptions.json",
+      "summary": "選擇權各類交易人各商品交易量統計表",
+      "display": "選擇權各類交易人各商品交易量統計表 (GET__MonthlyTradingStatisticsOptions.json)",
+      "count": 3,
+      "sizeKB": 4.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Monthly_FUT.json",
+      "summary": "期貨商交易量月報表－期貨",
+      "display": "期貨商交易量月報表－期貨 (GET__Monthly_FUT.json)",
+      "count": 17490,
+      "sizeKB": 2932.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Monthly_OPT.json",
+      "summary": "期貨商交易量月報表－選擇權",
+      "display": "期貨商交易量月報表－選擇權 (GET__Monthly_OPT.json)",
+      "count": 2940,
+      "sizeKB": 493.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetIncomeRankingF.json",
+      "summary": "專營期貨商稅前損益排序表",
+      "display": "專營期貨商稅前損益排序表 (GET__NetIncomeRankingF.json)",
+      "count": 15,
+      "sizeKB": 3.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetIncomeRankingR.json",
+      "summary": "複委託期貨商稅前損益排序表",
+      "display": "複委託期貨商稅前損益排序表 (GET__NetIncomeRankingR.json)",
+      "count": 1,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetIncomeRankingS.json",
+      "summary": "兼營期貨商稅前損益排序表",
+      "display": "兼營期貨商稅前損益排序表 (GET__NetIncomeRankingS.json)",
+      "count": 24,
+      "sizeKB": 4.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetValuePerShareF.json",
+      "summary": "專營期貨商每股淨值明細表",
+      "display": "專營期貨商每股淨值明細表 (GET__NetValuePerShareF.json)",
+      "count": 15,
+      "sizeKB": 4.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetValuePerShareR.json",
+      "summary": "複委託期貨商每股淨值明細表",
+      "display": "複委託期貨商每股淨值明細表 (GET__NetValuePerShareR.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetValuePerShareS.json",
+      "summary": "兼營期貨商每股淨值明細表",
+      "display": "兼營期貨商每股淨值明細表 (GET__NetValuePerShareS.json)",
+      "count": 24,
+      "sizeKB": 6.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__NetValuePerShareStatement.json",
+      "summary": "期貨商每股淨值明細表",
+      "display": "期貨商每股淨值明細表 (GET__NetValuePerShareStatement.json)",
+      "count": 40,
+      "sizeKB": 7.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__OpenInterestOfLargeTradersFutures.json",
+      "summary": "期貨大額交易人未沖銷部位資料",
+      "display": "期貨大額交易人未沖銷部位資料 (GET__OpenInterestOfLargeTradersFutures.json)",
+      "count": 1338,
+      "sizeKB": 430.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__OpenInterestOfLargeTradersOptions.json",
+      "summary": "選擇權大額交易人未沖銷部位資料",
+      "display": "選擇權大額交易人未沖銷部位資料 (GET__OpenInterestOfLargeTradersOptions.json)",
+      "count": 412,
+      "sizeKB": 139.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__OptionsTimeAndSalesData.json",
+      "summary": "每日選擇權每筆成交資料",
+      "display": "每日選擇權每筆成交資料 (GET__OptionsTimeAndSalesData.json)",
+      "count": 5000,
+      "sizeKB": 1034.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__PositionLimitEquity.json",
+      "summary": "交易人部位限制-個股類",
+      "display": "交易人部位限制-個股類 (GET__PositionLimitEquity.json)",
+      "count": 310,
+      "sizeKB": 97.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__PositionLimitNonEquity.json",
+      "summary": "交易人部位限制-非個股類",
+      "display": "交易人部位限制-非個股類 (GET__PositionLimitNonEquity.json)",
+      "count": 31,
+      "sizeKB": 7.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__productsExemptedAH.json",
+      "summary": "盤後交易時段指定豁免及非豁免代為沖銷商品",
+      "display": "盤後交易時段指定豁免及非豁免代為沖銷商品 (GET__productsExemptedAH.json)",
+      "count": 26,
+      "sizeKB": 6.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__PutCallRatio.json",
+      "summary": "臺指選擇權Put/Call比",
+      "display": "臺指選擇權Put/Call比 (GET__PutCallRatio.json)",
+      "count": 22,
+      "sizeKB": 6.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsFutures.json",
+      "summary": "到期契約履約交割-期貨商品",
+      "display": "到期契約履約交割-期貨商品 (GET__SettledPositionsFutures.json)",
+      "count": 328,
+      "sizeKB": 77.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsFX.json",
+      "summary": "到期契約履約交割-匯率類",
+      "display": "到期契約履約交割-匯率類 (GET__SettledPositionsFX.json)",
+      "count": 18,
+      "sizeKB": 9.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsFXFutures.json",
+      "summary": "到期契約履約交割-匯率期貨類",
+      "display": "到期契約履約交割-匯率期貨類 (GET__SettledPositionsFXFutures.json)",
+      "count": 2,
+      "sizeKB": 1.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsGold.json",
+      "summary": "到期契約履約交割-商品類",
+      "display": "到期契約履約交割-商品類 (GET__SettledPositionsGold.json)",
+      "count": 4,
+      "sizeKB": 3.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsIndexFutures.json",
+      "summary": "到期契約履約交割-股價指數類（指數期貨）",
+      "display": "到期契約履約交割-股價指數類（指數期貨） (GET__SettledPositionsIndexFutures.json)",
+      "count": 15,
+      "sizeKB": 4.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsIndexOptions.json",
+      "summary": "到期契約履約交割-股價指數類（指數選擇權）",
+      "display": "到期契約履約交割-股價指數類（指數選擇權） (GET__SettledPositionsIndexOptions.json)",
+      "count": 2,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsIR.json",
+      "summary": "到期契約履約交割-利率類",
+      "display": "到期契約履約交割-利率類 (GET__SettledPositionsIR.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsOfContractsOnExpirationDate.json",
+      "summary": "到期契約履約交割",
+      "display": "到期契約履約交割 (GET__SettledPositionsOfContractsOnExpirationDate.json)",
+      "count": 667,
+      "sizeKB": 144.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsOptions.json",
+      "summary": "到期契約履約交割-選擇權商品",
+      "display": "到期契約履約交割-選擇權商品 (GET__SettledPositionsOptions.json)",
+      "count": 2,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsSSF.json",
+      "summary": "到期契約履約交割-股票類（股票期貨）",
+      "display": "到期契約履約交割-股票類（股票期貨） (GET__SettledPositionsSSF.json)",
+      "count": 311,
+      "sizeKB": 73.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SettledPositionsSSO.json",
+      "summary": "到期契約履約交割-股票類（股票選擇權）",
+      "display": "到期契約履約交割-股票類（股票選擇權） (GET__SettledPositionsSSO.json)",
+      "count": 96,
+      "sizeKB": 40.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SingleStockFuturesContractReferredOpeningPrice.json",
+      "summary": "股票期貨契約調整開盤參考價",
+      "display": "股票期貨契約調整開盤參考價 (GET__SingleStockFuturesContractReferredOpeningPrice.json)",
+      "count": 71,
+      "sizeKB": 17.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SingleStockFuturesETFMargining.json",
+      "summary": "保證金一覽表-股票類(ETF)",
+      "display": "保證金一覽表-股票類(ETF) (GET__SingleStockFuturesETFMargining.json)",
+      "count": 24,
+      "sizeKB": 10.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SingleStockFuturesMargining.json",
+      "summary": "保證金一覽表-股票類",
+      "display": "保證金一覽表-股票類 (GET__SingleStockFuturesMargining.json)",
+      "count": 286,
+      "sizeKB": 112.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SSFAdjustedInfo.json",
+      "summary": "股票期貨/選擇權調整型契約資訊內容",
+      "display": "股票期貨/選擇權調整型契約資訊內容 (GET__SSFAdjustedInfo.json)",
+      "count": 20,
+      "sizeKB": 10.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SSFLists.json",
+      "summary": "股票期貨交易標的",
+      "display": "股票期貨交易標的 (GET__SSFLists.json)",
+      "count": 309,
+      "sizeKB": 68.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SSFRefferedOpeningPrice.json",
+      "summary": "股票期貨/選擇權調整開盤參考價",
+      "display": "股票期貨/選擇權調整開盤參考價 (GET__SSFRefferedOpeningPrice.json)",
+      "count": 71,
+      "sizeKB": 17.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SSFRefferedOpeningPriceAh.json",
+      "summary": "股票期貨調整開盤參考價(盤後交易時段)",
+      "display": "股票期貨調整開盤參考價(盤後交易時段) (GET__SSFRefferedOpeningPriceAh.json)",
+      "count": 15,
+      "sizeKB": 4.4
+    },
+    {
+      "src": "taifex",
+      "file": "GET__SSOLists.json",
+      "summary": "股票選擇權交易標的",
+      "display": "股票選擇權交易標的 (GET__SSOLists.json)",
+      "count": 47,
+      "sizeKB": 11.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__STFTop10.json",
+      "summary": "每日股票期貨交易量前十大統計表",
+      "display": "每日股票期貨交易量前十大統計表 (GET__STFTop10.json)",
+      "count": 10,
+      "sizeKB": 2.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__TimeAndSalesData.json",
+      "summary": "每日期貨每筆成交資料",
+      "display": "每日期貨每筆成交資料 (GET__TimeAndSalesData.json)",
+      "count": 5000,
+      "sizeKB": 1291.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__TimeAndSalesDataOnCalendarSpreadOrders.json",
+      "summary": "每日期貨價差每筆成交資料",
+      "display": "每日期貨價差每筆成交資料 (GET__TimeAndSalesDataOnCalendarSpreadOrders.json)",
+      "count": 22757,
+      "sizeKB": 8372.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions.json",
+      "summary": "個股類全市場部位限制",
+      "display": "個股類全市場部位限制 (GET__TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions.json)",
+      "count": 329,
+      "sizeKB": 128.6
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va01.json",
+      "summary": "每日股價指數類選擇權未平倉量增減",
+      "display": "每日股價指數類選擇權未平倉量增減 (GET__va01.json)",
+      "count": 1,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va02.json",
+      "summary": "每日個股選擇權未平倉量增減(區分股票與ETF)",
+      "display": "每日個股選擇權未平倉量增減(區分股票與ETF) (GET__va02.json)",
+      "count": 2,
+      "sizeKB": 1.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va03.json",
+      "summary": "每日商品類選擇權未平倉量增減",
+      "display": "每日商品類選擇權未平倉量增減 (GET__va03.json)",
+      "count": 1,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va04.json",
+      "summary": "股價指數類期貨商品每月平均成交金額",
+      "display": "股價指數類期貨商品每月平均成交金額 (GET__va04.json)",
+      "count": 100,
+      "sizeKB": 11.8
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va05.json",
+      "summary": "個股期貨商品每月平均成交金額(區分股票與ETF)",
+      "display": "個股期貨商品每月平均成交金額(區分股票與ETF) (GET__va05.json)",
+      "count": 323,
+      "sizeKB": 45.5
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va06.json",
+      "summary": "利率期貨商品每月平均成交金額",
+      "display": "利率期貨商品每月平均成交金額 (GET__va06.json)",
+      "count": 88,
+      "sizeKB": 10.2
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va07.json",
+      "summary": "股價指數類選擇權商品每月平均成交金額(權利金)",
+      "display": "股價指數類選擇權商品每月平均成交金額(權利金) (GET__va07.json)",
+      "count": 274,
+      "sizeKB": 30.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va08.json",
+      "summary": "個股選擇權商品每月平均成交金額(權利金-區分股票與ETF)",
+      "display": "個股選擇權商品每月平均成交金額(權利金-區分股票與ETF) (GET__va08.json)",
+      "count": 321,
+      "sizeKB": 44.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va09.json",
+      "summary": "商品類期貨每月平均成交金額",
+      "display": "商品類期貨每月平均成交金額 (GET__va09.json)",
+      "count": 256,
+      "sizeKB": 27.9
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va10.json",
+      "summary": "商品類選擇權每月平均成交金額(權利金)",
+      "display": "商品類選擇權每月平均成交金額(權利金) (GET__va10.json)",
+      "count": 202,
+      "sizeKB": 21.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va11.json",
+      "summary": "匯率類期貨每月平均成交金額",
+      "display": "匯率類期貨每月平均成交金額 (GET__va11.json)",
+      "count": 124,
+      "sizeKB": 14.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va12.json",
+      "summary": "每日個股期貨交易量統計表（區分股票與ETF）",
+      "display": "每日個股期貨交易量統計表（區分股票與ETF） (GET__va12.json)",
+      "count": 2,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va13.json",
+      "summary": "每月個股期貨交易量統計表（區分股票與ETF）",
+      "display": "每月個股期貨交易量統計表（區分股票與ETF） (GET__va13.json)",
+      "count": 2,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__va14.json",
+      "summary": "每年個股期貨交易量統計表（區分股票與ETF）",
+      "display": "每年個股期貨交易量統計表（區分股票與ETF） (GET__va14.json)",
+      "count": 2,
+      "sizeKB": 1.1
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Weekly_FUT.json",
+      "summary": "期貨商交易量週報表－期貨",
+      "display": "期貨商交易量週報表－期貨 (GET__Weekly_FUT.json)",
+      "count": 5148,
+      "sizeKB": 1038.3
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Weekly_OPT.json",
+      "summary": "期貨商交易量週報表－選擇權",
+      "display": "期貨商交易量週報表－選擇權 (GET__Weekly_OPT.json)",
+      "count": 828,
+      "sizeKB": 167.7
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Yearly_FUT.json",
+      "summary": "期貨商交易量年報表－期貨",
+      "display": "期貨商交易量年報表－期貨 (GET__Yearly_FUT.json)",
+      "count": 25920,
+      "sizeKB": 4255.0
+    },
+    {
+      "src": "taifex",
+      "file": "GET__Yearly_OPT.json",
+      "summary": "期貨商交易量年報表－選擇權",
+      "display": "期貨商交易量年報表－選擇權 (GET__Yearly_OPT.json)",
+      "count": 7200,
+      "sizeKB": 1183.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__BDdos209UTF.json",
+      "summary": "美元零息可贖回國際債券理論價格",
+      "display": "美元零息可贖回國際債券理論價格 (GET__BDdos209UTF.json)",
+      "count": 277,
+      "sizeKB": 131.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__BDdos215UTF.json",
+      "summary": "美元附息固定利率可贖回國際債券理論價格",
+      "display": "美元附息固定利率可贖回國際債券理論價格 (GET__BDdos215UTF.json)",
+      "count": 115,
+      "sizeKB": 57.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__BDdos216UTF.json",
+      "summary": "美元固定利率不可贖回國際債券理論價格",
+      "display": "美元固定利率不可贖回國際債券理論價格 (GET__BDdos216UTF.json)",
+      "count": 25,
+      "sizeKB": 11.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_cb_daily.json",
+      "summary": "轉(交)換公司債買賣斷券商買賣日報表",
+      "display": "轉(交)換公司債買賣斷券商買賣日報表 (GET__bond_cb_daily.json)",
+      "count": 1,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD10_data.json",
+      "summary": "國際債券(寶島債券)-本國發行人及第一、二上市(櫃)公司之外國發行人發行資料下載",
+      "display": "國際債券(寶島債券)-本國發行人及第一、二上市(櫃)公司之外國發行人發行資料下載 (GET__bond_ISSBD10_data.json)",
+      "count": 160,
+      "sizeKB": 241.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD11_data.json",
+      "summary": "國際債券(寶島債券)-外國發行人(在我國未公開發行股權商品者)發行資料下載",
+      "display": "國際債券(寶島債券)-外國發行人(在我國未公開發行股權商品者)發行資料下載 (GET__bond_ISSBD11_data.json)",
+      "count": 1,
+      "sizeKB": 2.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD1_data.json",
+      "summary": "公債發行資料下載",
+      "display": "公債發行資料下載 (GET__bond_ISSBD1_data.json)",
+      "count": 185,
+      "sizeKB": 270.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD2_data.json",
+      "summary": "外國金融債發行資料下載",
+      "display": "外國金融債發行資料下載 (GET__bond_ISSBD2_data.json)",
+      "count": 1,
+      "sizeKB": 2.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD3_data.json",
+      "summary": "金融債發行資料下載",
+      "display": "金融債發行資料下載 (GET__bond_ISSBD3_data.json)",
+      "count": 426,
+      "sizeKB": 654.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD4_data.json",
+      "summary": "普通債發行資料下載",
+      "display": "普通債發行資料下載 (GET__bond_ISSBD4_data.json)",
+      "count": 1796,
+      "sizeKB": 2699.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD5_data.json",
+      "summary": "轉(交)換債發行資料下載",
+      "display": "轉(交)換債發行資料下載 (GET__bond_ISSBD5_data.json)",
+      "count": 373,
+      "sizeKB": 566.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD6_data.json",
+      "summary": "海外轉換債發行資料下載",
+      "display": "海外轉換債發行資料下載 (GET__bond_ISSBD6_data.json)",
+      "count": 19,
+      "sizeKB": 30.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD7_data.json",
+      "summary": "附認股權公司債發行資料下載",
+      "display": "附認股權公司債發行資料下載 (GET__bond_ISSBD7_data.json)",
+      "count": 1,
+      "sizeKB": 2.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD8_data.json",
+      "summary": "海外附認股權公司債發行資料下載",
+      "display": "海外附認股權公司債發行資料下載 (GET__bond_ISSBD8_data.json)",
+      "count": 1,
+      "sizeKB": 2.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__bond_ISSBD9_data.json",
+      "summary": "海外普通債發行資料下載",
+      "display": "海外普通債發行資料下載 (GET__bond_ISSBD9_data.json)",
+      "count": 1,
+      "sizeKB": 2.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_187ap17_O.json",
+      "summary": "上櫃公司營益分析查詢彙總表(全體公司彙總報表)",
+      "display": "上櫃公司營益分析查詢彙總表(全體公司彙總報表) (GET__mopsfin_187ap17_O.json)",
+      "count": 855,
+      "sizeKB": 300.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap01.json",
+      "summary": "券商業務別人員數",
+      "display": "券商業務別人員數 (GET__mopsfin_t187ap01.json)",
+      "count": 4,
+      "sizeKB": 5.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap02_O.json",
+      "summary": "上櫃公司持股逾 10% 大股東名單",
+      "display": "上櫃公司持股逾 10% 大股東名單 (GET__mopsfin_t187ap02_O.json)",
+      "count": 941,
+      "sizeKB": 168.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap03_O.json",
+      "summary": "上櫃股票基本資料",
+      "display": "上櫃股票基本資料 (GET__mopsfin_t187ap03_O.json)",
+      "count": 862,
+      "sizeKB": 1322.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap03_R.json",
+      "summary": "興櫃公司基本資料",
+      "display": "興櫃公司基本資料 (GET__mopsfin_t187ap03_R.json)",
+      "count": 357,
+      "sizeKB": 549.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap04_O.json",
+      "summary": "上櫃公司每日重大訊息",
+      "display": "上櫃公司每日重大訊息 (GET__mopsfin_t187ap04_O.json)",
+      "count": 43,
+      "sizeKB": 74.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap05_O.json",
+      "summary": "上櫃公司每月營業收入彙總表",
+      "display": "上櫃公司每月營業收入彙總表 (GET__mopsfin_t187ap05_O.json)",
+      "count": 861,
+      "sizeKB": 605.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap05_OA.json",
+      "summary": "二十九大類股營收變化統計表",
+      "display": "二十九大類股營收變化統計表 (GET__mopsfin_t187ap05_OA.json)",
+      "count": 861,
+      "sizeKB": 605.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap05_OB.json",
+      "summary": "發行公司營收創新高一覽表(上櫃)",
+      "display": "發行公司營收創新高一覽表(上櫃) (GET__mopsfin_t187ap05_OB.json)",
+      "count": 861,
+      "sizeKB": 605.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_basi.json",
+      "summary": "上櫃公司綜合損益表(金融業)",
+      "display": "上櫃公司綜合損益表(金融業) (GET__mopsfin_t187ap06_O_basi.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_basiA.json",
+      "summary": "上櫃公司財報資訊(金融業)",
+      "display": "上櫃公司財報資訊(金融業) (GET__mopsfin_t187ap06_O_basiA.json)",
+      "count": 1,
+      "sizeKB": 2.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_bd.json",
+      "summary": "上櫃公司綜合損益表(證券期貨業)",
+      "display": "上櫃公司綜合損益表(證券期貨業) (GET__mopsfin_t187ap06_O_bd.json)",
+      "count": 7,
+      "sizeKB": 10.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_bdA.json",
+      "summary": "上櫃公司財報資訊(證券期貨業)",
+      "display": "上櫃公司財報資訊(證券期貨業) (GET__mopsfin_t187ap06_O_bdA.json)",
+      "count": 7,
+      "sizeKB": 10.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_ci.json",
+      "summary": "上櫃公司綜合損益表(一般業)",
+      "display": "上櫃公司綜合損益表(一般業) (GET__mopsfin_t187ap06_O_ci.json)",
+      "count": 855,
+      "sizeKB": 1436.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_ciA.json",
+      "summary": "上櫃公司財報資訊( 一般業)",
+      "display": "上櫃公司財報資訊( 一般業) (GET__mopsfin_t187ap06_O_ciA.json)",
+      "count": 855,
+      "sizeKB": 1438.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_fh.json",
+      "summary": "上櫃公司綜合損益表(金控業)",
+      "display": "上櫃公司綜合損益表(金控業) (GET__mopsfin_t187ap06_O_fh.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_fhA.json",
+      "summary": "上櫃公司財報資訊(金控業)",
+      "display": "上櫃公司財報資訊(金控業) (GET__mopsfin_t187ap06_O_fhA.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_ins.json",
+      "summary": "上櫃公司綜合損益表(保險業)",
+      "display": "上櫃公司綜合損益表(保險業) (GET__mopsfin_t187ap06_O_ins.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_insA.json",
+      "summary": "上櫃公司財報資訊(保險業)",
+      "display": "上櫃公司財報資訊(保險業) (GET__mopsfin_t187ap06_O_insA.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_mim.json",
+      "summary": "上櫃公司綜合損益表(異業)",
+      "display": "上櫃公司綜合損益表(異業) (GET__mopsfin_t187ap06_O_mim.json)",
+      "count": 1,
+      "sizeKB": 2.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_O_mimA.json",
+      "summary": "上櫃公司財報資訊(異業)",
+      "display": "上櫃公司財報資訊(異業) (GET__mopsfin_t187ap06_O_mimA.json)",
+      "count": 1,
+      "sizeKB": 2.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_U_basi.json",
+      "summary": "興櫃公司綜合損益表-金融業",
+      "display": "興櫃公司綜合損益表-金融業 (GET__mopsfin_t187ap06_U_basi.json)",
+      "count": 1,
+      "sizeKB": 2.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_U_bd.json",
+      "summary": "興櫃公司綜合損益表-證券期貨業",
+      "display": "興櫃公司綜合損益表-證券期貨業 (GET__mopsfin_t187ap06_U_bd.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_U_ci.json",
+      "summary": "興櫃公司綜合損益表-一般業",
+      "display": "興櫃公司綜合損益表-一般業 (GET__mopsfin_t187ap06_U_ci.json)",
+      "count": 45,
+      "sizeKB": 76.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_U_fh.json",
+      "summary": "興櫃公司綜合損益表-金控業",
+      "display": "興櫃公司綜合損益表-金控業 (GET__mopsfin_t187ap06_U_fh.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_U_ins.json",
+      "summary": "興櫃公司綜合損益表-保險業",
+      "display": "興櫃公司綜合損益表-保險業 (GET__mopsfin_t187ap06_U_ins.json)",
+      "count": 1,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap06_U_mim.json",
+      "summary": "興櫃公司綜合損益表-異業",
+      "display": "興櫃公司綜合損益表-異業 (GET__mopsfin_t187ap06_U_mim.json)",
+      "count": 1,
+      "sizeKB": 2.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_O_basi.json",
+      "summary": "上櫃公司資產負債表(金融業)",
+      "display": "上櫃公司資產負債表(金融業) (GET__mopsfin_t187ap07_O_basi.json)",
+      "count": 1,
+      "sizeKB": 4.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_O_bd.json",
+      "summary": "上櫃公司資產負債表(證券期貨業)",
+      "display": "上櫃公司資產負債表(證券期貨業) (GET__mopsfin_t187ap07_O_bd.json)",
+      "count": 7,
+      "sizeKB": 9.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_O_ci.json",
+      "summary": "上櫃公司資產負債表(一般業)",
+      "display": "上櫃公司資產負債表(一般業) (GET__mopsfin_t187ap07_O_ci.json)",
+      "count": 855,
+      "sizeKB": 970.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_O_fh.json",
+      "summary": "上櫃公司資產負債表(金控業)",
+      "display": "上櫃公司資產負債表(金控業) (GET__mopsfin_t187ap07_O_fh.json)",
+      "count": 1,
+      "sizeKB": 4.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_O_ins.json",
+      "summary": "上櫃公司資產負債表(保險業)",
+      "display": "上櫃公司資產負債表(保險業) (GET__mopsfin_t187ap07_O_ins.json)",
+      "count": 1,
+      "sizeKB": 3.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_O_mim.json",
+      "summary": "上櫃公司資產負債表(異業)",
+      "display": "上櫃公司資產負債表(異業) (GET__mopsfin_t187ap07_O_mim.json)",
+      "count": 1,
+      "sizeKB": 2.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_U_basi.json",
+      "summary": "興櫃公司資產負債表-金融業",
+      "display": "興櫃公司資產負債表-金融業 (GET__mopsfin_t187ap07_U_basi.json)",
+      "count": 1,
+      "sizeKB": 4.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_U_bd.json",
+      "summary": "興櫃公司資產負債表-證券期貨業",
+      "display": "興櫃公司資產負債表-證券期貨業 (GET__mopsfin_t187ap07_U_bd.json)",
+      "count": 1,
+      "sizeKB": 2.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_U_ci.json",
+      "summary": "興櫃公司資產負債表-一般業",
+      "display": "興櫃公司資產負債表-一般業 (GET__mopsfin_t187ap07_U_ci.json)",
+      "count": 45,
+      "sizeKB": 52.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_U_fh.json",
+      "summary": "興櫃公司資產負債表-金控業",
+      "display": "興櫃公司資產負債表-金控業 (GET__mopsfin_t187ap07_U_fh.json)",
+      "count": 1,
+      "sizeKB": 4.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_U_ins.json",
+      "summary": "興櫃公司資產負債表-保險業",
+      "display": "興櫃公司資產負債表-保險業 (GET__mopsfin_t187ap07_U_ins.json)",
+      "count": 1,
+      "sizeKB": 3.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap07_U_mim.json",
+      "summary": "興櫃公司資產負債表-異業",
+      "display": "興櫃公司資產負債表-異業 (GET__mopsfin_t187ap07_U_mim.json)",
+      "count": 1,
+      "sizeKB": 2.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap08_O.json",
+      "summary": "上櫃公司董事、監察人持股不足法定成數彙總表",
+      "display": "上櫃公司董事、監察人持股不足法定成數彙總表 (GET__mopsfin_t187ap08_O.json)",
+      "count": 32,
+      "sizeKB": 29.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap09_O.json",
+      "summary": "上櫃公司董事、監察人質權設定占董事及監察人實際持有股數彙總表",
+      "display": "上櫃公司董事、監察人質權設定占董事及監察人實際持有股數彙總表 (GET__mopsfin_t187ap09_O.json)",
+      "count": 9,
+      "sizeKB": 21.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap10_O.json",
+      "summary": "上櫃公司董事、監察人持股不足法定成數連續達3個月以上彙總表",
+      "display": "上櫃公司董事、監察人持股不足法定成數連續達3個月以上彙總表 (GET__mopsfin_t187ap10_O.json)",
+      "count": 19,
+      "sizeKB": 12.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap11_O.json",
+      "summary": "上櫃公司董監事持股餘額明細資料",
+      "display": "上櫃公司董監事持股餘額明細資料 (GET__mopsfin_t187ap11_O.json)",
+      "count": 16922,
+      "sizeKB": 8831.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap11_R.json",
+      "summary": "興櫃公司董監事持股餘額明細資料",
+      "display": "興櫃公司董監事持股餘額明細資料 (GET__mopsfin_t187ap11_R.json)",
+      "count": 6789,
+      "sizeKB": 3560.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap12_O.json",
+      "summary": "上櫃公司每日內部人持股轉讓事前申報表-持股轉讓日報表",
+      "display": "上櫃公司每日內部人持股轉讓事前申報表-持股轉讓日報表 (GET__mopsfin_t187ap12_O.json)",
+      "count": 6,
+      "sizeKB": 7.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap13_O.json",
+      "summary": "上櫃公司每日內部人持股轉讓事前申報表-持股未轉讓日報表",
+      "display": "上櫃公司每日內部人持股轉讓事前申報表-持股未轉讓日報表 (GET__mopsfin_t187ap13_O.json)",
+      "count": 1,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap14_O.json",
+      "summary": "上櫃公司各產業EPS統計資訊",
+      "display": "上櫃公司各產業EPS統計資訊 (GET__mopsfin_t187ap14_O.json)",
+      "count": 862,
+      "sizeKB": 433.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap15_O.json",
+      "summary": "上櫃公司截至各季綜合損益財測達成情形(簡式)",
+      "display": "上櫃公司截至各季綜合損益財測達成情形(簡式) (GET__mopsfin_t187ap15_O.json)",
+      "count": 1,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap16_O.json",
+      "summary": "上櫃公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式)",
+      "display": "上櫃公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式) (GET__mopsfin_t187ap16_O.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap19_O.json",
+      "summary": "電子式交易統計資訊(上櫃)",
+      "display": "電子式交易統計資訊(上櫃) (GET__mopsfin_t187ap19_O.json)",
+      "count": 1,
+      "sizeKB": 2.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap22_O.json",
+      "summary": "上櫃公司金管會證券期貨局裁罰案件專區",
+      "display": "上櫃公司金管會證券期貨局裁罰案件專區 (GET__mopsfin_t187ap22_O.json)",
+      "count": 57,
+      "sizeKB": 22.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap23_O.json",
+      "summary": "上櫃公司違反資訊申報、重大訊息及說明記者會規定專區",
+      "display": "上櫃公司違反資訊申報、重大訊息及說明記者會規定專區 (GET__mopsfin_t187ap23_O.json)",
+      "count": 14,
+      "sizeKB": 11.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap24_O.json",
+      "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動公司",
+      "display": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動公司 (GET__mopsfin_t187ap24_O.json)",
+      "count": 27,
+      "sizeKB": 14.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap25_O.json",
+      "summary": "上櫃公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司",
+      "display": "上櫃公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司 (GET__mopsfin_t187ap25_O.json)",
+      "count": 14,
+      "sizeKB": 8.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap26_O.json",
+      "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司",
+      "display": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司 (GET__mopsfin_t187ap26_O.json)",
+      "count": 0,
+      "sizeKB": 1.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap27_O.json",
+      "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司",
+      "display": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司 (GET__mopsfin_t187ap27_O.json)",
+      "count": 0,
+      "sizeKB": 1.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap29_A_O.json",
+      "summary": "上櫃公司董事酬金相關資訊",
+      "display": "上櫃公司董事酬金相關資訊 (GET__mopsfin_t187ap29_A_O.json)",
+      "count": 819,
+      "sizeKB": 1144.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap29_B_O.json",
+      "summary": "上櫃公司監察人酬金相關資訊",
+      "display": "上櫃公司監察人酬金相關資訊 (GET__mopsfin_t187ap29_B_O.json)",
+      "count": 1,
+      "sizeKB": 2.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap29_C_O.json",
+      "summary": "上櫃公司合併報表董事酬金相關資訊",
+      "display": "上櫃公司合併報表董事酬金相關資訊 (GET__mopsfin_t187ap29_C_O.json)",
+      "count": 746,
+      "sizeKB": 1045.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap29_D_O.json",
+      "summary": "上櫃公司合併報表監察人酬金相關資訊",
+      "display": "上櫃公司合併報表監察人酬金相關資訊 (GET__mopsfin_t187ap29_D_O.json)",
+      "count": 1,
+      "sizeKB": 2.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap30_O.json",
+      "summary": "上櫃公司獨立董監事兼任情形彙總表",
+      "display": "上櫃公司獨立董監事兼任情形彙總表 (GET__mopsfin_t187ap30_O.json)",
+      "count": 10009,
+      "sizeKB": 5369.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap31_O.json",
+      "summary": "上櫃公司財務報告經監察人承認情形",
+      "display": "上櫃公司財務報告經監察人承認情形 (GET__mopsfin_t187ap31_O.json)",
+      "count": 862,
+      "sizeKB": 249.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap32_O.json",
+      "summary": "上櫃公司公司治理之相關規程規則",
+      "display": "上櫃公司公司治理之相關規程規則 (GET__mopsfin_t187ap32_O.json)",
+      "count": 8610,
+      "sizeKB": 1755.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap33_O.json",
+      "summary": "上櫃公司董事長是否兼任總經理",
+      "display": "上櫃公司董事長是否兼任總經理 (GET__mopsfin_t187ap33_O.json)",
+      "count": 862,
+      "sizeKB": 215.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap34_O.json",
+      "summary": "上櫃公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表",
+      "display": "上櫃公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表 (GET__mopsfin_t187ap34_O.json)",
+      "count": 3186,
+      "sizeKB": 2374.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap35_O.json",
+      "summary": "上櫃公司股東行使提案權情形彙總表",
+      "display": "上櫃公司股東行使提案權情形彙總表 (GET__mopsfin_t187ap35_O.json)",
+      "count": 861,
+      "sizeKB": 357.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap36_O.json",
+      "summary": "上櫃認購(售)權證年度發行量概況統計表",
+      "display": "上櫃認購(售)權證年度發行量概況統計表 (GET__mopsfin_t187ap36_O.json)",
+      "count": 18406,
+      "sizeKB": 6079.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap37_O.json",
+      "summary": "上櫃權證基本資料彙總表",
+      "display": "上櫃權證基本資料彙總表 (GET__mopsfin_t187ap37_O.json)",
+      "count": 7909,
+      "sizeKB": 9707.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap39_O.json",
+      "summary": "上櫃股利分派情形-董事會通過",
+      "display": "上櫃股利分派情形-董事會通過 (GET__mopsfin_t187ap39_O.json)",
+      "count": 2483,
+      "sizeKB": 5684.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__mopsfin_t187ap42_O.json",
+      "summary": "上櫃認購(售)權證每日成交資料檔",
+      "display": "上櫃認購(售)權證每日成交資料檔 (GET__mopsfin_t187ap42_O.json)",
+      "count": 0,
+      "sizeKB": 1.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap05_R.json",
+      "summary": "興櫃公司每月營業收入彙總表",
+      "display": "興櫃公司每月營業收入彙總表 (GET__t187ap05_R.json)",
+      "count": 356,
+      "sizeKB": 253.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap41_O.json",
+      "summary": "上櫃公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表",
+      "display": "上櫃公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表 (GET__t187ap41_O.json)",
+      "count": 894,
+      "sizeKB": 524.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_1.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-溫室氣體排放",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-溫室氣體排放 (GET__t187ap46_O_1.json)",
+      "count": 850,
+      "sizeKB": 582.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_12.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-食品安全",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-食品安全 (GET__t187ap46_O_12.json)",
+      "count": 519,
+      "sizeKB": 645.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_13.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-供應鏈管理 ",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-供應鏈管理  (GET__t187ap46_O_13.json)",
+      "count": 539,
+      "sizeKB": 204.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_14.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-產品品質與安全",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-產品品質與安全 (GET__t187ap46_O_14.json)",
+      "count": 537,
+      "sizeKB": 167.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_15.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-社區關係 ",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-社區關係  (GET__t187ap46_O_15.json)",
+      "count": 519,
+      "sizeKB": 112.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_19.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-風險管理政策 ",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-風險管理政策  (GET__t187ap46_O_19.json)",
+      "count": 561,
+      "sizeKB": 321.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_2.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-能源管理",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-能源管理 (GET__t187ap46_O_2.json)",
+      "count": 850,
+      "sizeKB": 233.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_20.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟 ",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟  (GET__t187ap46_O_20.json)",
+      "count": 599,
+      "sizeKB": 155.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_21.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-職業安全衛生",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-職業安全衛生 (GET__t187ap46_O_21.json)",
+      "count": 850,
+      "sizeKB": 333.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_3.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-水資源管理",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-水資源管理 (GET__t187ap46_O_3.json)",
+      "count": 850,
+      "sizeKB": 341.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_4.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-廢棄物管理",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-廢棄物管理 (GET__t187ap46_O_4.json)",
+      "count": 850,
+      "sizeKB": 613.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_5.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-人力發展",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-人力發展 (GET__t187ap46_O_5.json)",
+      "count": 850,
+      "sizeKB": 460.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_6.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-董事會",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-董事會 (GET__t187ap46_O_6.json)",
+      "count": 850,
+      "sizeKB": 397.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_7.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-投資人溝通",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-投資人溝通 (GET__t187ap46_O_7.json)",
+      "count": 850,
+      "sizeKB": 177.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_8.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-氣候相關議題管理",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-氣候相關議題管理 (GET__t187ap46_O_8.json)",
+      "count": 850,
+      "sizeKB": 3152.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__t187ap46_O_9.json",
+      "summary": "上櫃公司企業ESG資訊揭露彙總資料-功能性委員會",
+      "display": "上櫃公司企業ESG資訊揭露彙總資料-功能性委員會 (GET__t187ap46_O_9.json)",
+      "count": 850,
+      "sizeKB": 329.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpcgi_change.json",
+      "summary": "上櫃公司治理指數當日收盤指數",
+      "display": "上櫃公司治理指數當日收盤指數 (GET__tpcgi_change.json)",
+      "count": 2,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpcgi_constituents.json",
+      "summary": "上櫃公司治理指數當日成分股資訊",
+      "display": "上櫃公司治理指數當日成分股資訊 (GET__tpcgi_constituents.json)",
+      "count": 60,
+      "sizeKB": 8.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpcgi_reward_index.json",
+      "summary": "上櫃公司治理指數歷史收盤指數",
+      "display": "上櫃公司治理指數歷史收盤指數 (GET__tpcgi_reward_index.json)",
+      "count": 15,
+      "sizeKB": 3.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpci_change.json",
+      "summary": "櫃買「薪酬指數」當日收盤指數",
+      "display": "櫃買「薪酬指數」當日收盤指數 (GET__tpci_change.json)",
+      "count": 2,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpci_constituents.json",
+      "summary": "櫃買「薪酬指數」當日成分股",
+      "display": "櫃買「薪酬指數」當日成分股 (GET__tpci_constituents.json)",
+      "count": 88,
+      "sizeKB": 12.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpci_reward_index.json",
+      "summary": "櫃買「薪酬指數」歷史收盤指數",
+      "display": "櫃買「薪酬指數」歷史收盤指數 (GET__tpci_reward_index.json)",
+      "count": 15,
+      "sizeKB": 3.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex200_change.json",
+      "summary": "櫃買「富櫃200指數」當日收盤指數",
+      "display": "櫃買「富櫃200指數」當日收盤指數 (GET__tpex200_change.json)",
+      "count": 2,
+      "sizeKB": 2.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex200_constituents.json",
+      "summary": "櫃買「富櫃200指數」當日成分股",
+      "display": "櫃買「富櫃200指數」當日成分股 (GET__tpex200_constituents.json)",
+      "count": 200,
+      "sizeKB": 25.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex50_change.json",
+      "summary": "櫃買「富櫃50指數」當日收盤指數",
+      "display": "櫃買「富櫃50指數」當日收盤指數 (GET__tpex50_change.json)",
+      "count": 2,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex50_constituents.json",
+      "summary": "櫃買「富櫃50指數」當日成分股",
+      "display": "櫃買「富櫃50指數」當日成分股 (GET__tpex50_constituents.json)",
+      "count": 50,
+      "sizeKB": 7.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex50_index.json",
+      "summary": "富櫃50指數歷史收盤指數",
+      "display": "富櫃50指數歷史收盤指數 (GET__tpex50_index.json)",
+      "count": 15,
+      "sizeKB": 3.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_daily_trading.json",
+      "summary": "上櫃股票三大法人買賣明細資訊",
+      "display": "上櫃股票三大法人買賣明細資訊 (GET__tpex_3insti_daily_trading.json)",
+      "count": 846,
+      "sizeKB": 978.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_dealer_trading.json",
+      "summary": "上櫃股票自營商買賣超彙總表",
+      "display": "上櫃股票自營商買賣超彙總表 (GET__tpex_3insti_dealer_trading.json)",
+      "count": 2324,
+      "sizeKB": 592.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_qfii.json",
+      "summary": "上櫃僑外資及陸資持股比例排行表",
+      "display": "上櫃僑外資及陸資持股比例排行表 (GET__tpex_3insti_qfii.json)",
+      "count": 863,
+      "sizeKB": 407.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_qfii_industry.json",
+      "summary": "上櫃各類股僑外資及陸資持股比例表",
+      "display": "上櫃各類股僑外資及陸資持股比例表 (GET__tpex_3insti_qfii_industry.json)",
+      "count": 28,
+      "sizeKB": 8.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_qfii_trading.json",
+      "summary": "上櫃股票外資及陸資買賣超彙總表",
+      "display": "上櫃股票外資及陸資買賣超彙總表 (GET__tpex_3insti_qfii_trading.json)",
+      "count": 366,
+      "sizeKB": 234.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_summary.json",
+      "summary": "上櫃股票三大法人買賣金額彙總表",
+      "display": "上櫃股票三大法人買賣金額彙總表 (GET__tpex_3insti_summary.json)",
+      "count": 8,
+      "sizeKB": 3.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_3insti_trading.json",
+      "summary": "上櫃股票投信買賣超彙總表",
+      "display": "上櫃股票投信買賣超彙總表 (GET__tpex_3insti_trading.json)",
+      "count": 28,
+      "sizeKB": 7.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_active_advanced.json",
+      "summary": "上櫃盤中個股漲幅排行",
+      "display": "上櫃盤中個股漲幅排行 (GET__tpex_active_advanced.json)",
+      "count": 30,
+      "sizeKB": 7.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_active_broker_volume.json",
+      "summary": "上櫃股票熱門股證券商進出排行",
+      "display": "上櫃股票熱門股證券商進出排行 (GET__tpex_active_broker_volume.json)",
+      "count": 300,
+      "sizeKB": 90.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_active_declined.json",
+      "summary": "上櫃盤中個股跌幅排行",
+      "display": "上櫃盤中個股跌幅排行 (GET__tpex_active_declined.json)",
+      "count": 30,
+      "sizeKB": 7.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_active_dollar_volume.json",
+      "summary": "上櫃盤中個股成交金額排行",
+      "display": "上櫃盤中個股成交金額排行 (GET__tpex_active_dollar_volume.json)",
+      "count": 30,
+      "sizeKB": 7.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_amount_rank.json",
+      "summary": "上櫃歷史個股成交值排行",
+      "display": "上櫃歷史個股成交值排行 (GET__tpex_amount_rank.json)",
+      "count": 861,
+      "sizeKB": 155.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_ceil_non_trading.json",
+      "summary": "上櫃漲跌停未成交資訊",
+      "display": "上櫃漲跌停未成交資訊 (GET__tpex_ceil_non_trading.json)",
+      "count": 12,
+      "sizeKB": 5.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_cmode.json",
+      "summary": "上櫃股票變更交易、分盤交易、管理股票與停止交易資訊",
+      "display": "上櫃股票變更交易、分盤交易、管理股票與停止交易資訊 (GET__tpex_cmode.json)",
+      "count": 17,
+      "sizeKB": 7.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_broker1.json",
+      "summary": "上櫃各券商當日營業金額統計表",
+      "display": "上櫃各券商當日營業金額統計表 (GET__tpex_daily_broker1.json)",
+      "count": 854,
+      "sizeKB": 317.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_broker2.json",
+      "summary": "上櫃股票各券商總公司當日營業金額統計表",
+      "display": "上櫃股票各券商總公司當日營業金額統計表 (GET__tpex_daily_broker2.json)",
+      "count": 63,
+      "sizeKB": 29.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_market_value.json",
+      "summary": "上櫃歷史個股市值排行",
+      "display": "上櫃歷史個股市值排行 (GET__tpex_daily_market_value.json)",
+      "count": 861,
+      "sizeKB": 208.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_qutoes_block.json",
+      "summary": "上櫃鉅額交易日成交資訊",
+      "display": "上櫃鉅額交易日成交資訊 (GET__tpex_daily_qutoes_block.json)",
+      "count": 1,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_trade_block_day.json",
+      "summary": "鉅額交易歷史成交資訊",
+      "display": "鉅額交易歷史成交資訊 (GET__tpex_daily_trade_block_day.json)",
+      "count": 979,
+      "sizeKB": 392.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_trading_block.json",
+      "summary": "上櫃個股單一證券鉅額交易日成交資訊",
+      "display": "上櫃個股單一證券鉅額交易日成交資訊 (GET__tpex_daily_trading_block.json)",
+      "count": 979,
+      "sizeKB": 392.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_trading_index.json",
+      "summary": "上櫃日成交量值指數",
+      "display": "上櫃日成交量值指數 (GET__tpex_daily_trading_index.json)",
+      "count": 15,
+      "sizeKB": 4.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_trading_summary_odd.json",
+      "summary": "上櫃鉅額交易日成交量值統計",
+      "display": "上櫃鉅額交易日成交量值統計 (GET__tpex_daily_trading_summary_odd.json)",
+      "count": 60,
+      "sizeKB": 17.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_daily_turnover.json",
+      "summary": "上櫃歷史個股週轉率排行",
+      "display": "上櫃歷史個股週轉率排行 (GET__tpex_daily_turnover.json)",
+      "count": 861,
+      "sizeKB": 218.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_delayed_stock_close.json",
+      "summary": "上櫃每日暫緩收盤股票",
+      "display": "上櫃每日暫緩收盤股票 (GET__tpex_delayed_stock_close.json)",
+      "count": 3,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_delayed_stock_open.json",
+      "summary": "上櫃每日暫緩開盤股票",
+      "display": "上櫃每日暫緩開盤股票 (GET__tpex_delayed_stock_open.json)",
+      "count": 80,
+      "sizeKB": 11.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_disposal_information.json",
+      "summary": "上櫃處置有價證券資訊",
+      "display": "上櫃處置有價證券資訊 (GET__tpex_disposal_information.json)",
+      "count": 11,
+      "sizeKB": 13.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_dpsp_monthly_CBmcs007.json",
+      "summary": "可轉債資產交換ASO及ASW銀行承作餘額",
+      "display": "可轉債資產交換ASO及ASW銀行承作餘額 (GET__tpex_dpsp_monthly_CBmcs007.json)",
+      "count": 17,
+      "sizeKB": 6.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_emp88_change.json",
+      "summary": "櫃買「勞工就業88指數」當日收盤指數",
+      "display": "櫃買「勞工就業88指數」當日收盤指數 (GET__tpex_emp88_change.json)",
+      "count": 2,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_emp88_constituents.json",
+      "summary": "櫃買「勞工就業88指數」當日成分股",
+      "display": "櫃買「勞工就業88指數」當日成分股 (GET__tpex_emp88_constituents.json)",
+      "count": 88,
+      "sizeKB": 12.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_emp88_reward_index.json",
+      "summary": "櫃買「勞工就業88指數」歷史收盤指數",
+      "display": "櫃買「勞工就業88指數」歷史收盤指數 (GET__tpex_emp88_reward_index.json)",
+      "count": 15,
+      "sizeKB": 3.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_applicant_companies.json",
+      "summary": "申請上櫃公司",
+      "display": "申請上櫃公司 (GET__tpex_esb_applicant_companies.json)",
+      "count": 774,
+      "sizeKB": 368.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_capitals_rank.json",
+      "summary": "興櫃公司資本額排名",
+      "display": "興櫃公司資本額排名 (GET__tpex_esb_capitals_rank.json)",
+      "count": 351,
+      "sizeKB": 62.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_disposal_information.json",
+      "summary": "興櫃處置有價證券資訊",
+      "display": "興櫃處置有價證券資訊 (GET__tpex_esb_disposal_information.json)",
+      "count": 1,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_eps_rank.json",
+      "summary": "本國興櫃公司EPS排名",
+      "display": "本國興櫃公司EPS排名 (GET__tpex_esb_eps_rank.json)",
+      "count": 351,
+      "sizeKB": 61.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_highlight.json",
+      "summary": "興櫃股票市場現況",
+      "display": "興櫃股票市場現況 (GET__tpex_esb_highlight.json)",
+      "count": 1,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_latest_statistics.json",
+      "summary": "興櫃股票當日行情表",
+      "display": "興櫃股票當日行情表 (GET__tpex_esb_latest_statistics.json)",
+      "count": 357,
+      "sizeKB": 212.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_recommended_dealer.json",
+      "summary": "興櫃推薦證券商與推薦之股票",
+      "display": "興櫃推薦證券商與推薦之股票 (GET__tpex_esb_recommended_dealer.json)",
+      "count": 1160,
+      "sizeKB": 545.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_esb_warning_information.json",
+      "summary": "興櫃公布注意有價證券資訊",
+      "display": "興櫃公布注意有價證券資訊 (GET__tpex_esb_warning_information.json)",
+      "count": 2,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_exright_daily.json",
+      "summary": "上櫃股票除權除息計算結果表",
+      "display": "上櫃股票除權除息計算結果表 (GET__tpex_exright_daily.json)",
+      "count": 1,
+      "sizeKB": 2.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_exright_prepost.json",
+      "summary": "上櫃股票除權除息預告表",
+      "display": "上櫃股票除權除息預告表 (GET__tpex_exright_prepost.json)",
+      "count": 54,
+      "sizeKB": 32.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gisa_company.json",
+      "summary": "創櫃板公司資訊",
+      "display": "創櫃板公司資訊 (GET__tpex_gisa_company.json)",
+      "count": 131,
+      "sizeKB": 22.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gisa_financing_before.json",
+      "summary": "於登錄創櫃板前辦理籌資資訊",
+      "display": "於登錄創櫃板前辦理籌資資訊 (GET__tpex_gisa_financing_before.json)",
+      "count": 260,
+      "sizeKB": 256.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gisa_financing_history.json",
+      "summary": "創櫃板公司透過籌資系統辦理籌資資訊",
+      "display": "創櫃板公司透過籌資系統辦理籌資資訊 (GET__tpex_gisa_financing_history.json)",
+      "count": 3,
+      "sizeKB": 4.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gisa_financing_in_process.json",
+      "summary": "創櫃板辦理中籌資資訊",
+      "display": "創櫃板辦理中籌資資訊 (GET__tpex_gisa_financing_in_process.json)",
+      "count": 1,
+      "sizeKB": 2.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gisa_highlight.json",
+      "summary": "創櫃板公司市場現況",
+      "display": "創櫃板公司市場現況 (GET__tpex_gisa_highlight.json)",
+      "count": 1,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gold_latest.json",
+      "summary": "黃金現貨當日行情表",
+      "display": "黃金現貨當日行情表 (GET__tpex_gold_latest.json)",
+      "count": 2,
+      "sizeKB": 3.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gold_market_highlight.json",
+      "summary": "黃金現貨市場現況",
+      "display": "黃金現貨市場現況 (GET__tpex_gold_market_highlight.json)",
+      "count": 1,
+      "sizeKB": 2.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_gold_recommended_dealer.json",
+      "summary": "造市商與造市之黃金現貨",
+      "display": "造市商與造市之黃金現貨 (GET__tpex_gold_recommended_dealer.json)",
+      "count": 2,
+      "sizeKB": 2.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_index.json",
+      "summary": "櫃買指數歷史資料",
+      "display": "櫃買指數歷史資料 (GET__tpex_index.json)",
+      "count": 15,
+      "sizeKB": 4.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_index_consti.json",
+      "summary": "櫃買指數成分股",
+      "display": "櫃買指數成分股 (GET__tpex_index_consti.json)",
+      "count": 859,
+      "sizeKB": 201.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_international_bond_issue_investor.json",
+      "summary": "國際債券(一般投資人)",
+      "display": "國際債券(一般投資人) (GET__tpex_international_bond_issue_investor.json)",
+      "count": 7,
+      "sizeKB": 7.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_international_bond_issue_org.json",
+      "summary": "國際債券(僅售予專業投資人者)",
+      "display": "國際債券(僅售予專業投資人者) (GET__tpex_international_bond_issue_org.json)",
+      "count": 927,
+      "sizeKB": 795.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_international_bond_quotes.json",
+      "summary": "國際債券當日盤中報價行情表(含寶島債)",
+      "display": "國際債券當日盤中報價行情表(含寶島債) (GET__tpex_international_bond_quotes.json)",
+      "count": 21,
+      "sizeKB": 6.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_international_bond_trade.json",
+      "summary": "國際債券當日盤中成交行情表(含寶島債)",
+      "display": "國際債券當日盤中成交行情表(含寶島債) (GET__tpex_international_bond_trade.json)",
+      "count": 1,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_intraday_fee.json",
+      "summary": "上櫃應付現股當日沖銷券差借券費率",
+      "display": "上櫃應付現股當日沖銷券差借券費率 (GET__tpex_intraday_fee.json)",
+      "count": 315,
+      "sizeKB": 60.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_intraday_trading_his.json",
+      "summary": "上櫃暫停先賣後買當日沖銷交易歷史查詢",
+      "display": "上櫃暫停先賣後買當日沖銷交易歷史查詢 (GET__tpex_intraday_trading_his.json)",
+      "count": 11,
+      "sizeKB": 4.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_intraday_trading_pre.json",
+      "summary": "上櫃暫停先賣後買當日沖銷交易標的預告表",
+      "display": "上櫃暫停先賣後買當日沖銷交易標的預告表 (GET__tpex_intraday_trading_pre.json)",
+      "count": 19,
+      "sizeKB": 6.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_intraday_trading_statistics.json",
+      "summary": "上櫃股票現股當沖交易統計資訊",
+      "display": "上櫃股票現股當沖交易統計資訊 (GET__tpex_intraday_trading_statistics.json)",
+      "count": 15,
+      "sizeKB": 6.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_ipo_no_limit.json",
+      "summary": "上櫃首五日無漲跌幅資訊",
+      "display": "上櫃首五日無漲跌幅資訊 (GET__tpex_ipo_no_limit.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_mainboard_daily_close_quotes.json",
+      "summary": "上櫃股票行情",
+      "display": "上櫃股票行情 (GET__tpex_mainboard_daily_close_quotes.json)",
+      "count": 12256,
+      "sizeKB": 7215.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_mainboard_margin_balance.json",
+      "summary": "上櫃股票融資融券餘額",
+      "display": "上櫃股票融資融券餘額 (GET__tpex_mainboard_margin_balance.json)",
+      "count": 831,
+      "sizeKB": 687.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_mainboard_peratio_analysis.json",
+      "summary": "上櫃股票個股本益比、殖利率、股價淨值比",
+      "display": "上櫃股票個股本益比、殖利率、股價淨值比 (GET__tpex_mainboard_peratio_analysis.json)",
+      "count": 835,
+      "sizeKB": 222.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_mainboard_quotes.json",
+      "summary": "上櫃股票收盤行情",
+      "display": "上櫃股票收盤行情 (GET__tpex_mainboard_quotes.json)",
+      "count": 976,
+      "sizeKB": 519.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_mainborad_highlight.json",
+      "summary": "上櫃股票市場現況",
+      "display": "上櫃股票市場現況 (GET__tpex_mainborad_highlight.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_sbl.json",
+      "summary": "上櫃股票融券借券賣出餘額",
+      "display": "上櫃股票融券借券賣出餘額 (GET__tpex_margin_sbl.json)",
+      "count": 862,
+      "sizeKB": 569.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_adjust.json",
+      "summary": "上櫃融資融券調整成數",
+      "display": "上櫃融資融券調整成數 (GET__tpex_margin_trading_adjust.json)",
+      "count": 243,
+      "sizeKB": 158.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_lend.json",
+      "summary": "上櫃融資融券標借",
+      "display": "上櫃融資融券標借 (GET__tpex_margin_trading_lend.json)",
+      "count": 1,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_marginspot.json",
+      "summary": "上櫃信用交易餘額概況表",
+      "display": "上櫃信用交易餘額概況表 (GET__tpex_margin_trading_marginspot.json)",
+      "count": 35,
+      "sizeKB": 13.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_margin_mark.json",
+      "summary": "上櫃平盤下得融(借)券賣出之證券名單",
+      "display": "上櫃平盤下得融(借)券賣出之證券名單 (GET__tpex_margin_trading_margin_mark.json)",
+      "count": 748,
+      "sizeKB": 182.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_margin_used.json",
+      "summary": "上櫃融資融券使用率報表",
+      "display": "上櫃融資融券使用率報表 (GET__tpex_margin_trading_margin_used.json)",
+      "count": 20,
+      "sizeKB": 5.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_short_sell.json",
+      "summary": "上櫃融資融券增減排行表",
+      "display": "上櫃融資融券增減排行表 (GET__tpex_margin_trading_short_sell.json)",
+      "count": 20,
+      "sizeKB": 6.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_margin_trading_term.json",
+      "summary": "上櫃融資融券暫停融券賣出預告表",
+      "display": "上櫃融資融券暫停融券賣出預告表 (GET__tpex_margin_trading_term.json)",
+      "count": 11,
+      "sizeKB": 4.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_monthly_trading_summary_block.json",
+      "summary": "上櫃鉅額交易月成交量值統計",
+      "display": "上櫃鉅額交易月成交量值統計 (GET__tpex_monthly_trading_summary_block.json)",
+      "count": 44,
+      "sizeKB": 11.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_odd_stock.json",
+      "summary": "上櫃股票零股交易資訊",
+      "display": "上櫃股票零股交易資訊 (GET__tpex_odd_stock.json)",
+      "count": 967,
+      "sizeKB": 381.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_off_market.json",
+      "summary": "上櫃股票盤後定價行情",
+      "display": "上櫃股票盤後定價行情 (GET__tpex_off_market.json)",
+      "count": 12256,
+      "sizeKB": 5349.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_opfund_latest.json",
+      "summary": "開放式基金當日行情表",
+      "display": "開放式基金當日行情表 (GET__tpex_opfund_latest.json)",
+      "count": 3,
+      "sizeKB": 3.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_opfund_market_highlight.json",
+      "summary": "開放式基金市場現況",
+      "display": "開放式基金市場現況 (GET__tpex_opfund_market_highlight.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_opfund_recommended_dealer.json",
+      "summary": "開放式基金受益憑證造市商與造市之基金",
+      "display": "開放式基金受益憑證造市商與造市之基金 (GET__tpex_opfund_recommended_dealer.json)",
+      "count": 3,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_pe_ratio_top10.json",
+      "summary": "上櫃歷史個股本益比排行",
+      "display": "上櫃歷史個股本益比排行 (GET__tpex_pe_ratio_top10.json)",
+      "count": 860,
+      "sizeKB": 209.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_prvol.json",
+      "summary": "上櫃股票等價系統成交分價表",
+      "display": "上櫃股票等價系統成交分價表 (GET__tpex_prvol.json)",
+      "count": 57,
+      "sizeKB": 13.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_reward_index.json",
+      "summary": "櫃買指數與報酬指數之收市指數",
+      "display": "櫃買指數與報酬指數之收市指數 (GET__tpex_reward_index.json)",
+      "count": 15,
+      "sizeKB": 3.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_securities.json",
+      "summary": "上櫃股票現股當沖交易標的資訊",
+      "display": "上櫃股票現股當沖交易標的資訊 (GET__tpex_securities.json)",
+      "count": 773,
+      "sizeKB": 142.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_short_sell.json",
+      "summary": "上櫃當日融券賣出與借券賣出成交量值",
+      "display": "上櫃當日融券賣出與借券賣出成交量值 (GET__tpex_short_sell.json)",
+      "count": 966,
+      "sizeKB": 236.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_spendi_history.json",
+      "summary": "上櫃歷史公布暫停/恢復交易股票",
+      "display": "上櫃歷史公布暫停/恢復交易股票 (GET__tpex_spendi_history.json)",
+      "count": 835,
+      "sizeKB": 265.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_spendi_today.json",
+      "summary": "上櫃當日公布暫停/恢復交易股票",
+      "display": "上櫃當日公布暫停/恢復交易股票 (GET__tpex_spendi_today.json)",
+      "count": 1,
+      "sizeKB": 1.7
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_trading_amount_avg.json",
+      "summary": "上櫃歷史個股日均值排行",
+      "display": "上櫃歷史個股日均值排行 (GET__tpex_trading_amount_avg.json)",
+      "count": 832,
+      "sizeKB": 148.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_trading_volumes_avg.json",
+      "summary": "上櫃歷史個股日均量排行",
+      "display": "上櫃歷史個股日均量排行 (GET__tpex_trading_volumes_avg.json)",
+      "count": 832,
+      "sizeKB": 161.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_trading_volume_ratio.json",
+      "summary": "上櫃歷史類股成交價量比重",
+      "display": "上櫃歷史類股成交價量比重 (GET__tpex_trading_volume_ratio.json)",
+      "count": 28,
+      "sizeKB": 6.9
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_trading_warning_information.json",
+      "summary": "上櫃公布注意股票資訊",
+      "display": "上櫃公布注意股票資訊 (GET__tpex_trading_warning_information.json)",
+      "count": 13,
+      "sizeKB": 6.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_trading_warning_note.json",
+      "summary": "上櫃公布注意累計次數異常資訊",
+      "display": "上櫃公布注意累計次數異常資訊 (GET__tpex_trading_warning_note.json)",
+      "count": 3,
+      "sizeKB": 2.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_volume_rank.json",
+      "summary": "上櫃歷史個股成交量排行",
+      "display": "上櫃歷史個股成交量排行 (GET__tpex_volume_rank.json)",
+      "count": 861,
+      "sizeKB": 154.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant.json",
+      "summary": "上櫃股票權證資訊",
+      "display": "上櫃股票權證資訊 (GET__tpex_warrant.json)",
+      "count": 11348,
+      "sizeKB": 6774.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_daily_quts.json",
+      "summary": "上櫃權證收盤行情日報表",
+      "display": "上櫃權證收盤行情日報表 (GET__tpex_warrant_daily_quts.json)",
+      "count": 11280,
+      "sizeKB": 5450.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_gold.json",
+      "summary": "黃金現貨權證發行基本資料",
+      "display": "黃金現貨權證發行基本資料 (GET__tpex_warrant_gold.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_gold_quts.json",
+      "summary": "黃金現貨權證收盤行情",
+      "display": "黃金現貨權證收盤行情 (GET__tpex_warrant_gold_quts.json)",
+      "count": 1,
+      "sizeKB": 2.0
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_issue.json",
+      "summary": "上櫃權證發行基本資料",
+      "display": "上櫃權證發行基本資料 (GET__tpex_warrant_issue.json)",
+      "count": 11280,
+      "sizeKB": 6833.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_monthly_quts.json",
+      "summary": "上櫃權證收盤行情月報表",
+      "display": "上櫃權證收盤行情月報表 (GET__tpex_warrant_monthly_quts.json)",
+      "count": 11953,
+      "sizeKB": 5850.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_quts.json",
+      "summary": "單筆權證成交資料",
+      "display": "單筆權證成交資料 (GET__tpex_warrant_quts.json)",
+      "count": 11280,
+      "sizeKB": 5461.3
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_statistics.json",
+      "summary": "每日權證交易人數(上櫃)",
+      "display": "每日權證交易人數(上櫃) (GET__tpex_warrant_statistics.json)",
+      "count": 8,
+      "sizeKB": 2.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_suspend_history.json",
+      "summary": "上櫃權證歷史暫停/恢復交易資訊",
+      "display": "上櫃權證歷史暫停/恢復交易資訊 (GET__tpex_warrant_suspend_history.json)",
+      "count": 769,
+      "sizeKB": 228.4
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_suspend_today.json",
+      "summary": "上櫃權證當日暫停/恢復交易資訊",
+      "display": "上櫃權證當日暫停/恢復交易資訊 (GET__tpex_warrant_suspend_today.json)",
+      "count": 0,
+      "sizeKB": 1.6
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_wcb_daily_quts.json",
+      "summary": "上櫃牛熊證收盤行情(不含展延型牛熊證)日報表",
+      "display": "上櫃牛熊證收盤行情(不含展延型牛熊證)日報表 (GET__tpex_warrant_wcb_daily_quts.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_wcb_issue.json",
+      "summary": "上櫃牛熊證發行基本資料(不含展延型牛熊證)",
+      "display": "上櫃牛熊證發行基本資料(不含展延型牛熊證) (GET__tpex_warrant_wcb_issue.json)",
+      "count": 1,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_wcb_monthly_quts.json",
+      "summary": "上櫃牛熊證收盤行情(不含展延型牛熊證)月報表",
+      "display": "上櫃牛熊證收盤行情(不含展延型牛熊證)月報表 (GET__tpex_warrant_wcb_monthly_quts.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_wxy_daily_quts.json",
+      "summary": "上櫃展延型牛熊證收盤行情日報表",
+      "display": "上櫃展延型牛熊證收盤行情日報表 (GET__tpex_warrant_wxy_daily_quts.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_wxy_issue.json",
+      "summary": "上櫃展延型牛熊證發行基本資料",
+      "display": "上櫃展延型牛熊證發行基本資料 (GET__tpex_warrant_wxy_issue.json)",
+      "count": 1,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_warrant_wxy_monthly_quts.json",
+      "summary": "上櫃展延型牛熊證收盤行情月報表",
+      "display": "上櫃展延型牛熊證收盤行情月報表 (GET__tpex_warrant_wxy_monthly_quts.json)",
+      "count": 1,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tpex_yearly_trading_summary_block.json",
+      "summary": "上櫃鉅額交易年成交量值統計",
+      "display": "上櫃鉅額交易年成交量值統計 (GET__tpex_yearly_trading_summary_block.json)",
+      "count": 4,
+      "sizeKB": 2.5
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tphd_change.json",
+      "summary": "櫃買「高殖利率指數」當日收盤指數",
+      "display": "櫃買「高殖利率指數」當日收盤指數 (GET__tphd_change.json)",
+      "count": 2,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tphd_constituents.json",
+      "summary": "櫃買「高殖利率指數」當日成分股",
+      "display": "櫃買「高殖利率指數」當日成分股 (GET__tphd_constituents.json)",
+      "count": 60,
+      "sizeKB": 8.8
+    },
+    {
+      "src": "tpex",
+      "file": "GET__tphd_index.json",
+      "summary": "高殖利率指數歷史收盤指數",
+      "display": "高殖利率指數歷史收盤指數 (GET__tphd_index.json)",
+      "count": 15,
+      "sizeKB": 3.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__Announcement_BFZFZU_T.json",
+      "summary": "投資理財節目異常推介個股",
+      "display": "投資理財節目異常推介個股 (GET__Announcement_BFZFZU_T.json)",
+      "count": 1,
+      "sizeKB": 0.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__announcement_notetrans.json",
+      "summary": "集中市場公布注意累計次數異常資訊",
+      "display": "集中市場公布注意累計次數異常資訊 (GET__announcement_notetrans.json)",
+      "count": 1,
+      "sizeKB": 0.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__announcement_notice.json",
+      "summary": "集中市場當日公布注意股票",
+      "display": "集中市場當日公布注意股票 (GET__announcement_notice.json)",
+      "count": 1,
+      "sizeKB": 1.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__announcement_punish.json",
+      "summary": "集中市場公布處置股票",
+      "display": "集中市場公布處置股票 (GET__announcement_punish.json)",
+      "count": 5,
+      "sizeKB": 8.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__block_BFIAUU_d.json",
+      "summary": "集中市場鉅額交易日成交量值統計",
+      "display": "集中市場鉅額交易日成交量值統計 (GET__block_BFIAUU_d.json)",
+      "count": 60,
+      "sizeKB": 12.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__block_BFIAUU_m.json",
+      "summary": "集中市場鉅額交易月成交量值統計",
+      "display": "集中市場鉅額交易月成交量值統計 (GET__block_BFIAUU_m.json)",
+      "count": 22,
+      "sizeKB": 4.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__block_BFIAUU_y.json",
+      "summary": "集中市場鉅額交易年成交量值統計",
+      "display": "集中市場鉅額交易年成交量值統計 (GET__block_BFIAUU_y.json)",
+      "count": 21,
+      "sizeKB": 4.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__brokerService_brokerList.json",
+      "summary": "證券商總公司基本資料",
+      "display": "證券商總公司基本資料 (GET__brokerService_brokerList.json)",
+      "count": 64,
+      "sizeKB": 15.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__brokerService_secRegData.json",
+      "summary": "開辦定期定額業務證券商名單",
+      "display": "開辦定期定額業務證券商名單 (GET__brokerService_secRegData.json)",
+      "count": 21,
+      "sizeKB": 4.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__company_applylistingForeign.json",
+      "summary": "外國公司向證交所申請第一上市之公司",
+      "display": "外國公司向證交所申請第一上市之公司 (GET__company_applylistingForeign.json)",
+      "count": 122,
+      "sizeKB": 54.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__company_applylistingLocal.json",
+      "summary": "申請上市之本國公司",
+      "display": "申請上市之本國公司 (GET__company_applylistingLocal.json)",
+      "count": 682,
+      "sizeKB": 310.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__company_newlisting.json",
+      "summary": "最近上市公司",
+      "display": "最近上市公司 (GET__company_newlisting.json)",
+      "count": 762,
+      "sizeKB": 334.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__company_suspendListingCsvAndHtml.json",
+      "summary": "終止上市公司",
+      "display": "終止上市公司 (GET__company_suspendListingCsvAndHtml.json)",
+      "count": 261,
+      "sizeKB": 30.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__ETFReport_ETFRank.json",
+      "summary": "定期定額前十名交易戶數證券統計",
+      "display": "定期定額前十名交易戶數證券統計 (GET__ETFReport_ETFRank.json)",
+      "count": 20,
+      "sizeKB": 6.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_BFI61U.json",
+      "summary": "中央登錄公債補息資料表",
+      "display": "中央登錄公債補息資料表 (GET__exchangeReport_BFI61U.json)",
+      "count": 277,
+      "sizeKB": 61.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_BFI84U.json",
+      "summary": "集中市場停資停券預告表",
+      "display": "集中市場停資停券預告表 (GET__exchangeReport_BFI84U.json)",
+      "count": 15,
+      "sizeKB": 3.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_BFT41U.json",
+      "summary": "集中市場盤後定價交易",
+      "display": "集中市場盤後定價交易 (GET__exchangeReport_BFT41U.json)",
+      "count": 15287,
+      "sizeKB": 3755.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_BWIBBU_ALL.json",
+      "summary": "上市個股日本益比、殖利率及股價淨值比（依代碼查詢）",
+      "display": "上市個股日本益比、殖利率及股價淨值比（依代碼查詢） (GET__exchangeReport_BWIBBU_ALL.json)",
+      "count": 1056,
+      "sizeKB": 195.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_BWIBBU_d.json",
+      "summary": "上市個股日本益比、殖利率及股價淨值比（依日期查詢）",
+      "display": "上市個股日本益比、殖利率及股價淨值比（依日期查詢） (GET__exchangeReport_BWIBBU_d.json)",
+      "count": 1019,
+      "sizeKB": 232.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_FMNPTK_ALL.json",
+      "summary": "上市個股年成交資訊",
+      "display": "上市個股年成交資訊 (GET__exchangeReport_FMNPTK_ALL.json)",
+      "count": 72598,
+      "sizeKB": 26437.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_FMSRFK_ALL.json",
+      "summary": "上市個股月成交資訊",
+      "display": "上市個股月成交資訊 (GET__exchangeReport_FMSRFK_ALL.json)",
+      "count": 29334,
+      "sizeKB": 10055.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_FMTQIK.json",
+      "summary": "集中市場每日市場成交資訊",
+      "display": "集中市場每日市場成交資訊 (GET__exchangeReport_FMTQIK.json)",
+      "count": 15,
+      "sizeKB": 4.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_MI_5MINS.json",
+      "summary": "每 5 秒委託成交統計",
+      "display": "每 5 秒委託成交統計 (GET__exchangeReport_MI_5MINS.json)",
+      "count": 3241,
+      "sizeKB": 963.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_MI_INDEX.json",
+      "summary": "每日收盤行情-大盤統計資訊",
+      "display": "每日收盤行情-大盤統計資訊 (GET__exchangeReport_MI_INDEX.json)",
+      "count": 269,
+      "sizeKB": 69.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_MI_INDEX20.json",
+      "summary": "集中市場每日成交量前二十名證券",
+      "display": "集中市場每日成交量前二十名證券 (GET__exchangeReport_MI_INDEX20.json)",
+      "count": 20,
+      "sizeKB": 9.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_MI_INDEX4.json",
+      "summary": "每日上市上櫃跨市場成交資訊",
+      "display": "每日上市上櫃跨市場成交資訊 (GET__exchangeReport_MI_INDEX4.json)",
+      "count": 15,
+      "sizeKB": 3.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_MI_MARGN.json",
+      "summary": "集中市場融資融券餘額",
+      "display": "集中市場融資融券餘額 (GET__exchangeReport_MI_MARGN.json)",
+      "count": 1234,
+      "sizeKB": 665.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_STOCK_DAY_ALL.json",
+      "summary": "上市個股日成交資訊",
+      "display": "上市個股日成交資訊 (GET__exchangeReport_STOCK_DAY_ALL.json)",
+      "count": 1321,
+      "sizeKB": 474.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_STOCK_DAY_AVG_ALL.json",
+      "summary": "上市個股日收盤價及月平均價",
+      "display": "上市個股日收盤價及月平均價 (GET__exchangeReport_STOCK_DAY_AVG_ALL.json)",
+      "count": 27326,
+      "sizeKB": 4931.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_STOCK_FIRST.json",
+      "summary": "每日第一上市外國股票成交量值",
+      "display": "每日第一上市外國股票成交量值 (GET__exchangeReport_STOCK_FIRST.json)",
+      "count": 90,
+      "sizeKB": 48.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWT48U_ALL.json",
+      "summary": "上市股票除權除息預告表",
+      "display": "上市股票除權除息預告表 (GET__exchangeReport_TWT48U_ALL.json)",
+      "count": 23,
+      "sizeKB": 10.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWT53U.json",
+      "summary": "集中市場零股交易行情單",
+      "display": "集中市場零股交易行情單 (GET__exchangeReport_TWT53U.json)",
+      "count": 1304,
+      "sizeKB": 428.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWT84U.json",
+      "summary": "上市個股股價升降幅度",
+      "display": "上市個股股價升降幅度 (GET__exchangeReport_TWT84U.json)",
+      "count": 34745,
+      "sizeKB": 14088.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWT85U.json",
+      "summary": "集中市場證券變更交易",
+      "display": "集中市場證券變更交易 (GET__exchangeReport_TWT85U.json)",
+      "count": 12,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWT88U.json",
+      "summary": "上市個股首五日無漲跌幅",
+      "display": "上市個股首五日無漲跌幅 (GET__exchangeReport_TWT88U.json)",
+      "count": 1,
+      "sizeKB": 1.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWTAWU.json",
+      "summary": "集中市場暫停交易證券",
+      "display": "集中市場暫停交易證券 (GET__exchangeReport_TWTAWU.json)",
+      "count": 60,
+      "sizeKB": 17.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWTB4U.json",
+      "summary": "上市股票每日當日沖銷交易標的及統計",
+      "display": "上市股票每日當日沖銷交易標的及統計 (GET__exchangeReport_TWTB4U.json)",
+      "count": 1164,
+      "sizeKB": 147.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWTBAU1.json",
+      "summary": "集中市場暫停先賣後買當日沖銷交易標的預告表",
+      "display": "集中市場暫停先賣後買當日沖銷交易標的預告表 (GET__exchangeReport_TWTBAU1.json)",
+      "count": 22,
+      "sizeKB": 4.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__exchangeReport_TWTBAU2.json",
+      "summary": "集中市場暫停先賣後買當日沖銷交易歷史查詢",
+      "display": "集中市場暫停先賣後買當日沖銷交易歷史查詢 (GET__exchangeReport_TWTBAU2.json)",
+      "count": 8,
+      "sizeKB": 2.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__fund_MI_QFIIS_cat.json",
+      "summary": "集中市場外資及陸資投資類股持股比率表",
+      "display": "集中市場外資及陸資投資類股持股比率表 (GET__fund_MI_QFIIS_cat.json)",
+      "count": 36,
+      "sizeKB": 8.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__fund_MI_QFIIS_sort_20.json",
+      "summary": "集中市場外資及陸資持股前 20 名彙總表",
+      "display": "集中市場外資及陸資持股前 20 名彙總表 (GET__fund_MI_QFIIS_sort_20.json)",
+      "count": 20,
+      "sizeKB": 7.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__holidaySchedule_holidaySchedule.json",
+      "summary": "有價證券集中交易市場開（休）市日期",
+      "display": "有價證券集中交易市場開（休）市日期 (GET__holidaySchedule_holidaySchedule.json)",
+      "count": 27,
+      "sizeKB": 6.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__indicesReport_FRMSA.json",
+      "summary": "寶島股價指數歷史資料",
+      "display": "寶島股價指數歷史資料 (GET__indicesReport_FRMSA.json)",
+      "count": 15,
+      "sizeKB": 2.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__indicesReport_MFI94U.json",
+      "summary": "發行量加權股價報酬指數",
+      "display": "發行量加權股價報酬指數 (GET__indicesReport_MFI94U.json)",
+      "count": 15,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__indicesReport_MI_5MINS_HIST.json",
+      "summary": "發行量加權股價指數歷史資料",
+      "display": "發行量加權股價指數歷史資料 (GET__indicesReport_MI_5MINS_HIST.json)",
+      "count": 15,
+      "sizeKB": 3.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__indicesReport_TAI50I.json",
+      "summary": "臺灣 50 指數歷史資料",
+      "display": "臺灣 50 指數歷史資料 (GET__indicesReport_TAI50I.json)",
+      "count": 15,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__news_eventList.json",
+      "summary": "證交所活動訊息",
+      "display": "證交所活動訊息 (GET__news_eventList.json)",
+      "count": 49,
+      "sizeKB": 12.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__news_newsList.json",
+      "summary": "證交所新聞",
+      "display": "證交所新聞 (GET__news_newsList.json)",
+      "count": 800,
+      "sizeKB": 221.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_OpenData_BRK01.json",
+      "summary": "證券商營業員男女人數統計資料",
+      "display": "證券商營業員男女人數統計資料 (GET__opendata_OpenData_BRK01.json)",
+      "count": 862,
+      "sizeKB": 161.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_OpenData_BRK02.json",
+      "summary": "證券商分公司基本資料",
+      "display": "證券商分公司基本資料 (GET__opendata_OpenData_BRK02.json)",
+      "count": 811,
+      "sizeKB": 210.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap01.json",
+      "summary": "券商業務別人員數",
+      "display": "券商業務別人員數 (GET__opendata_t187ap01.json)",
+      "count": 4,
+      "sizeKB": 5.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap02_L.json",
+      "summary": "上市公司持股逾 10% 大股東名單",
+      "display": "上市公司持股逾 10% 大股東名單 (GET__opendata_t187ap02_L.json)",
+      "count": 1028,
+      "sizeKB": 184.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap03_L.json",
+      "summary": "上市公司基本資料",
+      "display": "上市公司基本資料 (GET__opendata_t187ap03_L.json)",
+      "count": 1068,
+      "sizeKB": 1658.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap03_P.json",
+      "summary": "公開發行公司基本資料",
+      "display": "公開發行公司基本資料 (GET__opendata_t187ap03_P.json)",
+      "count": 310,
+      "sizeKB": 479.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap04_L.json",
+      "summary": "上市公司每日重大訊息",
+      "display": "上市公司每日重大訊息 (GET__opendata_t187ap04_L.json)",
+      "count": 6,
+      "sizeKB": 11.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap05_L.json",
+      "summary": "上市公司每月營業收入彙總表",
+      "display": "上市公司每月營業收入彙總表 (GET__opendata_t187ap05_L.json)",
+      "count": 1058,
+      "sizeKB": 746.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap05_P.json",
+      "summary": "公開發行公司每月營業收入彙總表",
+      "display": "公開發行公司每月營業收入彙總表 (GET__opendata_t187ap05_P.json)",
+      "count": 308,
+      "sizeKB": 212.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_L_basi.json",
+      "summary": "上市公司綜合損益表(金融業)",
+      "display": "上市公司綜合損益表(金融業) (GET__opendata_t187ap06_L_basi.json)",
+      "count": 10,
+      "sizeKB": 13.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_L_bd.json",
+      "summary": "上市公司綜合損益表(證券期貨業)",
+      "display": "上市公司綜合損益表(證券期貨業) (GET__opendata_t187ap06_L_bd.json)",
+      "count": 3,
+      "sizeKB": 4.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_L_ci.json",
+      "summary": "上市公司綜合損益表(一般業)",
+      "display": "上市公司綜合損益表(一般業) (GET__opendata_t187ap06_L_ci.json)",
+      "count": 1022,
+      "sizeKB": 1730.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_L_fh.json",
+      "summary": "上市公司綜合損益表(金控業)",
+      "display": "上市公司綜合損益表(金控業) (GET__opendata_t187ap06_L_fh.json)",
+      "count": 5,
+      "sizeKB": 7.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_L_ins.json",
+      "summary": "上市公司綜合損益表(保險業)",
+      "display": "上市公司綜合損益表(保險業) (GET__opendata_t187ap06_L_ins.json)",
+      "count": 6,
+      "sizeKB": 8.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_L_mim.json",
+      "summary": "上市公司綜合損益表(異業)",
+      "display": "上市公司綜合損益表(異業) (GET__opendata_t187ap06_L_mim.json)",
+      "count": 4,
+      "sizeKB": 5.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_X_basi.json",
+      "summary": "公發公司綜合損益表-金融業",
+      "display": "公發公司綜合損益表-金融業 (GET__opendata_t187ap06_X_basi.json)",
+      "count": 17,
+      "sizeKB": 23.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_X_bd.json",
+      "summary": "公發公司綜合損益表-證券期貨業",
+      "display": "公發公司綜合損益表-證券期貨業 (GET__opendata_t187ap06_X_bd.json)",
+      "count": 12,
+      "sizeKB": 15.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_X_ci.json",
+      "summary": "公發公司綜合損益表-一般業",
+      "display": "公發公司綜合損益表-一般業 (GET__opendata_t187ap06_X_ci.json)",
+      "count": 1,
+      "sizeKB": 2.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_X_fh.json",
+      "summary": "公發公司綜合損益表-金控業",
+      "display": "公發公司綜合損益表-金控業 (GET__opendata_t187ap06_X_fh.json)",
+      "count": 1,
+      "sizeKB": 1.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_X_ins.json",
+      "summary": "公發公司綜合損益表-保險業",
+      "display": "公發公司綜合損益表-保險業 (GET__opendata_t187ap06_X_ins.json)",
+      "count": 10,
+      "sizeKB": 14.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap06_X_mim.json",
+      "summary": "公發公司綜合損益表-異業",
+      "display": "公發公司綜合損益表-異業 (GET__opendata_t187ap06_X_mim.json)",
+      "count": 1,
+      "sizeKB": 1.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_L_basi.json",
+      "summary": "上市公司資產負債表(金融業)",
+      "display": "上市公司資產負債表(金融業) (GET__opendata_t187ap07_L_basi.json)",
+      "count": 10,
+      "sizeKB": 29.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_L_bd.json",
+      "summary": "上市公司資產負債表(證券期貨業)",
+      "display": "上市公司資產負債表(證券期貨業) (GET__opendata_t187ap07_L_bd.json)",
+      "count": 3,
+      "sizeKB": 4.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_L_ci.json",
+      "summary": "上市公司資產負債表(一般業)",
+      "display": "上市公司資產負債表(一般業) (GET__opendata_t187ap07_L_ci.json)",
+      "count": 1022,
+      "sizeKB": 1115.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_L_fh.json",
+      "summary": "上市公司資產負債表(金控業)",
+      "display": "上市公司資產負債表(金控業) (GET__opendata_t187ap07_L_fh.json)",
+      "count": 5,
+      "sizeKB": 15.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_L_ins.json",
+      "summary": "上市公司資產負債表(保險業)",
+      "display": "上市公司資產負債表(保險業) (GET__opendata_t187ap07_L_ins.json)",
+      "count": 1,
+      "sizeKB": 2.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_L_mim.json",
+      "summary": "上市公司資產負債表(異業)",
+      "display": "上市公司資產負債表(異業) (GET__opendata_t187ap07_L_mim.json)",
+      "count": 4,
+      "sizeKB": 5.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_X_basi.json",
+      "summary": "公發公司資產負債表-金融業",
+      "display": "公發公司資產負債表-金融業 (GET__opendata_t187ap07_X_basi.json)",
+      "count": 17,
+      "sizeKB": 50.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_X_bd.json",
+      "summary": "公發公司資產負債表-證券期貨業",
+      "display": "公發公司資產負債表-證券期貨業 (GET__opendata_t187ap07_X_bd.json)",
+      "count": 12,
+      "sizeKB": 14.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_X_ci.json",
+      "summary": "公發公司資產負債表-一般業",
+      "display": "公發公司資產負債表-一般業 (GET__opendata_t187ap07_X_ci.json)",
+      "count": 1,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_X_fh.json",
+      "summary": "公發公司資產負債表-金控業",
+      "display": "公發公司資產負債表-金控業 (GET__opendata_t187ap07_X_fh.json)",
+      "count": 1,
+      "sizeKB": 3.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_X_ins.json",
+      "summary": "公發公司資產負債表-保險業",
+      "display": "公發公司資產負債表-保險業 (GET__opendata_t187ap07_X_ins.json)",
+      "count": 10,
+      "sizeKB": 24.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap07_X_mim.json",
+      "summary": "公發公司資產負債表-異業",
+      "display": "公發公司資產負債表-異業 (GET__opendata_t187ap07_X_mim.json)",
+      "count": 1,
+      "sizeKB": 1.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap08_L.json",
+      "summary": "上市公司董事、監察人持股不足法定成數彙總表",
+      "display": "上市公司董事、監察人持股不足法定成數彙總表 (GET__opendata_t187ap08_L.json)",
+      "count": 30,
+      "sizeKB": 24.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap09_L.json",
+      "summary": "上市公司董事、監察人質權設定占董事及監察人實際持有股數彙總表",
+      "display": "上市公司董事、監察人質權設定占董事及監察人實際持有股數彙總表 (GET__opendata_t187ap09_L.json)",
+      "count": 9,
+      "sizeKB": 25.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap10_L.json",
+      "summary": "上市公司董事、監察人持股不足法定成數連續達3個月以上彙總表",
+      "display": "上市公司董事、監察人持股不足法定成數連續達3個月以上彙總表 (GET__opendata_t187ap10_L.json)",
+      "count": 14,
+      "sizeKB": 7.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap11_L.json",
+      "summary": "上市公司董監事持股餘額明細資料",
+      "display": "上市公司董監事持股餘額明細資料 (GET__opendata_t187ap11_L.json)",
+      "count": 27034,
+      "sizeKB": 14120.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap11_P.json",
+      "summary": "公發公司董監事持股餘額明細",
+      "display": "公發公司董監事持股餘額明細 (GET__opendata_t187ap11_P.json)",
+      "count": 6590,
+      "sizeKB": 3475.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap12_L.json",
+      "summary": "上市公司每日內部人持股轉讓事前申報表-持股轉讓日報表",
+      "display": "上市公司每日內部人持股轉讓事前申報表-持股轉讓日報表 (GET__opendata_t187ap12_L.json)",
+      "count": 7,
+      "sizeKB": 7.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap13_L.json",
+      "summary": "上市公司每日內部人持股轉讓事前申報表-持股未轉讓日報表",
+      "display": "上市公司每日內部人持股轉讓事前申報表-持股未轉讓日報表 (GET__opendata_t187ap13_L.json)",
+      "count": 1,
+      "sizeKB": 1.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap14_L.json",
+      "summary": "上市公司各產業EPS統計資訊",
+      "display": "上市公司各產業EPS統計資訊 (GET__opendata_t187ap14_L.json)",
+      "count": 1050,
+      "sizeKB": 534.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap15_L.json",
+      "summary": "上市公司截至各季綜合損益財測達成情形(簡式)",
+      "display": "上市公司截至各季綜合損益財測達成情形(簡式) (GET__opendata_t187ap15_L.json)",
+      "count": 5,
+      "sizeKB": 2.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap16_L.json",
+      "summary": "上市公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式)",
+      "display": "上市公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式) (GET__opendata_t187ap16_L.json)",
+      "count": 3,
+      "sizeKB": 2.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap17_L.json",
+      "summary": "上市公司營益分析查詢彙總表(全體公司彙總報表)",
+      "display": "上市公司營益分析查詢彙總表(全體公司彙總報表) (GET__opendata_t187ap17_L.json)",
+      "count": 1028,
+      "sizeKB": 492.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap18.json",
+      "summary": "證券商基本資料",
+      "display": "證券商基本資料 (GET__opendata_t187ap18.json)",
+      "count": 65,
+      "sizeKB": 212.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap19.json",
+      "summary": "電子式交易統計資訊",
+      "display": "電子式交易統計資訊 (GET__opendata_t187ap19.json)",
+      "count": 1,
+      "sizeKB": 1.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap20.json",
+      "summary": "各券商每月月計表",
+      "display": "各券商每月月計表 (GET__opendata_t187ap20.json)",
+      "count": 47645,
+      "sizeKB": 15544.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap21.json",
+      "summary": "各券商收支概況表資料",
+      "display": "各券商收支概況表資料 (GET__opendata_t187ap21.json)",
+      "count": 19695,
+      "sizeKB": 5693.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap22_L.json",
+      "summary": "上市公司金管會證券期貨局裁罰案件專區",
+      "display": "上市公司金管會證券期貨局裁罰案件專區 (GET__opendata_t187ap22_L.json)",
+      "count": 65,
+      "sizeKB": 25.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap23_L.json",
+      "summary": "上市公司違反資訊申報、重大訊息及說明記者會規定專區",
+      "display": "上市公司違反資訊申報、重大訊息及說明記者會規定專區 (GET__opendata_t187ap23_L.json)",
+      "count": 79,
+      "sizeKB": 64.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap24_L.json",
+      "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動公司",
+      "display": "上市公司經營權及營業範圍異(變)動專區-經營權異動公司 (GET__opendata_t187ap24_L.json)",
+      "count": 16,
+      "sizeKB": 7.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap25_L.json",
+      "summary": "上市公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司",
+      "display": "上市公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司 (GET__opendata_t187ap25_L.json)",
+      "count": 2,
+      "sizeKB": 2.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap26_L.json",
+      "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司",
+      "display": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司 (GET__opendata_t187ap26_L.json)",
+      "count": 0,
+      "sizeKB": 0.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap27_L.json",
+      "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司",
+      "display": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司 (GET__opendata_t187ap27_L.json)",
+      "count": 0,
+      "sizeKB": 0.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap29_A_L.json",
+      "summary": "上市公司董事酬金相關資訊 ",
+      "display": "上市公司董事酬金相關資訊  (GET__opendata_t187ap29_A_L.json)",
+      "count": 950,
+      "sizeKB": 1340.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap29_B_L.json",
+      "summary": "上市公司監察人酬金相關資訊 ",
+      "display": "上市公司監察人酬金相關資訊  (GET__opendata_t187ap29_B_L.json)",
+      "count": 0,
+      "sizeKB": 0.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap29_C_L.json",
+      "summary": "上市公司合併報表董事酬金相關資訊 ",
+      "display": "上市公司合併報表董事酬金相關資訊  (GET__opendata_t187ap29_C_L.json)",
+      "count": 981,
+      "sizeKB": 1394.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap29_D_L.json",
+      "summary": "上市公司合併報表監察人酬金相關資訊 ",
+      "display": "上市公司合併報表監察人酬金相關資訊  (GET__opendata_t187ap29_D_L.json)",
+      "count": 0,
+      "sizeKB": 0.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap30_L.json",
+      "summary": "上市公司獨立董監事兼任情形彙總表",
+      "display": "上市公司獨立董監事兼任情形彙總表 (GET__opendata_t187ap30_L.json)",
+      "count": 13845,
+      "sizeKB": 7833.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap31_L.json",
+      "summary": "上市公司財務報告經監察人承認情形",
+      "display": "上市公司財務報告經監察人承認情形 (GET__opendata_t187ap31_L.json)",
+      "count": 1057,
+      "sizeKB": 304.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap32_L.json",
+      "summary": "上市公司公司治理之相關規程規則",
+      "display": "上市公司公司治理之相關規程規則 (GET__opendata_t187ap32_L.json)",
+      "count": 10749,
+      "sizeKB": 2191.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap33_L.json",
+      "summary": "上市公司董事長是否兼任總經理",
+      "display": "上市公司董事長是否兼任總經理 (GET__opendata_t187ap33_L.json)",
+      "count": 1068,
+      "sizeKB": 262.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap34_L.json",
+      "summary": "上市公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表",
+      "display": "上市公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表 (GET__opendata_t187ap34_L.json)",
+      "count": 3977,
+      "sizeKB": 2777.5
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap35_L.json",
+      "summary": "上市公司股東行使提案權情形彙總表",
+      "display": "上市公司股東行使提案權情形彙總表 (GET__opendata_t187ap35_L.json)",
+      "count": 408,
+      "sizeKB": 169.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap36_L.json",
+      "summary": "上市認購(售)權證年度發行量概況統計表",
+      "display": "上市認購(售)權證年度發行量概況統計表 (GET__opendata_t187ap36_L.json)",
+      "count": 64111,
+      "sizeKB": 23475.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap37_L.json",
+      "summary": "上市權證基本資料彙總表",
+      "display": "上市權證基本資料彙總表 (GET__opendata_t187ap37_L.json)",
+      "count": 24781,
+      "sizeKB": 28655.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap38_L.json",
+      "summary": "上市公司股東會公告-召集股東常(臨時)會公告資料彙總表(95年度起適用)",
+      "display": "上市公司股東會公告-召集股東常(臨時)會公告資料彙總表(95年度起適用) (GET__opendata_t187ap38_L.json)",
+      "count": 1103,
+      "sizeKB": 1034.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap41_L.json",
+      "summary": "上市公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表",
+      "display": "上市公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表 (GET__opendata_t187ap41_L.json)",
+      "count": 1065,
+      "sizeKB": 621.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap42_L.json",
+      "summary": "上市認購(售)權證每日成交資料檔",
+      "display": "上市認購(售)權證每日成交資料檔 (GET__opendata_t187ap42_L.json)",
+      "count": 0,
+      "sizeKB": 0.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap43_L.json",
+      "summary": "上市認購(售)權證交易人數檔",
+      "display": "上市認購(售)權證交易人數檔 (GET__opendata_t187ap43_L.json)",
+      "count": 1,
+      "sizeKB": 0.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap45_L.json",
+      "summary": "上市公司股利分派情形",
+      "display": "上市公司股利分派情形 (GET__opendata_t187ap45_L.json)",
+      "count": 1240,
+      "sizeKB": 2844.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_1.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-溫室氣體排放",
+      "display": "上市公司企業ESG資訊揭露彙總資料-溫室氣體排放 (GET__opendata_t187ap46_L_1.json)",
+      "count": 1043,
+      "sizeKB": 743.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_10.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-燃料管理",
+      "display": "上市公司企業ESG資訊揭露彙總資料-燃料管理 (GET__opendata_t187ap46_L_10.json)",
+      "count": 752,
+      "sizeKB": 243.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_11.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-產品生命週期",
+      "display": "上市公司企業ESG資訊揭露彙總資料-產品生命週期 (GET__opendata_t187ap46_L_11.json)",
+      "count": 753,
+      "sizeKB": 277.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_12.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-食品安全",
+      "display": "上市公司企業ESG資訊揭露彙總資料-食品安全 (GET__opendata_t187ap46_L_12.json)",
+      "count": 0,
+      "sizeKB": 2.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_13.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-供應鏈管理",
+      "display": "上市公司企業ESG資訊揭露彙總資料-供應鏈管理 (GET__opendata_t187ap46_L_13.json)",
+      "count": 728,
+      "sizeKB": 275.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_14.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-產品品質與安全",
+      "display": "上市公司企業ESG資訊揭露彙總資料-產品品質與安全 (GET__opendata_t187ap46_L_14.json)",
+      "count": 759,
+      "sizeKB": 255.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_15.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-社區關係",
+      "display": "上市公司企業ESG資訊揭露彙總資料-社區關係 (GET__opendata_t187ap46_L_15.json)",
+      "count": 702,
+      "sizeKB": 151.0
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_16.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-資訊安全",
+      "display": "上市公司企業ESG資訊揭露彙總資料-資訊安全 (GET__opendata_t187ap46_L_16.json)",
+      "count": 799,
+      "sizeKB": 258.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_17.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-普惠金融",
+      "display": "上市公司企業ESG資訊揭露彙總資料-普惠金融 (GET__opendata_t187ap46_L_17.json)",
+      "count": 670,
+      "sizeKB": 265.6
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_18.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-持股及控制力",
+      "display": "上市公司企業ESG資訊揭露彙總資料-持股及控制力 (GET__opendata_t187ap46_L_18.json)",
+      "count": 1043,
+      "sizeKB": 290.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_19.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-風險管理政策",
+      "display": "上市公司企業ESG資訊揭露彙總資料-風險管理政策 (GET__opendata_t187ap46_L_19.json)",
+      "count": 780,
+      "sizeKB": 562.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_2.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-能源管理",
+      "display": "上市公司企業ESG資訊揭露彙總資料-能源管理 (GET__opendata_t187ap46_L_2.json)",
+      "count": 1042,
+      "sizeKB": 307.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_20.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟",
+      "display": "上市公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟 (GET__opendata_t187ap46_L_20.json)",
+      "count": 797,
+      "sizeKB": 205.2
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_21.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-職業安全衛生",
+      "display": "上市公司企業ESG資訊揭露彙總資料-職業安全衛生 (GET__opendata_t187ap46_L_21.json)",
+      "count": 1042,
+      "sizeKB": 407.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_3.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-水資源管理",
+      "display": "上市公司企業ESG資訊揭露彙總資料-水資源管理 (GET__opendata_t187ap46_L_3.json)",
+      "count": 1042,
+      "sizeKB": 439.7
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_4.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-廢棄物管理",
+      "display": "上市公司企業ESG資訊揭露彙總資料-廢棄物管理 (GET__opendata_t187ap46_L_4.json)",
+      "count": 1042,
+      "sizeKB": 812.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_5.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-人力發展",
+      "display": "上市公司企業ESG資訊揭露彙總資料-人力發展 (GET__opendata_t187ap46_L_5.json)",
+      "count": 1042,
+      "sizeKB": 485.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_6.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-董事會",
+      "display": "上市公司企業ESG資訊揭露彙總資料-董事會 (GET__opendata_t187ap46_L_6.json)",
+      "count": 1042,
+      "sizeKB": 485.8
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_7.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-投資人溝通",
+      "display": "上市公司企業ESG資訊揭露彙總資料-投資人溝通 (GET__opendata_t187ap46_L_7.json)",
+      "count": 1042,
+      "sizeKB": 216.1
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_8.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-氣候相關議題管理",
+      "display": "上市公司企業ESG資訊揭露彙總資料-氣候相關議題管理 (GET__opendata_t187ap46_L_8.json)",
+      "count": 1042,
+      "sizeKB": 4269.9
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap46_L_9.json",
+      "summary": "上市公司企業ESG資訊揭露彙總資料-功能性委員會",
+      "display": "上市公司企業ESG資訊揭露彙總資料-功能性委員會 (GET__opendata_t187ap46_L_9.json)",
+      "count": 1042,
+      "sizeKB": 387.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_t187ap47_L.json",
+      "summary": "基金基本資料彙總表",
+      "display": "基金基本資料彙總表 (GET__opendata_t187ap47_L.json)",
+      "count": 209,
+      "sizeKB": 264.4
+    },
+    {
+      "src": "twse",
+      "file": "GET__opendata_twtazu_od.json",
+      "summary": "集中市場漲跌證券數統計表",
+      "display": "集中市場漲跌證券數統計表 (GET__opendata_twtazu_od.json)",
+      "count": 2,
+      "sizeKB": 1.3
+    },
+    {
+      "src": "twse",
+      "file": "GET__SBL_TWT96U.json",
+      "summary": "上市上櫃股票當日可借券賣出股數",
+      "display": "上市上櫃股票當日可借券賣出股數 (GET__SBL_TWT96U.json)",
+      "count": 1177,
+      "sizeKB": 188.1
+    }
+  ]
+}

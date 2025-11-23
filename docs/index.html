@@ -27,6 +27,10 @@
     .list-item.active { background:#e9f2ff; }
     .toolbar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-top:8px; }
     .status { margin-top:8px; font-size:12px; color:#333; }
+    /* New: grid header and columns for the left list */
+    .list-header { display:grid; grid-template-columns: 1fr 90px 130px; gap:8px; align-items:center; padding:6px 10px; border:1px solid #eee; border-radius:8px; background:#f8f9fa; font-size:12px; color:#555; }
+    .list-item { display:grid; grid-template-columns: 1fr 90px 130px; gap:8px; align-items:center; }
+    .list-item .count, .list-item .size { text-align:right; font-variant-numeric: tabular-nums; }
   </style>
 </head>
 <body>
@@ -53,6 +57,11 @@
             <span class="muted">清單來源：swagger/&lt;source&gt;/manifest.json 或 summary.json</span>
           </div>
           <div id="manifestStatus" class="status"></div>
+          <div id="fileListHeader" class="list-header" style="display:none; margin-top:8px;">
+            <span class="name">名稱</span>
+            <span class="count">筆數</span>
+            <span class="size">檔案大小(KB)</span>
+          </div>
           <div id="fileList" class="list" style="display:none; margin-top:8px;"></div>
         </div>
         <div>
@@ -86,6 +95,8 @@ const loadJsonBtn = document.getElementById('loadJsonBtn');
 const jsonStatus = document.getElementById('jsonStatus');
 const tableContainer = document.getElementById('tableContainer');
 const downloadCsvBtn = document.getElementById('downloadCsvBtn');
+const fileListHeader = document.getElementById('fileListHeader');
+let currentManifestToken = 0;
 
 sourceEl.addEventListener('change', () => {
   const src = sourceEl.value;
@@ -101,41 +112,86 @@ loadManifestBtn.addEventListener('click', async () => {
   const src = sourceEl.value;
   fileList.innerHTML = '';
   fileList.style.display = 'none';
+  fileListHeader.style.display = 'none';
   manifestStatus.textContent = '讀取清單中…';
-  let manifestUrl = '';
+
   if (src === 'custom') {
     manifestStatus.textContent = '自訂模式沒有清單，請直接輸入 JSON URL。';
     return;
-  } else {
-    manifestUrl = `swagger/${src}/manifest.json`;
   }
+
   try {
-    const res = await fetch(manifestUrl);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const mani = await res.json();
-    const files = Array.isArray(mani?.files) ? mani.files : (Array.isArray(mani) ? mani : []);
-    if (!files.length) {
-      manifestStatus.textContent = '清單為空或格式不符。嘗試使用 summary.json';
-      const sumRes = await fetch('swagger/summary.json');
-      if (sumRes.ok) {
-        const sum = await sumRes.json();
-        manifestStatus.textContent = `summary.json 已載入。請於下方輸入檔名（此來源共有 ${sum?.[src]} 個端點）。`;
+    let entries = [];
+    if (src === 'auto') {
+      const res = await fetch('swagger/filelist.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const meta = await res.json();
+      const files = Array.isArray(meta?.files) ? meta.files : [];
+      entries = files.map(f => ({
+        file: f.file,
+        display: f.display || f.file,
+        count: typeof f.count === 'number' ? f.count : null,
+        sizeKB: typeof f.sizeKB === 'number' ? f.sizeKB : null,
+        src: f.src,
+      }));
+    } else {
+      const manifestUrl = `swagger/${src}/manifest.json`;
+      const res = await fetch(manifestUrl);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const mani = await res.json();
+      if (Array.isArray(mani?.files)) {
+        entries = mani.files.map(f =>
+          typeof f === 'string'
+            ? { file: f, display: f, src }
+            : {
+                file: f.file || f.path || '',
+                display: f.summary ? `${f.summary} (${f.file || f.path || ''})` : (f.file || f.path || JSON.stringify(f)),
+                src,
+              }
+        );
+      } else if (Array.isArray(mani)) {
+        entries = mani.map(f =>
+          typeof f === 'string'
+            ? { file: f, display: f, src }
+            : {
+                file: f.file || f.path || '',
+                display: f.summary ? `${f.summary} (${f.file || f.path || ''})` : (f.file || f.path || JSON.stringify(f)),
+                src,
+              }
+        );
       }
+    }
+
+    if (!entries.length) {
+      manifestStatus.textContent = '清單為空或格式不符。';
       return;
     }
-    manifestStatus.textContent = `載入清單成功，共 ${files.length} 項。點選檔名將自動填入路徑。`;
+
+    manifestStatus.textContent = `載入清單成功，共 ${entries.length} 項。點選檔名將自動填入路徑。`;
     fileList.style.display = 'block';
-    files.forEach(name => {
+    fileListHeader.style.display = 'grid';
+
+    entries.forEach(entry => {
       const item = document.createElement('div');
       item.className = 'list-item';
-      item.textContent = name;
+      const countText = (entry.count ?? '—');
+      const sizeText = (typeof entry.sizeKB === 'number') ? entry.sizeKB.toFixed(1) : '—';
+      item.innerHTML = `<span class="name">${entry.display}</span><span class="count">${countText}</span><span class="size">${sizeText}</span>`;
+      item.title = entry.file || entry.display;
       item.addEventListener('click', () => {
         document.querySelectorAll('.list-item').forEach(el => el.classList.remove('active'));
         item.classList.add('active');
-        jsonPathEl.value = `swagger/${src}/${name}`;
+        const sourcePrefix = entry.src ? `swagger/${entry.src}/` : `swagger/${src}/`;
+        jsonPathEl.value = `${sourcePrefix}${entry.file}`;
       });
       fileList.appendChild(item);
     });
+
+    // When not using auto, we can still compute metrics asynchronously as before
+    if (src !== 'auto') {
+      currentManifestToken = Date.now();
+      throttleUpdateMetrics(entries, src, currentManifestToken);
+    }
   } catch (e) {
     manifestStatus.textContent = `載入清單失敗：${e.message}`;
   }
@@ -157,15 +213,15 @@ loadJsonBtn.addEventListener('click', async () => {
     const res = await fetch(url);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    const rows = extractRows(data);
+    const rows = extractResponseBodyRows(data);
     if (!rows.length) {
-      jsonStatus.textContent = '未找到可呈現的列資料（Array）。已顯示原始物件的鍵值。';
-      renderObject(data);
+      jsonStatus.textContent = '未找到 response.body 為 Array，請確認 JSON 結構。';
+      tableContainer.innerHTML = '<div class="muted">無可呈現的 response.body 陣列。</div>';
       downloadCsvBtn.disabled = true;
       return;
     }
     renderTable(rows);
-    jsonStatus.textContent = `載入成功，共 ${rows.length} 筆。`;
+    jsonStatus.textContent = `載入成功，共 ${rows.length} 筆（僅使用 response.body）。`;
     downloadCsvBtn.disabled = false;
     downloadCsvBtn.onclick = () => downloadCsv(rows, inferFileName(url));
   } catch (e) {
@@ -174,6 +230,16 @@ loadJsonBtn.addEventListener('click', async () => {
     downloadCsvBtn.disabled = true;
   }
 });
+
+function extractResponseBodyRows(obj) {
+  if (obj && typeof obj === 'object') {
+    const resp = obj.response;
+    if (resp && Array.isArray(resp.body)) {
+      return resp.body;
+    }
+  }
+  return [];
+}
 
 function extractRows(obj) {
   if (Array.isArray(obj)) return obj;
@@ -262,6 +328,66 @@ function inferFileName(url) {
     const parts = u.pathname.split('/').filter(Boolean);
     return (parts[parts.length-1] || 'data') + '.csv';
   } catch { return 'data.csv'; }
+}
+
+// New: metrics utilities
+function formatKB(bytes) {
+  const n = Number(bytes);
+  if (!Number.isFinite(n)) return '—';
+  return (Math.round(n / 102.4) / 10).toFixed(1); // one decimal
+}
+
+async function computeMetrics(url) {
+  // try HEAD first for size
+  let sizeText = '—';
+  try {
+    const head = await fetch(url, { method: 'HEAD' });
+    if (head.ok) {
+      const len = head.headers.get('content-length');
+      if (len) sizeText = formatKB(len);
+    }
+  } catch {}
+  // GET once to count rows
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  let count = 0;
+  try {
+    const data = await res.json();
+    const rows = extractResponseBodyRows(data);
+    count = Array.isArray(rows) ? rows.length : 0;
+  } catch {
+    count = 0;
+  }
+  return { count, sizeText };
+}
+
+async function throttleUpdateMetrics(entries, src, token) {
+  const MAX = 5; // concurrency limit
+  const items = Array.from(fileList.querySelectorAll('.list-item'));
+  let idx = 0;
+  async function worker() {
+    while (idx < entries.length) {
+      const i = idx++;
+      if (token !== currentManifestToken) return; // cancelled
+      const entry = entries[i];
+      const item = items[i];
+      const url = `swagger/${src}/${entry.file}`;
+      try {
+        const { count, sizeText } = await computeMetrics(url);
+        const countEl = item.querySelector('.count');
+        const sizeEl = item.querySelector('.size');
+        if (countEl) countEl.textContent = count || '0';
+        if (sizeEl) sizeEl.textContent = sizeText;
+      } catch {
+        const countEl = item.querySelector('.count');
+        const sizeEl = item.querySelector('.size');
+        if (countEl) countEl.textContent = '—';
+        if (sizeEl) sizeEl.textContent = '—';
+      }
+    }
+  }
+  const workers = Array.from({ length: Math.min(MAX, entries.length) }, () => worker());
+  await Promise.all(workers);
 }
 </script>
 </body>
