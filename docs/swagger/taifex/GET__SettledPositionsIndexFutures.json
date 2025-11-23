@@ -1,0 +1,154 @@
+{
+  "path": "/SettledPositionsIndexFutures",
+  "method": "GET",
+  "operationId": null,
+  "summary": "到期契約履約交割-股價指數類（指數期貨）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SettledPositionsIndexFutures",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:50 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "2360",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:25 GMT",
+      "ETag": "\"938-644369a2cdff0\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SettledPositionsIndexFutures.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50cbbd1dd4e1-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺股期貨",
+        "Contract": "TX",
+        "Long(lot)": "5223",
+        "Short(lot)": "7688"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型臺指",
+        "Contract": "MTX",
+        "Long(lot)": "12782",
+        "Short(lot)": "5390"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "電子期貨",
+        "Contract": "TE",
+        "Long(lot)": "179",
+        "Short(lot)": "217"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "金融期貨",
+        "Contract": "TF",
+        "Long(lot)": "206",
+        "Short(lot)": "237"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "非金電期貨",
+        "Contract": "XIF",
+        "Long(lot)": "52",
+        "Short(lot)": "52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "櫃買期貨",
+        "Contract": "GTF",
+        "Long(lot)": "28",
+        "Short(lot)": "28"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺灣生技期貨",
+        "Contract": "BTF",
+        "Long(lot)": "7",
+        "Short(lot)": "7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺灣永續期貨",
+        "Contract": "E4F",
+        "Long(lot)": "15",
+        "Short(lot)": "15"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富櫃200期貨",
+        "Contract": "G2F",
+        "Long(lot)": "54",
+        "Short(lot)": "54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "航運期貨",
+        "Contract": "SHF",
+        "Long(lot)": "3",
+        "Short(lot)": "3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "半導體30期貨",
+        "Contract": "SOF",
+        "Long(lot)": "49",
+        "Short(lot)": "49"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "微型臺指期貨",
+        "Contract": "TMF",
+        "Long(lot)": "18628",
+        "Short(lot)": "6288"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺灣中型100期貨",
+        "Contract": "M1F",
+        "Long(lot)": "167",
+        "Short(lot)": "167"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型電子期貨",
+        "Contract": "ZEF",
+        "Long(lot)": "383",
+        "Short(lot)": "79"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型金融期貨",
+        "Contract": "ZFF",
+        "Long(lot)": "182",
+        "Short(lot)": "58"
+      }
+    ]
+  }
+}

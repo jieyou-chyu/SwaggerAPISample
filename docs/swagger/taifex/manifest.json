@@ -1,0 +1,1082 @@
+[
+  {
+    "file": "GET__CCP_CMLists.json",
+    "path": "/CCP_CMLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "店頭集中結算會員名冊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__productsExemptedAH.json",
+    "path": "/productsExemptedAH",
+    "method": "GET",
+    "operationId": null,
+    "summary": "盤後交易時段指定豁免及非豁免代為沖銷商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SSFAdjustedInfo.json",
+    "path": "/SSFAdjustedInfo",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票期貨/選擇權調整型契約資訊內容",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SSFRefferedOpeningPriceAh.json",
+    "path": "/SSFRefferedOpeningPriceAh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票期貨調整開盤參考價(盤後交易時段)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SSFRefferedOpeningPrice.json",
+    "path": "/SSFRefferedOpeningPrice",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票期貨/選擇權調整開盤參考價",
+    "status_code": 200
+  },
+  {
+    "file": "GET__ContractAdj.json",
+    "path": "/ContractAdj",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票期貨/選擇權契約調整一覽事項",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailyMarketReportFut.json",
+    "path": "/DailyMarketReportFut",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨每日交易行情",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailyMarketReportOpt.json",
+    "path": "/DailyMarketReportOpt",
+    "method": "GET",
+    "operationId": null,
+    "summary": "選擇權每日交易行情",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailyOptionsDelta.json",
+    "path": "/DailyOptionsDelta",
+    "method": "GET",
+    "operationId": null,
+    "summary": "選擇權每日Delta值",
+    "status_code": 200
+  },
+  {
+    "file": "GET__PutCallRatio.json",
+    "path": "/PutCallRatio",
+    "method": "GET",
+    "operationId": null,
+    "summary": "臺指選擇權Put/Call比",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BlockTradeContinuousMatchingSingleOrder.json",
+    "path": "/BlockTradeContinuousMatchingSingleOrder",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易逐筆撮合之單式委託成交",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BlockTradeContinuousMatchingCombinationOrder.json",
+    "path": "/BlockTradeContinuousMatchingCombinationOrder",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易逐筆撮合之組合式委託成交",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BlockTradeNegotiation.json",
+    "path": "/BlockTradeNegotiation",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易議價申報成交",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BlockTrade.json",
+    "path": "/BlockTrade",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易各商品成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersGeneralBytheDate.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersGeneralBytheDate",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-總表-依日期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersGeneralBytheWeek.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersGeneralBytheWeek",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-總表-依週別",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheDate.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheDate",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-區分期貨與選擇權二類-依日期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheWeek.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheWeek",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-區分期貨與選擇權二類-依週別",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheDate.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheDate",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-區分各期貨契約-依日期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheWeek.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheWeek",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-區分各期貨契約-依週別",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheDate.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheDate",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-區分各選擇權契約-依日期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheWeek.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheWeek",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-區分各選擇權契約-依週別",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheDate.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheDate",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-選擇權買賣權分計-依日期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheWeek.json",
+    "path": "/MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheWeek",
+    "method": "GET",
+    "operationId": null,
+    "summary": "三大法人-選擇權買賣權分計-依週別",
+    "status_code": 200
+  },
+  {
+    "file": "GET__OpenInterestOfLargeTradersFutures.json",
+    "path": "/OpenInterestOfLargeTradersFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨大額交易人未沖銷部位資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__OpenInterestOfLargeTradersOptions.json",
+    "path": "/OpenInterestOfLargeTradersOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "選擇權大額交易人未沖銷部位資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailyForeignExchangeRates.json",
+    "path": "/DailyForeignExchangeRates",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日外幣參考匯率",
+    "status_code": 200
+  },
+  {
+    "file": "GET__TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions.json",
+    "path": "/TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "個股類全市場部位限制",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SingleStockFuturesContractReferredOpeningPrice.json",
+    "path": "/SingleStockFuturesContractReferredOpeningPrice",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票期貨契約調整開盤參考價",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FuturesAndOptionsFeeSchedule.json",
+    "path": "/FuturesAndOptionsFeeSchedule",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期交所期貨暨選擇權商品相關費用表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPrice.json",
+    "path": "/FinalSettlementPrice",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsOfContractsOnExpirationDate.json",
+    "path": "/SettledPositionsOfContractsOnExpirationDate",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割",
+    "status_code": 200
+  },
+  {
+    "file": "GET__IndexFuturesAndOptionsMargining.json",
+    "path": "/IndexFuturesAndOptionsMargining",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保證金一覽表-股價指數類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__InterestRateFuturesMargining.json",
+    "path": "/InterestRateFuturesMargining",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保證金一覽表-利率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__GoldFuturesAndOptionsMargining.json",
+    "path": "/GoldFuturesAndOptionsMargining",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保證金一覽表-商品類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SingleStockFuturesMargining.json",
+    "path": "/SingleStockFuturesMargining",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保證金一覽表-股票類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SingleStockFuturesETFMargining.json",
+    "path": "/SingleStockFuturesETFMargining",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保證金一覽表-股票類(ETF)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AcceptableCollateralGovernmentBonds.json",
+    "path": "/AcceptableCollateralGovernmentBonds",
+    "method": "GET",
+    "operationId": null,
+    "summary": "有價證券保證金之可抵繳標的-公債",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AcceptableCollateralInternationalBonds.json",
+    "path": "/AcceptableCollateralInternationalBonds",
+    "method": "GET",
+    "operationId": null,
+    "summary": "有價證券保證金之可抵繳標的-國際債",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AcceptableCollateralStock.json",
+    "path": "/AcceptableCollateralStock",
+    "method": "GET",
+    "operationId": null,
+    "summary": "有價證券保證金之可抵繳標的-股票(含ETF)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetValuePerShareStatement.json",
+    "path": "/NetValuePerShareStatement",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商每股淨值明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AccumulatedIncomeStatementBeforeTaxStatement.json",
+    "path": "/AccumulatedIncomeStatementBeforeTaxStatement",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商稅前累計損益明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Daily_FUT.json",
+    "path": "/Daily_FUT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量日報表－期貨",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Weekly_FUT.json",
+    "path": "/Weekly_FUT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量週報表－期貨",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Monthly_FUT.json",
+    "path": "/Monthly_FUT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量月報表－期貨",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Yearly_FUT.json",
+    "path": "/Yearly_FUT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量年報表－期貨",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Daily_OPT.json",
+    "path": "/Daily_OPT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量日報表－選擇權",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Weekly_OPT.json",
+    "path": "/Weekly_OPT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量週報表－選擇權",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Monthly_OPT.json",
+    "path": "/Monthly_OPT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量月報表－選擇權",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Yearly_OPT.json",
+    "path": "/Yearly_OPT",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量年報表－選擇權",
+    "status_code": 200
+  },
+  {
+    "file": "GET__CustodianBankLists.json",
+    "path": "/CustodianBankLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保管銀行名冊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__CMLists.json",
+    "path": "/CMLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "結算會員名冊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__ClearingBankLists.json",
+    "path": "/ClearingBankLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "結算銀行名冊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FCMLists.json",
+    "path": "/FCMLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商總公司名冊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FCMBranchLists.json",
+    "path": "/FCMBranchLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商分公司名冊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Daily_OPT_W.json",
+    "path": "/Daily_OPT_W",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商交易量週到期選擇權日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__PositionLimitNonEquity.json",
+    "path": "/PositionLimitNonEquity",
+    "method": "GET",
+    "operationId": null,
+    "summary": "交易人部位限制-非個股類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__PositionLimitEquity.json",
+    "path": "/PositionLimitEquity",
+    "method": "GET",
+    "operationId": null,
+    "summary": "交易人部位限制-個股類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__TimeAndSalesData.json",
+    "path": "/TimeAndSalesData",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日期貨每筆成交資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailyVolumeReportOnCalendarSpreadOrders.json",
+    "path": "/DailyVolumeReportOnCalendarSpreadOrders",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日期貨價差委託成交概況表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__TimeAndSalesDataOnCalendarSpreadOrders.json",
+    "path": "/TimeAndSalesDataOnCalendarSpreadOrders",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日期貨價差每筆成交資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__OptionsTimeAndSalesData.json",
+    "path": "/OptionsTimeAndSalesData",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日選擇權每筆成交資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketMakerListsFut.json",
+    "path": "/MarketMakerListsFut",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨商品造市者清單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketMakerListsOpt.json",
+    "path": "/MarketMakerListsOpt",
+    "method": "GET",
+    "operationId": null,
+    "summary": "選擇權商品造市者清單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingVolume.json",
+    "path": "/AnnualTradingVolume",
+    "method": "GET",
+    "operationId": null,
+    "summary": "各商品年成交量統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SSFLists.json",
+    "path": "/SSFLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票期貨交易標的",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SSOLists.json",
+    "path": "/SSOLists",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股票選擇權交易標的",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BTContinuousMatchingSingleOrderFutures.json",
+    "path": "/BTContinuousMatchingSingleOrderFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易逐筆撮合之單式委託成交-期貨商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BTContinuousMatchingSingleOrderOptions.json",
+    "path": "/BTContinuousMatchingSingleOrderOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易逐筆撮合之單式委託成交-選擇權商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BTDailyTradeInformationFutures.json",
+    "path": "/BTDailyTradeInformationFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易各商品成交資訊-期貨商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BTDailyTradeInformationOptions.json",
+    "path": "/BTDailyTradeInformationOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易各商品成交資訊-選擇權商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailySummaryOfBlockTradeFutures.json",
+    "path": "/DailySummaryOfBlockTradeFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易成交量統計-期貨商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__DailySummaryOfBlockTradeOptions.json",
+    "path": "/DailySummaryOfBlockTradeOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易成交量統計-選擇權商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceFutures.json",
+    "path": "/FinalSettlementPriceFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-期貨商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceOptions.json",
+    "path": "/FinalSettlementPriceOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-選擇權商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsFutures.json",
+    "path": "/SettledPositionsFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-期貨商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsOptions.json",
+    "path": "/SettledPositionsOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-選擇權商品",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetValuePerShareS.json",
+    "path": "/NetValuePerShareS",
+    "method": "GET",
+    "operationId": null,
+    "summary": "兼營期貨商每股淨值明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetValuePerShareF.json",
+    "path": "/NetValuePerShareF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "專營期貨商每股淨值明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetValuePerShareR.json",
+    "path": "/NetValuePerShareR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "複委託期貨商每股淨值明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AccumulatedIncomeStateS.json",
+    "path": "/AccumulatedIncomeStateS",
+    "method": "GET",
+    "operationId": null,
+    "summary": "兼營期貨商稅前累計損益明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AccumulatedIncomeStateF.json",
+    "path": "/AccumulatedIncomeStateF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "專營期貨商稅前累計損益明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AccumulatedIncomeStateR.json",
+    "path": "/AccumulatedIncomeStateR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "複委託期貨商稅前累計損益明細表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetIncomeRankingS.json",
+    "path": "/NetIncomeRankingS",
+    "method": "GET",
+    "operationId": null,
+    "summary": "兼營期貨商稅前損益排序表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetIncomeRankingF.json",
+    "path": "/NetIncomeRankingF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "專營期貨商稅前損益排序表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__NetIncomeRankingR.json",
+    "path": "/NetIncomeRankingR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "複委託期貨商稅前損益排序表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__IncomeStatementS.json",
+    "path": "/IncomeStatementS",
+    "method": "GET",
+    "operationId": null,
+    "summary": "兼營期貨商稅前累計損益彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__IncomeStatementF.json",
+    "path": "/IncomeStatementF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "專營期貨商稅前累計損益彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__IncomeStatementR.json",
+    "path": "/IncomeStatementR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "複委託期貨商稅前累計損益彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__EPSBeforeTaxS.json",
+    "path": "/EPSBeforeTaxS",
+    "method": "GET",
+    "operationId": null,
+    "summary": "兼營期貨商每股稅前盈餘統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__EPSBeforeTaxF.json",
+    "path": "/EPSBeforeTaxF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "專營期貨商每股稅前盈餘統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__EPSBeforeTaxR.json",
+    "path": "/EPSBeforeTaxR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "複委託期貨商每股稅前盈餘統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MarketParticipants.json",
+    "path": "/MarketParticipants",
+    "method": "GET",
+    "operationId": null,
+    "summary": "市場參與者統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MonthlyTradingStatisticsFutures.json",
+    "path": "/MonthlyTradingStatisticsFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "期貨各類交易人各商品交易量統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__MonthlyTradingStatisticsOptions.json",
+    "path": "/MonthlyTradingStatisticsOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "選擇權各類交易人各商品交易量統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceSSF.json",
+    "path": "/FinalSettlementPriceSSF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-股票期貨",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceSSO.json",
+    "path": "/FinalSettlementPriceSSO",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-股票選擇權",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceIndexFutures.json",
+    "path": "/FinalSettlementPriceIndexFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-股價指數類（指數期貨）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceIndexOptions.json",
+    "path": "/FinalSettlementPriceIndexOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-股價指數類（指數選擇權）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceIR.json",
+    "path": "/FinalSettlementPriceIR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-利率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceGold.json",
+    "path": "/FinalSettlementPriceGold",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-商品類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FinalSettlementPriceFx.json",
+    "path": "/FinalSettlementPriceFx",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最後結算價-匯率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsIndexFutures.json",
+    "path": "/SettledPositionsIndexFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-股價指數類（指數期貨）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsIndexOptions.json",
+    "path": "/SettledPositionsIndexOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-股價指數類（指數選擇權）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsSSF.json",
+    "path": "/SettledPositionsSSF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-股票類（股票期貨）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsSSO.json",
+    "path": "/SettledPositionsSSO",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-股票類（股票選擇權）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsIR.json",
+    "path": "/SettledPositionsIR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-利率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsGold.json",
+    "path": "/SettledPositionsGold",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-商品類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsFX.json",
+    "path": "/SettledPositionsFX",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-匯率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingIndexFutures.json",
+    "path": "/AnnualTradingIndexFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-股價指數類（指數期貨）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingIndexOptions.json",
+    "path": "/AnnualTradingIndexOptions",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-股價指數類（指數選擇權）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingSSF.json",
+    "path": "/AnnualTradingSSF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-股票類（股票期貨）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingSSO.json",
+    "path": "/AnnualTradingSSO",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-股票類（股票選擇權）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingIR.json",
+    "path": "/AnnualTradingIR",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-利率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingGold.json",
+    "path": "/AnnualTradingGold",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-商品類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__eTradeQty.json",
+    "path": "/eTradeQty",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每月市場電子式交易下單統計（網路與DMA下單）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__STFTop10.json",
+    "path": "/STFTop10",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日股票期貨交易量前十大統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AnnualTradingFX.json",
+    "path": "/AnnualTradingFX",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品年成交量統計-匯率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SettledPositionsFXFutures.json",
+    "path": "/SettledPositionsFXFutures",
+    "method": "GET",
+    "operationId": null,
+    "summary": "到期契約履約交割-匯率期貨類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__FXFuturesAndOptionsMargining.json",
+    "path": "/FXFuturesAndOptionsMargining",
+    "method": "GET",
+    "operationId": null,
+    "summary": "保證金一覽表-匯率類",
+    "status_code": 200
+  },
+  {
+    "file": "GET__AcceptableCollateralLogStock.json",
+    "path": "/AcceptableCollateralLogStock",
+    "method": "GET",
+    "operationId": null,
+    "summary": "有價證券保證金之可抵繳標的增刪紀錄",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va01.json",
+    "path": "/va01",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日股價指數類選擇權未平倉量增減",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va02.json",
+    "path": "/va02",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日個股選擇權未平倉量增減(區分股票與ETF)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va03.json",
+    "path": "/va03",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日商品類選擇權未平倉量增減",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va04.json",
+    "path": "/va04",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股價指數類期貨商品每月平均成交金額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va05.json",
+    "path": "/va05",
+    "method": "GET",
+    "operationId": null,
+    "summary": "個股期貨商品每月平均成交金額(區分股票與ETF)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va06.json",
+    "path": "/va06",
+    "method": "GET",
+    "operationId": null,
+    "summary": "利率期貨商品每月平均成交金額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va07.json",
+    "path": "/va07",
+    "method": "GET",
+    "operationId": null,
+    "summary": "股價指數類選擇權商品每月平均成交金額(權利金)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va08.json",
+    "path": "/va08",
+    "method": "GET",
+    "operationId": null,
+    "summary": "個股選擇權商品每月平均成交金額(權利金-區分股票與ETF)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va09.json",
+    "path": "/va09",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品類期貨每月平均成交金額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va10.json",
+    "path": "/va10",
+    "method": "GET",
+    "operationId": null,
+    "summary": "商品類選擇權每月平均成交金額(權利金)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va11.json",
+    "path": "/va11",
+    "method": "GET",
+    "operationId": null,
+    "summary": "匯率類期貨每月平均成交金額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va12.json",
+    "path": "/va12",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日個股期貨交易量統計表（區分股票與ETF）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va13.json",
+    "path": "/va13",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每月個股期貨交易量統計表（區分股票與ETF）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__va14.json",
+    "path": "/va14",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每年個股期貨交易量統計表（區分股票與ETF）",
+    "status_code": 200
+  }
+]

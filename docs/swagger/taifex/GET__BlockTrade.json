@@ -1,0 +1,45 @@
+{
+  "path": "/BlockTrade",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易各商品成交資訊",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BlockTrade",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:20 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "186",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:15 GMT",
+      "ETag": "\"ba-644368ed3338e\"",
+      "Content-Disposition": "attachment; filename=BlockTrade.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4ba99e044a48-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251120",
+        "Contract": "QFF",
+        "ContractMonth(Week)": "202512",
+        "StrikePrice": "-",
+        "CallPut": "-",
+        "Volume": "1094",
+        "HighestPrice": "1455",
+        "LowestPrice": "1455",
+        "TradingSession": "一般"
+      }
+    ]
+  }
+}

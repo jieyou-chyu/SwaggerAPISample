@@ -1,0 +1,154 @@
+{
+  "path": "/AccumulatedIncomeStateF",
+  "method": "GET",
+  "operationId": null,
+  "summary": "專營期貨商稅前累計損益明細表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AccumulatedIncomeStateF",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:39 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1981",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:43 GMT",
+      "ETag": "\"7bd-6443697a95765\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AccumulatedIncomeStateF.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50852d544a2e-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F021",
+        "FCMName": "元大期貨",
+        "Revenue": "2962375639",
+        "Expense": "3697490433",
+        "NetIncome": "-735114794"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F004",
+        "FCMName": "凱基期貨",
+        "Revenue": "1516328964",
+        "Expense": "2094276222",
+        "NetIncome": "-577947258"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F008",
+        "FCMName": "統一期貨",
+        "Revenue": "592624486",
+        "Expense": "855438544",
+        "NetIncome": "-262814058"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F026",
+        "FCMName": "富邦期貨",
+        "Revenue": "873334397",
+        "Expense": "1087055389",
+        "NetIncome": "-213720992"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F018",
+        "FCMName": "元富期貨",
+        "Revenue": "351663912",
+        "Expense": "504697543",
+        "NetIncome": "-153033631"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F005",
+        "FCMName": "國票期貨",
+        "Revenue": "245540305",
+        "Expense": "337163261",
+        "NetIncome": "-91622956"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F001",
+        "FCMName": "國泰期貨",
+        "Revenue": "435559119",
+        "Expense": "501827899",
+        "NetIncome": "-66268780"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F029",
+        "FCMName": "康和期貨",
+        "Revenue": "431438313",
+        "Expense": "470325636",
+        "NetIncome": "-38887323"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F040",
+        "FCMName": "台新期貨",
+        "Revenue": "248165943",
+        "Expense": "285637563",
+        "NetIncome": "-37471620"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F030",
+        "FCMName": "兆豐期貨",
+        "Revenue": "225607893",
+        "Expense": "250524211",
+        "NetIncome": "-24916318"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F014",
+        "FCMName": "華南期貨",
+        "Revenue": "319073617",
+        "Expense": "340145722",
+        "NetIncome": "-21072105"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F039",
+        "FCMName": "大昌期貨",
+        "Revenue": "129341028",
+        "Expense": "138131467",
+        "NetIncome": "-8790439"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F020",
+        "FCMName": "群益期貨",
+        "Revenue": "2158505411",
+        "Expense": "2095781500",
+        "NetIncome": "62723911"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F002",
+        "FCMName": "永豐期貨",
+        "Revenue": "1028193446",
+        "Expense": "885903537",
+        "NetIncome": "142289909"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F034",
+        "FCMName": "澳帝華期貨",
+        "Revenue": "2257293641",
+        "Expense": "1519982804",
+        "NetIncome": "737310837"
+      }
+    ]
+  }
+}

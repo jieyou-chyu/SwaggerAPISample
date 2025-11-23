@@ -1,0 +1,136 @@
+{
+  "path": "/indicesReport/MI_5MINS_HIST",
+  "method": "GET",
+  "operationId": null,
+  "summary": "發行量加權股價指數歷史資料",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/indicesReport/MI_5MINS_HIST",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:41 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:23:17 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229c5-737\"",
+      "Content-Disposition": "attachment;filename=MI_5MINS_HIST.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "OpeningIndex": "28253.53",
+        "HighestIndex": "28494.99",
+        "LowestIndex": "28150.45",
+        "ClosingIndex": "28334.59"
+      },
+      {
+        "Date": "1141104",
+        "OpeningIndex": "28364.76",
+        "HighestIndex": "28554.61",
+        "LowestIndex": "28033.62",
+        "ClosingIndex": "28116.56"
+      },
+      {
+        "Date": "1141105",
+        "OpeningIndex": "27785.91",
+        "HighestIndex": "27799.09",
+        "LowestIndex": "27373.05",
+        "ClosingIndex": "27717.06"
+      },
+      {
+        "Date": "1141106",
+        "OpeningIndex": "27906.44",
+        "HighestIndex": "28061.53",
+        "LowestIndex": "27879.70",
+        "ClosingIndex": "27899.45"
+      },
+      {
+        "Date": "1141107",
+        "OpeningIndex": "27818.54",
+        "HighestIndex": "27818.54",
+        "LowestIndex": "27621.48",
+        "ClosingIndex": "27651.41"
+      },
+      {
+        "Date": "1141110",
+        "OpeningIndex": "27805.47",
+        "HighestIndex": "27976.89",
+        "LowestIndex": "27680.51",
+        "ClosingIndex": "27869.51"
+      },
+      {
+        "Date": "1141111",
+        "OpeningIndex": "28031.54",
+        "HighestIndex": "28187.70",
+        "LowestIndex": "27784.95",
+        "ClosingIndex": "27784.95"
+      },
+      {
+        "Date": "1141112",
+        "OpeningIndex": "27853.47",
+        "HighestIndex": "28071.76",
+        "LowestIndex": "27799.92",
+        "ClosingIndex": "27947.09"
+      },
+      {
+        "Date": "1141113",
+        "OpeningIndex": "27867.59",
+        "HighestIndex": "28038.24",
+        "LowestIndex": "27811.81",
+        "ClosingIndex": "27903.56"
+      },
+      {
+        "Date": "1141114",
+        "OpeningIndex": "27816.45",
+        "HighestIndex": "27816.45",
+        "LowestIndex": "27383.34",
+        "ClosingIndex": "27397.50"
+      },
+      {
+        "Date": "1141117",
+        "OpeningIndex": "27600.74",
+        "HighestIndex": "27723.77",
+        "LowestIndex": "27447.31",
+        "ClosingIndex": "27447.31"
+      },
+      {
+        "Date": "1141118",
+        "OpeningIndex": "27310.40",
+        "HighestIndex": "27310.40",
+        "LowestIndex": "26756.12",
+        "ClosingIndex": "26756.12"
+      },
+      {
+        "Date": "1141119",
+        "OpeningIndex": "26708.28",
+        "HighestIndex": "26902.97",
+        "LowestIndex": "26580.12",
+        "ClosingIndex": "26580.12"
+      },
+      {
+        "Date": "1141120",
+        "OpeningIndex": "27212.91",
+        "HighestIndex": "27493.63",
+        "LowestIndex": "27183.03",
+        "ClosingIndex": "27426.36"
+      },
+      {
+        "Date": "1141121",
+        "OpeningIndex": "26821.97",
+        "HighestIndex": "26821.97",
+        "LowestIndex": "26395.98",
+        "ClosingIndex": "26434.94"
+      }
+    ]
+  }
+}

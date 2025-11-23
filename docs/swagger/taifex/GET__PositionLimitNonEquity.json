@@ -1,0 +1,251 @@
+{
+  "path": "/PositionLimitNonEquity",
+  "method": "GET",
+  "operationId": null,
+  "summary": "交易人部位限制-非個股類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/PositionLimitNonEquity",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:50 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4277",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:42 GMT",
+      "ETag": "\"10b5-644369402f3ea\"",
+      "Content-Disposition": "attachment; filename=PositionLimitNonEquity.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4c607c698f09-TPE"
+    },
+    "body": [
+      {
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "BTF",
+        "ContractName": "臺灣生技期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "F1F",
+        "ContractName": "英國富時100期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "G2F",
+        "ContractName": "富櫃200期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "GTF",
+        "ContractName": "櫃買期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "MXFFX",
+        "ContractName": "客製化小型臺指期貨",
+        "Individual": "500",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣匯率期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣匯率期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "SHF",
+        "ContractName": "航運期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "SOF",
+        "ContractName": "半導體30期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "SPF",
+        "ContractName": "美國標普500期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "SXF",
+        "ContractName": "美國費城半導體期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "TE",
+        "ContractName": "電子期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "Individual": "2000",
+        "Institution": "6000",
+        "ProprietaryTrader/MarketMaker": "18000"
+      },
+      {
+        "Contract": "TF",
+        "ContractName": "金融期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "Individual": "2000",
+        "Institution": "6000",
+        "ProprietaryTrader/MarketMaker": "18000"
+      },
+      {
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "Individual": "2000",
+        "Institution": "6000",
+        "ProprietaryTrader/MarketMaker": "18000"
+      },
+      {
+        "Contract": "TJF",
+        "ContractName": "東證期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "TX",
+        "ContractName": "臺股期貨",
+        "Individual": "10000",
+        "Institution": "20000",
+        "ProprietaryTrader/MarketMaker": "60000"
+      },
+      {
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權(含Flex)",
+        "Individual": "25000",
+        "Institution": "65000",
+        "ProprietaryTrader/MarketMaker": "195000"
+      },
+      {
+        "Contract": "UDF",
+        "ContractName": "美國道瓊期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "UNF",
+        "ContractName": "美國那斯達克100期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元匯率期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元匯率期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元匯率期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "XIF",
+        "ContractName": "非金電期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      },
+      {
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓匯率期貨",
+        "Individual": "1000",
+        "Institution": "3000",
+        "ProprietaryTrader/MarketMaker": "9000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "path": "/tpex_3insti_qfii_industry",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃各類股僑外資及陸資持股比例表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_3insti_qfii_industry",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:33 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:05 GMT",
+      "ETag": "W/\"6921d739-1433\"",
+      "Content-Disposition": "attachment;filename=tpex_3insti_qfii_industry.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d490c29126e87-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Industry": "光電業",
+        "NumberOfCompanies": "49",
+        "NumberOfSharesIssued": "5381015640",
+        "CurrentlySharesOC/FIHeld": "835418066",
+        "PercentageOfSharesOC/FMIHeld": "15.53%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "其他",
+        "NumberOfCompanies": "44",
+        "NumberOfSharesIssued": "4145812521",
+        "CurrentlySharesOC/FIHeld": "618817275",
+        "PercentageOfSharesOC/FMIHeld": "14.93%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "其他電子業",
+        "NumberOfCompanies": "47",
+        "NumberOfSharesIssued": "3492485253",
+        "CurrentlySharesOC/FIHeld": "417914674",
+        "PercentageOfSharesOC/FMIHeld": "11.97%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "化學工業",
+        "NumberOfCompanies": "14",
+        "NumberOfSharesIssued": "1506801572",
+        "CurrentlySharesOC/FIHeld": "69181920",
+        "PercentageOfSharesOC/FMIHeld": "4.59%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "半導體業",
+        "NumberOfCompanies": "102",
+        "NumberOfSharesIssued": "13598151177",
+        "CurrentlySharesOC/FIHeld": "1886937623",
+        "PercentageOfSharesOC/FMIHeld": "13.88%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "塑膠工業",
+        "NumberOfCompanies": "4",
+        "NumberOfSharesIssued": "353373382",
+        "CurrentlySharesOC/FIHeld": "860683",
+        "PercentageOfSharesOC/FMIHeld": "0.24%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "居家生活",
+        "NumberOfCompanies": "21",
+        "NumberOfSharesIssued": "1150519474",
+        "CurrentlySharesOC/FIHeld": "298137698",
+        "PercentageOfSharesOC/FMIHeld": "25.91%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "建材營造",
+        "NumberOfCompanies": "31",
+        "NumberOfSharesIssued": "5024698258",
+        "CurrentlySharesOC/FIHeld": "95298589",
+        "PercentageOfSharesOC/FMIHeld": "1.9%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "數位雲端",
+        "NumberOfCompanies": "22",
+        "NumberOfSharesIssued": "1455808140",
+        "CurrentlySharesOC/FIHeld": "117823220",
+        "PercentageOfSharesOC/FMIHeld": "8.09%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "文化創意業",
+        "NumberOfCompanies": "26",
+        "NumberOfSharesIssued": "1700583308",
+        "CurrentlySharesOC/FIHeld": "209413722",
+        "PercentageOfSharesOC/FMIHeld": "12.31%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "油電燃氣業",
+        "NumberOfCompanies": "4",
+        "NumberOfSharesIssued": "1032340430",
+        "CurrentlySharesOC/FIHeld": "14385831",
+        "PercentageOfSharesOC/FMIHeld": "1.39%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "生技醫療",
+        "NumberOfCompanies": "94",
+        "NumberOfSharesIssued": "10309929524",
+        "CurrentlySharesOC/FIHeld": "766840835",
+        "PercentageOfSharesOC/FMIHeld": "7.44%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "紡織纖維",
+        "NumberOfCompanies": "10",
+        "NumberOfSharesIssued": "623029468",
+        "CurrentlySharesOC/FIHeld": "31096886",
+        "PercentageOfSharesOC/FMIHeld": "4.99%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "綠能環保",
+        "NumberOfCompanies": "16",
+        "NumberOfSharesIssued": "811538336",
+        "CurrentlySharesOC/FIHeld": "32446156",
+        "PercentageOfSharesOC/FMIHeld": "4%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "航運業",
+        "NumberOfCompanies": "6",
+        "NumberOfSharesIssued": "688331836",
+        "CurrentlySharesOC/FIHeld": "48273423",
+        "PercentageOfSharesOC/FMIHeld": "7.01%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "觀光餐旅",
+        "NumberOfCompanies": "31",
+        "NumberOfSharesIssued": "1866094507",
+        "CurrentlySharesOC/FIHeld": "96868404",
+        "PercentageOfSharesOC/FMIHeld": "5.19%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "資訊服務業",
+        "NumberOfCompanies": "30",
+        "NumberOfSharesIssued": "1426436417",
+        "CurrentlySharesOC/FIHeld": "67651648",
+        "PercentageOfSharesOC/FMIHeld": "4.74%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "農業科技",
+        "NumberOfCompanies": "4",
+        "NumberOfSharesIssued": "261170607",
+        "CurrentlySharesOC/FIHeld": "10971911",
+        "PercentageOfSharesOC/FMIHeld": "4.2%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "通信網路業",
+        "NumberOfCompanies": "47",
+        "NumberOfSharesIssued": "3431702966",
+        "CurrentlySharesOC/FIHeld": "216275922",
+        "PercentageOfSharesOC/FMIHeld": "6.3%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "運動休閒",
+        "NumberOfCompanies": "8",
+        "NumberOfSharesIssued": "739781413",
+        "CurrentlySharesOC/FIHeld": "24435810",
+        "PercentageOfSharesOC/FMIHeld": "3.3%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "金融業",
+        "NumberOfCompanies": "8",
+        "NumberOfSharesIssued": "2838704322",
+        "CurrentlySharesOC/FIHeld": "91171795",
+        "PercentageOfSharesOC/FMIHeld": "3.21%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "鋼鐵工業",
+        "NumberOfCompanies": "19",
+        "NumberOfSharesIssued": "3314924211",
+        "CurrentlySharesOC/FIHeld": "197160571",
+        "PercentageOfSharesOC/FMIHeld": "5.95%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "電器電纜",
+        "NumberOfCompanies": "1",
+        "NumberOfSharesIssued": "57378052",
+        "CurrentlySharesOC/FIHeld": "1150042",
+        "PercentageOfSharesOC/FMIHeld": "2%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "電子通路業",
+        "NumberOfCompanies": "15",
+        "NumberOfSharesIssued": "1098221822",
+        "CurrentlySharesOC/FIHeld": "80316686",
+        "PercentageOfSharesOC/FMIHeld": "7.31%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "電子零組件業",
+        "NumberOfCompanies": "106",
+        "NumberOfSharesIssued": "10050268772",
+        "CurrentlySharesOC/FIHeld": "1049904891",
+        "PercentageOfSharesOC/FMIHeld": "10.45%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "電機機械",
+        "NumberOfCompanies": "49",
+        "NumberOfSharesIssued": "3358852136",
+        "CurrentlySharesOC/FIHeld": "200017075",
+        "PercentageOfSharesOC/FMIHeld": "5.95%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "電腦及週邊設備業",
+        "NumberOfCompanies": "47",
+        "NumberOfSharesIssued": "4146201010",
+        "CurrentlySharesOC/FIHeld": "336560510",
+        "PercentageOfSharesOC/FMIHeld": "8.12%"
+      },
+      {
+        "Date": "1141121",
+        "Industry": "食品工業",
+        "NumberOfCompanies": "8",
+        "NumberOfSharesIssued": "503690797",
+        "CurrentlySharesOC/FIHeld": "6285105",
+        "PercentageOfSharesOC/FMIHeld": "1.25%"
+      }
+    ]
+  }
+}

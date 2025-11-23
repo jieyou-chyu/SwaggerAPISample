@@ -1,0 +1,1384 @@
+{
+  "path": "/AcceptableCollateralStock",
+  "method": "GET",
+  "operationId": null,
+  "summary": "有價證券保證金之可抵繳標的-股票(含ETF)",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AcceptableCollateralStock",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:35 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "16431",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:07 GMT",
+      "ETag": "\"402f-6443691f1a570\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AcceptableCollateralStock.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d4c086dda56e8-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251124",
+        "StockId": "0050",
+        "StockName": "元大台灣50"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "0056",
+        "StockName": "元大高股息"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "006205",
+        "StockName": "富邦上証"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "006206",
+        "StockName": "元大上證50"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00636",
+        "StockName": "國泰中國A50"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00639",
+        "StockName": "富邦深100"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00643",
+        "StockName": "群益深証中小"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00679B",
+        "StockName": "元大美債20年"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00687B",
+        "StockName": "國泰20年美債"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00719B",
+        "StockName": "元大美債1-3"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00757",
+        "StockName": "統一FANG+"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00772B",
+        "StockName": "中信高評級公司債"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00878",
+        "StockName": "國泰永續高股息"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00885",
+        "StockName": "富邦越南"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00893",
+        "StockName": "國泰智能電動車"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00919",
+        "StockName": "群益台灣精選高息"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00923",
+        "StockName": "群益台ESG低碳50"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00929",
+        "StockName": "復華台灣科技優息"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00937B",
+        "StockName": "群益ESG投等債20+"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "00940",
+        "StockName": "元大台灣價值高息"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1101",
+        "StockName": "台泥"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1102",
+        "StockName": "亞泥"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1210",
+        "StockName": "大成"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1216",
+        "StockName": "統一"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1301",
+        "StockName": "台塑"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1303",
+        "StockName": "南亞"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1312",
+        "StockName": "國喬"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1314",
+        "StockName": "中石化"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1319",
+        "StockName": "東陽"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1326",
+        "StockName": "台化"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1402",
+        "StockName": "遠東新"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1440",
+        "StockName": "南紡"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1476",
+        "StockName": "儒鴻"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1477",
+        "StockName": "聚陽"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1503",
+        "StockName": "士電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1504",
+        "StockName": "東元"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1513",
+        "StockName": "中興電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1536",
+        "StockName": "和大"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1565",
+        "StockName": "精華"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1590",
+        "StockName": "亞德客-KY"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1605",
+        "StockName": "華新"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1608",
+        "StockName": "華榮"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1609",
+        "StockName": "大亞"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1707",
+        "StockName": "葡萄王"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1717",
+        "StockName": "長興"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1718",
+        "StockName": "中纖"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1722",
+        "StockName": "台肥"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1795",
+        "StockName": "美時"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1802",
+        "StockName": "台玻"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1904",
+        "StockName": "正隆"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1905",
+        "StockName": "華紙"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1907",
+        "StockName": "永豐餘"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "1909",
+        "StockName": "榮成"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2002",
+        "StockName": "中鋼"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2006",
+        "StockName": "東和鋼鐵"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2014",
+        "StockName": "中鴻"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2027",
+        "StockName": "大成鋼"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2049",
+        "StockName": "上銀"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2059",
+        "StockName": "川湖"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2105",
+        "StockName": "正新"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2201",
+        "StockName": "裕隆"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2207",
+        "StockName": "和泰車"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2231",
+        "StockName": "為升"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2301",
+        "StockName": "光寶科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2303",
+        "StockName": "聯電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2308",
+        "StockName": "台達電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2312",
+        "StockName": "金寶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2313",
+        "StockName": "華通"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2317",
+        "StockName": "鴻海"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2323",
+        "StockName": "中環"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2324",
+        "StockName": "仁寶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2327",
+        "StockName": "國巨*"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2328",
+        "StockName": "廣宇"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2329",
+        "StockName": "華泰"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2330",
+        "StockName": "台積電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2331",
+        "StockName": "精英"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2332",
+        "StockName": "友訊"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2337",
+        "StockName": "旺宏"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2338",
+        "StockName": "光罩"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2340",
+        "StockName": "台亞"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2344",
+        "StockName": "華邦電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2345",
+        "StockName": "智邦"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2347",
+        "StockName": "聯強"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2352",
+        "StockName": "佳世達"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2353",
+        "StockName": "宏碁"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2354",
+        "StockName": "鴻準"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2355",
+        "StockName": "敬鵬"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2356",
+        "StockName": "英業達"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2357",
+        "StockName": "華碩"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2360",
+        "StockName": "致茂"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2367",
+        "StockName": "燿華"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2368",
+        "StockName": "金像電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2371",
+        "StockName": "大同"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2376",
+        "StockName": "技嘉"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2377",
+        "StockName": "微星"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2379",
+        "StockName": "瑞昱"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2382",
+        "StockName": "廣達"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2383",
+        "StockName": "台光電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2385",
+        "StockName": "群光"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2388",
+        "StockName": "威盛"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2392",
+        "StockName": "正崴"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2393",
+        "StockName": "億光"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2395",
+        "StockName": "研華"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2401",
+        "StockName": "凌陽"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2404",
+        "StockName": "漢唐"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2408",
+        "StockName": "南亞科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2409",
+        "StockName": "友達"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2412",
+        "StockName": "中華電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2421",
+        "StockName": "建準"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2439",
+        "StockName": "美律"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2441",
+        "StockName": "超豐"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2449",
+        "StockName": "京元電子"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2454",
+        "StockName": "聯發科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2455",
+        "StockName": "全新"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2457",
+        "StockName": "飛宏"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2458",
+        "StockName": "義隆"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2474",
+        "StockName": "可成"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2481",
+        "StockName": "強茂"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2485",
+        "StockName": "兆赫"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2486",
+        "StockName": "一詮"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2489",
+        "StockName": "瑞軒"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2492",
+        "StockName": "華新科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2498",
+        "StockName": "宏達電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2515",
+        "StockName": "中工"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2520",
+        "StockName": "冠德"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2542",
+        "StockName": "興富發"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2548",
+        "StockName": "華固"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2603",
+        "StockName": "長榮"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2605",
+        "StockName": "新興"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2606",
+        "StockName": "裕民"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2609",
+        "StockName": "陽明"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2610",
+        "StockName": "華航"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2615",
+        "StockName": "萬海"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2618",
+        "StockName": "長榮航"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2633",
+        "StockName": "台灣高鐵"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2634",
+        "StockName": "漢翔"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2801",
+        "StockName": "彰銀"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2834",
+        "StockName": "臺企銀"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2880",
+        "StockName": "華南金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2881",
+        "StockName": "富邦金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2882",
+        "StockName": "國泰金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2883",
+        "StockName": "凱基金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2884",
+        "StockName": "玉山金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2885",
+        "StockName": "元大金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2886",
+        "StockName": "兆豐金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2887",
+        "StockName": "台新新光金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2890",
+        "StockName": "永豐金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2891",
+        "StockName": "中信金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2892",
+        "StockName": "第一金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2912",
+        "StockName": "統一超"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2913",
+        "StockName": "農林"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "2915",
+        "StockName": "潤泰全"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3005",
+        "StockName": "神基"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3006",
+        "StockName": "晶豪科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3008",
+        "StockName": "大立光"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3017",
+        "StockName": "奇鋐"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3019",
+        "StockName": "亞光"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3034",
+        "StockName": "聯詠"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3035",
+        "StockName": "智原"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3036",
+        "StockName": "文曄"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3037",
+        "StockName": "欣興"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3042",
+        "StockName": "晶技"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3044",
+        "StockName": "健鼎"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3045",
+        "StockName": "台灣大"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3078",
+        "StockName": "僑威"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3081",
+        "StockName": "聯亞"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3105",
+        "StockName": "穩懋"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3152",
+        "StockName": "璟德"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3189",
+        "StockName": "景碩"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3227",
+        "StockName": "原相"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3231",
+        "StockName": "緯創"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3260",
+        "StockName": "威剛"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3264",
+        "StockName": "欣銓"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3293",
+        "StockName": "鈊象"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3324",
+        "StockName": "雙鴻"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3374",
+        "StockName": "精材"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3376",
+        "StockName": "新日興"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3380",
+        "StockName": "明泰"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3406",
+        "StockName": "玉晶光"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3443",
+        "StockName": "創意"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3481",
+        "StockName": "群創"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3529",
+        "StockName": "力旺"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3532",
+        "StockName": "台勝科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3533",
+        "StockName": "嘉澤"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3552",
+        "StockName": "同致"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3653",
+        "StockName": "健策"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3661",
+        "StockName": "世芯-KY"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3673",
+        "StockName": "TPK-KY"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3680",
+        "StockName": "家登"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3691",
+        "StockName": "碩禾"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3702",
+        "StockName": "大聯大"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3706",
+        "StockName": "神達"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3711",
+        "StockName": "日月光投控"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "3714",
+        "StockName": "富采"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4123",
+        "StockName": "晟德"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4128",
+        "StockName": "中天"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4162",
+        "StockName": "智擎"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4736",
+        "StockName": "泰博"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4743",
+        "StockName": "合一"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4904",
+        "StockName": "遠傳"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4919",
+        "StockName": "新唐"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4938",
+        "StockName": "和碩"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "4958",
+        "StockName": "臻鼎-KY"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5009",
+        "StockName": "榮剛"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5269",
+        "StockName": "祥碩"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5274",
+        "StockName": "信驊"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5347",
+        "StockName": "世界"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5371",
+        "StockName": "中光電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5388",
+        "StockName": "中磊"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5425",
+        "StockName": "台半"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5457",
+        "StockName": "宣德"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5483",
+        "StockName": "中美晶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5534",
+        "StockName": "長虹"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5871",
+        "StockName": "中租-KY"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5876",
+        "StockName": "上海商銀"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5880",
+        "StockName": "合庫金"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "5904",
+        "StockName": "寶雅"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6005",
+        "StockName": "群益證"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6116",
+        "StockName": "彩晶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6121",
+        "StockName": "新普"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6139",
+        "StockName": "亞翔"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6147",
+        "StockName": "頎邦"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6153",
+        "StockName": "嘉聯益"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6173",
+        "StockName": "信昌電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6176",
+        "StockName": "瑞儀"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6182",
+        "StockName": "合晶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6188",
+        "StockName": "廣明"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6213",
+        "StockName": "聯茂"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6223",
+        "StockName": "旺矽"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6239",
+        "StockName": "力成"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6245",
+        "StockName": "立端"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6257",
+        "StockName": "矽格"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6269",
+        "StockName": "台郡"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6271",
+        "StockName": "同欣電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6274",
+        "StockName": "台燿"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6278",
+        "StockName": "台表科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6279",
+        "StockName": "胡連"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6282",
+        "StockName": "康舒"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6285",
+        "StockName": "啟碁"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6290",
+        "StockName": "良維"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6414",
+        "StockName": "樺漢"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6443",
+        "StockName": "元晶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6472",
+        "StockName": "保瑞"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6488",
+        "StockName": "環球晶"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6505",
+        "StockName": "台塑化"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6510",
+        "StockName": "精測"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6526",
+        "StockName": "達發"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6547",
+        "StockName": "高端疫苗"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6669",
+        "StockName": "緯穎"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6757",
+        "StockName": "台灣虎航"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6770",
+        "StockName": "力積電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "6919",
+        "StockName": "康霈*"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8039",
+        "StockName": "台虹"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8044",
+        "StockName": "網家"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8046",
+        "StockName": "南電"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8069",
+        "StockName": "元太"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8086",
+        "StockName": "宏捷科"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8112",
+        "StockName": "至上"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8150",
+        "StockName": "南茂"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8163",
+        "StockName": "達方"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8299",
+        "StockName": "群聯"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8358",
+        "StockName": "金居"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8436",
+        "StockName": "大江"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "8454",
+        "StockName": "富邦媒"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "9904",
+        "StockName": "寶成"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "9914",
+        "StockName": "美利達"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "9938",
+        "StockName": "百和"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "9939",
+        "StockName": "宏全"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "9945",
+        "StockName": "潤泰新"
+      },
+      {
+        "Date": "20251124",
+        "StockId": "9958",
+        "StockName": "世紀鋼"
+      }
+    ]
+  }
+}

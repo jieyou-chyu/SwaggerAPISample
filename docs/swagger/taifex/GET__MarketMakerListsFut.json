@@ -1,0 +1,358 @@
+{
+  "path": "/MarketMakerListsFut",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期貨商品造市者清單",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/MarketMakerListsFut",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:28 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "5658",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:05 GMT",
+      "ETag": "\"161a-644369563e516\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=MarketMakerListsFut.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d503d7a4ef023-TPE"
+    },
+    "body": [
+      {
+        "FCMCode": "B224999",
+        "FCMName": "中信銀",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "B224999",
+        "FCMName": "中信銀",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "XIF",
+        "ContractName": "非金電期貨"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期自營",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "XIF",
+        "ContractName": "非金電期貨"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證自",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證自",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證自",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "XIF",
+        "ContractName": "非金電期貨"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益證自營",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證自營",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證自營",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證自營",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "BTF",
+        "ContractName": "臺灣生技期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "F1F",
+        "ContractName": "英國富時100期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "G2F",
+        "ContractName": "富櫃200期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "SHF",
+        "ContractName": "航運期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "SOF",
+        "ContractName": "半導體30期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "STF",
+        "ContractName": "股票期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "XIF",
+        "ContractName": "非金電期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "永豐商業銀行",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "永豐商業銀行",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "彰化商業銀行",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "彰化商業銀行",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "中國銀行台北分行",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "中國銀行台北分行",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "中國建設銀行台北分行",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨"
+      },
+      {
+        "FCMCode": "",
+        "FCMName": "中國建設銀行台北分行",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨"
+      }
+    ]
+  }
+}

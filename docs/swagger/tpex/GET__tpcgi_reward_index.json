@@ -1,0 +1,116 @@
+{
+  "path": "/tpcgi_reward_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公司治理指數歷史收盤指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpcgi_reward_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:49 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:49 GMT",
+      "ETag": "W/\"6921d7a1-638\"",
+      "Content-Disposition": "attachment;filename=tpcgi_reward_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d496f69e87aab-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TPExCorporateGovernanceIndex": "224.81",
+        "TPExCorporateGovernanceReturnIndex": "336.10"
+      },
+      {
+        "Date": "1141104",
+        "TPExCorporateGovernanceIndex": "220.68",
+        "TPExCorporateGovernanceReturnIndex": "329.93"
+      },
+      {
+        "Date": "1141105",
+        "TPExCorporateGovernanceIndex": "218.14",
+        "TPExCorporateGovernanceReturnIndex": "326.14"
+      },
+      {
+        "Date": "1141106",
+        "TPExCorporateGovernanceIndex": "222.02",
+        "TPExCorporateGovernanceReturnIndex": "331.94"
+      },
+      {
+        "Date": "1141107",
+        "TPExCorporateGovernanceIndex": "218.29",
+        "TPExCorporateGovernanceReturnIndex": "326.37"
+      },
+      {
+        "Date": "1141110",
+        "TPExCorporateGovernanceIndex": "216.54",
+        "TPExCorporateGovernanceReturnIndex": "323.75"
+      },
+      {
+        "Date": "1141111",
+        "TPExCorporateGovernanceIndex": "216.38",
+        "TPExCorporateGovernanceReturnIndex": "323.51"
+      },
+      {
+        "Date": "1141112",
+        "TPExCorporateGovernanceIndex": "218.58",
+        "TPExCorporateGovernanceReturnIndex": "326.81"
+      },
+      {
+        "Date": "1141113",
+        "TPExCorporateGovernanceIndex": "221.33",
+        "TPExCorporateGovernanceReturnIndex": "330.92"
+      },
+      {
+        "Date": "1141114",
+        "TPExCorporateGovernanceIndex": "216.01",
+        "TPExCorporateGovernanceReturnIndex": "322.96"
+      },
+      {
+        "Date": "1141117",
+        "TPExCorporateGovernanceIndex": "217.34",
+        "TPExCorporateGovernanceReturnIndex": "324.95"
+      },
+      {
+        "Date": "1141118",
+        "TPExCorporateGovernanceIndex": "212.24",
+        "TPExCorporateGovernanceReturnIndex": "317.33"
+      },
+      {
+        "Date": "1141119",
+        "TPExCorporateGovernanceIndex": "208.21",
+        "TPExCorporateGovernanceReturnIndex": "311.30"
+      },
+      {
+        "Date": "1141120",
+        "TPExCorporateGovernanceIndex": "214.22",
+        "TPExCorporateGovernanceReturnIndex": "320.29"
+      },
+      {
+        "Date": "1141121",
+        "TPExCorporateGovernanceIndex": "207.09",
+        "TPExCorporateGovernanceReturnIndex": "309.63"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "path": "/AnnualTradingIR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "商品年成交量統計-利率類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingIR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:56 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "3921",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:47 GMT",
+      "ETag": "\"f51-644369b7e9a6d\"",
+      "Content-Disposition": "attachment; filename=AnnualTradingIR.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50f19c86073c-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2004",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "209561",
+        "NumberOfTradingDays": "150",
+        "AvgDailyTradingVolume": "1397"
+      },
+      {
+        "YYYY": "2004",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "67705",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "271"
+      },
+      {
+        "YYYY": "2005",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "217",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "1"
+      },
+      {
+        "YYYY": "2005",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "2887",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "12"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "40",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "40675",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "164"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "36243",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "147"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "151247",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "612"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "114558",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "460"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "471508",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "1894"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "13149",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "52"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "103949",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "414"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "2",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "27",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "14",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "1",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "CPF",
+        "ContractName": "三十天期利率期貨",
+        "TotalVolume": "8",
+        "NumberOfTradingDays": "110",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "GBF",
+        "ContractName": "十年期公債期貨",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "167",
+        "AvgDailyTradingVolume": "0"
+      }
+    ]
+  }
+}

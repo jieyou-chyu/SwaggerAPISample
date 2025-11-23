@@ -1,0 +1,48 @@
+{
+  "path": "/FinalSettlementPriceFx",
+  "method": "GET",
+  "operationId": null,
+  "summary": "最後結算價-匯率類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FinalSettlementPriceFx",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:50 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "335",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:23 GMT",
+      "ETag": "\"14f-644369a0e3ca0\"",
+      "Content-Disposition": "attachment; filename=FinalSettlementPriceFx.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50c7eb3fa9c8-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "7.1109"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "7.111"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "path": "/MonthlyTradingStatisticsOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "選擇權各類交易人各商品交易量統計表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/MonthlyTradingStatisticsOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:46 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "2962",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:09 GMT",
+      "ETag": "\"b92-6443699379db9\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=MonthlyTradingStatisticsOptions.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d50af3cd7b3a4-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "ContactName": "股價指數選擇權",
+        "TotalVolume": "18125745",
+        "Brokers-Individual(Buy)": "8508649",
+        "Brokers-Individual(Sell)": "8375075",
+        "Brokers-InstutionalInvestors-SecuritiesDealers(Buy)": "11801",
+        "Brokers-InstutionalInvestors-SecuritiesDealers(Sell)": "8792",
+        "Brokers-InstutionalInvestors-SecuritiesInvestmentTrust(Buy)": "80",
+        "Brokers-InstutionalInvestors-SecuritiesInvestmentTrust(Sell)": "40",
+        "Brokers-InstutionalInvestors-Foreign&MainlandAreaInstitutionalInvestors(Buy)": "3875529",
+        "Brokers-InstutionalInvestors-Foreign&MainlandAreaInstitutionalInvestors(Sell)": "3872180",
+        "Brokers-InstutionalInvestors-ManagedFuturesEnterprisesAndFuturesTrustFunds(Buy)": "1136",
+        "Brokers-InstutionalInvestors-ManagedFuturesEnterprisesAndFuturesTrustFunds(Sell)": "3503",
+        "Brokers-InstutionalInvestors-OtherInstitutionalInvesters(Buy)": "46777",
+        "Brokers-InstutionalInvestors-OtherInstitutionalInvesters(Sell)": "44521",
+        "ProprietaryTraders(Buy)": "5681773",
+        "ProprietaryTraders(Sell)": "5821634",
+        "MonthEndOpenInterest": "176045"
+      },
+      {
+        "YYYYMM": "202510",
+        "ContactName": "股票選擇權",
+        "TotalVolume": "19541",
+        "Brokers-Individual(Buy)": "3580",
+        "Brokers-Individual(Sell)": "5371",
+        "Brokers-InstutionalInvestors-SecuritiesDealers(Buy)": "1",
+        "Brokers-InstutionalInvestors-SecuritiesDealers(Sell)": "0",
+        "Brokers-InstutionalInvestors-SecuritiesInvestmentTrust(Buy)": "0",
+        "Brokers-InstutionalInvestors-SecuritiesInvestmentTrust(Sell)": "0",
+        "Brokers-InstutionalInvestors-Foreign&MainlandAreaInstitutionalInvestors(Buy)": "125",
+        "Brokers-InstutionalInvestors-Foreign&MainlandAreaInstitutionalInvestors(Sell)": "97",
+        "Brokers-InstutionalInvestors-ManagedFuturesEnterprisesAndFuturesTrustFunds(Buy)": "0",
+        "Brokers-InstutionalInvestors-ManagedFuturesEnterprisesAndFuturesTrustFunds(Sell)": "0",
+        "Brokers-InstutionalInvestors-OtherInstitutionalInvesters(Buy)": "220",
+        "Brokers-InstutionalInvestors-OtherInstitutionalInvesters(Sell)": "198",
+        "ProprietaryTraders(Buy)": "15615",
+        "ProprietaryTraders(Sell)": "13875",
+        "MonthEndOpenInterest": "8645"
+      },
+      {
+        "YYYYMM": "202510",
+        "ContactName": "商品選擇權",
+        "TotalVolume": "7050",
+        "Brokers-Individual(Buy)": "777",
+        "Brokers-Individual(Sell)": "717",
+        "Brokers-InstutionalInvestors-SecuritiesDealers(Buy)": "0",
+        "Brokers-InstutionalInvestors-SecuritiesDealers(Sell)": "0",
+        "Brokers-InstutionalInvestors-SecuritiesInvestmentTrust(Buy)": "0",
+        "Brokers-InstutionalInvestors-SecuritiesInvestmentTrust(Sell)": "0",
+        "Brokers-InstutionalInvestors-Foreign&MainlandAreaInstitutionalInvestors(Buy)": "0",
+        "Brokers-InstutionalInvestors-Foreign&MainlandAreaInstitutionalInvestors(Sell)": "0",
+        "Brokers-InstutionalInvestors-ManagedFuturesEnterprisesAndFuturesTrustFunds(Buy)": "0",
+        "Brokers-InstutionalInvestors-ManagedFuturesEnterprisesAndFuturesTrustFunds(Sell)": "0",
+        "Brokers-InstutionalInvestors-OtherInstitutionalInvesters(Buy)": "0",
+        "Brokers-InstutionalInvestors-OtherInstitutionalInvesters(Sell)": "0",
+        "ProprietaryTraders(Buy)": "6273",
+        "ProprietaryTraders(Sell)": "6333",
+        "MonthEndOpenInterest": "1268"
+      }
+    ]
+  }
+}

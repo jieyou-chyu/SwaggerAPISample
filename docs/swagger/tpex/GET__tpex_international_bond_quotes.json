@@ -1,0 +1,209 @@
+{
+  "path": "/tpex_international_bond_quotes",
+  "method": "GET",
+  "operationId": null,
+  "summary": "國際債券當日盤中報價行情表(含寶島債)",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_international_bond_quotes",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:55 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:57 GMT",
+      "ETag": "W/\"6921d7a9-ae7\"",
+      "Content-Disposition": "attachment;filename=tpex_international_bond_quotes.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4995de67f023-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F00922",
+        "BondName": "P21BNP2",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F00923",
+        "BondName": "P21BNP3",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F03321",
+        "BondName": "P22UBSLN8",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F03519",
+        "BondName": "P21UBSLN1",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F06107",
+        "BondName": "P24HBEU1",
+        "BidYieldPrice": "099.7500",
+        "AskYieldPrice": "100.2500"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F13714",
+        "BondName": "P19MSF9",
+        "BidYieldPrice": "100.0000",
+        "AskYieldPrice": "100.5000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F13722",
+        "BondName": "P20MSF3",
+        "BidYieldPrice": "100.0000",
+        "AskYieldPrice": "100.5000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F13757",
+        "BondName": "P22MSF2",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F13769",
+        "BondName": "P23MSF2",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F13771",
+        "BondName": "P24MSF2",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F14613",
+        "BondName": "P20JPMCB2",
+        "BidYieldPrice": "099.7500",
+        "AskYieldPrice": "100.2500"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F14615",
+        "BondName": "P21JPMCB2",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F16603",
+        "BondName": "P21ADCBU2",
+        "BidYieldPrice": "099.9500",
+        "AskYieldPrice": "100.4500"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F16902",
+        "BondName": "P21PMH1",
+        "BidYieldPrice": "099.9500",
+        "AskYieldPrice": "100.4500"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F17002",
+        "BondName": "P21WORIC1",
+        "BidYieldPrice": "099.9000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F17602",
+        "BondName": "P24SHC1",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F17901",
+        "BondName": "P21BCI1",
+        "BidYieldPrice": "099.9500",
+        "AskYieldPrice": "100.4500"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F18101",
+        "BondName": "P21SCOCH1",
+        "BidYieldPrice": "099.9500",
+        "AskYieldPrice": "100.4500"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F18503",
+        "BondName": "P23WFC1",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F18706",
+        "BondName": "P23JPCFC4",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      },
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "F19201",
+        "BondName": "P24WFF1",
+        "BidYieldPrice": "099.8000",
+        "AskYieldPrice": "100.3000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "path": "/productsExemptedAH",
+  "method": "GET",
+  "operationId": null,
+  "summary": "盤後交易時段指定豁免及非豁免代為沖銷商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/productsExemptedAH",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:12 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4124",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:40 GMT",
+      "ETag": "\"101c-644369e9ce232\"",
+      "Content-Disposition": "attachment; filename=productsExemptedAH.json",
+      "CF-Cache-Status": "HIT",
+      "Age": "3332",
+      "CF-RAY": "9a2d4b7a0dac80a0-TPE"
+    },
+    "body": [
+      {
+        "Products": "臺股期貨",
+        "TickerSymbol": "TX",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "小型臺指期貨",
+        "TickerSymbol": "MTX",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "微型臺指期貨",
+        "TickerSymbol": "TMF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "電子期貨",
+        "TickerSymbol": "TE",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "臺指選擇權",
+        "TickerSymbol": "TXO",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "美元兌人民幣期貨",
+        "TickerSymbol": "RHF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "小型美元兌人民幣期貨",
+        "TickerSymbol": "RTF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "小型電子期貨",
+        "TickerSymbol": "ZEF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "半導體30期貨",
+        "TickerSymbol": "SOF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "元大台灣50ETF期貨",
+        "TickerSymbol": "NY",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "小型元大台灣50ETF期貨",
+        "TickerSymbol": "SR",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "台積電期貨",
+        "TickerSymbol": "CD",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "小型台積電期貨",
+        "TickerSymbol": "QF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "是",
+        "Date": "20251121"
+      },
+      {
+        "Products": "美元兌日圓期貨",
+        "TickerSymbol": "XJF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "歐元兌美元期貨",
+        "TickerSymbol": "XEF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "美國道瓊期貨",
+        "TickerSymbol": "UDF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "美國標普500期貨",
+        "TickerSymbol": "SPF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "美國那斯達克100期貨",
+        "TickerSymbol": "UNF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "美國費城半導體期貨",
+        "TickerSymbol": "SXF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "英國富時100期貨",
+        "TickerSymbol": "F1F",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "英鎊兌美元期貨",
+        "TickerSymbol": "XBF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "澳幣兌美元期貨",
+        "TickerSymbol": "XAF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "黃金期貨",
+        "TickerSymbol": "GDF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "臺幣黃金期貨",
+        "TickerSymbol": "TGF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "黃金選擇權",
+        "TickerSymbol": "TGO",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      },
+      {
+        "Products": "布蘭特原油期貨",
+        "TickerSymbol": "BRF",
+        "IsProductsExemptedFromLiquidationOnBehalfOfAPrincipalInTheAfterHourSession": "否",
+        "Date": "20251121"
+      }
+    ]
+  }
+}

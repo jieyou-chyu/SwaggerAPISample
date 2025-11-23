@@ -1,0 +1,58 @@
+{
+  "path": "/mopsfin_t187ap29_D_O",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公司合併報表監察人酬金相關資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap29_D_O",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:04 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:21 GMT",
+      "ETag": "W/\"6921d785-272\"",
+      "Content-Disposition": "attachment;filename=mopsfin_t187ap29_D_O.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4b448fe66b86-TPE"
+    },
+    "body": [
+      {
+        "Date": "1140417",
+        "產業類別": "半導體業",
+        "SecuritiesCompanyCode": "7712",
+        "CompanyName": "博盛半導體",
+        "監察人酬金108年支付": "0",
+        "監察人酬金109年支付": "887,774",
+        "監察人酬金合計": "887,774",
+        "酬金總額占稅後損益百分比": "+0.35",
+        "平均每位監察人酬金": "443,887",
+        "領取來自子公司以外轉投資事業或母公司酬金": "0",
+        "稅後純益": "+247,446",
+        "每股盈餘": "8.39",
+        "股東權益報酬率": "17.08",
+        "實收資本額": "325,619",
+        "稅後損益與董監酬金變動之關聯性與合理性說明": "本公司年度董監酬勞均符合公司章程規定，當屬合理。"
+      }
+    ]
+  }
+}

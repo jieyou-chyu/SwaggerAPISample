@@ -1,0 +1,116 @@
+{
+  "path": "/tpex_reward_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "櫃買指數與報酬指數之收市指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_reward_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:50 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:10 GMT",
+      "ETag": "W/\"6921d73e-449\"",
+      "Content-Disposition": "attachment;filename=tpex_reward_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4976e82c313b-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TPExIndex": "265.68",
+        "TPExTotalReturnIndex": "485.01"
+      },
+      {
+        "Date": "1141104",
+        "TPExIndex": "261.00",
+        "TPExTotalReturnIndex": "476.48"
+      },
+      {
+        "Date": "1141105",
+        "TPExIndex": "259.11",
+        "TPExTotalReturnIndex": "473.02"
+      },
+      {
+        "Date": "1141106",
+        "TPExIndex": "262.11",
+        "TPExTotalReturnIndex": "478.50"
+      },
+      {
+        "Date": "1141107",
+        "TPExIndex": "258.86",
+        "TPExTotalReturnIndex": "472.57"
+      },
+      {
+        "Date": "1141110",
+        "TPExIndex": "257.26",
+        "TPExTotalReturnIndex": "469.66"
+      },
+      {
+        "Date": "1141111",
+        "TPExIndex": "256.70",
+        "TPExTotalReturnIndex": "468.64"
+      },
+      {
+        "Date": "1141112",
+        "TPExIndex": "258.82",
+        "TPExTotalReturnIndex": "472.50"
+      },
+      {
+        "Date": "1141113",
+        "TPExIndex": "260.30",
+        "TPExTotalReturnIndex": "475.21"
+      },
+      {
+        "Date": "1141114",
+        "TPExIndex": "256.25",
+        "TPExTotalReturnIndex": "467.82"
+      },
+      {
+        "Date": "1141117",
+        "TPExIndex": "255.96",
+        "TPExTotalReturnIndex": "467.28"
+      },
+      {
+        "Date": "1141118",
+        "TPExIndex": "250.06",
+        "TPExTotalReturnIndex": "456.52"
+      },
+      {
+        "Date": "1141119",
+        "TPExIndex": "246.70",
+        "TPExTotalReturnIndex": "450.37"
+      },
+      {
+        "Date": "1141120",
+        "TPExIndex": "252.95",
+        "TPExTotalReturnIndex": "461.79"
+      },
+      {
+        "Date": "1141121",
+        "TPExIndex": "245.97",
+        "TPExTotalReturnIndex": "449.04"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4031 @@
+{
+  "path": "/news/newsList",
+  "method": "GET",
+  "operationId": null,
+  "summary": "證交所新聞",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/news/newsList",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:27 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:20:28 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"6922291c-2dcdd\"",
+      "Content-Disposition": "attachment;filename=newsList.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Title": "證交所參與2025 Meet Taipei Neo Star Demo Show，頒發獎金予前三名得獎團隊，「創新獨角獸新聚落」主題館獲新創生態圈高度關注",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa64f4c9b02a5",
+        "Date": "1141121"
+      },
+      {
+        "Title": "向榮生技自本（114）年11月24日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa5a6a6510299",
+        "Date": "1141121"
+      },
+      {
+        "Title": "上市公司114年第3季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa5544b6f0288",
+        "Date": "1141121"
+      },
+      {
+        "Title": "臺灣證券交易所響應2025年WFE「氣候倡議敲鐘」活動，與碳交所共同推動自然碳匯合作並強化溫室氣體專業認證",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa5d5dd9002a1",
+        "Date": "1141121"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為3.51%，上市股票總市值達85.54兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa5cfd9c6029d",
+        "Date": "1141121"
+      },
+      {
+        "Title": "臺灣證券交易所訂於11月25日召開有價證券上市審議委員會第869次會議，將審議溢泰實業(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa59f58f50294",
+        "Date": "1141121"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號: 2236）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa59314d10290",
+        "Date": "1141121"
+      },
+      {
+        "Title": "全體證券商114年10月份稅後淨利133.18億元，累計稅後淨利876.85億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa57cf4b7028c",
+        "Date": "1141121"
+      },
+      {
+        "Title": "雲象科技(股)公司於114年11月21日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa536a9520283",
+        "Date": "1141121"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過泰宗生物科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019aa0c7e4f9026e",
+        "Date": "1141120"
+      },
+      {
+        "Title": "資本市場服務團再出擊 攜手與勤業眾信舉辦推動優質企業邁入資本市場座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9bd637630240",
+        "Date": "1141119"
+      },
+      {
+        "Title": "115年事前登記股東常會日期每日限額80家  證交所舉辦兩次模擬測試",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9b7350ec023c",
+        "Date": "1141119"
+      },
+      {
+        "Title": "創新板獨角獸tibit首度亮相Meet Taipei！證交所連續第4年參展、打造創新獨角獸新聚落",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9b62e4b30237",
+        "Date": "1141119"
+      },
+      {
+        "Title": "證交所舉辦114年度證券經紀商及自營商高階主管業務宣導會暨113年機構投資人盡職治理資訊揭露優良證券商頒獎典禮圓滿成功",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9684633f0221",
+        "Date": "1141118"
+      },
+      {
+        "Title": "崴寶（證券代號：7744）採競價拍賣方式辦理承銷，於今（11/18）日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9682b9ad021d",
+        "Date": "1141118"
+      },
+      {
+        "Title": "鴻勁（證券代號：7769）採競價拍賣方式辦理承銷，於今（11/18）日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9680c48f0219",
+        "Date": "1141118"
+      },
+      {
+        "Title": "臺灣證券交易所訂於11月20日召開有價證券上市審議委員會第868次會議，將審議泰宗生物科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a96472b970215",
+        "Date": "1141118"
+      },
+      {
+        "Title": "永擎電子股份有限公司股票自114年11月19日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9641b5fb0211",
+        "Date": "1141118"
+      },
+      {
+        "Title": "臺灣證券交易所舉辦年度證券商金融零信任會議",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a96386da5020d",
+        "Date": "1141118"
+      },
+      {
+        "Title": "招募倒數計時！證交所廣邀科技人才開創AI新時代",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9630bbf20209",
+        "Date": "1141118"
+      },
+      {
+        "Title": "臺灣證券交易所接獲高福化學工業股份有限公司(代號：4773)函知撤回其申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a9167cab201ed",
+        "Date": "1141117"
+      },
+      {
+        "Title": "115年度ESG評鑑宣導會自本（114）年12月1日起跑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a91456f3901e9",
+        "Date": "1141117"
+      },
+      {
+        "Title": "上市公司114年第3季財報形式審閱結果處置情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a913a025401e5",
+        "Date": "1141117"
+      },
+      {
+        "Title": "東方風能科技股份有限公司股票自114年11月18日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a91152f9f01dc",
+        "Date": "1141117"
+      },
+      {
+        "Title": "全體上市公司（不含金控業）114年前三季營收成長13.07%、獲利成長11.00%，基本面穩健",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a91020d1e01cf",
+        "Date": "1141117"
+      },
+      {
+        "Title": "上週外資在集中市場賣超981.78億元，賣超長榮航7.64萬張最多，另買超力積電9.05萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a907903ce01af",
+        "Date": "1141117"
+      },
+      {
+        "Title": "臺灣創新板獨角獸tibit正式登場！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a8fbc661e01a2",
+        "Date": "1141117"
+      },
+      {
+        "Title": "本國及第一上市公司(不含金融控股公司)均已申報114年第3季財務報告",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a81f2a092018c",
+        "Date": "1141114"
+      },
+      {
+        "Title": "主動出擊 掌握債市脈動：主動式債券ETF，提供資產配置新利器！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a81bf08b30188",
+        "Date": "1141114"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.92%，上市股票總市值達88.59兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a81a4654d017c",
+        "Date": "1141114"
+      },
+      {
+        "Title": "資拓宏宇 (證券代號： 6614)採競價拍賣方式辦理承銷，於今(11/14)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a818d30810177",
+        "Date": "1141114"
+      },
+      {
+        "Title": "華豫寧 (證券代號： 6474)採競價拍賣方式辦理承銷，於今(11/14)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a818142fc0173",
+        "Date": "1141114"
+      },
+      {
+        "Title": "邁科 (證券代號： 6831)採競價拍賣方式辦理承銷，於今(11/14)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a8179af2c016f",
+        "Date": "1141114"
+      },
+      {
+        "Title": "證交所號召新世代人才　共創金融商品新紀元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a8104af23016a",
+        "Date": "1141114"
+      },
+      {
+        "Title": "臺灣證券交易所對臺灣中華化學工業股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7cd8c33f0160",
+        "Date": "1141113"
+      },
+      {
+        "Title": "開放創新板股票自114年11月17日起得列入當沖交易標的",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7cd1d1cb015c",
+        "Date": "1141113"
+      },
+      {
+        "Title": "森崴能源股份有限公司(森崴能源，公司代號：6806)上市普通股自114年11月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7cbe64790158",
+        "Date": "1141113"
+      },
+      {
+        "Title": "正崴精密工業股份有限公司(正崴，公司代號：2392)上市普通股及以其為標的之上市認購(售)權證自114年11月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7cbaa0b90154",
+        "Date": "1141113"
+      },
+      {
+        "Title": "永崴投資控股股份有限公司(永崴投控，公司代號：3712)上市普通股及以其為標的之上市認購(售)權證自114年11月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7cb6ac370150",
+        "Date": "1141113"
+      },
+      {
+        "Title": "臺灣證券交易所對中國石油化學工業開發股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7ca83fe5014c",
+        "Date": "1141113"
+      },
+      {
+        "Title": "正崴精密工業股份有限公司(正崴，公司代號：2392)上市普通股及以其為標的之認購(售)權證自114年11月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a77e56ff90147",
+        "Date": "1141112"
+      },
+      {
+        "Title": "永崴投資控股股份有限公司(永崴投控，公司代號：3712)上市普通股及以其為標的之認購（售）權證自114年11月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a77b848210143",
+        "Date": "1141112"
+      },
+      {
+        "Title": "森崴能源股份有限公司(森崴能源，公司代號：6806)上市普通股自114年11月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a7797abda013f",
+        "Date": "1141112"
+      },
+      {
+        "Title": "證交所舉辦114年度證券商反詐騙評鑑活動頒獎典禮及證券商從業人員反詐騙宣導座談會圓滿成功，展現證券業界共同防詐的決心與行動力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a727c7fdd0137",
+        "Date": "1141111"
+      },
+      {
+        "Title": "證交所辦理「創新板中介機構座談及交流會」，共創優質前瞻企業登板新契機",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a727aadc50133",
+        "Date": "1141111"
+      },
+      {
+        "Title": "臺灣證券交易所對隴華電子股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a722c85be012e",
+        "Date": "1141111"
+      },
+      {
+        "Title": "全體上市公司114年10月份當月營收較113年同期成長11.45％，累計營業收入較113年同期成長12.5％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a721f4a21012a",
+        "Date": "1141111"
+      },
+      {
+        "Title": "亞洲資產管理中心推動辦公室參展「2025台北國際金融博覽會」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6d47fdd10102",
+        "Date": "1141110"
+      },
+      {
+        "Title": "投資不一定要複雜！市值型ETF：簡單明確的投資策略",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6d3f2b7c00fe",
+        "Date": "1141110"
+      },
+      {
+        "Title": "「IFRS永續揭露準則宣導會」圓滿落幕，上市櫃公司踴躍參與展現永續行動力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6d2ed55400fa",
+        "Date": "1141110"
+      },
+      {
+        "Title": "臺灣證券交易所對鼎炫投資控股股份有限公司（鼎炫-KY，公司代號:8499）違反重大訊息規定，處以新台幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6d281d5f00f6",
+        "Date": "1141110"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過倍利科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6d220fc700f2",
+        "Date": "1141110"
+      },
+      {
+        "Title": "創新板神秘嘉賓即將登場　嶄露頭角的創新力量蓄勢綻放",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6ccd13e800eb",
+        "Date": "1141110"
+      },
+      {
+        "Title": "永擎(證券代號：7711)採競價拍賣方式辦理承銷，於今(11/10)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6c7c2a8900e7",
+        "Date": "1141110"
+      },
+      {
+        "Title": "上週外資在集中市場賣超1,141.22億元，賣超友達9.37萬張最多，另買超永豐金5.19萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6c6107aa00e3",
+        "Date": "1141110"
+      },
+      {
+        "Title": "證交所徵菁英 共築亞資願景，推動臺灣成為亞洲資產管理中心",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a6b71d41d00df",
+        "Date": "1141110"
+      },
+      {
+        "Title": "資本市場服務團攜手富邦證券 助力企業邁向資本市場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5de9d8ff00d2",
+        "Date": "1141107"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過大東電業廠股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5dd20e8600ce",
+        "Date": "1141107"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為2.06%，上市股票總市值達89.40兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5dccb65200ca",
+        "Date": "1141107"
+      },
+      {
+        "Title": "2025年10月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5dc6c6fc00c6",
+        "Date": "1141107"
+      },
+      {
+        "Title": "東方風能 (證券代號： 7786)採競價拍賣方式辦理承銷，於今(11/7)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5d57b24700c1",
+        "Date": "1141107"
+      },
+      {
+        "Title": "臺灣證券交易所對三商美邦人壽保險股份有限公司違反重大訊息規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5d2b720d00bb",
+        "Date": "1141107"
+      },
+      {
+        "Title": "臺灣證券交易所對玉山金融控股股份有限公司違反重大訊息規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5d2581ce00b7",
+        "Date": "1141107"
+      },
+      {
+        "Title": "資本市場服務團攜手台新證券 共同舉辦「推動優質企業邁向資本市場」座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a58d596de0089",
+        "Date": "1141106"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號: 2236）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a58bf87580085",
+        "Date": "1141106"
+      },
+      {
+        "Title": "萊德光電-KY (證券代號：7717)採競價拍賣方式辦理承銷，於今(11/6)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a58b2b3820081",
+        "Date": "1141106"
+      },
+      {
+        "Title": "嘉實 (證券代號：3158)採競價拍賣方式辦理承銷，於今(11/6)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a58aa8401007d",
+        "Date": "1141106"
+      },
+      {
+        "Title": "臺灣證券交易所訂於11月10日召開有價證券上市審議委員會第867次會議，將審議倍利科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a588252a30077",
+        "Date": "1141106"
+      },
+      {
+        "Title": "期街口布蘭特正2 ETF(00715L)將進行反分割作業，114年12月10日為新受益憑證上市買賣日",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a587a81820072",
+        "Date": "1141106"
+      },
+      {
+        "Title": "2025年第4季MSCI指數臺股權重調整結果",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a57d6198c006d",
+        "Date": "1141106"
+      },
+      {
+        "Title": "三商投資控股股份有限公司（三商，公司代號：2905）上市普通股自114年11月6日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a53bd75f30069",
+        "Date": "1141105"
+      },
+      {
+        "Title": "三商美邦人壽保險股份有限公司（三商壽，公司代號：2867）上市普通股自114年11月6日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a53bbc4ab0065",
+        "Date": "1141105"
+      },
+      {
+        "Title": "玉山金融控股股份有限公（玉山金，公司代號：2884）上市普通股及以其為標的之上市認購（售）權證自114年11月6日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a53ba148c0061",
+        "Date": "1141105"
+      },
+      {
+        "Title": "臺灣證券交易所訂於11月7日召開有價證券上市審議委員會第866次會議，將審議大東電業廠(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a5316603a005c",
+        "Date": "1141105"
+      },
+      {
+        "Title": "證交所參與11月8日金融服務愛心公益嘉年華　以行動落實金融教育與社會關懷",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a526467290055",
+        "Date": "1141105"
+      },
+      {
+        "Title": "三商投資控股股份有限公司（三商，公司代號：2905）上市普通股自114年11月5日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4e7cb1410051",
+        "Date": "1141104"
+      },
+      {
+        "Title": "三商美邦人壽保險股份有限公司（三商壽，公司代號：2867）上市普通股自114年11月5日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4e7a43d3004d",
+        "Date": "1141104"
+      },
+      {
+        "Title": "玉山金融控股股份有限公司（玉山金，公司代號：2884）上市普通股及以其為標的之認購（售）權證自114年11月5日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4e78608a0049",
+        "Date": "1141104"
+      },
+      {
+        "Title": "上市公司114年第3季財務報告公告申報期限及注意事項",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4e07d1e00040",
+        "Date": "1141104"
+      },
+      {
+        "Title": "證交所擴大招募新佈局 搶攻跨界優世代",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4c9bcd940033",
+        "Date": "1141104"
+      },
+      {
+        "Title": "助力上市櫃公司強化碳盤查能力  溫室氣體盤查實作宣導會圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a49447f96002d",
+        "Date": "1141103"
+      },
+      {
+        "Title": "臺灣證券交易所對鴻準精密工業股份有限公司違反重大訊息規定，處以新台幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a491d1b720029",
+        "Date": "1141103"
+      },
+      {
+        "Title": "暉盛科技股份有限公司股票自114年11月4日於臺灣創新板上市開始買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a49137b090024",
+        "Date": "1141103"
+      },
+      {
+        "Title": "臺灣證券交易所對弘憶國際股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4908b9220020",
+        "Date": "1141103"
+      },
+      {
+        "Title": "永鴻生技自本（114）年11月4日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a4902f56a001c",
+        "Date": "1141103"
+      },
+      {
+        "Title": "統一投信募集發行之主動統一全球創新ETF，自114年11月5日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a48fcd9310018",
+        "Date": "1141103"
+      },
+      {
+        "Title": "上週外資在集中市場賣超140.27億元，賣超玉山金22.86萬張最多，另買超力積電11.63萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a486fdfde0013",
+        "Date": "1141103"
+      },
+      {
+        "Title": "臺灣證券交易所鼓勵上市公司響應「Power UpTW 提升企業價值計畫」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69a3d6cf9019a48695cbc000f",
+        "Date": "1141103"
+      },
+      {
+        "Title": "臺灣證券交易所對譁裕實業股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a39de357504bc",
+        "Date": "1141031"
+      },
+      {
+        "Title": "臺灣證券交易所接獲吉晟生技股份有限公司(代號：7762)函知撤回其股票創新板上市申請案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a39dcd14f04b8",
+        "Date": "1141031"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.55%，上市股票總市值達91.23兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a39db29c604b4",
+        "Date": "1141031"
+      },
+      {
+        "Title": "證交所發布115年度（第一屆）ESG評鑑指標",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a384189760499",
+        "Date": "1141031"
+      },
+      {
+        "Title": "StemCyte International, Ltd.(永笙生技(股)公司)於114年10月30日送件申請股票第一上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a34ed34110480",
+        "Date": "1141030"
+      },
+      {
+        "Title": "證交所攜手SIT參與新加坡SWITCH 2025，推廣臺灣創新板",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a34cc91ba0479",
+        "Date": "1141030"
+      },
+      {
+        "Title": "證交所以創意翻轉防詐教育 「5D反詐行動」榮獲金管會金融教育貢獻獎最佳創新銅質獎",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a3483e157044c",
+        "Date": "1141030"
+      },
+      {
+        "Title": "自114年11月3日起，同泰電子科技股份有限公司（同泰，公司代號：3321）上市有價證券恢復交易方法",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a349c56b30452",
+        "Date": "1141030"
+      },
+      {
+        "Title": "臺灣證券交易所針對北極星藥業集團股份有限公司（北極星藥業-KY，公司代號:6550）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2f2a1c6b0439",
+        "Date": "1141029"
+      },
+      {
+        "Title": "WFE年會 證交所分享臺灣ETF普惠金融盛況",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2f0e08b10434",
+        "Date": "1141029"
+      },
+      {
+        "Title": "微矽電子-創自本（114）年10月30日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2ed28b640430",
+        "Date": "1141029"
+      },
+      {
+        "Title": "臺灣證券交易所對臺灣水泥股份有限公司違反內部控制制度規定，處以新台幣10萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2a63ab3d042c",
+        "Date": "1141028"
+      },
+      {
+        "Title": "證交所舉辦「永續報告書編製實務與公司治理評鑑說明課程」 協助創新板企業強化ESG管理基礎",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2a5bd6d70428",
+        "Date": "1141028"
+      },
+      {
+        "Title": "神達數位(股)公司於114年10月28日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2a59b1bc0424",
+        "Date": "1141028"
+      },
+      {
+        "Title": "新加坡精密工程科技協會SPETA來訪證交所，東南亞創新資本平台鏈結臺星企業交流",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2a5275610420",
+        "Date": "1141028"
+      },
+      {
+        "Title": "臺灣週系列活動全部圓滿落幕，成功展現我國經濟實力及資本市場新高度",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a2899f1de0419",
+        "Date": "1141028"
+      },
+      {
+        "Title": "皇家可口股份有限公司股票自114年10月28日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a252a442d0415",
+        "Date": "1141027"
+      },
+      {
+        "Title": "頌勝科技材料(股)公司於114年10月27日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a250a0e010411",
+        "Date": "1141027"
+      },
+      {
+        "Title": "證交所推動創新板新篇章　臺灣創新力量 嶄露頭角",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a24d3aa0e040c",
+        "Date": "1141027"
+      },
+      {
+        "Title": "上週外資在集中市場賣超323.68億元，賣超仁寶6.34萬張最多，另買超華邦電6.74萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a244187f70406",
+        "Date": "1141027"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過富田電機股份有限公司初次申請創新板股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a10829fe203fc",
+        "Date": "1141023"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.84%，上市股票總市值達88.93兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a1077163503f8",
+        "Date": "1141023"
+      },
+      {
+        "Title": "臺灣證券交易所針對光麗生技控股股份有限公司（光麗-KY，證券代號: 6431）違反重大訊息規定，處以新臺幣3萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a106bf62903f4",
+        "Date": "1141023"
+      },
+      {
+        "Title": "喬福機械工業股份有限公司等25家公司預計於114年11月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0fe336c903ea",
+        "Date": "1141023"
+      },
+      {
+        "Title": "暉盛(證券代號：7730)採競價拍賣方式辦理承銷，於今(10/23)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0fd95a8f03e6",
+        "Date": "1141023"
+      },
+      {
+        "Title": "資本市場服務團再出擊 證交所攜手PwC推動優質企業邁向資本市場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0bc6dcb303de",
+        "Date": "1141022"
+      },
+      {
+        "Title": "頂尖國際資產管理機構挺臺再加一！摩根投信首檔主動式ETF「摩根大美國領先科技」於證交所風光上市，展現主動式管理硬實力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0b107f2d03d9",
+        "Date": "1141022"
+      },
+      {
+        "Title": "亞洲創新籌資平臺啟動典禮、產業創新日論壇暨亞洲創新盃決賽圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a09bc300d0391",
+        "Date": "1141022"
+      },
+      {
+        "Title": "臺灣證券交易所訂於10月23日召開有價證券上市審議委員會第865次會議，將審議富田電機(股)公司之申請股票創新板上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0648f707038a",
+        "Date": "1141021"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號: 2236）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0119a2ea036c",
+        "Date": "1141020"
+      },
+      {
+        "Title": "亞洲創新籌資平臺推出！證交所將再次鬆綁創新板及外國企業上市制度",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a0108c6540368",
+        "Date": "1141020"
+      },
+      {
+        "Title": "國際重量級主動式ETF發行人報到！摩根投信在臺首發「摩根大美國領先科技主動式ETF」，自114年10月22日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a00f87eb50364",
+        "Date": "1141020"
+      },
+      {
+        "Title": "全球最大品牌iShares來了！貝萊德首檔ETF正式掛牌證交所　臺灣成為亞太新重點市場 國際資金深化布局",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a00e99e5c0360",
+        "Date": "1141020"
+      },
+      {
+        "Title": "上週外資在集中市場賣超968.00億元，賣超華新7.35萬張最多，另買超凱基金8.37萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019a004eca310359",
+        "Date": "1141020"
+      },
+      {
+        "Title": "為期3天的「ETF投資博覽會」圓滿落幕 民眾參與踴躍",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ff98dc42034d",
+        "Date": "1141020"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.002%，上市股票總市值達88.18兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199f1b1f4be0346",
+        "Date": "1141017"
+      },
+      {
+        "Title": "臺灣週活動「ETF投資博覽會」高雄展覽館盛大開幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199f17fa1820341",
+        "Date": "1141017"
+      },
+      {
+        "Title": "宏碁遊戲(股)公司於114年10月17日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199f1239760033a",
+        "Date": "1141017"
+      },
+      {
+        "Title": "全體證券商114年9月份稅後淨利125.22億元，累計稅後淨利743.67億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199f10744010335",
+        "Date": "1141017"
+      },
+      {
+        "Title": "臺灣週活動－第15屆臺北公司治理論壇圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ec8e170b0326",
+        "Date": "1141016"
+      },
+      {
+        "Title": "光速火箭(證券代號：7782)採競價拍賣方式辦理承銷，於今(10/16)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ec71d2c20322",
+        "Date": "1141016"
+      },
+      {
+        "Title": "昱臺國際(證券代號：7716)採競價拍賣方式辦理承銷，於今(10/16)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ec6fd6f4031e",
+        "Date": "1141016"
+      },
+      {
+        "Title": "皇家可口(證券代號：7791)採競價拍賣方式辦理承銷，於今(10/16)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ec6e118c0319",
+        "Date": "1141016"
+      },
+      {
+        "Title": "證交所上市ETF再添國際重量級成員! 全球知名ETF品牌-iShares來臺首發! 「貝萊德iShares安碩標普500卓越50ETF」，自114年10月20日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ec6c8e020315",
+        "Date": "1141016"
+      },
+      {
+        "Title": "臺灣週活動－亞洲資本市場高峰論壇圓滿召開，匯聚國際金融領袖，擘畫亞洲資產管理新藍圖",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199ec5010bb0308",
+        "Date": "1141016"
+      },
+      {
+        "Title": "臺灣週活動－「亞洲資產管理中心論壇」與「IR &Engagement新趨勢」雙論壇圓滿落幕凝聚共識推動臺灣資本市場迎向更開放更韌性的金融新時代",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199eae2b48e02e8",
+        "Date": "1141016"
+      },
+      {
+        "Title": "證交所再迎國際主動式ETF巨擘，摩根投信在臺首檔主動式ETF即將掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e74029ad02e2",
+        "Date": "1141015"
+      },
+      {
+        "Title": "富邦科技ETF(0052)將進行分割作業，114年11月26日為新受益憑證上市買賣日",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e739f39702de",
+        "Date": "1141015"
+      },
+      {
+        "Title": "創新板向榮生醫科技股份有限公司股票自114年10月16日開始改列上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e7384e4e02d9",
+        "Date": "1141015"
+      },
+      {
+        "Title": "溢泰實業(股)公司於114年10月15日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e73647a802d5",
+        "Date": "1141015"
+      },
+      {
+        "Title": "松川精密股份有限公司股票自114年10月16日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e7336f8302d1",
+        "Date": "1141015"
+      },
+      {
+        "Title": "「2025臺灣週」今日隆重開幕國內外重要機構及貴賓雲集！展現打造亞洲資產管理中心決心",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e629cdd002c5",
+        "Date": "1141015"
+      },
+      {
+        "Title": "主動債ETF搶進證交所上市！主動富邦動態入息ETF、主動富邦複合收益ETF及被動式富邦淨零ESG50 ETF三檔齊發",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e230250402ba",
+        "Date": "1141014"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過奧義賽博科技股份有限公司(CyCraft Technology Corporation)初次申請股票創新板第一上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e21a059a02b2",
+        "Date": "1141014"
+      },
+      {
+        "Title": "泰宗生物科技(股)公司於114年10月14日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e210b42502ad",
+        "Date": "1141014"
+      },
+      {
+        "Title": "全體上市公司114年9月份當月營收較113年同期成長15.37％，累計營業收入較113年同期成長12.64％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199e17d6c32029d",
+        "Date": "1141014"
+      },
+      {
+        "Title": "2025年9月暨第三季集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199dd33ee7c0297",
+        "Date": "1141013"
+      },
+      {
+        "Title": "全球知名ETF iShares登陸臺灣!資產管理龍頭貝萊德投信在台首檔ETF即將於證交所掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199dd1d10420293",
+        "Date": "1141013"
+      },
+      {
+        "Title": "證交所第22屆「校園證券投資智慧王」競賽活動熱烈報名中，冠軍隊伍將獨得12萬元，總獎金超過80萬元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199dcd473ae0283",
+        "Date": "1141013"
+      },
+      {
+        "Title": "上市公司反應熱烈，證交所辦理6場次「防範內線交易宣導會」積極宣導法令遵循",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199dc25ba4e0277",
+        "Date": "1141013"
+      },
+      {
+        "Title": "上週外資在集中市場賣超89.67億元，賣超華邦電4.90萬張最多，另買超台新新光金10.47萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199dc0c1c880273",
+        "Date": "1141013"
+      },
+      {
+        "Title": "臺灣週活動—亞洲創新籌資平臺啟動典禮、 產業創新日論壇暨亞洲創新盃決賽將於10月21日登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199db5b2055026f",
+        "Date": "1141013"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.02%，上市股票總市值達88.16兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c88e673d025f",
+        "Date": "1141009"
+      },
+      {
+        "Title": "臺灣週活動—第15屆臺北公司治理論壇將於10月16日隆重登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c8599494025b",
+        "Date": "1141009"
+      },
+      {
+        "Title": "上市主動債ETF雙星報到!富邦投信募集發行之主動富邦動態入息ETF、主動富邦複合收益ETF及被動式富邦淨零ESG50 ETF，自114年10月14日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c841fd5f0257",
+        "Date": "1141009"
+      },
+      {
+        "Title": "臺灣證券交易所訂於10月14日召開有價證券上市審議委員會第864次會議，將審議奧義賽博科技(股)公司(CyCraft Technology Corporation)之申請股票創新板第一上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c838e86e0253",
+        "Date": "1141009"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過心誠鎂行動醫電股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c82cbff9024f",
+        "Date": "1141009"
+      },
+      {
+        "Title": "臺灣證券交易所對程泰機械股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c7f00250024b",
+        "Date": "1141009"
+      },
+      {
+        "Title": "金色三麥(證券代號：7757)採競價拍賣方式辦理承銷，於今(10/8)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c322260e023b",
+        "Date": "1141008"
+      },
+      {
+        "Title": "臺灣之光!臺灣ETF國際盃取得勝利 臺日跨境連結式ETF規模成長迅速!",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c30188b70237",
+        "Date": "1141008"
+      },
+      {
+        "Title": "臺灣週活動-「IR & Engagement新趨勢」論壇將於 10月15日登場深化企業與投資人對話，共同驅動資本市場永續轉型",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199c197c140022e",
+        "Date": "1141008"
+      },
+      {
+        "Title": "臺灣證券交易所對華擎科技股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199be2e34260203",
+        "Date": "1141007"
+      },
+      {
+        "Title": "「臺灣週」活動將於10月15日盛大開幕！ 金融論壇、博覽會系列活動登場 力拼亞洲資產管理中心",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199bddaed6a01ff",
+        "Date": "1141007"
+      },
+      {
+        "Title": "臺灣證券交易所訂於10月9日召開有價證券上市審議委員會第863次會議，將審議心誠鎂行動醫電(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199bd70c77b01f7",
+        "Date": "1141007"
+      },
+      {
+        "Title": "上週外資在集中市場買超595.86億元，買超緯創4.68萬張最多，另賣超仁寶3.98萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199bd66a63301f3",
+        "Date": "1141007"
+      },
+      {
+        "Title": "亞資專網英文版2.0正式上線，打造更友善國際投資人入口網站",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199bd5c829101ef",
+        "Date": "1141007"
+      },
+      {
+        "Title": "松川精密(證券代號：7788)採競價拍賣方式辦理承銷，於今(10/3)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a99209f301e5",
+        "Date": "1141003"
+      },
+      {
+        "Title": "東聯互動(證券代號：7738)採競價拍賣方式辦理承銷，於今(10/3)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a9908fff01e1",
+        "Date": "1141003"
+      },
+      {
+        "Title": "向榮生技(證券代號：6794)採競價拍賣方式辦理承銷，於今(10/3)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a98e4fa901dd",
+        "Date": "1141003"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為4.62%，上市股票總市值達86.43兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a98ce45701d9",
+        "Date": "1141003"
+      },
+      {
+        "Title": "臺灣證券交易所對立益物流開發股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a482bec001bf",
+        "Date": "1141002"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過嘉雨思科技股份有限公司初次申請創新板股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a4601b1c01bb",
+        "Date": "1141002"
+      },
+      {
+        "Title": "臺灣證券交易所對金像電子股份有限公司違反重大訊息規定，處以新台幣三萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199a445280201b7",
+        "Date": "1141002"
+      },
+      {
+        "Title": "資本市場服務團再出擊 攜手與KPMG舉辦推動優質企業邁入資本市場座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999fac154701b3",
+        "Date": "1141001"
+      },
+      {
+        "Title": "臺灣證券交易所「投資資訊中心(Investment InfoHub)」升級，新增「創新板」專區",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999f5f4f7101ae",
+        "Date": "1141001"
+      },
+      {
+        "Title": "上市公司執行買回庫藏股情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999f40cfd701aa",
+        "Date": "1141001"
+      },
+      {
+        "Title": "證交所參與台灣新創投資年會，推動創新板助力新創企業成長",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999f12f5ff01a6",
+        "Date": "1141001"
+      },
+      {
+        "Title": "114年第4季得為上市認購（售）權證（含牛熊證）之標的證券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999a383abe018e",
+        "Date": "1140930"
+      },
+      {
+        "Title": "隆銘綠能科技工程股份有限公司（代號：3018）之有價證券繼續列為變更交易方法並採分盤集合競價之交易方式",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999a150b4c0182",
+        "Date": "1140930"
+      },
+      {
+        "Title": "虎山自本（114）年10月1日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999a0b99b6017d",
+        "Date": "1140930"
+      },
+      {
+        "Title": "溫室氣體盤查實作工作坊圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101999a0358220175",
+        "Date": "1140930"
+      },
+      {
+        "Title": "倍利科技(股)公司及大東電業廠(股)公司於114年9月30日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019999ef5782016f",
+        "Date": "1140930"
+      },
+      {
+        "Title": "臺灣證券交易所訂於10月2日召開有價證券上市審議委員會第862次會議，將審議嘉雨思科技(股)公司之申請股票創新板上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019999dd5d44016b",
+        "Date": "1140930"
+      },
+      {
+        "Title": "上週外資在集中市場賣超340.13億元，賣超凱基金8.19萬張最多，另買超台新新光金11.21萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019999489ca20151",
+        "Date": "1140930"
+      },
+      {
+        "Title": "資本市場服務團攜手凱基證券 共同舉辦推動優質企業邁向資本市場座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199858c5030014c",
+        "Date": "1140926"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.01%，上市股票總市值達82.70兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199856c66770146",
+        "Date": "1140926"
+      },
+      {
+        "Title": "證交所攜手集保-e手掌握WebPro雙平台聯手，強化投資人服務",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101998510ec250137",
+        "Date": "1140926"
+      },
+      {
+        "Title": "達明機器人股份有限公司股票自114年9月26日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199804767c80130",
+        "Date": "1140925"
+      },
+      {
+        "Title": "迎接2026永續新元年，證交所「IFRS永續揭露準則宣導會」自10月14日起跑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997fca222a0123",
+        "Date": "1140925"
+      },
+      {
+        "Title": "證交所2025年 SDGs「棲地維護，生態探索」活動 珍惜土地生態，再造美好環境！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997ec7b5d1011f",
+        "Date": "1140925"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號: 2236）違反重大訊息規定，處以新臺幣10萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997b5b57d9011b",
+        "Date": "1140924"
+      },
+      {
+        "Title": "吉晟生技(股)公司於114年9月24日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997b47649d0117",
+        "Date": "1140924"
+      },
+      {
+        "Title": "買這檔ETF 可以同時投資股票及債券！平衡凱基雙核收息ETF掛牌上市 首創臺股結合全球債 上市ETF再創多資產配置新里程碑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997ab68dbb0111",
+        "Date": "1140924"
+      },
+      {
+        "Title": "元禎企業股份有限公司等5家公司預計於114年10月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997627f06b010c",
+        "Date": "1140923"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過世紀離岸風電設備股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019975fda18e0108",
+        "Date": "1140923"
+      },
+      {
+        "Title": "證交所舉辦｢推動證券商導入金融零信任說明會-資料保護」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199759278710101",
+        "Date": "1140923"
+      },
+      {
+        "Title": "證交所首檔平衡型ETF「平衡凱基雙核收息ETF」，助攻投資人股債同時掌握，自114年9月24日起掛牌上市！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101997115c32100ef",
+        "Date": "1140922"
+      },
+      {
+        "Title": "惠民實業(證券代號：6971)採競價拍賣方式辦理承銷，於今(9/22)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199707dfae700e9",
+        "Date": "1140922"
+      },
+      {
+        "Title": "上週外資在集中市場買超202.25億元，買超台泥14.65萬張最多，另賣超永豐金4.30萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199707bc9be00e5",
+        "Date": "1140922"
+      },
+      {
+        "Title": "臺灣證券交易所對蔚華科技股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199614bcda300de",
+        "Date": "1140919"
+      },
+      {
+        "Title": "證交所前進矽谷招商，發掘優質企業來臺上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199613bfb0f00da",
+        "Date": "1140919"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.41%，上市股票總市值達82.66兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101996130b93a00d5",
+        "Date": "1140919"
+      },
+      {
+        "Title": "臺灣證券交易所對凱基金融控股股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199610f01e200d1",
+        "Date": "1140919"
+      },
+      {
+        "Title": "臺灣證券交易所訂於9月23日召開有價證券上市審議委員會第861次會議，將審議世紀離岸風電設備(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019961000fda00cd",
+        "Date": "1140919"
+      },
+      {
+        "Title": "資本市場服務團攜手元大證券 合作推動優質企業邁向資本市場座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101995c83ded800c8",
+        "Date": "1140918"
+      },
+      {
+        "Title": "中傑-KY自本（114）年9月19日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101995c02ed3200c3",
+        "Date": "1140918"
+      },
+      {
+        "Title": "期元大S&P黃金反1 ETF(00674R)自114年9月19日起暫停融資融券交易、停止有價證券借貸及當日沖銷交易，但了結融資融券交易，不在此限",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101995becec1500bd",
+        "Date": "1140918"
+      },
+      {
+        "Title": "臺日連結式ETF於證交所及東證所雙邊掛牌上市！亞洲資產管理中心政策目標再邁一步",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101995be498bb00bb",
+        "Date": "1140918"
+      },
+      {
+        "Title": "全體證券商114年8月份稅後淨利150.33億元，累計稅後淨利618.45億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101995af5e2a200b4",
+        "Date": "1140918"
+      },
+      {
+        "Title": "臺灣證券交易所對康霈生技股份公司違反重大訊息規定，處以新臺幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199576d713a00a7",
+        "Date": "1140917"
+      },
+      {
+        "Title": "達明(證券代號：4585)採競價拍賣方式辦理承銷，於今(9/17)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019956acfe2e0095",
+        "Date": "1140917"
+      },
+      {
+        "Title": "期元大S&P日圓正2 ETF(00706L)及期元大S&P原油反1 ETF(00673R)將進行反分割作業，114年10月22日為新受益憑證上市買賣日",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199520a8421007c",
+        "Date": "1140916"
+      },
+      {
+        "Title": "歷史性跨越！野村投信募集發行之「野村日本東證ETF」，自114年9月18日起掛牌上市，為全臺首檔臺日連結式ETF",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf151019951e2ca5c0078",
+        "Date": "1140916"
+      },
+      {
+        "Title": "新代科技股份有限公司股票自114年9月17日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf1510199517d43610072",
+        "Date": "1140916"
+      },
+      {
+        "Title": "富田電機(股)公司於114年9月15日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101994cca21ab0061",
+        "Date": "1140915"
+      },
+      {
+        "Title": "你還在買債券型基金嗎？除了股票ETF外，其實還有債券ETF可投資喔！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101994cc217640058",
+        "Date": "1140915"
+      },
+      {
+        "Title": "寶綠特-KY自本（114）年9月16日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101994c538e5e0045",
+        "Date": "1140915"
+      },
+      {
+        "Title": "114年9月16日除息影響加權股價指數",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101994c90e40b004b",
+        "Date": "1140915"
+      },
+      {
+        "Title": "上週外資在集中市場買超1,587.58億元，買超鴻海17.55萬張最多，另賣超台玻5.45萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101994c019c230041",
+        "Date": "1140915"
+      },
+      {
+        "Title": "禾榮科技股份有限公司股票自114年9月15日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101993d7e95ea0033",
+        "Date": "1140912"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為4.00%，上市股票總市值達82.14兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101993d2ceafa002e",
+        "Date": "1140912"
+      },
+      {
+        "Title": "e添富網站再升級，強化主動式ETF資訊揭露，並新增跨境ETF專區",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101993d268264002a",
+        "Date": "1140912"
+      },
+      {
+        "Title": "首檔臺股ETF隆重登陸日本，彰顯臺灣智慧科技島影響力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6993bf15101993c9edef50001",
+        "Date": "1140912"
+      },
+      {
+        "Title": "臺灣證券交易所針對勝悅新材料有限公司（勝悅-KY，證券代號: 1340）違反重大訊息規定，處以新臺幣五萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0199382b7c4b0534",
+        "Date": "1140911"
+      },
+      {
+        "Title": "全體上市公司114年8月份當月營收較113年同期成長9.85％，累計營業收入較113年同期成長12.24％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019937dbff860527",
+        "Date": "1140911"
+      },
+      {
+        "Title": "全體上市公司完成永續報告書揭露 資本市場邁向永續新紀元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019937d0bb960523",
+        "Date": "1140911"
+      },
+      {
+        "Title": "打造亞洲資產管理中心再迎嶄新成果 全臺首檔臺日跨境ETF──野村日本東證ETF即將登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01993253c0f2050b",
+        "Date": "1140910"
+      },
+      {
+        "Title": "群益投信募集發行之群益ESG投等債0-5ETF，自114年9月11日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01992d8fe7ac04f9",
+        "Date": "1140909"
+      },
+      {
+        "Title": "2025年8月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01992d8db87e04f5",
+        "Date": "1140909"
+      },
+      {
+        "Title": "聯友金屬科技股份有限公司、大研生醫國際股份有限公司及振大環球股份有限公司股票自114年9月9日開始於臺灣創新板、一般板上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019928e67e4504eb",
+        "Date": "1140908"
+      },
+      {
+        "Title": "第一上市公司114年第2季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019928ce8c7204e7",
+        "Date": "1140908"
+      },
+      {
+        "Title": "上週外資在集中市場買超484.08億元，買超台新新光金16.06萬張最多，另賣超中鋼7.98萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019928486cce04df",
+        "Date": "1140908"
+      },
+      {
+        "Title": "新代(證券代號：7750)採競價拍賣方式辦理承銷，於今(9/8)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019927faa27304da",
+        "Date": "1140908"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.08%，上市股票總市值達78.95兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01991932d2b604c0",
+        "Date": "1140905"
+      },
+      {
+        "Title": "中華資安國際股份有限公司股票自114年9月8日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019918879b8204ae",
+        "Date": "1140905"
+      },
+      {
+        "Title": "禾榮科技股份有限公司(證券代號：7799)採競價拍賣方式辦理承銷，於今(9/4)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019913b51d630482",
+        "Date": "1140904"
+      },
+      {
+        "Title": "開放證券商設置簡易分支機構 增進營運彈性與客戶服務",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01990f03e964045f",
+        "Date": "1140903"
+      },
+      {
+        "Title": "台日跨境ETF 9月登場　助力台灣邁向亞洲資產管理中心",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01990e701c74045a",
+        "Date": "1140903"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號：2236）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019909c0a5aa0456",
+        "Date": "1140902"
+      },
+      {
+        "Title": "第一上市公司114年上半年度營收成長6.17%、獲利衰退12.43%",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019909a9e3080451",
+        "Date": "1140902"
+      },
+      {
+        "Title": "如興股份有限公司自114年9月4日起恢復上市有價證券之交易方法",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01990996ee7b044d",
+        "Date": "1140902"
+      },
+      {
+        "Title": "證交所上市之主動式ETF交易熱絡",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01990994a5e10449",
+        "Date": "1140902"
+      },
+      {
+        "Title": "心誠鎂行動醫電(股)公司於114年9月1日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019904c87a0a0421",
+        "Date": "1140901"
+      },
+      {
+        "Title": "第一上市公司114年第2季財務報告均已完成申報作業",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019904b853d2041d",
+        "Date": "1140901"
+      },
+      {
+        "Title": "上市金融保險業公司114年第2季財務報告均已完成申報作業",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019904852ee80419",
+        "Date": "1140901"
+      },
+      {
+        "Title": "「亞洲資產管理中心推動辦公室」啟動，亞資專屬網站同步上線",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0199044461560412",
+        "Date": "1140901"
+      },
+      {
+        "Title": "用網路不走路！證交所數位轉型再升級，即日起可用行動電話認證查詢證券開戶及交易紀錄",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019903f6d2670408",
+        "Date": "1140901"
+      },
+      {
+        "Title": "上週外資在集中市場賣超104.96億元，賣超中信金4.25萬張最多，另買超群創4.95萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019903569df00404",
+        "Date": "1140901"
+      },
+      {
+        "Title": "大研生醫 (證券代號：7780)採競價拍賣方式辦理承銷，於今(8/29)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f54b9e3a03ef",
+        "Date": "1140829"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.97%，上市股票總市值達78.10兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f5437ed203eb",
+        "Date": "1140829"
+      },
+      {
+        "Title": "振大環球 (證券代號： 4441)採競價拍賣方式辦理承銷，於今(8/29)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f53d335603e6",
+        "Date": "1140829"
+      },
+      {
+        "Title": "聯友金屬 (證券代號： 7610)採競價拍賣方式辦理承銷，於今(8/29)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f534d8a703e2",
+        "Date": "1140829"
+      },
+      {
+        "Title": "中華資安 (證券代號： 7765)採競價拍賣方式辦理承銷，於今(8/28)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f04d0c5103c7",
+        "Date": "1140828"
+      },
+      {
+        "Title": "證交所與保管機構座談 共商資本市場精進之道",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f0457a4d03c3",
+        "Date": "1140828"
+      },
+      {
+        "Title": "京城商業銀行股份有限公司(京城銀，公司代號：2809)因進行股份轉換其上市有價證券自114年9月18日起停止買賣，並自114年10月1日起終止上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f037c50903bf",
+        "Date": "1140828"
+      },
+      {
+        "Title": "CyCraft Technology Corporation (奧義賽博科技(股)公司)於114年8月28日送件申請股票創新板第一上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f023ba3003bb",
+        "Date": "1140828"
+      },
+      {
+        "Title": "高福化學工業(股)公司於114年8月28日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198f0199e0903b7",
+        "Date": "1140828"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過長廣精機股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198eb037df703a8",
+        "Date": "1140827"
+      },
+      {
+        "Title": "臺灣證券交易所對冠西電子企業股份有限公司違反重大訊息規定，處以新台幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198eb01c59d03a4",
+        "Date": "1140827"
+      },
+      {
+        "Title": "臺灣證券交易所針對亞洲塑膠再生資源控股有限公司（再生-KY，代號：1337）違反重大訊息規定，處以新臺幣3萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198ead9075403a0",
+        "Date": "1140827"
+      },
+      {
+        "Title": "證交所連續二年參與臺日創新高峰會 積極推動創新板上市業務",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198ead269b0039c",
+        "Date": "1140827"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過永擎電子股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198eacce0da0397",
+        "Date": "1140827"
+      },
+      {
+        "Title": "嘉雨思科技(股)公司於114年8月27日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198eabd20cc0393",
+        "Date": "1140827"
+      },
+      {
+        "Title": "臺灣證券交易所舉辦 ｢推動證券商導入金融零信任說明會-應用程式保護｣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198e5b0298d0385",
+        "Date": "1140826"
+      },
+      {
+        "Title": "臺灣證券交易所針對鼎炫投資控股股份有限公司（鼎炫-KY，證券代號: 8499）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198e0b2ad900381",
+        "Date": "1140825"
+      },
+      {
+        "Title": "上市主動式ETF再添新軍！台新投信募集發行之「台新全球龍頭成長主動式ETF」，自114年8月27日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198e0a86b43037d",
+        "Date": "1140825"
+      },
+      {
+        "Title": "上週外資在集中市場賣超955.14億元，賣超永豐金7.06萬張最多，另買超群創8.70萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198dfb4228a0377",
+        "Date": "1140825"
+      },
+      {
+        "Title": "臺灣證券交易所訂於8月27日召開有價證券上市審議委員會第859次及第860次會議，將分別審議永擎電子(股)公司及長廣精機(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198dfa9db700373",
+        "Date": "1140825"
+      },
+      {
+        "Title": "認識ETF收益分配：收益平準金的運作與投資觀念",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198d147df7d036a",
+        "Date": "1140822"
+      },
+      {
+        "Title": "臺灣證券交易所對冠軍建材股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198d145d87e0366",
+        "Date": "1140822"
+      },
+      {
+        "Title": "寶綠特資源再生工程股份有限公司等17家公司預計於114年9月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198d125350c0362",
+        "Date": "1140822"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為2.34%，上市股票總市值達76.59兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198d1236fa9035e",
+        "Date": "1140822"
+      },
+      {
+        "Title": "證交所2025年 SDGs 「節能環保，日常行動」活動 使用再生能源，維護環境永續！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198cbc9f4120351",
+        "Date": "1140822"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過鴻勁精密股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198cc1f58240356",
+        "Date": "1140821"
+      },
+      {
+        "Title": "本國上市公司（不含金融業）114年第2季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198cb888ede034d",
+        "Date": "1140821"
+      },
+      {
+        "Title": "全體證券商114年7月份稅後淨利128.74億元，累計稅後淨利468.12億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198cb6461fc0349",
+        "Date": "1140821"
+      },
+      {
+        "Title": "精密工業股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198c6ec461a033f",
+        "Date": "1140820"
+      },
+      {
+        "Title": "證交所主辦「PCB產業」主題式業績發表會，聚焦AI、車用與新世代顯示應用，場場滿座",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198c68bf7af033a",
+        "Date": "1140820"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過東方風能科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198c1da2d870329",
+        "Date": "1140819"
+      },
+      {
+        "Title": "臺灣證券交易所訂於8月21日召開有價證券上市審議委員會第858次會議，將審議鴻勁精密(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198c195cc180324",
+        "Date": "1140819"
+      },
+      {
+        "Title": "上週外資在集中市場賣超17.66億元，賣超緯創8.59萬張最多，另買超鴻海15.89萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198bbd11f420306",
+        "Date": "1140818"
+      },
+      {
+        "Title": "上市公司114年第2季財報形式審閱結果處置情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198ad4b59db0300",
+        "Date": "1140815"
+      },
+      {
+        "Title": "臺灣證券交易所對雃博股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198ad2e7bd802fc",
+        "Date": "1140815"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.30%，上市股票總市值達78.42兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198ad24b9b202f8",
+        "Date": "1140815"
+      },
+      {
+        "Title": "竑騰科技股份有限公司(證券代號：7751)採競價拍賣方式辦理承銷，於今(8/15)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198ac6a9ad902ea",
+        "Date": "1140815"
+      },
+      {
+        "Title": "臺灣證券交易所訂於8月19日召開有價證券上市審議委員會第857次會議，將審議東方風能科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198acd4a7a702f3",
+        "Date": "1140815"
+      },
+      {
+        "Title": "本國上市公司（不含金融保險業）114年上半年度營收成長16.27%、獲利成長11.39%，基本面穩健",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198accd180202ef",
+        "Date": "1140815"
+      },
+      {
+        "Title": "114年第3季得為上市認購（售）權證（含牛熊證）之標的證券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a828d6be02d2",
+        "Date": "1140814"
+      },
+      {
+        "Title": "本國上市公司(不含金融保險公司)均已申報114年第2季財務報告",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a8011a0402cd",
+        "Date": "1140814"
+      },
+      {
+        "Title": "2025年7月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a7b0bfbb02c4",
+        "Date": "1140814"
+      },
+      {
+        "Title": "證交所偕創投公會辦理「創新板上市公司專場活動」，獲熱烈迴響",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a76bcbf902c0",
+        "Date": "1140814"
+      },
+      {
+        "Title": "臺灣水泥股份有限公司(簡稱台泥，公司代號：1101)上市普通股及以其為標的之上市認購(售)權證暨特別股自114年8月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a364420802b9",
+        "Date": "1140813"
+      },
+      {
+        "Title": "森崴能源股份有限公司(森崴能源，公司代號：6806)上市普通股自114年8月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a33bc64802b3",
+        "Date": "1140813"
+      },
+      {
+        "Title": "2025臺灣週 ETF投資博覽會啟動！ 前進高雄邁向ETF新里程碑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198a16d2a9702af",
+        "Date": "1140813"
+      },
+      {
+        "Title": "森崴能源股份有限公司(森崴能源，公司代號：6806)上市普通股自114年8月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989e0635a202ab",
+        "Date": "1140812"
+      },
+      {
+        "Title": "臺灣水泥股份有限公司(中文簡稱台泥，公司代號：1101)上市普通股及以其為標的之認購(售)權證暨特別股自114年8月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989dd5fa4102a7",
+        "Date": "1140812"
+      },
+      {
+        "Title": "上曜建設開發股份有限公司(上曜，公司代號：1316)上市普通股自114年8月13日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989dd44bfc02a3",
+        "Date": "1140812"
+      },
+      {
+        "Title": "友霖生技醫藥股份有限公司(證券代號：4166)採競價拍賣方式辦理承銷，於今(8/12)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989dc6e5d3029f",
+        "Date": "1140812"
+      },
+      {
+        "Title": "114年8月15日聯嘉光電投資控股股份有限公司(聯嘉投控，股票代號：3717)普通股上市，暨聯嘉光電股份有限公司(聯嘉，股票代號：6288)普通股同日終止上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989dc23d8e029b",
+        "Date": "1140812"
+      },
+      {
+        "Title": "全體上市公司114年7月份當月營收較113年同期成長3.5％，累計營業收入較113年同期成長12.6％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989dbfffe60297",
+        "Date": "1140812"
+      },
+      {
+        "Title": "證交所持續深化創新板價值 為制度鬆綁不遺餘力 獲府院正面積極肯定",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01989d326c820294",
+        "Date": "1140812"
+      },
+      {
+        "Title": "上曜建設開發股份有限公司(上曜，公司代號：1316)上市普通股自114年8月12日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198986b1f73028a",
+        "Date": "1140811"
+      },
+      {
+        "Title": "證交所攜手鑽石投資及櫃買中心，打造國際資本舞台 力挺生技創新",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198985943460284",
+        "Date": "1140811"
+      },
+      {
+        "Title": "上週外資在集中市場買超519.54億元，買超鴻海6.46萬張最多，另賣超台新金17.03萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019897d83d710280",
+        "Date": "1140811"
+      },
+      {
+        "Title": "臺灣證券交易所對銘旺科技股份有限公司違反資訊申報作業辦法相關規定，處以新台幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019889254420027a",
+        "Date": "1140808"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.50%，上市股票總市值達77.42兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198891dc3270276",
+        "Date": "1140808"
+      },
+      {
+        "Title": "2025年第3季MSCI指數臺股權重調整結果",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198885c865b026c",
+        "Date": "1140808"
+      },
+      {
+        "Title": "「找出tib，找出未來」，證交所號召全民解鎖臺灣創新板",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019887cfdfea0268",
+        "Date": "1140808"
+      },
+      {
+        "Title": "上市公司114年第2季財務報告公告申報期限及注意事項",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01987eedfeb60229",
+        "Date": "1140806"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過資拓宏宇國際股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01987ee73f360225",
+        "Date": "1140806"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過暉盛科技股份有限公司初次申請創新板股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01987ed9d0000221",
+        "Date": "1140806"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過皇家可口股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019879a07245021a",
+        "Date": "1140805"
+      },
+      {
+        "Title": "凌航科技股份有限公司股票自114年8月6日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198798d28200216",
+        "Date": "1140805"
+      },
+      {
+        "Title": "「印刷電路板（PCB）產業鏈」主題式業績發表會將於8月18日起隆重登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198749bf0ed0210",
+        "Date": "1140804"
+      },
+      {
+        "Title": "臺灣證券交易所訂於8月6日召開有價證券上市審議委員會第855次會議，將審議暉盛科技(股)公司之申請股票創新板上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01987499de48020c",
+        "Date": "1140804"
+      },
+      {
+        "Title": "臺灣證券交易所訂於8月6日召開有價證券上市審議委員會第856次會議，將審議資拓宏宇國際(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019874971eab0208",
+        "Date": "1140804"
+      },
+      {
+        "Title": "上週外資在集中市場買超46.09億元，買超緯創4.08萬張最多，另賣超台新金17.72萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019873eaf4a401fd",
+        "Date": "1140804"
+      },
+      {
+        "Title": "2025臺灣週將於10月15日至23日舉行",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019873b7bc1a01f1",
+        "Date": "1140804"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.30%，上市股票總市值達75.53兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01986509bb5201e7",
+        "Date": "1140801"
+      },
+      {
+        "Title": "亞洲航空股份有限公司自本（114）年8月4日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019864b0753201e0",
+        "Date": "1140801"
+      },
+      {
+        "Title": "臺灣證券交易所訂於8月5日召開有價證券上市審議委員會第854次會議，將審議皇家可口(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019864519b9201db",
+        "Date": "1140801"
+      },
+      {
+        "Title": "證交所114年7月31日舉辦「壯大臺灣資本市場高峰會」圓滿成功",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198600f5a0a01d3",
+        "Date": "1140731"
+      },
+      {
+        "Title": "星亞 (證券代號：7753)採競價拍賣方式辦理承銷，於今(7/31)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985f95593b01cd",
+        "Date": "1140731"
+      },
+      {
+        "Title": "臺灣ETF市場掀新浪：主動式ETF與被動式平衡型ETF解析",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985f8e165001c9",
+        "Date": "1140731"
+      },
+      {
+        "Title": "金管會轄下證券期貨相關機構再度攜手捐款2,000萬元，協力賑災中南部災情嚴重地區",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985f7a7a3f01c5",
+        "Date": "1140731"
+      },
+      {
+        "Title": "青松健康股份有限公司自本（114）年7月31日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985ae6b36301c1",
+        "Date": "1140730"
+      },
+      {
+        "Title": "鴻海精密工業股份有限公司(鴻海，公司代號：2317)上市普通股及以其為標的之上市認購(售)權證自114年7月31日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985ae13c3d01bd",
+        "Date": "1140730"
+      },
+      {
+        "Title": "東元電機股份有限公司(東元，公司代號：1504)上市普通股及以其為標的之上市認購權證自114年7月31日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985adee7a001b9",
+        "Date": "1140730"
+      },
+      {
+        "Title": "臺灣證券交易所對聯邦商業銀行股份有限公司違反重大訊息說明記者會規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019855b2399201aa",
+        "Date": "1140729"
+      },
+      {
+        "Title": "東元電機股份有限公司(東元，公司代號：1504)上市普通股及以其為標的之認購權證自114年7月30日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985587dd49019f",
+        "Date": "1140729"
+      },
+      {
+        "Title": "鴻海精密工業股份有限公司(鴻海，公司代號：2317)上市普通股及以其為標的之上市認購(售)權證自114年7月30日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985581e9440191",
+        "Date": "1140729"
+      },
+      {
+        "Title": "金興精密自本（114）年7月30日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019854f1875b0175",
+        "Date": "1140729"
+      },
+      {
+        "Title": "臺灣證券交易所對興泰實業股份有限公司（公司代號：1235）違反內部控制制度規定，處以新台幣10萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019850a8c62d0171",
+        "Date": "1140728"
+      },
+      {
+        "Title": "臺灣證券交易所對錩泰工業股份有限公司違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198508edb45016d",
+        "Date": "1140728"
+      },
+      {
+        "Title": "微程式資訊股份有限公司自114年7月29日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198506265230169",
+        "Date": "1140728"
+      },
+      {
+        "Title": "凌航 (證券代號：3135)採競價拍賣方式辦理承銷，於今(7/28)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01985046a3380164",
+        "Date": "1140728"
+      },
+      {
+        "Title": "上週外資在集中市場買超401.00億元，買超中信金8.59萬張最多，另賣超台新金32.24萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01984fa80179013a",
+        "Date": "1140728"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.08%，上市股票總市值達75.30兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198410a43900136",
+        "Date": "1140725"
+      },
+      {
+        "Title": "統一投信募集發行之統一美國50ETF，自114年7月29日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019840f0fe730132",
+        "Date": "1140725"
+      },
+      {
+        "Title": "高明鐵企業(股)公司於114年7月24日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01983beca3930128",
+        "Date": "1140724"
+      },
+      {
+        "Title": "富威電力自本（114）年7月25日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01983bde74890124",
+        "Date": "1140724"
+      },
+      {
+        "Title": "台新金融控股股份有限公司(公司代號：2887)因合併新光金融控股股份有限公司(公司代號：2888)增資發行庚種記名式特別股一、庚種記名式特別股二及辛種記名式特別股之增資新股權利證書自114年7月24日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019831a3ba590104",
+        "Date": "1140722"
+      },
+      {
+        "Title": "聯嘉光電股份有限公司(聯嘉，公司代號：6288)因股份轉換，其上市有價證券於114年8月15日終止上市，聯嘉光電投資控股股份有限公司普通股於同日(114年8月15日)上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019831a13dfe0100",
+        "Date": "1140722"
+      },
+      {
+        "Title": "證交所舉辦｢推動證券商導入金融零信任說明會-網路安全｣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198319efd4500fc",
+        "Date": "1140722"
+      },
+      {
+        "Title": "統一價值成長30N（020018）及統一特選台灣5GN（020019）指數投資證券自114年7月30日起終止上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019830e3f05900f7",
+        "Date": "1140722"
+      },
+      {
+        "Title": "永擎電子(股)公司及長廣精機(股)公司於114年7月21日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01982cab143700b9",
+        "Date": "1140721"
+      },
+      {
+        "Title": "新鋼工業股份有限公司等12家公司預計於114年8月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01982c1b73f700b4",
+        "Date": "1140721"
+      },
+      {
+        "Title": "ESG InfoHub再升級！證交所推永續報告書範例專頁與全新儀表板 助企業迎接永續揭露新時代",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01982bee18aa00b0",
+        "Date": "1140721"
+      },
+      {
+        "Title": "全體證券商114年6月份稅後淨利119.48億元，累計稅後淨利339.38億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01982be6ff1c00ac",
+        "Date": "1140721"
+      },
+      {
+        "Title": "上週外資在集中市場買超612.10億元，買超中信金5.96萬張最多，另賣超永豐金5.37萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01982be0f09300a8",
+        "Date": "1140721"
+      },
+      {
+        "Title": "金管會轄下證券期貨相關機構共同捐款800萬元，攜手賑災中南部災情嚴重地區",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01982bb61ae700a4",
+        "Date": "1140721"
+      },
+      {
+        "Title": "微程式(證券代號：7721)採競價拍賣方式辦理承銷，於今(7/18)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01981cf76fd0009b",
+        "Date": "1140718"
+      },
+      {
+        "Title": "碩網(證券代號：7547)採競價拍賣方式辦理承銷，於今(7/18)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01981cf193400097",
+        "Date": "1140718"
+      },
+      {
+        "Title": "台康生技股份有限公司股票自114年7月21日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01981cd4dbb30093",
+        "Date": "1140718"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.78%，上市股票總市值達75.31兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01981ccd8abf008f",
+        "Date": "1140718"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過驊陞科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01981c65bcd00089",
+        "Date": "1140718"
+      },
+      {
+        "Title": "臺灣證券交易所攜手中華公司治理協會 推動資安與永續治理能量",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019817f259880085",
+        "Date": "1140717"
+      },
+      {
+        "Title": "第六檔主動式ETF上路！野村投信募集發行之「野村臺灣增強50主動式ETF」，自114年7月21日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019817ddd06c0081",
+        "Date": "1140717"
+      },
+      {
+        "Title": "臺灣證券交易所對冠西電子企業股份有限公司違反內部控制制度暨重大訊息規定，併處以新臺幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019812d6493d0076",
+        "Date": "1140716"
+      },
+      {
+        "Title": "臺灣證券交易所訂於7月18日召開有價證券上市審議委員會第853次會議，將審議驊陞科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198129860b00072",
+        "Date": "1140716"
+      },
+      {
+        "Title": "臺灣證券交易所對雷虎科技股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980db9d673004f",
+        "Date": "1140715"
+      },
+      {
+        "Title": "日電貿股份有限公司(日電貿，公司代號：3090)上市普通股及以其為標的之上市認購(售)權證自114年7月16日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980db84355004b",
+        "Date": "1140715"
+      },
+      {
+        "Title": "文曄科技股份有限公司(中文簡稱文曄，公司代號：3036)上市普通股及以其為標的之認購(售)權證暨特別股自114年7月16日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980d7c52710047",
+        "Date": "1140715"
+      },
+      {
+        "Title": "臺灣證券交易所對聯鈞光電股份有限公司(公司代號：3450)違反內部控制制度暨重大訊息規定，併處以新臺幣10萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980d72fa680043",
+        "Date": "1140715"
+      },
+      {
+        "Title": "政府政策全力加持！創新板加速挺進「亞洲那斯達克」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980ceaecb0003d",
+        "Date": "1140715"
+      },
+      {
+        "Title": "證交所舉辦溫室氣體盤查實作課程 協助創新板企業強化ESG管理基礎",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980c90f67d0033",
+        "Date": "1140715"
+      },
+      {
+        "Title": "日電貿股份有限公司(日電貿，公司代號：3090)上市普通股及以其為標的之上市認購(售)權證自114年7月15日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019808c0ad440027",
+        "Date": "1140714"
+      },
+      {
+        "Title": "文曄科技股份有限公司(中文簡稱文曄，公司代號：3036)上市普通股及以其為標的之認購(售)權證暨特別股自114年7月15日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019808bc7e360023",
+        "Date": "1140714"
+      },
+      {
+        "Title": "臺灣證券交易所針對北極星藥業集團股份有限公司（北極星藥業-KY，公司代號:6550）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198089e1fd5001e",
+        "Date": "1140714"
+      },
+      {
+        "Title": "推動普惠金融　證交所開放無戶籍國民開立證券帳戶",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198086333da0019",
+        "Date": "1140714"
+      },
+      {
+        "Title": "保德信投信募集發行之PGIM保德信全球跨國藍籌100 ETF，自114年7月16日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f019808342da20014",
+        "Date": "1140714"
+      },
+      {
+        "Title": "安聯環球投資集團全球首檔主動式ETF：安聯台灣高息成長主動式ETF(00984A)今日(7/14)掛牌上市！再現臺灣發展亞洲資產管理中心之重要成果",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980829b82a0010",
+        "Date": "1140714"
+      },
+      {
+        "Title": "2025年6月暨第二季集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f01980791d7d30008",
+        "Date": "1140714"
+      },
+      {
+        "Title": "上週外資在集中市場買超304.77億元，買超台新金5.35萬張最多，另賣超中信金11.37萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697fc438f0198076b20d00004",
+        "Date": "1140714"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.90%，上市股票總市值達73.28兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197f8c8cf7801db",
+        "Date": "1140711"
+      },
+      {
+        "Title": "鴻勁精密(股)公司於114年7月11日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197f895efdf01d6",
+        "Date": "1140711"
+      },
+      {
+        "Title": "全體上市公司114年6月份當月營收較113年同期成長7.37％，累計營業收入較113年同期成長13.82％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197f82edc8701d1",
+        "Date": "1140711"
+      },
+      {
+        "Title": "「2025國泰永續金融暨氣候變遷高峰論壇」圓滿落幕 證交所與國泰金控攜手提升企業永續競爭力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197f3e669e601c9",
+        "Date": "1140710"
+      },
+      {
+        "Title": "安聯環球投資集團全球首檔主動式ETF搶先在台發行！「安聯台灣高息成長主動式ETF」，自114年7月14日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197f3ab5efb01c3",
+        "Date": "1140710"
+      },
+      {
+        "Title": "臺灣證券交易所對麗嬰房股份有限公司（公司代號：2911）違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197eec0b27201bb",
+        "Date": "1140709"
+      },
+      {
+        "Title": "證交所攜手KPMG安侯建業，再赴新加坡舉辦資本市場交流會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197ee98bbcb01b7",
+        "Date": "1140709"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過輝創電子股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197e9b85c5601aa",
+        "Date": "1140708"
+      },
+      {
+        "Title": "東方風能科技(股)公司於114年7月8日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197e980cdbb01a6",
+        "Date": "1140708"
+      },
+      {
+        "Title": "證交所與企業工會順利簽署團體協約，共營勞資和諧、共創永續未來",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197e8c699aa01a3",
+        "Date": "1140708"
+      },
+      {
+        "Title": "重量級國際集團響應亞資中心政策 安聯環球集團之安聯投信將在臺發行集團全球首檔主動式ETF",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197e4160e250198",
+        "Date": "1140707"
+      },
+      {
+        "Title": "上週外資在集中市場買超821.11億元，買超兆豐金13.75萬張最多，另賣超仁寶14.45萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197e3ab4b0b0194",
+        "Date": "1140707"
+      },
+      {
+        "Title": "資本市場服務團再出擊 與KPMG於台中舉辦推動優質企業邁入資本市場座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197d4cb07310166",
+        "Date": "1140704"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.14%，上市股票總市值達72.63兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197d4c5950a0162",
+        "Date": "1140704"
+      },
+      {
+        "Title": "臺灣證券交易所訂於7月8日召開有價證券上市審議委員會第852次會議，將審議輝創電子(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197d448c39a015c",
+        "Date": "1140704"
+      },
+      {
+        "Title": "臺灣證券交易所對川飛能源股份有限公司（公司代號：1516）違反內部控制制度規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197d42609b00158",
+        "Date": "1140704"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過禾榮科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197cfdf27b60154",
+        "Date": "1140703"
+      },
+      {
+        "Title": "達運光電股份有限公司自本（114）年7月3日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c9dad32e0143",
+        "Date": "1140702"
+      },
+      {
+        "Title": "昕奇雲端 (證券代號：7747)採競價拍賣方式辦理承銷，於今(7/2)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c9d8f01e013f",
+        "Date": "1140702"
+      },
+      {
+        "Title": "證交所推全新tib形象影片 用動畫開啟全民創新對話 發掘下個獨角獸",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c953875c013b",
+        "Date": "1140702"
+      },
+      {
+        "Title": "臺灣證券交易所對京城建設股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c582a3490137",
+        "Date": "1140701"
+      },
+      {
+        "Title": "上市公司執行買回庫藏股情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c579436d0133",
+        "Date": "1140701"
+      },
+      {
+        "Title": "臺灣證券交易所股份有限公司召開第22屆董事會暨監察人會議",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c559b199012f",
+        "Date": "1140701"
+      },
+      {
+        "Title": "114年7月2日除息影響加權股價指數",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c541f3e2012b",
+        "Date": "1140701"
+      },
+      {
+        "Title": "臺灣證券交易所訂於114年7月3日召開有價證券上市審議委員會第851次會議，將審議禾榮科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c4a9ee8b0126",
+        "Date": "1140701"
+      },
+      {
+        "Title": "證交所舉辦114年上半年證券商從業人員反詐騙宣導會，持續提升證券商從業人員反詐意識",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c06d9d7d010e",
+        "Date": "1140630"
+      },
+      {
+        "Title": "114年第3季得為上市認購（售）權證（含牛熊證）之標的證券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c05cfdbf010a",
+        "Date": "1140630"
+      },
+      {
+        "Title": "創新板前進首爾、放眼亞洲！證交所攜手國發會Startup Island Taiwan赴韓共拓創新生態圈版圖",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c055b1da0106",
+        "Date": "1140630"
+      },
+      {
+        "Title": "證交所走入嘻哈場域 宜蘭場《校長兼撞鐘》演唱會宣導臺灣創新板tib獨角獸",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c04cd7720102",
+        "Date": "1140630"
+      },
+      {
+        "Title": "沛爾生醫-創自本（114）年7月1日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197c036f3b400fe",
+        "Date": "1140630"
+      },
+      {
+        "Title": "證交所公布本國上市公司113年度非擔任主管職務之全時員工薪資資訊",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197bfd959fe00f8",
+        "Date": "1140630"
+      },
+      {
+        "Title": "上週外資在集中市場買超1,172.04億元，買超南亞12.37萬張最多，另賣超凱基金46.98萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197bfa72f7e00f4",
+        "Date": "1140630"
+      },
+      {
+        "Title": "自114年6月30日起，隆銘綠能科技工程股份有限公司（隆銘綠能，公司代號：3018）上市有價證券列為變更交易方法並採行分盤集合競價交易方式",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197b155dc7400e7",
+        "Date": "1140627"
+      },
+      {
+        "Title": "新光金融控股股份有限公司(新光金，公司代號：2888)因合併而消滅，其有價證券自114年7月14日起停止買賣，並於114年7月24日起終止上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197b0ab735000e3",
+        "Date": "1140627"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.42%，上市股票總市值達72.74兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197b0a3d72700df",
+        "Date": "1140627"
+      },
+      {
+        "Title": "「創新引領未來：多元技術與市場拓展之路」創新板公司法人說明會圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197b08aa2b600da",
+        "Date": "1140627"
+      },
+      {
+        "Title": "資拓宏宇國際(股)公司於114年6月26日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197ab9ba9f600d4",
+        "Date": "1140626"
+      },
+      {
+        "Title": "臺灣證券交易所對雲豹能源科技股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197ab8ca2a000d0",
+        "Date": "1140626"
+      },
+      {
+        "Title": "證交所聚焦無人機、太空科技及資安，挹注戰略產業成長動能",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197ab7d2b2900cb",
+        "Date": "1140626"
+      },
+      {
+        "Title": "暉盛科技(股)公司於114年6月26日送件申請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197ab119f2a00c7",
+        "Date": "1140626"
+      },
+      {
+        "Title": "114年度溫室氣體盤查實作工作坊課程開跑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197a67a6afe00bf",
+        "Date": "1140625"
+      },
+      {
+        "Title": "皇家可口(股)公司於114年6月25日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197a66f965500bb",
+        "Date": "1140625"
+      },
+      {
+        "Title": "潤弘精密工程事業股份有限公司等4家公司預計於114年7月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197a667e30000b7",
+        "Date": "1140625"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過振大環球股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197a18b813100ad",
+        "Date": "1140624"
+      },
+      {
+        "Title": "證交所舉辦｢推動證券商導入金融零信任說明會-設備管理｣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197a1399f2200a8",
+        "Date": "1140624"
+      },
+      {
+        "Title": "臺灣創新板（tib）獨角獸LINE貼圖首次登場！邀你一起「挺爆」創新，抽LINE POINTS 500點",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01979fd7c72300a2",
+        "Date": "1140624"
+      },
+      {
+        "Title": "全福生技自本（114）年 6 月 24 日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01979c373ab80092",
+        "Date": "1140623"
+      },
+      {
+        "Title": "偉訓科技股份有限公司(偉訓，公司代號：3032)上市普通股及以其為標的之上市認購(售)權證自114年6月24日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01979c2bef85008e",
+        "Date": "1140623"
+      },
+      {
+        "Title": "上週外資在集中市場賣超83.71億元，賣超凱基金14.37萬張最多，另買超彰銀5.90萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01979b8efd120089",
+        "Date": "1140623"
+      },
+      {
+        "Title": "臺灣證券交易所對中鼎工程股份有限公司（公司代號：9933）違反內部控制制度規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978d1792af007f",
+        "Date": "1140620"
+      },
+      {
+        "Title": "三商餐飲股份有限公司自本（114）年6月23日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978cd2def6007a",
+        "Date": "1140620"
+      },
+      {
+        "Title": "走著瞧股份有限公司自本（114）年6月23日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978cd162e60076",
+        "Date": "1140620"
+      },
+      {
+        "Title": "偉訓科技股份有限公司(偉訓，公司代號：3032)上市普通股及以其為標的之認購(售)權證自114年6月23日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978cc770b80072",
+        "Date": "1140620"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月24日召開有價證券上市審議委員會第850次會議，將審議振大環球(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978cbfe1fa006e",
+        "Date": "1140620"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.12%，上市股票總市值達71.03兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978cbabc51006a",
+        "Date": "1140620"
+      },
+      {
+        "Title": "向榮生醫科技(股)公司於114年6月19日送件申請改列上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf019787a73eeb004b",
+        "Date": "1140619"
+      },
+      {
+        "Title": "福懋油脂股份有限公司上市有價證券自114年6月23日起恢復買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197879fa0580047",
+        "Date": "1140619"
+      },
+      {
+        "Title": "配合新增國定假日，證交所將於114年7月4日收盤後調整相關上市權證之最後交易日或到期日",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01978290f15d0042",
+        "Date": "1140618"
+      },
+      {
+        "Title": "全體證券商114年5月份稅後淨利70.40億元，累計稅後淨利219.90億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf019781a898fe003d",
+        "Date": "1140618"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過松川精密股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01977d152fe90038",
+        "Date": "1140617"
+      },
+      {
+        "Title": "期元大S&P原油反1 ETF(00673R)自114年6月18日起暫停融資融券交易、停止有價證券借貸及當日沖銷交易，但了結融資融券交易，不在此限",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01977cab556d0034",
+        "Date": "1140617"
+      },
+      {
+        "Title": "首檔投資海外股票主動式ETF登場！中信投信募集發行之「中國信託ARK創新主動式ETF」，自114年6月18日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf0197781facbc0016",
+        "Date": "1140616"
+      },
+      {
+        "Title": "「創新引領未來：多元技術與市場拓展之路」 證交所舉辦創新板公司法人說明會將於114年6月23日起陸續登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf01977819ce910012",
+        "Date": "1140616"
+      },
+      {
+        "Title": "上週外資在集中市場買超473.44億元，買超長榮航9.82萬張最多，另賣超國泰金36.03萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d697769dcf019777744164000b",
+        "Date": "1140616"
+      },
+      {
+        "Title": "證交所「鬼話連篇」抓鬼大賽圓滿落幕！逾七百則投稿揭露詐騙實例，公開優秀作品助攻全民識詐",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197767872730154",
+        "Date": "1140616"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.90%，上市股票總市值達71.07兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019768d1f897014c",
+        "Date": "1140613"
+      },
+      {
+        "Title": "熙特爾新能源股份有限公司股票自114年6月16日於臺灣創新板上市開始買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019768d04e890148",
+        "Date": "1140613"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月17日召開有價證券上市審議委員會第849次會議，將審議松川精密(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301976876d5130143",
+        "Date": "1140613"
+      },
+      {
+        "Title": "第十一屆公司治理評鑑頒獎典禮圓滿成功",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197637e4826012c",
+        "Date": "1140612"
+      },
+      {
+        "Title": "意騰科技股份有限公司Intelligo Technology Inc. (簡稱：意騰-KY，證券代號:7749）股票自114年6月13日上市開始買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197633a96040127",
+        "Date": "1140612"
+      },
+      {
+        "Title": "114年6月12日除息影響加權股價指數",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301975e5aa3270119",
+        "Date": "1140611"
+      },
+      {
+        "Title": "證交所2025年 SDGs「植樹造林，綠化土地」－響應SDG15生態多樣性，守護綠色森林！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301975e132ddc0109",
+        "Date": "1140611"
+      },
+      {
+        "Title": "連加網路商業股份有限公司自本（114）年6月12日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301975ddc9bba00fc",
+        "Date": "1140611"
+      },
+      {
+        "Title": "全體上市公司114年5月份當月營收較113年同期成長8.81％，累計營業收入較113年同期成長15.2％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301975dba5f1b00f5",
+        "Date": "1140611"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過大研生醫國際股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197597a423000d8",
+        "Date": "1140610"
+      },
+      {
+        "Title": "2025 CDP發表會圓滿落幕 證交所引領企業永續揭露邁向國際",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197593ee0bf00d4",
+        "Date": "1140610"
+      },
+      {
+        "Title": "驊陞科技(股)公司於114年6月10日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197593487e000d0",
+        "Date": "1140610"
+      },
+      {
+        "Title": "奕力-KY自本（114）年6月11日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019758b4867400cb",
+        "Date": "1140610"
+      },
+      {
+        "Title": "星宇航空自本（114）年 6 月 11 日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019758b2b89e00c7",
+        "Date": "1140610"
+      },
+      {
+        "Title": "第十一屆公司治理評鑑頒獎典禮6月12日隆重登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019758b0aea800c3",
+        "Date": "1140610"
+      },
+      {
+        "Title": "臺灣證券交易所股份有限公司召開114年股東常會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019758aeca7c00bf",
+        "Date": "1140610"
+      },
+      {
+        "Title": "臺灣證券交易所修訂無面額或每股面額非屬新臺幣十元公司申請上市之獲利能力標準及其上市後監理相關規章",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197544e325300b9",
+        "Date": "1140609"
+      },
+      {
+        "Title": "愛派司生技股份有限公司股票自114年6月10日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197541f8f8900b5",
+        "Date": "1140609"
+      },
+      {
+        "Title": "臺灣證交所聯手投信投顧公會前進泰國，拓展ETF跨境合作商機",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019753856c5700af",
+        "Date": "1140609"
+      },
+      {
+        "Title": "證交所響應世界環境日－與同仁攜手《守護我們的星球》，展現永續行動力！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197536ca6aa00ab",
+        "Date": "1140609"
+      },
+      {
+        "Title": "上週外資在集中市場賣超603.85億元，賣超國泰金42.84萬張最多，另買超第一金23.08萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019753516e1500a7",
+        "Date": "1140609"
+      },
+      {
+        "Title": "臺灣證券交易所針對鼎炫投資控股股份有限公司（鼎炫-KY，證券代號: 8499）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019744d83610009e",
+        "Date": "1140606"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過聯友金屬科技股份有限公司初次申請創新板股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019744c40b510099",
+        "Date": "1140606"
+      },
+      {
+        "Title": "證交所攜手創投公會 推動創投申請上市 共促資本市場活絡",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019744bac0cd0095",
+        "Date": "1140606"
+      },
+      {
+        "Title": "2025年5月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019744b0b1eb0091",
+        "Date": "1140606"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.47%，上市股票總市值達69.72兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197449dbb24008c",
+        "Date": "1140606"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月10日召開有價證券上市審議委員會第848次會議，將審議大研生醫國際(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019743f3f6670082",
+        "Date": "1140606"
+      },
+      {
+        "Title": "臺灣證券交易所接獲嘉雨思科技股份有限公司(代號：6921)函知撤回其股票創新板上市申請案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973fda5b18003a",
+        "Date": "1140605"
+      },
+      {
+        "Title": "【更新版】臺灣證券交易所有價證券上市審議委員會審議通過凌航科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973f9c3fe10036",
+        "Date": "1140605"
+      },
+      {
+        "Title": "臺灣證券交易所對台灣氣立股份有限公司(公司代號：4555)違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973f9ae0890032",
+        "Date": "1140605"
+      },
+      {
+        "Title": "熙特爾新能源股份有限公司(證券代號：7740)採競價拍賣方式辦理承銷，於今(6/5)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973ef4b5d7002c",
+        "Date": "1140605"
+      },
+      {
+        "Title": "證交所攜手臺灣指數公司赴日參與S&P DJI ETF盛會　強化台日金融合作鏈結",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973a51a5220020",
+        "Date": "1140604"
+      },
+      {
+        "Title": "福懋油脂股份有限公司上市有價證券繼續停止買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973a446c08001c",
+        "Date": "1140604"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過達明機器人股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973a2bc9d50017",
+        "Date": "1140604"
+      },
+      {
+        "Title": "意騰-KY (證券代號：7749)採競價拍賣方式辦理承銷，於今(6/4)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019739a434880013",
+        "Date": "1140604"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月6日召開有價證券上市審議委員會第847次會議，將審議聯友金屬科技(股)公司之申請股票創新板上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019738ef759f000f",
+        "Date": "1140604"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過邁萪科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c30197353b4ae6000a",
+        "Date": "1140603"
+      },
+      {
+        "Title": "2025年永續揭露實作研習暨宣導會圓滿落幕 引領企業精進永續治理",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c3019735319ef90006",
+        "Date": "1140603"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月5日召開有價證券上市審議委員會第846次會議，將審議凌航科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69734b5c301973525c8130001",
+        "Date": "1140603"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月5日召開有價證券上市審議委員會第845次會議，將審議嘉雨思科技(股)公司之申請股票創新板上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400197348a350c00ae",
+        "Date": "1140603"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月4日召開有價證券上市審議委員會第844次會議，將審議達明機器人(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001973018a57c0099",
+        "Date": "1140602"
+      },
+      {
+        "Title": "上市金融控股公司114年第1季財務報告均已完成申報作業",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001973011289a0095",
+        "Date": "1140602"
+      },
+      {
+        "Title": "證交所公布113年度本國上市公司全體員工薪酬資訊",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400197300f06410091",
+        "Date": "1140602"
+      },
+      {
+        "Title": "上週外資在集中市場賣超184.57億元，賣超國泰金23.10萬張最多，另買超第一金13.08萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001972f5037ba0083",
+        "Date": "1140602"
+      },
+      {
+        "Title": "交易新制報你知!!證交所與證券商/投信公司聯合主辦「114年投資講座」於6月1日起開始報名",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001971b8358be0057",
+        "Date": "1140529"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為1.41%，上市股票總市值達68.71兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001971b6b3b9b0053",
+        "Date": "1140529"
+      },
+      {
+        "Title": "臺灣證券交易所訂於6月3日召開有價證券上市審議委員會第843次會議，將審議邁萪科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001971b229c3a004e",
+        "Date": "1140529"
+      },
+      {
+        "Title": "愛派司生技股份有限公司 (證券代號：6918)採競價拍賣方式辦理承銷，於今(5/29)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001971acb6a8c0049",
+        "Date": "1140529"
+      },
+      {
+        "Title": "禾榮科技(股)公司及輝創電子(股)公司於114年5月28日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001971637313b0040",
+        "Date": "1140528"
+      },
+      {
+        "Title": "臺灣證券交易所對虹堡科技股份有限公司公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400197161543f2003b",
+        "Date": "1140528"
+      },
+      {
+        "Title": "臺灣主動式ETF發行元年 助攻資產管理創新發展",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400197160b39810037",
+        "Date": "1140528"
+      },
+      {
+        "Title": "兆聯實業股份有限公司股票自114年5月28日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb0940019711416c51002f",
+        "Date": "1140527"
+      },
+      {
+        "Title": "證交所持續深化內線交易宣導，引導企業健全防範機制，圓滿完成「防範內線交易宣導會」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001971112c4cc002b",
+        "Date": "1140527"
+      },
+      {
+        "Title": "永續同行、地方共榮–證交所啟動「台灣自然碳匯永續共生行動計畫」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400197107584990025",
+        "Date": "1140527"
+      },
+      {
+        "Title": "證交所首度結合COMPUTEX 臺灣智慧科技島主題式業績展望會提升服務",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001970b5190bd001f",
+        "Date": "1140526"
+      },
+      {
+        "Title": "上週外資在集中市場買超219.45億元，買超中信金16.47萬張最多，另賣超群創10.16萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001970b4de2ca001b",
+        "Date": "1140526"
+      },
+      {
+        "Title": "證交所與昕奇雲端攜手辦理F2SU Asia IPO Synergy Asia 展現資本市場新藍圖",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb094001970a7eaccf0016",
+        "Date": "1140526"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.88%，上市股票總市值達69.65兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400196fc9899f8000c",
+        "Date": "1140523"
+      },
+      {
+        "Title": "臺灣證券交易所對中鼎工程股份有限公司（公司代號：9933）違反重大訊息規定，加處新台幣80萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400196fc72e26f0007",
+        "Date": "1140523"
+      },
+      {
+        "Title": "全台第三檔主動式ETF來了！統一投信募集發行之「統一台股增長主動式ETF」，自114年5月27日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696fb09400196fc188e390002",
+        "Date": "1140523"
+      },
+      {
+        "Title": "臺灣證券交易所對麗嬰房股份有限公司（公司代號：2911）延遲發布重大訊息及召開重大訊息說明記者會規定，處以新臺幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196f78145f20172",
+        "Date": "1140522"
+      },
+      {
+        "Title": "上市公司（不含金融控股公司）114年第1季財務報告之每股淨值及累積虧損資料符合應暫停及恢復融資融券交易之名單",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196f7709b6a016e",
+        "Date": "1140522"
+      },
+      {
+        "Title": "振大環球(股)公司於114年5月22日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196f74e416c016a",
+        "Date": "1140522"
+      },
+      {
+        "Title": "基士德科技股份有限公司等13家公司預計於114年6月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196f6bc559a015a",
+        "Date": "1140522"
+      },
+      {
+        "Title": "臺灣證券交易所針對中傑投資控股股份有限公司（中傑-KY，證券代號: 6965）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196f24aa7170138",
+        "Date": "1140521"
+      },
+      {
+        "Title": "全體證券商114年4月份稅後淨利12.64億元，累計稅後淨利149.50億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196f23cebbd0134",
+        "Date": "1140521"
+      },
+      {
+        "Title": "主動式ETF再下一城！臺灣第二檔主動式ETF：群益投信募集發行之群益台灣精選強棒主動式ETF，自114年5月22日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ed3e533b0103",
+        "Date": "1140520"
+      },
+      {
+        "Title": "創控科技股份有限公司股票自114年5月21日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ecd56fe400fe",
+        "Date": "1140520"
+      },
+      {
+        "Title": "期元大S&P原油反1 ETF(00673R)自114年5月21日起恢復融資融券交易、有價證券借貸及當日沖銷交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ec8e5a5600fa",
+        "Date": "1140520"
+      },
+      {
+        "Title": "證交所首度設置COMPUTEX Hospitality Lounge 展現資本市場迎向科技與永續未來的行動力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ebc9e08800f5",
+        "Date": "1140520"
+      },
+      {
+        "Title": "臺灣證券交易所對遠見科技股份有限公司（公司代號：3040）延遲召開重大訊息說明記者會規定，處以新臺幣10萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196e802b03300d3",
+        "Date": "1140519"
+      },
+      {
+        "Title": "證交所與野村共同舉辦「APAC Tech Forum 2025」，強化機構投資人交流",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196e7537c9800ce",
+        "Date": "1140519"
+      },
+      {
+        "Title": "意藍資訊股份有限公司 (證券代號：6925)採競價拍賣方式辦理承銷，於今(5/19)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196e73bbe3400ca",
+        "Date": "1140519"
+      },
+      {
+        "Title": "兆聯實業股份有限公司(證券代號：6944)採競價拍賣方式辦理承銷，於今(5/19)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196e739a2f000c6",
+        "Date": "1140519"
+      },
+      {
+        "Title": "上週外資在集中市場買超996.68億元，買超中信金15.44萬張最多，另賣超群創9.94萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196e737c48300c2",
+        "Date": "1140519"
+      },
+      {
+        "Title": "臺灣智慧科技島主題式業績展望會隆重登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196e7086c3c00be",
+        "Date": "1140519"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為4.44%，上市股票總市值達70.24兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d899ce1400b7",
+        "Date": "1140516"
+      },
+      {
+        "Title": "上市公司114年第1季財報形式審閱結果處置情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d847c0de00b3",
+        "Date": "1140516"
+      },
+      {
+        "Title": "全體上市公司(不含金控)114年第1季營收成長18.06%、獲利成長28.24%，基本面穩健",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d7ddd69b00a6",
+        "Date": "1140516"
+      },
+      {
+        "Title": "生合公司(證券代號：1295)採競價拍賣方式辦理承銷，於今(5/16)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d7c745e500a2",
+        "Date": "1140516"
+      },
+      {
+        "Title": "114年第2季得為上市認購（售）權證（含牛熊證）之標的證券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d393de5e009d",
+        "Date": "1140515"
+      },
+      {
+        "Title": "本國及第一上市公司(不含金融控股公司)除福懋油外，均已申報114年第1季財務報告",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d379fc160099",
+        "Date": "1140515"
+      },
+      {
+        "Title": "臺灣證券交易所針對北極星藥業集團股份有限公司（北極星藥業-KY，公司代號:6550）違反重大訊息規定，處以新臺幣伍萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d377cfc00095",
+        "Date": "1140515"
+      },
+      {
+        "Title": "創新板走著瞧股份有限公司股票自114年5月16日開始改列上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d348bf430089",
+        "Date": "1140515"
+      },
+      {
+        "Title": "富威電力股份有限公司(富威電力，公司代號：6994)上市普通股自114年5月16日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d33e8cff0084",
+        "Date": "1140515"
+      },
+      {
+        "Title": "證交所舉辦「推動證券商導入金融零信任說明會-身分驗證｣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d333f05a0080",
+        "Date": "1140515"
+      },
+      {
+        "Title": "證交所偕KPMG、AppWorks再度赴新加坡，舉辦海外創新企業赴臺上市說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196d3323cc3007c",
+        "Date": "1140515"
+      },
+      {
+        "Title": "富威電力股份有限公司(富威電力，公司代號：6994)上市普通股自114年5月15日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ce445a95006c",
+        "Date": "1140514"
+      },
+      {
+        "Title": "倚天酷碁-創自本（114）年5月15日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196cde1104d0055",
+        "Date": "1140514"
+      },
+      {
+        "Title": "鈺寶-創自本(114)年5月15日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ce08d0ce005e",
+        "Date": "1140514"
+      },
+      {
+        "Title": "臺灣證券交易所對圓裕企業股份公司(證券代號：6835)違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ce2f9ec20068",
+        "Date": "1140514"
+      },
+      {
+        "Title": "元大台灣50 ETF(0050)將進行分割作業，114年6月18日為新受益憑證上市買賣日",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196ce27c2f50064",
+        "Date": "1140514"
+      },
+      {
+        "Title": "上市ETF市場迎來今年第三家新投信！華南永昌投信募集發行之首檔ETF華南永昌優選50 ETF，自114年5月16日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196cdedf9470059",
+        "Date": "1140514"
+      },
+      {
+        "Title": "2025年第2季MSCI指數臺股權重調整結果",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196cdad70650051",
+        "Date": "1140514"
+      },
+      {
+        "Title": "中鼎工程股份有限公司(中鼎，公司代號：9933)上市普通股自114年5月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c927e1ba0037",
+        "Date": "1140513"
+      },
+      {
+        "Title": "泰豐輪胎股份有限公司(泰豐，公司代號：2102)上市普通股自114年5月14日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c8eb211e0032",
+        "Date": "1140513"
+      },
+      {
+        "Title": "昶瑞機電 (證券代號： 7642)採競價拍賣方式辦理承銷，於今(5/13)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c8cc9e5c002e",
+        "Date": "1140513"
+      },
+      {
+        "Title": "全體上市公司114年4月份當月營收較113年同期成長15.37％，累計營業收入較113年同期成長16.94％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c8c8989e002a",
+        "Date": "1140513"
+      },
+      {
+        "Title": "證交所林修銘董事長率團訪阿拉伯聯合大公國，強化國際連結並吸引外資投資臺灣市場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c8c6b9c40026",
+        "Date": "1140513"
+      },
+      {
+        "Title": "中鼎工程股份有限公司(中鼎，公司代號：9933)上市普通股自114年5月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c433528a001e",
+        "Date": "1140512"
+      },
+      {
+        "Title": "泰豐輪胎股份有限公司(泰豐，公司代號：2102)上市普通股自114年5月13日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c3d383cf001a",
+        "Date": "1140512"
+      },
+      {
+        "Title": "創控(證券代號：6909)採競價拍賣方式辦理承銷，於今(5/12)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c32cb80d0015",
+        "Date": "1140512"
+      },
+      {
+        "Title": "上週外資在集中市場買超780.57億元，買超中信金10.07萬張最多，另賣超富邦金6.42萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196c2a7c31b0011",
+        "Date": "1140512"
+      },
+      {
+        "Title": "臺灣證券交易所針對鼎炫投資控股股份有限公司（鼎炫-KY，證券代號: 8499）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196b48e224f000a",
+        "Date": "1140509"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.61%，上市股票總市值達67.27兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196b48afb540006",
+        "Date": "1140509"
+      },
+      {
+        "Title": "新光投信募集發行之新光美國電力基建息收ETF，自114年5月13日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696b406fc0196b44a4f380002",
+        "Date": "1140509"
+      },
+      {
+        "Title": "久禾光 (證券代號： 6498)採競價拍賣方式辦理承銷，於今(5/9)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196b404f00600ab",
+        "Date": "1140509"
+      },
+      {
+        "Title": "金利食安 (證券代號： 7743)採競價拍賣方式辦理承銷，於今(5/9)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196b4029d1b00a7",
+        "Date": "1140509"
+      },
+      {
+        "Title": "打造亞洲創新板，證交所參與2025 SusHi Tech Tokyo展現臺灣資本市場實力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196b3ff712f00a3",
+        "Date": "1140509"
+      },
+      {
+        "Title": "2025年4月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196af726c460097",
+        "Date": "1140508"
+      },
+      {
+        "Title": "松川精密(股)公司於114年5月8日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196af6800b00093",
+        "Date": "1140508"
+      },
+      {
+        "Title": "臺灣證券交易所針對中傑投資控股股份有限公司（中傑-KY，證券代號: 6965）違反重大訊息規定，處以新臺幣參萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196af535dec008f",
+        "Date": "1140508"
+      },
+      {
+        "Title": "國泰臺灣加權正2 ETF(00663L)將進行分割作業，114年6月11日為新受益憑證上市買賣日",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196aa5466140042",
+        "Date": "1140507"
+      },
+      {
+        "Title": "證交所獲《遠見》ESG企業永續獎教育推廣組楷模獎　以「給你的錢一首歌的時間」創新推廣投資人反詐騙教育",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196aa36a15b003e",
+        "Date": "1140507"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過中華資安國際股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196aa2c1ac3003a",
+        "Date": "1140507"
+      },
+      {
+        "Title": "證交所辦理「防範內線交易宣導會」，持續推廣法規教育",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196aa26873d0036",
+        "Date": "1140507"
+      },
+      {
+        "Title": "GOGOLOOK-創(證券代號：6902)採競價拍賣方式辦理承銷，於今(5/7)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196aa220bec0032",
+        "Date": "1140507"
+      },
+      {
+        "Title": "臺灣中東合作新里程碑：證交所與杜拜交易所簽署合作備忘錄",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196a9c9c09c002d",
+        "Date": "1140507"
+      },
+      {
+        "Title": "上市公司114年第1季財務報告公告申報期限及注意事項",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196a33ff3f2001a",
+        "Date": "1140506"
+      },
+      {
+        "Title": "臺灣證券交易所對瑞軒科技股份有限公司(公司代號：2489)違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca0196a006633e0016",
+        "Date": "1140505"
+      },
+      {
+        "Title": "臺灣證券交易所訂於5月7日召開有價證券上市審議委員會第842次會議，將審議中華資安國際(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca01969fd465b20012",
+        "Date": "1140505"
+      },
+      {
+        "Title": "臺灣首檔主動式ETF：野村臺灣智慧優選主動式ETF(00980A)今(5/5)日掛牌上市！助攻臺灣成為亞洲資產管理中心",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca01969f8a3733000d",
+        "Date": "1140505"
+      },
+      {
+        "Title": "上週外資在集中市場買超523.64億元，買超中信金8.14萬張最多，另賣超長榮航1.94萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca01969e8ed5870006",
+        "Date": "1140505"
+      },
+      {
+        "Title": "證交所、碳交所攜手清華大學辦理「淨零轉型與工業去碳」研討會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6969512ca01969e70780d0002",
+        "Date": "1140505"
+      },
+      {
+        "Title": "臺灣證券交易所對永冠能源科技集團有限公司違反重大訊息申報規定，處以新台幣參萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196906510f0015e",
+        "Date": "1140502"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為4.60%，上市股票總市值達66.86兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196904b9790015a",
+        "Date": "1140502"
+      },
+      {
+        "Title": "大研生醫國際(股)公司於114年4月30日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019685dc7abe014a",
+        "Date": "1140430"
+      },
+      {
+        "Title": "主動出擊！全臺首檔主動式ETF：野村投信募集發行之「野村臺灣智慧優選主動式ETF」，自114年5月5日起掛牌上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019685b15d120146",
+        "Date": "1140430"
+      },
+      {
+        "Title": "第十一屆（113年度）公司治理評鑑結果公告",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019685a4f9e90142",
+        "Date": "1140430"
+      },
+      {
+        "Title": "證交所偕KPMG、AppWorks赴新馬串聯創新生態圈，開啟東南亞創新資本平台序頁",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196859f05f1013e",
+        "Date": "1140430"
+      },
+      {
+        "Title": "簽署創新板新版風險預告書已破百萬份",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196857d6049013a",
+        "Date": "1140430"
+      },
+      {
+        "Title": "證交所攜手創投公會舉辦「解碼創新板 創業投資新機遇」座談會 攜手打造創新企業成長的資本力量",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196810cc3830131",
+        "Date": "1140429"
+      },
+      {
+        "Title": "三集瑞-KY自本（114）年4月30日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019680b67a01012c",
+        "Date": "1140429"
+      },
+      {
+        "Title": "臺灣證券交易所對中國石油化學工業開發股份有限公司違反重大訊息規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967c3e08780125",
+        "Date": "1140428"
+      },
+      {
+        "Title": "臺灣證券交易所對艾笛森光電股份有限公司違反重大訊息規定，處以新台幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967c12da0f0121",
+        "Date": "1140428"
+      },
+      {
+        "Title": "新光標普電動車ETF(00925)自114年6月5日起終止上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967bd944c0011d",
+        "Date": "1140428"
+      },
+      {
+        "Title": "上週外資在集中市場買超275.36億元，買超台新金3.32萬張最多，另賣超華航5.43萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967b6ad8960118",
+        "Date": "1140428"
+      },
+      {
+        "Title": "立誠公司(證券代號：6597)採競價拍賣方式辦理承銷，於今(4/28)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967b522d890114",
+        "Date": "1140428"
+      },
+      {
+        "Title": "臺灣證券交易所股份有限公司公告召開114年股東常會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967b05dd2a010d",
+        "Date": "1140428"
+      },
+      {
+        "Title": "證交所「鬼話連篇」抓鬼大賽開跑！揭露你的受詐經驗 角逐最高6000好禮！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01967a4458e100e8",
+        "Date": "1140428"
+      },
+      {
+        "Title": "臺灣證券交易所對益航股份有限公司違反重大訊息規定，處以新台幣10萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966c94701800de",
+        "Date": "1140425"
+      },
+      {
+        "Title": "邁萪科技(股)公司、達明機器人(股)公司、世紀離岸風電設備(股)公司 及凌航科技(股)公司於114年4月25日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966c886c2000da",
+        "Date": "1140425"
+      },
+      {
+        "Title": "臺灣證券交易所對昶昕實業股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966c768f6000d6",
+        "Date": "1140425"
+      },
+      {
+        "Title": "嘉雨思科技(股)公司及聯友金屬科技(股)公司於114年4月25日送件申 請股票創新板上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966c73167500d2",
+        "Date": "1140425"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.46%，上市股票總市值達63.93兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966c659a5a00ce",
+        "Date": "1140425"
+      },
+      {
+        "Title": "永鴻國際生技股份有限公司股票自114年4月28日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966c42115e00ca",
+        "Date": "1140425"
+      },
+      {
+        "Title": "開放證券商交割專戶客戶分戶帳新臺幣款項得轉入外幣分戶帳",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966bbb356200c2",
+        "Date": "1140425"
+      },
+      {
+        "Title": "益航股份有限公司(益航，公司代號：2601)上市普通股自114年4月25日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196676bfa8000b5",
+        "Date": "1140424"
+      },
+      {
+        "Title": "京鼎精密科技股份有限公司(京鼎，公司代號：3413)上市普通股及以其為標的之上市認購(售)權證自114年4月24日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01966230506800b0",
+        "Date": "1140423"
+      },
+      {
+        "Title": "益航股份有限公司(益航，公司代號：2601)上市普通股自114年4月24日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019661f8f10f00ac",
+        "Date": "1140423"
+      },
+      {
+        "Title": "證交所發布IFRS永續揭露準則第S2號「氣候相關揭露」實務指引及簡易版範例，協助企業落實永續行動及與國際接軌",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019661efa30700a8",
+        "Date": "1140423"
+      },
+      {
+        "Title": "京鼎精密科技股份有限公司(京鼎，公司代號：3413)上市普通股及以其為標的之認購(售)權證自114年4月23日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01965d081aa50075",
+        "Date": "1140422"
+      },
+      {
+        "Title": "百容電子股份有限公司等10家公司預計於114年5月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01965cff48d10071",
+        "Date": "1140422"
+      },
+      {
+        "Title": "世界地球日同步上線！證交所、碳交所攜手推出「證循環 碳未來」社群，共倡永續新生活",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01965baa1de20046",
+        "Date": "1140422"
+      },
+      {
+        "Title": "中福國際股份有限公司自114年4月23日起恢復上市有價證券之交易方法",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019657d7c52e0029",
+        "Date": "1140421"
+      },
+      {
+        "Title": "全體證券商114年3月份稅後淨利1.04億元，累計稅後淨利136.86億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019657bb39e20025",
+        "Date": "1140421"
+      },
+      {
+        "Title": "「Touch Taiwan系列展」主題式業績發表會，以創新技術與豐碩實績引領產業風向，場場滿座，圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019657a1753c0020",
+        "Date": "1140421"
+      },
+      {
+        "Title": "築間公司(證券代號：7723)採競價拍賣方式辦理承銷，於今(4/21)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196572e6fc6001c",
+        "Date": "1140421"
+      },
+      {
+        "Title": "上週外資在集中市場賣超689.45億元，賣超華航4.43萬張最多，另買超新光金3.00萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196567cb5110018",
+        "Date": "1140421"
+      },
+      {
+        "Title": "臺灣證券交易所對中鼎工程股份有限公司（公司代號：9933）違反重大訊息記者會規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a01964863b4510014",
+        "Date": "1140418"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.68%，上市股票總市值達62.40兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019648395827000f",
+        "Date": "1140418"
+      },
+      {
+        "Title": "響應「健康台灣推動委員會」，接軌國際健康永續發展目標",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a019647623894000a",
+        "Date": "1140418"
+      },
+      {
+        "Title": "永鴻生技(證券代號：6936)採競價拍賣方式辦理承銷，於今(4/17)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69642659a0196429001e10001",
+        "Date": "1140417"
+      },
+      {
+        "Title": "資本市場服務團再出擊 與勤業眾信於高雄舉辦推動優質企業邁入資本市場座談會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c01963e2d54d70040",
+        "Date": "1140416"
+      },
+      {
+        "Title": "證交所攜手COMPUTEX 精選25企業展現資本市場競爭力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c019638dde5f80031",
+        "Date": "1140415"
+      },
+      {
+        "Title": "證交所將於本（114）年4月15日公布上市公司申報113年度董事及監察人酬金支領情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c019633d0aeb90019",
+        "Date": "1140414"
+      },
+      {
+        "Title": "2025年3月暨第一季集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c019633c3d48b0015",
+        "Date": "1140414"
+      },
+      {
+        "Title": "聯邦投信募集發行之首檔ETF聯邦台灣精彩50ETF，自114年4月16日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c019633b1240e0011",
+        "Date": "1140414"
+      },
+      {
+        "Title": "立誠光電股份有限公司（股票代號：6597）採競價拍賣方式辦理承銷，因合格標單未達本次競價拍賣之承銷數量，證交所4月15日將不辦理開標及後續公開申購相關作業",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c019633a60217000d",
+        "Date": "1140414"
+      },
+      {
+        "Title": "證交所2025年 SDGs「齊心淨灘．海洋永續」 用心守護海洋，創造永續地球！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c01963306a07c0008",
+        "Date": "1140414"
+      },
+      {
+        "Title": "上週外資在集中市場賣超281.74億元，賣超凱基金13.06萬張最多，另買超新光金11.00萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69631d34c019632fbbbf10004",
+        "Date": "1140414"
+      },
+      {
+        "Title": "臺灣證券交易所對金像電子股份有限公司(公司代號：2368)違反重大訊息規定，處以新臺幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696237bca0196244d87d10010",
+        "Date": "1140411"
+      },
+      {
+        "Title": "愛爾達-創自本（114）年4月14日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696237bca019624474e1e000c",
+        "Date": "1140411"
+      },
+      {
+        "Title": "證交所發布「永續報告書模板及參考範例手冊」，助力企業提升永續資訊揭露品質",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696237bca0196243d86f10007",
+        "Date": "1140411"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為8.31%，上市股票總市值達62.82兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d696237bca019624243e050003",
+        "Date": "1140411"
+      },
+      {
+        "Title": "全體上市公司114年3月份當月營收較113年同期成長19.1％，累計營業收入較113年同期成長17.52％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00196223d8df5014b",
+        "Date": "1140411"
+      },
+      {
+        "Title": "臺灣證券交易所對大眾全球投資控股股份有限公司（公司代號：3701）違反內部控制制度及延遲召開重大訊息說明記者會規定，處以新臺幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e001961f60e3a00147",
+        "Date": "1140410"
+      },
+      {
+        "Title": "臺灣證券交易所對立德電子股份有限公司違反重大訊息及內部控制等規定，處以新台幣30萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e001961f59e32c0143",
+        "Date": "1140410"
+      },
+      {
+        "Title": "上市公司(不含資本額100億元以上及金融保險業)113年度財務報告之每股淨值資料符合應暫停及恢復融資融券交易之名單",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e001961a3d7c6c012d",
+        "Date": "1140409"
+      },
+      {
+        "Title": "截至4月9日已有逾四成上市公司公告3月份營收，整體表現較去年同期呈現成長",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e0019619c6ff4d0119",
+        "Date": "1140409"
+      },
+      {
+        "Title": "上市公司啟動庫藏股且執行率佳將納入公司治理評鑑額外加分參考",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e0019619c2835b0115",
+        "Date": "1140409"
+      },
+      {
+        "Title": "證交所已鼓勵上市公司啓動庫藏股及落實資訊揭露",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e0019617ecd63000d5",
+        "Date": "1140409"
+      },
+      {
+        "Title": "證交所公布修訂相關規章，以減輕上市公司申報作業及與國際接軌",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e001961352655b00c8",
+        "Date": "1140408"
+      },
+      {
+        "Title": "國際局勢引發市場波動，投資人應回歸基本面理性評估",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e001960fe29a6900c4",
+        "Date": "1140407"
+      },
+      {
+        "Title": "上週外資在集中市場賣超432.91億元，賣超台新金4.67萬張最多，另買超新光金1.85萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e001960f0086a200bf",
+        "Date": "1140407"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過微程式資訊股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f5f6c1c800bb",
+        "Date": "1140402"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為1.41%，上市股票總市值達68.49兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f5ed3b9500b7",
+        "Date": "1140402"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號: 2236）違反重大訊息規定，處以新臺幣5萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f5e306de00b3",
+        "Date": "1140402"
+      },
+      {
+        "Title": "2025 AOSEF年會專業交流 厚實臺灣證券交易所連結國際穩固基礎",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f5ca695500ae",
+        "Date": "1140402"
+      },
+      {
+        "Title": "證交所攜手KPMG安侯建業，建構東南亞創新資本平台",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f4a221af00a9",
+        "Date": "1140402"
+      },
+      {
+        "Title": "上市公司113年財務報告形式審閱結果處置情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f0f1af5200a5",
+        "Date": "1140401"
+      },
+      {
+        "Title": "上市公司執行買回庫藏股情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f0e745f800a1",
+        "Date": "1140401"
+      },
+      {
+        "Title": "中華資安國際(股)公司於114年4月1日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f0bfb61b009c",
+        "Date": "1140401"
+      },
+      {
+        "Title": "全體上市公司113年度營收成長13.32%、獲利成長38.33%，基本面穩健",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f0b370ff0098",
+        "Date": "1140401"
+      },
+      {
+        "Title": "證交所於「Touch Taiwan系列展」辦理智慧顯示、智慧製造及電子生產製造設備主題式業績發表會，將自4月16日起隆重登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195f01221240092",
+        "Date": "1140401"
+      },
+      {
+        "Title": "臺灣證券交易所舉辦「推動證券商導入金融零信任說明會-概論」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195effea6e1008e",
+        "Date": "1140401"
+      },
+      {
+        "Title": "114年第2季得為上市認購（售）權證（含牛熊證）之標的證券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195ebe42d8d0084",
+        "Date": "1140331"
+      },
+      {
+        "Title": "國際局勢引發市場波動，投資人回歸基本面理性評估",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195ebc25c3a0080",
+        "Date": "1140331"
+      },
+      {
+        "Title": "本國及第一上市公司(含創新板公司)除福懋油外，均已申報113年度財務報告",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195ebc07189007c",
+        "Date": "1140331"
+      },
+      {
+        "Title": "臺灣證券交易所訂於4月2日召開有價證券上市審議委員會第841次會議，將審議微程式資訊(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195eb72b7410077",
+        "Date": "1140331"
+      },
+      {
+        "Title": "縮短IPO訂價至掛牌時程，自今（114）年3月31日起正式實施",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195eb0fe21c006d",
+        "Date": "1140331"
+      },
+      {
+        "Title": "上週外資在集中市場賣超777.45億元，賣超長榮航8.50萬張最多，另買超大成鋼5.01萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195eae4f8130065",
+        "Date": "1140331"
+      },
+      {
+        "Title": "主動式ETF及被動式平衡型ETF正式啟動　引領臺灣ETF市場邁向新里程碑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195eae2eef40061",
+        "Date": "1140331"
+      },
+      {
+        "Title": "證交所防詐騙攻略大公開！「小心有鬼」掀起全民反詐行動",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195e9ec3cc20059",
+        "Date": "1140331"
+      },
+      {
+        "Title": "中台自本（114）年3月31日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195dc13e835004b",
+        "Date": "1140328"
+      },
+      {
+        "Title": "「2025自行車產業投資論壇」巨大、拓凱、美利達及桂盟業績發表，分享市場趨勢與佈局策略",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195dc23a6680053",
+        "Date": "1140328"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為2.73%，上市股票總市值達69.46兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195dc1d9636004f",
+        "Date": "1140328"
+      },
+      {
+        "Title": "證交所豪撒50支iPhone 16 Pro Max　創新板活動熱爆 快搭上3月的幸運末班車！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195dc0336400046",
+        "Date": "1140328"
+      },
+      {
+        "Title": "自114年3月31日起，誠研科技股份有限公司（誠研，公司代號：3494）上市有價證券恢復交易方法",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195d7044929003d",
+        "Date": "1140327"
+      },
+      {
+        "Title": "證交所「5D反詐行動」第二波「小心有鬼」  提倡識詐免疫力",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195d699ab470031",
+        "Date": "1140327"
+      },
+      {
+        "Title": "最後5天，快上車！證交所「臺灣創新板宣導獎勵活動」114年3月抽50支iPhone 16 Pro Max！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195d0a9d25d0026",
+        "Date": "1140326"
+      },
+      {
+        "Title": "大成長城企業股份有限公司等3家公司預計於114年4月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195ccb50479001d",
+        "Date": "1140325"
+      },
+      {
+        "Title": "臺灣證券交易所隆重主辦2025 AOSEF年會 展現資本市場國際連結新面貌",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195cc20e7e10018",
+        "Date": "1140325"
+      },
+      {
+        "Title": "上市公司(資本額100億元以上及金融保險業)113年度財務報告之每股淨值資料符合應暫停及恢復融資融券交易之名單",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d695c717e00195c73cdb910001",
+        "Date": "1140324"
+      },
+      {
+        "Title": "營收高成長、獲利佳、估值領先！創新板顛覆市場印象",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195c6c1550a018b",
+        "Date": "1140324"
+      },
+      {
+        "Title": "上週外資在集中市場賣超447.73億元，賣超鴻海8.52萬張最多，另買超群創17.02萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195c68c74a20187",
+        "Date": "1140324"
+      },
+      {
+        "Title": "證交所「反詐騙聯防行動專區」一網打盡15種詐騙類型",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195c6052e9c017f",
+        "Date": "1140324"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.10%，上市股票總市值達71.41兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195b80ee9c1017a",
+        "Date": "1140321"
+      },
+      {
+        "Title": "證交所「臺灣創新板宣導獎勵活動」3月送50支iPhone 16 Pro Max，登錄日期倒數中！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195b78c69f60174",
+        "Date": "1140321"
+      },
+      {
+        "Title": "偉訓科技股份有限公司(偉訓，公司代號：3032)上市普通股及以其為標的之上市認購(售)權證自114年3月21日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195b3076d99016e",
+        "Date": "1140320"
+      },
+      {
+        "Title": "臺灣證券交易所對岱宇國際股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195b2b3abaf0169",
+        "Date": "1140320"
+      },
+      {
+        "Title": "臺灣證券交易所針對百達精密工業股份有限公司（公司簡稱：百達-KY，證券代號: 2236）違反重大訊息規定，處以新臺幣3萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195add8003d0162",
+        "Date": "1140319"
+      },
+      {
+        "Title": "偉訓科技股份有限公司(偉訓，公司代號：3032)上市普通股及以其為標的之認購(售)權證自114年3月20日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195adcf72dd015e",
+        "Date": "1140319"
+      },
+      {
+        "Title": "半導體群山重磅合作！德鑫半導體聯盟齊聚證交所",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195adcb01ae015c",
+        "Date": "1140319"
+      },
+      {
+        "Title": "臺灣證券交易所針對亞洲塑膠再生資源控股有限公司（再生-KY，代號: 1337）違反重大訊息規定，處以新臺幣3萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195adc212c60158",
+        "Date": "1140319"
+      },
+      {
+        "Title": "全體證券商114年2月份稅後淨利75.10億元，累計稅後淨利135.82億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195adb924ed0154",
+        "Date": "1140319"
+      },
+      {
+        "Title": "統一MSCI美低波N (020015)及統一MSCI美科技N (020016)指數投資證券自114年3月27日起終止上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195adb19ab4014f",
+        "Date": "1140319"
+      },
+      {
+        "Title": "證交所攜手生態圈關鍵夥伴 共啟臺灣AI創新契機",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a87979ef0149",
+        "Date": "1140318"
+      },
+      {
+        "Title": "114年第1季得為上市認購（售）權證（含牛熊證）之標的證券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a3f0df9a0136",
+        "Date": "1140317"
+      },
+      {
+        "Title": "虎山實業股份有限公司股票自114年3月18日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a3eacd7b0132",
+        "Date": "1140317"
+      },
+      {
+        "Title": "實收資本額達新臺幣100億元以上及金融保險業之上市公司113年度財務報告均已完成申報作業",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a3af257d012e",
+        "Date": "1140317"
+      },
+      {
+        "Title": "臺灣證券交易所對冠西電子企業股份有限公司（公司代號：2466）違反內部控制規定，處以新臺幣10萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a386470b012a",
+        "Date": "1140317"
+      },
+      {
+        "Title": "富邦投信募集發行之富邦台灣旗艦動能50 ETF，自114年3月19日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a37e63550126",
+        "Date": "1140317"
+      },
+      {
+        "Title": "114年3月18日除息影響加權股價指數",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a354602c011c",
+        "Date": "1140317"
+      },
+      {
+        "Title": "上週外資在集中市場賣超1,260.51億元，賣超長榮航7.98萬張最多，另買超中鋼7.45萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a2e732580118",
+        "Date": "1140317"
+      },
+      {
+        "Title": "證交所「臺灣創新板宣導獎勵活動」活動好評，114年3月iPhone 16 Pro Max加碼抽至50支！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a247bdbd0110",
+        "Date": "1140317"
+      },
+      {
+        "Title": "全民識詐！證交所攜手LINE TODAY推廣投資反詐必修課",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba20195a1e0129c010c",
+        "Date": "1140317"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為2.69%，上市股票總市值達70.63兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201959407319800ff",
+        "Date": "1140314"
+      },
+      {
+        "Title": "自114年3月18日起，康控-KY繼續列為變更交易方法併加採行分盤集合競價交易方式",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019594013c6400fb",
+        "Date": "1140314"
+      },
+      {
+        "Title": "自114年3月18日起，台揚科技股份有限公司（台揚、公司代號：2314）及麗嬰房股份有限公司（麗嬰房，公司代號：2911）上市有價證券列為變更交易方法",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019593f9e8af00f7",
+        "Date": "1140314"
+      },
+      {
+        "Title": "臺灣證券交易所對峰源集團股份有限公司（證券代號:6807）違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201958ec579ca00eb",
+        "Date": "1140313"
+      },
+      {
+        "Title": "證交所舉辦證券商導入金融零信任架構作業問卷說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201958e7bfda300e5",
+        "Date": "1140313"
+      },
+      {
+        "Title": "證交所搶攻資訊人才，陽交大與清大校園徵才首登場",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201958d485ffb00da",
+        "Date": "1140313"
+      },
+      {
+        "Title": "臺灣證券交易所對翔耀實業股份有限公司(代號：2438)違反重大訊息及內部控制等規定，併處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201958a34934b00d2",
+        "Date": "1140312"
+      },
+      {
+        "Title": "華勝汽車電子股份有限公司及聚賢研發股份有限公司股票自114年3月13日於一般板及臺灣創新板上市開始買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019589a21e8400c8",
+        "Date": "1140312"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過愛派司生技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201958963deb100b3",
+        "Date": "1140312"
+      },
+      {
+        "Title": "復盛應用科技股份有限公司(復盛應用，公司代號：6670)上市普通股及以其為標的之認購(售)權證自114年3月12日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019584dcaa4f0097",
+        "Date": "1140311"
+      },
+      {
+        "Title": "保德信投信募集發行之PGIM保德信臺灣市值動能50ETF，自114年3月13日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019584afb7d90093",
+        "Date": "1140311"
+      },
+      {
+        "Title": "台灣精材(證券代號：3467)採競價拍賣方式辦理承銷，於今(3/11)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201958414aba00086",
+        "Date": "1140311"
+      },
+      {
+        "Title": "全體上市公司114年2月份當月營收較113年同期成長27.8%，累計營業收入較113年同期成長16.64%",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019583dc4016007f",
+        "Date": "1140311"
+      },
+      {
+        "Title": "打造多元共融職場，證交所響應2025年「性別平等敲鐘」活動",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957f8cb722007a",
+        "Date": "1140310"
+      },
+      {
+        "Title": "2025年2月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957f7ddbeb0076",
+        "Date": "1140310"
+      },
+      {
+        "Title": "復盛應用科技股份有限公司(復盛應用，公司代號：6670)上市普通股及以其為標的之認購(售)權證自114年3月11日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957f7056b10072",
+        "Date": "1140310"
+      },
+      {
+        "Title": "臺灣證券交易所接獲大東電業廠股份有限公司(代號：1623)函知撤回其申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957f5c468f006d",
+        "Date": "1140310"
+      },
+      {
+        "Title": "臺灣證券交易所訂於3月12日召開有價證券上市審議委員會第840次會議，將審議愛派司(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957f3442680066",
+        "Date": "1140310"
+      },
+      {
+        "Title": "創新價值獲投資人認可 創新板公司股價淨值比表現亮眼",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957f1bb82d0062",
+        "Date": "1140310"
+      },
+      {
+        "Title": "上週外資在集中市場賣超1,791.99億元，賣超台積電6.78萬張最多，另買超中鋼8.62萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957eb3c4220051",
+        "Date": "1140310"
+      },
+      {
+        "Title": "投資詐騙太猖狂！證交所聯合證券商舉辦5D反詐專題聯展",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957dd0ec96004b",
+        "Date": "1140310"
+      },
+      {
+        "Title": "臺灣證券交易所對三地開發地產股份有限公司（公司代號：1438）違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba2019570208a7f0043",
+        "Date": "1140307"
+      },
+      {
+        "Title": "偉詮電子股份有限公司(偉詮電，公司代號：2436)上市普通股及以其為標的之上市認購權證自114年3月10日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201957007e937003f",
+        "Date": "1140307"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為2.07%，上市股票總市值達72.56兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201956ff8431d003a",
+        "Date": "1140307"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過熙特爾新能源股份有限公司初次申請創新板股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201956fedcec90036",
+        "Date": "1140307"
+      },
+      {
+        "Title": "寶綠特資源再生工程股份有限公司 BORETECH Resource Recovery Engineering CO., LTD. (簡稱：寶綠特-KY，證券代號:6887）股票自114年3月10日上市開始買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201956f62f290002c",
+        "Date": "1140307"
+      },
+      {
+        "Title": "偉詮電子股份有限公司(偉詮電，公司代號：2436)上市普通股及以其為標的之認購權證自114年3月7日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6956a7ba201956ad6eea50002",
+        "Date": "1140306"
+      },
+      {
+        "Title": "中傑投資控股股份有限公司Chung Jye Investment Holding Co., Ltd. (簡稱：中傑-KY，證券代號:6965）股票自114年3月7 日上市開始買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01956a3cf7860181",
+        "Date": "1140306"
+      },
+      {
+        "Title": "臺灣證券交易所訂於3月7日召開有價證券上市審議委員會第839次會議，將審議熙特爾新能源(股)公司之申請股票創新板上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019565322d6f0175",
+        "Date": "1140305"
+      },
+      {
+        "Title": "友鋮(證券代號：7718)採競價拍賣方式辦理承銷，於今(3/4)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c0195608b81420121",
+        "Date": "1140304"
+      },
+      {
+        "Title": "聚賢研發(證券代號：7631)採競價拍賣方式辦理承銷，於今(3/4)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01956089454b011d",
+        "Date": "1140304"
+      },
+      {
+        "Title": "虎山(證券代號：7736)採競價拍賣方式辦理承銷，於今(3/4)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019560870a9c0119",
+        "Date": "1140304"
+      },
+      {
+        "Title": "2025年永續揭露實作研習暨宣導會自3月20日起跑",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01956084f01f0115",
+        "Date": "1140304"
+      },
+      {
+        "Title": "臺灣證券交易所對潤泰創新國際股份有限公司違反重大訊息及內部控制制度規定，併處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c0195606b16180111",
+        "Date": "1140304"
+      },
+      {
+        "Title": "證交所發布IFRS永續揭露準則第S2號「氣候相關揭露」參考範例及自行評估表，助力企業接軌國際準則",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01955ade9f7800f7",
+        "Date": "1140303"
+      },
+      {
+        "Title": "上週外資在集中市場賣超1,197.68億元，賣超鴻海6.72萬張最多，另買超中鋼10.15萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01955aac624400f3",
+        "Date": "1140303"
+      },
+      {
+        "Title": "日盛台駿自本（114）年3月3日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c0195465d826f00e1",
+        "Date": "1140227"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過新代科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019546cbb78300ef",
+        "Date": "1140227"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為2.85%，上市股票總市值達74.05兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019546bbdde400eb",
+        "Date": "1140227"
+      },
+      {
+        "Title": "自114年3月3日起，同泰電子科技股份有限公司（同泰，公司代號：3321）上市有價證券列為變更交易方法",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019541ad538700bb",
+        "Date": "1140226"
+      },
+      {
+        "Title": "華勝-KY(證券代號：2248)採競價拍賣方式辦理承銷，於今(2/26)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019540fe162d00ac",
+        "Date": "1140226"
+      },
+      {
+        "Title": "上市公司113年度財務報告公告申報期限及注意事項",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01953c9054d500a7",
+        "Date": "1140225"
+      },
+      {
+        "Title": "臺灣證券交易所訂於2月27日召開有價證券上市審議委員會第838次會議，將審議新代科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01953c4cac6e009a",
+        "Date": "1140225"
+      },
+      {
+        "Title": "臺灣證券交易所舉辦114年證券商資通安全會議",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019537603abe0095",
+        "Date": "1140224"
+      },
+      {
+        "Title": "公開資訊觀測站優化網站正式上線 提升使用者優質體驗",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c0195373da8610090",
+        "Date": "1140224"
+      },
+      {
+        "Title": "上週外資在集中市場買超314.26億元，買超新光金9.37萬張最多，另賣超華邦電6.08萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019536c9ffc3007d",
+        "Date": "1140224"
+      },
+      {
+        "Title": "臺灣證券交易所對鴻名企業股份有限公司（公司代號：3021）違反內部控制制度規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019527f641b1006f",
+        "Date": "1140221"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為2.49%，上市股票總市值達76.21兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019527e1c475006b",
+        "Date": "1140221"
+      },
+      {
+        "Title": "晶心科技股份有限公司等12家公司預計於114年3月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01952799d81e005b",
+        "Date": "1140221"
+      },
+      {
+        "Title": "微程式資訊(股)公司於114年2月21日送件申請股票上市",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01952785f13d0057",
+        "Date": "1140221"
+      },
+      {
+        "Title": "「寶綠特資源再生工程股份有限公司(寶綠特-KY)」(證券代號：6887)採競價拍賣方式辦理承銷，於今(2/21)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01952732c6130035",
+        "Date": "1140221"
+      },
+      {
+        "Title": "證交所受邀於Taiwan CEO-CFO論壇分享臺灣市場近況與展望",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019522b7b063002a",
+        "Date": "1140220"
+      },
+      {
+        "Title": "「浩宇生醫股份有限公司」(證券代號：6872)採競價拍賣方式辦理承銷，於今(2/20)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01952232201c0024",
+        "Date": "1140220"
+      },
+      {
+        "Title": "「中傑投資控股股份有限公司(中傑-KY)」(證券代號：6965)採競價拍賣方式辦理承銷，於今(2/20)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c019522301c190020",
+        "Date": "1140220"
+      },
+      {
+        "Title": "台新藥股份有限公司自本（114）年2月20日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01951ddf6666001c",
+        "Date": "1140219"
+      },
+      {
+        "Title": "證交所2025年SDGs「穿戴永續‧時尚公益」活動－舊牛仔褲重生，時尚轉為永續！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01951dd855410018",
+        "Date": "1140219"
+      },
+      {
+        "Title": "創新板取消合格投資人制度，帶動成交值大幅成長！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01951dcd49af0016",
+        "Date": "1140219"
+      },
+      {
+        "Title": "全體證券商114年1月份稅後淨利60.72億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01951cfa1b7b0011",
+        "Date": "1140219"
+      },
+      {
+        "Title": "「光焱科技股份有限公司」（證券代號：7728）採競價拍賣方式辦理承銷，於今（2/19）日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01951cf5d02d000d",
+        "Date": "1140219"
+      },
+      {
+        "Title": "114年度公司治理評鑑宣導會自3月4日起於北中南陸續舉辦",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d69517ec0c01951856d3390004",
+        "Date": "1140218"
+      },
+      {
+        "Title": "上週外資在集中市場賣超304.71億元，賣超台新金4.41萬張最多，另買超中鋼10.77萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694fd5b92019512a67a1b0028",
+        "Date": "1140217"
+      },
+      {
+        "Title": "113年權證發行檔數再創新高 證交所盛大舉辦「權證發行人獎勵活動」頒獎典禮",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694fd5b92019503e620e3001d",
+        "Date": "1140214"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為1.39%，上市股票總市值達74.37兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694fd5b92019503cbc7440019",
+        "Date": "1140214"
+      },
+      {
+        "Title": "閎暉實業股份有限公司(閎暉，公司代號：3311)上市普通股自114年2月13日起恢復交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194f98d53c00074",
+        "Date": "1140212"
+      },
+      {
+        "Title": "2025年第1季MSCI指數臺股權重調整結果",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194f915a2c9006f",
+        "Date": "1140212"
+      },
+      {
+        "Title": "印能科技(證券代號：7734)採競價拍賣方式辦理承銷，於今(2/12)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194f8c3a89b006b",
+        "Date": "1140212"
+      },
+      {
+        "Title": "閎暉實業股份有限公司(閎暉，公司代號：3311)上市普通股自114年2月12日起暫停交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194f46a1bcc0066",
+        "Date": "1140211"
+      },
+      {
+        "Title": "榮田(證券代號：7709)採競價拍賣方式辦理承銷，於今(2/11)日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194f3e9c8da0060",
+        "Date": "1140211"
+      },
+      {
+        "Title": "全體上市公司114年1月份當月營收較113年同期成長7.52％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194f3e52d29005c",
+        "Date": "1140211"
+      },
+      {
+        "Title": "「威力德生醫股份有限公司」（證券代號：7713）採競價拍賣方式辦理承銷，於今（2/10）日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194eeaf6443004e",
+        "Date": "1140210"
+      },
+      {
+        "Title": "上週外資在集中市場賣超471.71億元，賣超鴻海9.62萬張最多，另買超玉山金4.07萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194eeac2bcd004a",
+        "Date": "1140210"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為0.20%，上市股票總市值達75.40兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194dfdcd2d00044",
+        "Date": "1140207"
+      },
+      {
+        "Title": "億而得-創自本（114）年2月10日起得為融資融券交易",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194df416c890032",
+        "Date": "1140207"
+      },
+      {
+        "Title": "2025年1月集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194dfadd7d50040",
+        "Date": "1140207"
+      },
+      {
+        "Title": "中國信託投信募集發行之中國信託美國傘型證券投資信託基金之中國信託NASDAQ 100 ETF及中國信託美國創新科技ETF，自114年2月11日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194df9211f8003b",
+        "Date": "1140207"
+      },
+      {
+        "Title": "臺灣證券交易所對精金科技股份有限公司（公司代號:3049）違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d694d93a130194df56ab390037",
+        "Date": "1140207"
+      },
+      {
+        "Title": "證交所推出「輔助產製永續報告書功能」，助力資本市場提升永續資訊透明度",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194d592a68301fa",
+        "Date": "1140205"
+      },
+      {
+        "Title": "證交所打造未來永續能量 推動 114 年「永續存錢筒，儲綠護未來」 SDGs 活動",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194d581c04701f5",
+        "Date": "1140205"
+      },
+      {
+        "Title": "臺灣證券交易所針對美喆國際股份有限公司（公司簡稱：美喆-KY，證券代號：8466）違反重大訊息規定，處以新臺幣參萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194d0838d8a01ed",
+        "Date": "1140204"
+      },
+      {
+        "Title": "114年2月3日「證券暨期貨業農曆乙巳年新春團拜」",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194ca04e3b101df",
+        "Date": "1140203"
+      },
+      {
+        "Title": "臺灣證券交易所對金像電子股份有限公司違反資訊申報規定，處以新台幣三萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019492b11d5101cf",
+        "Date": "1140123"
+      },
+      {
+        "Title": "ETF投資人注意！全新ETF商品將登場：主動式ETF及被動式平衡型ETF的機會與風險",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019492a4d79301cb",
+        "Date": "1140123"
+      },
+      {
+        "Title": "宇瞻科技股份有限公司等2家公司預計於114年2月份假證交所場地自行舉辦法人說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194920e524f01c7",
+        "Date": "1140123"
+      },
+      {
+        "Title": "臺灣證券交易所對冠軍建材股份有限公司（公司代號：1806）違反內部控制規定，處以新台幣20萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019491f0888d01c3",
+        "Date": "1140123"
+      },
+      {
+        "Title": "本週外資在集中市場買超250.38億元，買超新光金9.96萬張最多，另賣超聯電8.36萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019491c908e201bf",
+        "Date": "1140123"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為1.63%，上市股票總市值達75.53兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01948d51b81901b2",
+        "Date": "1140122"
+      },
+      {
+        "Title": "今年農曆年全年集中市場加權指數上漲5,429.34點，漲幅約為30.00%",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01948d4a969401ae",
+        "Date": "1140122"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過兆聯實業股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01948d19481401aa",
+        "Date": "1140122"
+      },
+      {
+        "Title": "證交所發布「範疇3溫室氣體盤查作業參考指引及常見問答集」，助力企業接軌國際永續揭露趨勢",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01948bc4b3e4019d",
+        "Date": "1140122"
+      },
+      {
+        "Title": "臺灣證券交易所對聯合再生能源股份有限公司違反資訊申報作業辦法相關規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194886f01a60199",
+        "Date": "1140121"
+      },
+      {
+        "Title": "114年1月份「創新板公司法人說明會」圓滿落幕",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194885110d50195",
+        "Date": "1140121"
+      },
+      {
+        "Title": "證交所將於本（114）年1月21日公布112年度上市公司董事及監察人酬金實際支領情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194832d13c1017c",
+        "Date": "1140120"
+      },
+      {
+        "Title": "臺灣證券交易所訂於1月22日召開有價證券上市審議委員會第837次會議，將審議兆聯實業(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019482be0ada0177",
+        "Date": "1140120"
+      },
+      {
+        "Title": "上週外資在集中市場賣超584.50億元，賣超鴻海10.99萬張最多，另買超新光金8.61萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019482af85520173",
+        "Date": "1140120"
+      },
+      {
+        "Title": "普惠金融雙引擎，助攻小資投資夢",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019482774b1d016f",
+        "Date": "1140120"
+      },
+      {
+        "Title": "臺灣證券交易所對隴華電子股份有限公司違反重大訊息規定，處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019473c224940152",
+        "Date": "1140117"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.59%，上市股票總市值達74.31兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019473ad050e014d",
+        "Date": "1140117"
+      },
+      {
+        "Title": "全體證券商113年12月份稅後淨利72.21億元，累計稅後淨利1,016.03億元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194733874f80147",
+        "Date": "1140117"
+      },
+      {
+        "Title": "證交所首次邀書法名家揮毫寫春聯 祝福投資獲利日日來",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01946d41b6da0139",
+        "Date": "1140116"
+      },
+      {
+        "Title": "證交所「臺灣創新板宣導獎勵活動」，新春豪禮大方送~",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019468e5ccd1012d",
+        "Date": "1140115"
+      },
+      {
+        "Title": "富威電力股份有限公司及青松健康股份有限公司股票自114年1月15日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194642a505f0120",
+        "Date": "1140114"
+      },
+      {
+        "Title": "114年1月27日至1月31日證券市場休市，2月8日（星期六）補行上班，但不交易亦不交割",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019463ddca0f0114",
+        "Date": "1140114"
+      },
+      {
+        "Title": "期元大S&P原油反1 ETF(00673R)自114年1月15日起暫停融資融券交易、停止有價證券借貸及當日沖銷交易，但了結融資融券交易，不在此限",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019463a07a380110",
+        "Date": "1140114"
+      },
+      {
+        "Title": "臺灣證券交易所針對茂林光電科技(開曼)股份有限公司（茂林-KY，代號: 4935）違反重大訊息規定，處以新臺幣3萬元之違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01945f28d0b200e9",
+        "Date": "1140113"
+      },
+      {
+        "Title": "金興精密工業股份有限公司股票自114年1月14日開始上市買賣",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01945f1c761200e5",
+        "Date": "1140113"
+      },
+      {
+        "Title": "2024年12月暨第四季集中市場相關數據",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01945f0f435400e1",
+        "Date": "1140113"
+      },
+      {
+        "Title": "全體上市公司113年12月份當月營收較112年同期成長25.11％，累計營業收入較112年同期成長13.29％",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01945e97ae5600dd",
+        "Date": "1140113"
+      },
+      {
+        "Title": "上週外資在集中市場買超10.46億元，買超新光金5.74萬張最多，另賣超台新金5.93萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01945e95aa2e00d9",
+        "Date": "1140113"
+      },
+      {
+        "Title": "本週發行量加權股價指數漲幅約為0.45%，上市股票總市值達73.86兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01944f910af100d1",
+        "Date": "1140110"
+      },
+      {
+        "Title": "公開資訊觀測站優化網站正式上線 提升使用者優質體驗",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01944effe0e500ca",
+        "Date": "1140110"
+      },
+      {
+        "Title": "開創新局 四大核心目標領航臺股續創高峰",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01944953209700bd",
+        "Date": "1140109"
+      },
+      {
+        "Title": "臺灣證券交易所對程泰機械股份有限公司及亞崴機電股份有限公司違反重大訊息規定，分別處以新台幣3萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019444c5b0f0009f",
+        "Date": "1140108"
+      },
+      {
+        "Title": "詐騙集團冒用主管機關公文恐嚇威脅投資人，請民眾多查證勿上當",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b019443fdaf0b009b",
+        "Date": "1140108"
+      },
+      {
+        "Title": "野村投信募集發行之野村美日ETF傘型基金之美國創新研發龍頭ETF及日本價值動能高息ETF，自114年1月9日起掛牌上市，並得辦理融資融券",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b0194404b7439006e",
+        "Date": "1140107"
+      },
+      {
+        "Title": "臺灣證券交易所有價證券上市審議委員會審議通過創控科技股份有限公司初次申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01943b30cb680052",
+        "Date": "1140106"
+      },
+      {
+        "Title": "臺灣證券交易所對鴻準精密工業股份有限公司違反重大訊息規定，處以新台幣5萬元違約金",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01943b2eab3b004e",
+        "Date": "1140106"
+      },
+      {
+        "Title": "證交所創新板全面升級新制上路，偕逾200企業攜手喊話挺創新！",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01943aef38f80049",
+        "Date": "1140106"
+      },
+      {
+        "Title": "上週外資在集中市場賣超431.66億元，賣超彰銀7.08萬張最多，另買超凱基金10.83萬張最多",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01943aaf93e10044",
+        "Date": "1140106"
+      },
+      {
+        "Title": "本週發行量加權股價指數跌幅約為1.58%，上市股票總市值達73.50兆元",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01942b9416b40037",
+        "Date": "1140103"
+      },
+      {
+        "Title": "臺灣證券交易所舉辦推動證券商導入金融零信任架構作業說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01942b8fee8f0033",
+        "Date": "1140103"
+      },
+      {
+        "Title": "今(114)年股東常會本(3)日開放登記",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01942b4061860013",
+        "Date": "1140103"
+      },
+      {
+        "Title": "114年度有許多證券法令新規定及重要制度開始施行，證交所提醒上市公司應留意相關規範",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01942b3dc8b2000f",
+        "Date": "1140103"
+      },
+      {
+        "Title": "新應材（股票代號：4749）採競價拍賣方式辦理承銷，於今（1/3）日順利完成",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6942a222b01942b3c2395000b",
+        "Date": "1140103"
+      },
+      {
+        "Title": "臺灣證券交易所將舉辦推動證券商導入金融零信任架構作業說明會",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6941ab247019429ececba0064",
+        "Date": "1140103"
+      },
+      {
+        "Title": "上市公司執行買回庫藏股情形",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6941ab2470194266f5b29005a",
+        "Date": "1140102"
+      },
+      {
+        "Title": "臺灣證券交易所訂於1月6日召開有價證券上市審議委員會第836次會議，將審議創控科技(股)公司之申請股票上市案",
+        "Url": "https://www.twse.com.tw/zh/about/news/news/content.html?8a8216d6941ab247019426421def0056",
+        "Date": "1140102"
+      }
+    ]
+  }
+}

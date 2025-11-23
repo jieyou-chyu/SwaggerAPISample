@@ -1,0 +1,47 @@
+{
+  "path": "/BlockTradeNegotiation",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易議價申報成交",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BlockTradeNegotiation",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:20 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "209",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:13 GMT",
+      "ETag": "\"d1-644368eb48fac\"",
+      "Content-Disposition": "attachment; filename=BlockTradeNegotiation.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4ba5e83649fb-TPE"
+    },
+    "body": [
+      {
+        "No": "C1",
+        "Date": "20251120",
+        "NumberOfContracts": "1",
+        "TradingSession": "一般",
+        "SubNo": "1",
+        "Contract": "QFF",
+        "ContractMonth(Week)": "202512",
+        "StrikePrice": "-",
+        "CallPut": "-",
+        "TradePrice": "1455",
+        "Volume": "1094"
+      }
+    ]
+  }
+}

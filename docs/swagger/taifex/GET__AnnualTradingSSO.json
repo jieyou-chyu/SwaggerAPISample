@@ -1,0 +1,290 @@
+{
+  "path": "/AnnualTradingSSO",
+  "method": "GET",
+  "operationId": null,
+  "summary": "商品年成交量統計-股票類（股票選擇權）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingSSO",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:56 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4706",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:45 GMT",
+      "ETag": "\"1262-644369b5fcb93\"",
+      "Content-Disposition": "attachment; filename=AnnualTradingSSO.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50ede8e58448-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2003",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "201733",
+        "NumberOfTradingDays": "237",
+        "AvgDailyTradingVolume": "851"
+      },
+      {
+        "YYYY": "2004",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "410026",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "1640"
+      },
+      {
+        "YYYY": "2005",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "1018917",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "4125"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "1089158",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "4392"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "1299858",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "5263"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "872880",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "3506"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "8240390",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "32830"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "70272",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "280"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "130558",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "529"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "113134",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "453"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "78638",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "320"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "110454",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "445"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "8626",
+        "NumberOfTradingDays": "9",
+        "AvgDailyTradingVolume": "958"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "169589",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "695"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "330369",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "1354"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "289101",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "1185"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "165967",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "675"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "215425",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "876"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "153669",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "622"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "209341",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "848"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "156358",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "646"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "206166",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "852"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "136200",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "556"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "124732",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "509"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "89927",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "369"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "99390",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "407"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "67648",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "275"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "39296",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "160"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "58041",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "243"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "43237",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "181"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "TotalVolume": "48396",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "200"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "STC",
+        "ContractName": "股票選擇權",
+        "TotalVolume": "125100",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "517"
+      }
+    ]
+  }
+}

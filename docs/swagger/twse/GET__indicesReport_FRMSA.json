@@ -1,0 +1,106 @@
+{
+  "path": "/indicesReport/FRMSA",
+  "method": "GET",
+  "operationId": null,
+  "summary": "寶島股價指數歷史資料",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/indicesReport/FRMSA",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:36 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:26 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222992-485\"",
+      "Content-Disposition": "attachment;filename=FRMSA.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "FormosaIndex": "31599",
+        "FormosaTotalReturnIndex": "48301"
+      },
+      {
+        "Date": "1141104",
+        "FormosaIndex": "31334",
+        "FormosaTotalReturnIndex": "47895"
+      },
+      {
+        "Date": "1141105",
+        "FormosaIndex": "30904",
+        "FormosaTotalReturnIndex": "47238"
+      },
+      {
+        "Date": "1141106",
+        "FormosaIndex": "31118",
+        "FormosaTotalReturnIndex": "47566"
+      },
+      {
+        "Date": "1141107",
+        "FormosaIndex": "30834",
+        "FormosaTotalReturnIndex": "47131"
+      },
+      {
+        "Date": "1141110",
+        "FormosaIndex": "31046",
+        "FormosaTotalReturnIndex": "47455"
+      },
+      {
+        "Date": "1141111",
+        "FormosaIndex": "30954",
+        "FormosaTotalReturnIndex": "47314"
+      },
+      {
+        "Date": "1141112",
+        "FormosaIndex": "31139",
+        "FormosaTotalReturnIndex": "47598"
+      },
+      {
+        "Date": "1141113",
+        "FormosaIndex": "31107",
+        "FormosaTotalReturnIndex": "47549"
+      },
+      {
+        "Date": "1141114",
+        "FormosaIndex": "30549",
+        "FormosaTotalReturnIndex": "46695"
+      },
+      {
+        "Date": "1141117",
+        "FormosaIndex": "30598",
+        "FormosaTotalReturnIndex": "46770"
+      },
+      {
+        "Date": "1141118",
+        "FormosaIndex": "29832",
+        "FormosaTotalReturnIndex": "45600"
+      },
+      {
+        "Date": "1141119",
+        "FormosaIndex": "29621",
+        "FormosaTotalReturnIndex": "45277"
+      },
+      {
+        "Date": "1141120",
+        "FormosaIndex": "30550",
+        "FormosaTotalReturnIndex": "46698"
+      },
+      {
+        "Date": "1141121",
+        "FormosaIndex": "29464",
+        "FormosaTotalReturnIndex": "45038"
+      }
+    ]
+  }
+}

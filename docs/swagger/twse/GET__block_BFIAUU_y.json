@@ -1,0 +1,157 @@
+{
+  "path": "/block/BFIAUU_y",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場鉅額交易年成交量值統計",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/block/BFIAUU_y",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:42 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:23:31 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229d3-849\"",
+      "Content-Disposition": "attachment;filename=BFIAUU_y.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Month": "094",
+        "TradeVolume": "2912121423",
+        "MarketSharePer": "0.91",
+        "TradeValue": "135425777263.1500"
+      },
+      {
+        "Month": "095",
+        "TradeVolume": "827500897",
+        "MarketSharePer": "0.07",
+        "TradeValue": "17422428762.7900"
+      },
+      {
+        "Month": "096",
+        "TradeVolume": "2918009882",
+        "MarketSharePer": "0.35",
+        "TradeValue": "117112687115.7200"
+      },
+      {
+        "Month": "097",
+        "TradeVolume": "4832497583",
+        "MarketSharePer": "0.66",
+        "TradeValue": "176846413021.9100"
+      },
+      {
+        "Month": "098",
+        "TradeVolume": "4446199744",
+        "MarketSharePer": "0.54",
+        "TradeValue": "163034053504.7700"
+      },
+      {
+        "Month": "099",
+        "TradeVolume": "4958486505",
+        "MarketSharePer": "0.82",
+        "TradeValue": "238156265284.0200"
+      },
+      {
+        "Month": "100",
+        "TradeVolume": "4862692389",
+        "MarketSharePer": "0.88",
+        "TradeValue": "238283835965.3000"
+      },
+      {
+        "Month": "101",
+        "TradeVolume": "7819483391",
+        "MarketSharePer": "1.30",
+        "TradeValue": "269894469510.0700"
+      },
+      {
+        "Month": "102",
+        "TradeVolume": "7354560648",
+        "MarketSharePer": "1.50",
+        "TradeValue": "294919896780.2000"
+      },
+      {
+        "Month": "103",
+        "TradeVolume": "8728728225",
+        "MarketSharePer": "1.61",
+        "TradeValue": "370407204323.2700"
+      },
+      {
+        "Month": "104",
+        "TradeVolume": "5223808173",
+        "MarketSharePer": "1.25",
+        "TradeValue": "280333969893.6000"
+      },
+      {
+        "Month": "105",
+        "TradeVolume": "6187130032",
+        "MarketSharePer": "1.53",
+        "TradeValue": "289558198014.0100"
+      },
+      {
+        "Month": "106",
+        "TradeVolume": "7836989489",
+        "MarketSharePer": "1.86",
+        "TradeValue": "481052846989.2800"
+      },
+      {
+        "Month": "107",
+        "TradeVolume": "8964319669",
+        "MarketSharePer": "1.52",
+        "TradeValue": "488443715754.8700"
+      },
+      {
+        "Month": "108",
+        "TradeVolume": "6684213298",
+        "MarketSharePer": "1.40",
+        "TradeValue": "406259395221.3600"
+      },
+      {
+        "Month": "109",
+        "TradeVolume": "7153875990",
+        "MarketSharePer": "1.10",
+        "TradeValue": "542603422961.4800"
+      },
+      {
+        "Month": "110",
+        "TradeVolume": "8156110203",
+        "MarketSharePer": "0.81",
+        "TradeValue": "769505600658.6400"
+      },
+      {
+        "Month": "111",
+        "TradeVolume": "7619875365",
+        "MarketSharePer": "1.02",
+        "TradeValue": "606939231499.4500"
+      },
+      {
+        "Month": "112",
+        "TradeVolume": "6730188445",
+        "MarketSharePer": "0.95",
+        "TradeValue": "636628357614.3900"
+      },
+      {
+        "Month": "113",
+        "TradeVolume": "6262738666",
+        "MarketSharePer": "0.97",
+        "TradeValue": "970557755415.2700"
+      },
+      {
+        "Month": "114",
+        "TradeVolume": "6158732963",
+        "MarketSharePer": "1.05",
+        "TradeValue": "922447067749.5100"
+      }
+    ]
+  }
+}

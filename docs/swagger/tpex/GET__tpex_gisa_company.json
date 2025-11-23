@@ -1,0 +1,827 @@
+{
+  "path": "/tpex_gisa_company",
+  "method": "GET",
+  "operationId": null,
+  "summary": "創櫃板公司資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_gisa_company",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:14 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:57 GMT",
+      "ETag": "W/\"6921d7a9-34d2\"",
+      "Content-Disposition": "attachment;filename=tpex_gisa_company.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4a0dde7a826b-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7406",
+        "CompanyName": "宇萌",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7407",
+        "CompanyName": "京冠",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7412",
+        "CompanyName": "生態綠",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7413",
+        "CompanyName": "多扶",
+        "Industry": "社會企業"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7425",
+        "CompanyName": "膳安",
+        "Industry": "生活健康"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7428",
+        "CompanyName": "戴維",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7449",
+        "CompanyName": "元皓",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7450",
+        "CompanyName": "那米亞",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7451",
+        "CompanyName": "頂豪",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7457",
+        "CompanyName": "月太湛",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7485",
+        "CompanyName": "福倫",
+        "Industry": "社會企業"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7487",
+        "CompanyName": "同仁生",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7490",
+        "CompanyName": "樂群",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7491",
+        "CompanyName": "車之輪",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7492",
+        "CompanyName": "一等一科技",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7503",
+        "CompanyName": "自由系統",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7505",
+        "CompanyName": "立達軟體",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7518",
+        "CompanyName": "宏泰工",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7519",
+        "CompanyName": "歐思佛生技",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7520",
+        "CompanyName": "沛美",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7521",
+        "CompanyName": "千才生醫",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7525",
+        "CompanyName": "綠品生技",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7529",
+        "CompanyName": "台鼎",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7532",
+        "CompanyName": "華圓設計",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7534",
+        "CompanyName": "安博森",
+        "Industry": "社會企業"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7536",
+        "CompanyName": "醫百科技",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7539",
+        "CompanyName": "鐵碳企業",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7541",
+        "CompanyName": "富聯智科",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7542",
+        "CompanyName": "宥盛",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7543",
+        "CompanyName": "富宸",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7545",
+        "CompanyName": "台邦企業",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7546",
+        "CompanyName": "綠野馬術",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7548",
+        "CompanyName": "偉喬生醫",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7554",
+        "CompanyName": "十鼓文創",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7557",
+        "CompanyName": "牧陽能控",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7564",
+        "CompanyName": "渥爾生醫",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7568",
+        "CompanyName": "邦柏智慧",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7569",
+        "CompanyName": "發條橘子",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7571",
+        "CompanyName": "睿創設計整合",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7572",
+        "CompanyName": "好食",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7573",
+        "CompanyName": "高曼",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7574",
+        "CompanyName": "元健大和",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7576",
+        "CompanyName": "丰丹嚴選本舖",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7577",
+        "CompanyName": "精彩創意",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7580",
+        "CompanyName": "環虹錕騰",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7587",
+        "CompanyName": "環球睿視",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7588",
+        "CompanyName": "巨力搬家",
+        "Industry": "生活健康"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7589",
+        "CompanyName": "優思",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7591",
+        "CompanyName": "多利生醫",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7592",
+        "CompanyName": "艾思特",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7593",
+        "CompanyName": "優思睿智科技",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7596",
+        "CompanyName": "嘉健康",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7600",
+        "CompanyName": "大麥網路",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7602",
+        "CompanyName": "三捷科技",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7603",
+        "CompanyName": "戴爾美語",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7604",
+        "CompanyName": "國聯醫管",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7605",
+        "CompanyName": "雲程在線",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7606",
+        "CompanyName": "瀚將",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7608",
+        "CompanyName": "久方生技",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7609",
+        "CompanyName": "樂居科技",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7611",
+        "CompanyName": "京碼",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7613",
+        "CompanyName": "金嘉隆",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7614",
+        "CompanyName": "市民永續",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7618",
+        "CompanyName": "益瑞",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7619",
+        "CompanyName": "李連資源",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7620",
+        "CompanyName": "帝天",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7622",
+        "CompanyName": "摩境",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7623",
+        "CompanyName": "寶貝友",
+        "Industry": "生活健康"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7624",
+        "CompanyName": "數位經濟",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7627",
+        "CompanyName": "澄交生技",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7628",
+        "CompanyName": "木盆",
+        "Industry": "生活健康"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7629",
+        "CompanyName": "峰安車業",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7630",
+        "CompanyName": "鉅秀",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7632",
+        "CompanyName": "海神",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7633",
+        "CompanyName": "大鼎冷鏈",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7634",
+        "CompanyName": "田榮",
+        "Industry": "生活健康"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7635",
+        "CompanyName": "禾新生技",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7636",
+        "CompanyName": "麗文文化",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7638",
+        "CompanyName": "基育生技",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7640",
+        "CompanyName": "媽咪樂健康",
+        "Industry": "生活健康"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7641",
+        "CompanyName": "健談",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7643",
+        "CompanyName": "萬里遊",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7644",
+        "CompanyName": "台灣居護",
+        "Industry": "社會企業"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7645",
+        "CompanyName": "聯和趨動",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7646",
+        "CompanyName": "龍蓁淳",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7647",
+        "CompanyName": "慧穎",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7648",
+        "CompanyName": "百陽生技",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7649",
+        "CompanyName": "正崴生物",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7650",
+        "CompanyName": "寶奇生技",
+        "Industry": "農林漁牧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7651",
+        "CompanyName": "雷應科技",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7652",
+        "CompanyName": "大中圖書",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7653",
+        "CompanyName": "動聯",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7654",
+        "CompanyName": "吉緻生活",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7655",
+        "CompanyName": "依得科",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7656",
+        "CompanyName": "全瑩生技",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7657",
+        "CompanyName": "亞瑞仕",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7658",
+        "CompanyName": "乙丁",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7660",
+        "CompanyName": "元勛",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7661",
+        "CompanyName": "皓德盛科技",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7662",
+        "CompanyName": "汎鍶科藝",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7663",
+        "CompanyName": "數位玩家",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7664",
+        "CompanyName": "盛雲藥品",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7665",
+        "CompanyName": "小鹿文娛",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7666",
+        "CompanyName": "晨間廚房",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7667",
+        "CompanyName": "露奇亞",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7668",
+        "CompanyName": "金玻",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7670",
+        "CompanyName": "淞康",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7671",
+        "CompanyName": "寶泓生醫",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7672",
+        "CompanyName": "台灣穩鴻",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7673",
+        "CompanyName": "方鼎資訊",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7674",
+        "CompanyName": "數位獵人",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7675",
+        "CompanyName": "卡德爾",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7676",
+        "CompanyName": "薪傳智庫",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7677",
+        "CompanyName": "埃爾思",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7678",
+        "CompanyName": "矽谷能源",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7679",
+        "CompanyName": "擺渡",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7680",
+        "CompanyName": "美家人力",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7681",
+        "CompanyName": "深禾醫",
+        "Industry": "電子科技"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7682",
+        "CompanyName": "永進木器",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7683",
+        "CompanyName": "瑪旺生醫",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7684",
+        "CompanyName": "對稱資訊",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7685",
+        "CompanyName": "偉孚",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7686",
+        "CompanyName": "捷立康",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7687",
+        "CompanyName": "佐見啦",
+        "Industry": "生技醫療"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7688",
+        "CompanyName": "創客共好",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7690",
+        "CompanyName": "崙禾社企",
+        "Industry": "社會企業"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7691",
+        "CompanyName": "亞歆海洋",
+        "Industry": "文化創意"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7692",
+        "CompanyName": "台智能",
+        "Industry": "綠能環保"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7693",
+        "CompanyName": "全球系統",
+        "Industry": "數位雲端"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7694",
+        "CompanyName": "寶澤",
+        "Industry": "其他"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7696",
+        "CompanyName": "遠醫科",
+        "Industry": "數位雲端"
+      }
+    ]
+  }
+}

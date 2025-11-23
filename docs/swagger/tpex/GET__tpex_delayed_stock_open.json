@@ -1,0 +1,441 @@
+{
+  "path": "/tpex_delayed_stock_open",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃每日暫緩開盤股票",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_delayed_stock_open",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:46 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:47 GMT",
+      "ETag": "W/\"6921d79f-1a61\"",
+      "Content-Disposition": "attachment;filename=tpex_delayed_stock_open.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d495c79534a33-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00679B",
+        "CompanyName": "元大美債20年"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00724B",
+        "CompanyName": "群益投資級金融債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00725B",
+        "CompanyName": "國泰投資級公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00726B",
+        "CompanyName": "國泰新興投等債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00734B",
+        "CompanyName": "台新JPM新興債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00740B",
+        "CompanyName": "富邦全球投等債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00741B",
+        "CompanyName": "富邦全球非投等債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00746B",
+        "CompanyName": "富邦A級公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00749B",
+        "CompanyName": "凱基新興債10+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00750B",
+        "CompanyName": "凱基科技債10+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00751B",
+        "CompanyName": "元大AAA至A公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00755B",
+        "CompanyName": "群益投資級公用債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00758B",
+        "CompanyName": "復華能源債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00759B",
+        "CompanyName": "復華製藥債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00761B",
+        "CompanyName": "國泰A級公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00764B",
+        "CompanyName": "群益25年美債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00768B",
+        "CompanyName": "復華20年美債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00773B",
+        "CompanyName": "中信優先金融債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00777B",
+        "CompanyName": "凱基AAA至A公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00778B",
+        "CompanyName": "凱基金融債20+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00779B",
+        "CompanyName": "凱基美債25+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00781B",
+        "CompanyName": "國泰A級科技債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00786B",
+        "CompanyName": "元大10年IG銀行債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00791B",
+        "CompanyName": "復華信用債1-5"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00792B",
+        "CompanyName": "群益A級公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00793B",
+        "CompanyName": "群益AAA-A醫療債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00795B",
+        "CompanyName": "中信美國公債20年"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00840B",
+        "CompanyName": "凱基IG精選15+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00841B",
+        "CompanyName": "凱基AAA-AA公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00842B",
+        "CompanyName": "台新美元銀行債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00847B",
+        "CompanyName": "中信美國市政債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00848B",
+        "CompanyName": "中信新興亞洲債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00849B",
+        "CompanyName": "中信EM主權債0-5"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00853B",
+        "CompanyName": "統一美債10年Aa-A"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00858",
+        "CompanyName": "永豐美國500大"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00859B",
+        "CompanyName": "群益0-1年美債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00860B",
+        "CompanyName": "群益1-5Y投資級債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00862B",
+        "CompanyName": "中信投資級公司債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00863B",
+        "CompanyName": "中信全球電信債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00864B",
+        "CompanyName": "中信美國公債0-1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00867B",
+        "CompanyName": "新光A-BBB電信債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00884B",
+        "CompanyName": "中信低碳新興債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00888",
+        "CompanyName": "永豐台灣ESG"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00890B",
+        "CompanyName": "凱基ESG BBB債15+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00959B",
+        "CompanyName": "大華投等美債15Y+"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "00981D",
+        "CompanyName": "主動中信非投等債"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1591",
+        "CompanyName": "駿吉-KY"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "23372",
+        "CompanyName": "旺宏二"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "24762",
+        "CompanyName": "鉅祥二"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2937",
+        "CompanyName": "集雅社"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3206",
+        "CompanyName": "志豐"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3227",
+        "CompanyName": "原相"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "33055",
+        "CompanyName": "昇貿五"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "33571",
+        "CompanyName": "臺慶科一"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3441",
+        "CompanyName": "聯一光"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "34912",
+        "CompanyName": "昇達科二"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3498",
+        "CompanyName": "陽程"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "35265",
+        "CompanyName": "凡甲五"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3558",
+        "CompanyName": "神準"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "36534",
+        "CompanyName": "健策四"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "36894",
+        "CompanyName": "湧德四"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4102",
+        "CompanyName": "永日"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4726",
+        "CompanyName": "永昕"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5227",
+        "CompanyName": "立凱-KY"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5251",
+        "CompanyName": "天鉞電"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5371",
+        "CompanyName": "中光電"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "54342",
+        "CompanyName": "崇越二"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6130",
+        "CompanyName": "上亞科技"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6140",
+        "CompanyName": "訊達"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "62235",
+        "CompanyName": "旺矽五"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "629010",
+        "CompanyName": "良維十"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6417",
+        "CompanyName": "韋僑"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6546",
+        "CompanyName": "正基"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6560",
+        "CompanyName": "欣普羅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6804",
+        "CompanyName": "明係"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6841",
+        "CompanyName": "長佳智能"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8240",
+        "CompanyName": "華宏"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8272",
+        "CompanyName": "全景軟體"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "84221",
+        "CompanyName": "可寧衛一"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8472",
+        "CompanyName": "夠麻吉"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "path": "/tpex_international_bond_trade",
+  "method": "GET",
+  "operationId": null,
+  "summary": "國際債券當日盤中成交行情表(含寶島債)",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_international_bond_trade",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:55 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:58 GMT",
+      "ETag": "W/\"6921d7aa-92\"",
+      "Content-Disposition": "attachment;filename=tpex_international_bond_trade.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49985fda7aab-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "Time": "163003",
+        "BondCode": "",
+        "BondName": "",
+        "LastField": "",
+        "Change": "",
+        "Highest": "",
+        "Lowest": "",
+        "Volume": "",
+        "LastClose": ""
+      }
+    ]
+  }
+}

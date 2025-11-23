@@ -1,0 +1,166 @@
+{
+  "path": "/MarketMakerListsOpt",
+  "method": "GET",
+  "operationId": null,
+  "summary": "選擇權商品造市者清單",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/MarketMakerListsOpt",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:29 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "2192",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:07 GMT",
+      "ETag": "\"890-6443695819680\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=MarketMakerListsOpt.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d5043fb064a9c-TPE"
+    },
+    "body": [
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "STC",
+        "ContractName": "股票選擇權"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期自營",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "STC",
+        "ContractName": "股票選擇權"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證自",
+        "Contract": "STC",
+        "ContractName": "股票選擇權"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證自",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "STC",
+        "ContractName": "股票選擇權"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "巴黎證自營",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "STC",
+        "ContractName": "股票選擇權"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證自營",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權"
+      }
+    ]
+  }
+}

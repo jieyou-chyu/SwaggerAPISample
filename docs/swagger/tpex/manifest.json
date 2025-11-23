@@ -1,0 +1,1802 @@
+[
+  {
+    "file": "GET__tpex_securities.json",
+    "path": "/tpex_securities",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票現股當沖交易標的資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_spendi_today.json",
+    "path": "/tpex_spendi_today",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃當日公布暫停/恢復交易股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_spendi_history.json",
+    "path": "/tpex_spendi_history",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史公布暫停/恢復交易股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_applicant_companies.json",
+    "path": "/tpex_esb_applicant_companies",
+    "method": "GET",
+    "operationId": null,
+    "summary": "申請上櫃公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_trading_warning_information.json",
+    "path": "/tpex_trading_warning_information",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公布注意股票資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_disposal_information.json",
+    "path": "/tpex_disposal_information",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃處置有價證券資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_trading_warning_note.json",
+    "path": "/tpex_trading_warning_note",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公布注意累計次數異常資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_mainborad_highlight.json",
+    "path": "/tpex_mainborad_highlight",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票市場現況",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_mainboard_daily_close_quotes.json",
+    "path": "/tpex_mainboard_daily_close_quotes",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票行情",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_mainboard_quotes.json",
+    "path": "/tpex_mainboard_quotes",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票收盤行情",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_mainboard_peratio_analysis.json",
+    "path": "/tpex_mainboard_peratio_analysis",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票個股本益比、殖利率、股價淨值比",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_mainboard_margin_balance.json",
+    "path": "/tpex_mainboard_margin_balance",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票融資融券餘額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_index.json",
+    "path": "/tpex_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買指數歷史資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex50_index.json",
+    "path": "/tpex50_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "富櫃50指數歷史收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_intraday_trading_statistics.json",
+    "path": "/tpex_intraday_trading_statistics",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票現股當沖交易統計資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_active_broker_volume.json",
+    "path": "/tpex_active_broker_volume",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票熱門股證券商進出排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_sbl.json",
+    "path": "/tpex_margin_sbl",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票融券借券賣出餘額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_exright_daily.json",
+    "path": "/tpex_exright_daily",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票除權除息計算結果表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_exright_prepost.json",
+    "path": "/tpex_exright_prepost",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票除權除息預告表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_cmode.json",
+    "path": "/tpex_cmode",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票變更交易、分盤交易、管理股票與停止交易資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_odd_stock.json",
+    "path": "/tpex_odd_stock",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票零股交易資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_off_market.json",
+    "path": "/tpex_off_market",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票盤後定價行情",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_term.json",
+    "path": "/tpex_margin_trading_term",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃融資融券暫停融券賣出預告表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_adjust.json",
+    "path": "/tpex_margin_trading_adjust",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃融資融券調整成數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_lend.json",
+    "path": "/tpex_margin_trading_lend",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃融資融券標借",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_marginspot.json",
+    "path": "/tpex_margin_trading_marginspot",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃信用交易餘額概況表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_margin_mark.json",
+    "path": "/tpex_margin_trading_margin_mark",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃平盤下得融(借)券賣出之證券名單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_margin_used.json",
+    "path": "/tpex_margin_trading_margin_used",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃融資融券使用率報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_margin_trading_short_sell.json",
+    "path": "/tpex_margin_trading_short_sell",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃融資融券增減排行表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_qfii.json",
+    "path": "/tpex_3insti_qfii",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃僑外資及陸資持股比例排行表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_qfii_industry.json",
+    "path": "/tpex_3insti_qfii_industry",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃各類股僑外資及陸資持股比例表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_daily_trading.json",
+    "path": "/tpex_3insti_daily_trading",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票三大法人買賣明細資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_dealer_trading.json",
+    "path": "/tpex_3insti_dealer_trading",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票自營商買賣超彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_ceil_non_trading.json",
+    "path": "/tpex_ceil_non_trading",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃漲跌停未成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_trading_index.json",
+    "path": "/tpex_daily_trading_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃日成交量值指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_short_sell.json",
+    "path": "/tpex_short_sell",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃當日融券賣出與借券賣出成交量值",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_broker1.json",
+    "path": "/tpex_daily_broker1",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃各券商當日營業金額統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_active_dollar_volume.json",
+    "path": "/tpex_active_dollar_volume",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃盤中個股成交金額排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_active_advanced.json",
+    "path": "/tpex_active_advanced",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃盤中個股漲幅排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_active_declined.json",
+    "path": "/tpex_active_declined",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃盤中個股跌幅排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_intraday_fee.json",
+    "path": "/tpex_intraday_fee",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃應付現股當日沖銷券差借券費率",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_intraday_trading_pre.json",
+    "path": "/tpex_intraday_trading_pre",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃暫停先賣後買當日沖銷交易標的預告表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_intraday_trading_his.json",
+    "path": "/tpex_intraday_trading_his",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃暫停先賣後買當日沖銷交易歷史查詢",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_market_value.json",
+    "path": "/tpex_daily_market_value",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股市值排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_turnover.json",
+    "path": "/tpex_daily_turnover",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股週轉率排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_trading_volumes_avg.json",
+    "path": "/tpex_trading_volumes_avg",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股日均量排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_trading_amount_avg.json",
+    "path": "/tpex_trading_amount_avg",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股日均值排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_trading_volume_ratio.json",
+    "path": "/tpex_trading_volume_ratio",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史類股成交價量比重",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_pe_ratio_top10.json",
+    "path": "/tpex_pe_ratio_top10",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股本益比排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_qutoes_block.json",
+    "path": "/tpex_daily_qutoes_block",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃鉅額交易日成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_trading_block.json",
+    "path": "/tpex_daily_trading_block",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃個股單一證券鉅額交易日成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_trading_summary_odd.json",
+    "path": "/tpex_daily_trading_summary_odd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃鉅額交易日成交量值統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_monthly_trading_summary_block.json",
+    "path": "/tpex_monthly_trading_summary_block",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃鉅額交易月成交量值統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_yearly_trading_summary_block.json",
+    "path": "/tpex_yearly_trading_summary_block",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃鉅額交易年成交量值統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_volume_rank.json",
+    "path": "/tpex_volume_rank",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股成交量排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_amount_rank.json",
+    "path": "/tpex_amount_rank",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃歷史個股成交值排行",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_prvol.json",
+    "path": "/tpex_prvol",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票等價系統成交分價表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_summary.json",
+    "path": "/tpex_3insti_summary",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票三大法人買賣金額彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_trading.json",
+    "path": "/tpex_3insti_trading",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票投信買賣超彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_trade_block_day.json",
+    "path": "/tpex_daily_trade_block_day",
+    "method": "GET",
+    "operationId": null,
+    "summary": "鉅額交易歷史成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_delayed_stock_open.json",
+    "path": "/tpex_delayed_stock_open",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃每日暫緩開盤股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_delayed_stock_close.json",
+    "path": "/tpex_delayed_stock_close",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃每日暫緩收盤股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_ipo_no_limit.json",
+    "path": "/tpex_ipo_no_limit",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃首五日無漲跌幅資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_eps_rank.json",
+    "path": "/tpex_esb_eps_rank",
+    "method": "GET",
+    "operationId": null,
+    "summary": "本國興櫃公司EPS排名",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_capitals_rank.json",
+    "path": "/tpex_esb_capitals_rank",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資本額排名",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex200_change.json",
+    "path": "/tpex200_change",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「富櫃200指數」當日收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpcgi_constituents.json",
+    "path": "/tpcgi_constituents",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司治理指數當日成分股資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpcgi_reward_index.json",
+    "path": "/tpcgi_reward_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司治理指數歷史收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpcgi_change.json",
+    "path": "/tpcgi_change",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司治理指數當日收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_index_consti.json",
+    "path": "/tpex_index_consti",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買指數成分股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_reward_index.json",
+    "path": "/tpex_reward_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買指數與報酬指數之收市指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex50_constituents.json",
+    "path": "/tpex50_constituents",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「富櫃50指數」當日成分股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex50_change.json",
+    "path": "/tpex50_change",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「富櫃50指數」當日收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tphd_constituents.json",
+    "path": "/tphd_constituents",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「高殖利率指數」當日成分股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tphd_change.json",
+    "path": "/tphd_change",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「高殖利率指數」當日收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpci_constituents.json",
+    "path": "/tpci_constituents",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「薪酬指數」當日成分股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpci_change.json",
+    "path": "/tpci_change",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「薪酬指數」當日收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpci_reward_index.json",
+    "path": "/tpci_reward_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「薪酬指數」歷史收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_emp88_constituents.json",
+    "path": "/tpex_emp88_constituents",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「勞工就業88指數」當日成分股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_emp88_change.json",
+    "path": "/tpex_emp88_change",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「勞工就業88指數」當日收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_emp88_reward_index.json",
+    "path": "/tpex_emp88_reward_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「勞工就業88指數」歷史收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_dpsp_monthly_CBmcs007.json",
+    "path": "/tpex_dpsp_monthly_CBmcs007",
+    "method": "GET",
+    "operationId": null,
+    "summary": "可轉債資產交換ASO及ASW銀行承作餘額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_international_bond_quotes.json",
+    "path": "/tpex_international_bond_quotes",
+    "method": "GET",
+    "operationId": null,
+    "summary": "國際債券當日盤中報價行情表(含寶島債)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_international_bond_trade.json",
+    "path": "/tpex_international_bond_trade",
+    "method": "GET",
+    "operationId": null,
+    "summary": "國際債券當日盤中成交行情表(含寶島債)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_international_bond_issue_investor.json",
+    "path": "/tpex_international_bond_issue_investor",
+    "method": "GET",
+    "operationId": null,
+    "summary": "國際債券(一般投資人)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_international_bond_issue_org.json",
+    "path": "/tpex_international_bond_issue_org",
+    "method": "GET",
+    "operationId": null,
+    "summary": "國際債券(僅售予專業投資人者)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_21.json",
+    "path": "/t187ap46_O_21",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-職業安全衛生",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_9.json",
+    "path": "/t187ap46_O_9",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-功能性委員會",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_8.json",
+    "path": "/t187ap46_O_8",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-氣候相關議題管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_disposal_information.json",
+    "path": "/tpex_esb_disposal_information",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃處置有價證券資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_warning_information.json",
+    "path": "/tpex_esb_warning_information",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公布注意有價證券資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_recommended_dealer.json",
+    "path": "/tpex_esb_recommended_dealer",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃推薦證券商與推薦之股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_gold.json",
+    "path": "/tpex_warrant_gold",
+    "method": "GET",
+    "operationId": null,
+    "summary": "黃金現貨權證發行基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_gold_quts.json",
+    "path": "/tpex_warrant_gold_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "黃金現貨權證收盤行情",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_daily_quts.json",
+    "path": "/tpex_warrant_daily_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃權證收盤行情日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_monthly_quts.json",
+    "path": "/tpex_warrant_monthly_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃權證收盤行情月報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_issue.json",
+    "path": "/tpex_warrant_issue",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃權證發行基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_wcb_daily_quts.json",
+    "path": "/tpex_warrant_wcb_daily_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃牛熊證收盤行情(不含展延型牛熊證)日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_wcb_monthly_quts.json",
+    "path": "/tpex_warrant_wcb_monthly_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃牛熊證收盤行情(不含展延型牛熊證)月報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_wcb_issue.json",
+    "path": "/tpex_warrant_wcb_issue",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃牛熊證發行基本資料(不含展延型牛熊證)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_wxy_daily_quts.json",
+    "path": "/tpex_warrant_wxy_daily_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃展延型牛熊證收盤行情日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_wxy_monthly_quts.json",
+    "path": "/tpex_warrant_wxy_monthly_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃展延型牛熊證收盤行情月報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_wxy_issue.json",
+    "path": "/tpex_warrant_wxy_issue",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃展延型牛熊證發行基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_quts.json",
+    "path": "/tpex_warrant_quts",
+    "method": "GET",
+    "operationId": null,
+    "summary": "單筆權證成交資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_statistics.json",
+    "path": "/tpex_warrant_statistics",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日權證交易人數(上櫃)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant.json",
+    "path": "/tpex_warrant",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票權證資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_suspend_today.json",
+    "path": "/tpex_warrant_suspend_today",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃權證當日暫停/恢復交易資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_warrant_suspend_history.json",
+    "path": "/tpex_warrant_suspend_history",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃權證歷史暫停/恢復交易資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_opfund_latest.json",
+    "path": "/tpex_opfund_latest",
+    "method": "GET",
+    "operationId": null,
+    "summary": "開放式基金當日行情表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_opfund_recommended_dealer.json",
+    "path": "/tpex_opfund_recommended_dealer",
+    "method": "GET",
+    "operationId": null,
+    "summary": "開放式基金受益憑證造市商與造市之基金",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_opfund_market_highlight.json",
+    "path": "/tpex_opfund_market_highlight",
+    "method": "GET",
+    "operationId": null,
+    "summary": "開放式基金市場現況",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gold_market_highlight.json",
+    "path": "/tpex_gold_market_highlight",
+    "method": "GET",
+    "operationId": null,
+    "summary": "黃金現貨市場現況",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gold_recommended_dealer.json",
+    "path": "/tpex_gold_recommended_dealer",
+    "method": "GET",
+    "operationId": null,
+    "summary": "造市商與造市之黃金現貨",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gold_latest.json",
+    "path": "/tpex_gold_latest",
+    "method": "GET",
+    "operationId": null,
+    "summary": "黃金現貨當日行情表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gisa_highlight.json",
+    "path": "/tpex_gisa_highlight",
+    "method": "GET",
+    "operationId": null,
+    "summary": "創櫃板公司市場現況",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gisa_company.json",
+    "path": "/tpex_gisa_company",
+    "method": "GET",
+    "operationId": null,
+    "summary": "創櫃板公司資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gisa_financing_before.json",
+    "path": "/tpex_gisa_financing_before",
+    "method": "GET",
+    "operationId": null,
+    "summary": "於登錄創櫃板前辦理籌資資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_20.json",
+    "path": "/t187ap46_O_20",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_19.json",
+    "path": "/t187ap46_O_19",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-風險管理政策 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_15.json",
+    "path": "/t187ap46_O_15",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-社區關係 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_13.json",
+    "path": "/t187ap46_O_13",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-供應鏈管理 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_12.json",
+    "path": "/t187ap46_O_12",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-食品安全",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_14.json",
+    "path": "/t187ap46_O_14",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-產品品質與安全",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex200_constituents.json",
+    "path": "/tpex200_constituents",
+    "method": "GET",
+    "operationId": null,
+    "summary": "櫃買「富櫃200指數」當日成分股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap41_O.json",
+    "path": "/t187ap41_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap05_R.json",
+    "path": "/t187ap05_R",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司每月營業收入彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_4.json",
+    "path": "/t187ap46_O_4",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-廢棄物管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_2.json",
+    "path": "/t187ap46_O_2",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-能源管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_7.json",
+    "path": "/t187ap46_O_7",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-投資人溝通",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_1.json",
+    "path": "/t187ap46_O_1",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-溫室氣體排放",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_6.json",
+    "path": "/t187ap46_O_6",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-董事會",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_5.json",
+    "path": "/t187ap46_O_5",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-人力發展",
+    "status_code": 200
+  },
+  {
+    "file": "GET__t187ap46_O_3.json",
+    "path": "/t187ap46_O_3",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司企業ESG資訊揭露彙總資料-水資源管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap05_OA.json",
+    "path": "/mopsfin_t187ap05_OA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "二十九大類股營收變化統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap05_OB.json",
+    "path": "/mopsfin_t187ap05_OB",
+    "method": "GET",
+    "operationId": null,
+    "summary": "發行公司營收創新高一覽表(上櫃)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BDdos216UTF.json",
+    "path": "/BDdos216UTF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "美元固定利率不可贖回國際債券理論價格",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BDdos215UTF.json",
+    "path": "/BDdos215UTF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "美元附息固定利率可贖回國際債券理論價格",
+    "status_code": 200
+  },
+  {
+    "file": "GET__BDdos209UTF.json",
+    "path": "/BDdos209UTF",
+    "method": "GET",
+    "operationId": null,
+    "summary": "美元零息可贖回國際債券理論價格",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gisa_financing_history.json",
+    "path": "/tpex_gisa_financing_history",
+    "method": "GET",
+    "operationId": null,
+    "summary": "創櫃板公司透過籌資系統辦理籌資資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap35_O.json",
+    "path": "/mopsfin_t187ap35_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司股東行使提案權情形彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap37_O.json",
+    "path": "/mopsfin_t187ap37_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃權證基本資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap42_O.json",
+    "path": "/mopsfin_t187ap42_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃認購(售)權證每日成交資料檔",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap32_O.json",
+    "path": "/mopsfin_t187ap32_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司公司治理之相關規程規則",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap34_O.json",
+    "path": "/mopsfin_t187ap34_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap33_O.json",
+    "path": "/mopsfin_t187ap33_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司董事長是否兼任總經理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap31_O.json",
+    "path": "/mopsfin_t187ap31_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財務報告經監察人承認情形",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap09_O.json",
+    "path": "/mopsfin_t187ap09_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司董事、監察人質權設定占董事及監察人實際持有股數彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap10_O.json",
+    "path": "/mopsfin_t187ap10_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司董事、監察人持股不足法定成數連續達3個月以上彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap24_O.json",
+    "path": "/mopsfin_t187ap24_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap25_O.json",
+    "path": "/mopsfin_t187ap25_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_gisa_financing_in_process.json",
+    "path": "/tpex_gisa_financing_in_process",
+    "method": "GET",
+    "operationId": null,
+    "summary": "創櫃板辦理中籌資資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap03_O.json",
+    "path": "/mopsfin_t187ap03_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_3insti_qfii_trading.json",
+    "path": "/tpex_3insti_qfii_trading",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票外資及陸資買賣超彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_latest_statistics.json",
+    "path": "/tpex_esb_latest_statistics",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃股票當日行情表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap36_O.json",
+    "path": "/mopsfin_t187ap36_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃認購(售)權證年度發行量概況統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap03_R.json",
+    "path": "/mopsfin_t187ap03_R",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap04_O.json",
+    "path": "/mopsfin_t187ap04_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司每日重大訊息",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap01.json",
+    "path": "/mopsfin_t187ap01",
+    "method": "GET",
+    "operationId": null,
+    "summary": "券商業務別人員數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap02_O.json",
+    "path": "/mopsfin_t187ap02_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司持股逾 10% 大股東名單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap26_O.json",
+    "path": "/mopsfin_t187ap26_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap27_O.json",
+    "path": "/mopsfin_t187ap27_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap05_O.json",
+    "path": "/mopsfin_t187ap05_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司每月營業收入彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap39_O.json",
+    "path": "/mopsfin_t187ap39_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股利分派情形-董事會通過",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_cb_daily.json",
+    "path": "/bond_cb_daily",
+    "method": "GET",
+    "operationId": null,
+    "summary": "轉(交)換公司債買賣斷券商買賣日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_O_basi.json",
+    "path": "/mopsfin_t187ap07_O_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司資產負債表(金融業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_O_bd.json",
+    "path": "/mopsfin_t187ap07_O_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司資產負債表(證券期貨業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_O_ci.json",
+    "path": "/mopsfin_t187ap07_O_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司資產負債表(一般業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_O_fh.json",
+    "path": "/mopsfin_t187ap07_O_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司資產負債表(金控業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_O_ins.json",
+    "path": "/mopsfin_t187ap07_O_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司資產負債表(保險業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_O_mim.json",
+    "path": "/mopsfin_t187ap07_O_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司資產負債表(異業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_basi.json",
+    "path": "/mopsfin_t187ap06_O_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司綜合損益表(金融業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_bd.json",
+    "path": "/mopsfin_t187ap06_O_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司綜合損益表(證券期貨業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_ci.json",
+    "path": "/mopsfin_t187ap06_O_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司綜合損益表(一般業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_fh.json",
+    "path": "/mopsfin_t187ap06_O_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司綜合損益表(金控業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_ins.json",
+    "path": "/mopsfin_t187ap06_O_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司綜合損益表(保險業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_mim.json",
+    "path": "/mopsfin_t187ap06_O_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司綜合損益表(異業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_basiA.json",
+    "path": "/mopsfin_t187ap06_O_basiA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財報資訊(金融業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_bdA.json",
+    "path": "/mopsfin_t187ap06_O_bdA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財報資訊(證券期貨業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_ciA.json",
+    "path": "/mopsfin_t187ap06_O_ciA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財報資訊( 一般業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_fhA.json",
+    "path": "/mopsfin_t187ap06_O_fhA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財報資訊(金控業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_insA.json",
+    "path": "/mopsfin_t187ap06_O_insA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財報資訊(保險業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_O_mimA.json",
+    "path": "/mopsfin_t187ap06_O_mimA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司財報資訊(異業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_U_bd.json",
+    "path": "/mopsfin_t187ap07_U_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資產負債表-證券期貨業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_U_ci.json",
+    "path": "/mopsfin_t187ap07_U_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資產負債表-一般業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_U_fh.json",
+    "path": "/mopsfin_t187ap07_U_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資產負債表-金控業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_U_ins.json",
+    "path": "/mopsfin_t187ap07_U_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資產負債表-保險業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_U_mim.json",
+    "path": "/mopsfin_t187ap07_U_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資產負債表-異業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_U_basi.json",
+    "path": "/mopsfin_t187ap06_U_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司綜合損益表-金融業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_U_bd.json",
+    "path": "/mopsfin_t187ap06_U_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司綜合損益表-證券期貨業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_U_ci.json",
+    "path": "/mopsfin_t187ap06_U_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司綜合損益表-一般業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_U_fh.json",
+    "path": "/mopsfin_t187ap06_U_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司綜合損益表-金控業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_U_ins.json",
+    "path": "/mopsfin_t187ap06_U_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司綜合損益表-保險業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap06_U_mim.json",
+    "path": "/mopsfin_t187ap06_U_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司綜合損益表-異業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap07_U_basi.json",
+    "path": "/mopsfin_t187ap07_U_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司資產負債表-金融業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap11_R.json",
+    "path": "/mopsfin_t187ap11_R",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃公司董監事持股餘額明細資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap14_O.json",
+    "path": "/mopsfin_t187ap14_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司各產業EPS統計資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap15_O.json",
+    "path": "/mopsfin_t187ap15_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司截至各季綜合損益財測達成情形(簡式)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap16_O.json",
+    "path": "/mopsfin_t187ap16_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_187ap17_O.json",
+    "path": "/mopsfin_187ap17_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司營益分析查詢彙總表(全體公司彙總報表)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap08_O.json",
+    "path": "/mopsfin_t187ap08_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司董事、監察人持股不足法定成數彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap11_O.json",
+    "path": "/mopsfin_t187ap11_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司董監事持股餘額明細資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap12_O.json",
+    "path": "/mopsfin_t187ap12_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司每日內部人持股轉讓事前申報表-持股轉讓日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap13_O.json",
+    "path": "/mopsfin_t187ap13_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司每日內部人持股轉讓事前申報表-持股未轉讓日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap22_O.json",
+    "path": "/mopsfin_t187ap22_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司金管會證券期貨局裁罰案件專區",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap30_O.json",
+    "path": "/mopsfin_t187ap30_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司獨立董監事兼任情形彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap29_A_O.json",
+    "path": "/mopsfin_t187ap29_A_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司董事酬金相關資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap29_B_O.json",
+    "path": "/mopsfin_t187ap29_B_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司監察人酬金相關資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap29_C_O.json",
+    "path": "/mopsfin_t187ap29_C_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司合併報表董事酬金相關資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap29_D_O.json",
+    "path": "/mopsfin_t187ap29_D_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司合併報表監察人酬金相關資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap23_O.json",
+    "path": "/mopsfin_t187ap23_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃公司違反資訊申報、重大訊息及說明記者會規定專區",
+    "status_code": 200
+  },
+  {
+    "file": "GET__mopsfin_t187ap19_O.json",
+    "path": "/mopsfin_t187ap19_O",
+    "method": "GET",
+    "operationId": null,
+    "summary": "電子式交易統計資訊(上櫃)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_daily_broker2.json",
+    "path": "/tpex_daily_broker2",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上櫃股票各券商總公司當日營業金額統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tphd_index.json",
+    "path": "/tphd_index",
+    "method": "GET",
+    "operationId": null,
+    "summary": "高殖利率指數歷史收盤指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__tpex_esb_highlight.json",
+    "path": "/tpex_esb_highlight",
+    "method": "GET",
+    "operationId": null,
+    "summary": "興櫃股票市場現況",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD1_data.json",
+    "path": "/bond_ISSBD1_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD2_data.json",
+    "path": "/bond_ISSBD2_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "外國金融債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD3_data.json",
+    "path": "/bond_ISSBD3_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "金融債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD4_data.json",
+    "path": "/bond_ISSBD4_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "普通債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD5_data.json",
+    "path": "/bond_ISSBD5_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "轉(交)換債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD6_data.json",
+    "path": "/bond_ISSBD6_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "海外轉換債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD7_data.json",
+    "path": "/bond_ISSBD7_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "附認股權公司債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD8_data.json",
+    "path": "/bond_ISSBD8_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "海外附認股權公司債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD9_data.json",
+    "path": "/bond_ISSBD9_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "海外普通債發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD10_data.json",
+    "path": "/bond_ISSBD10_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "國際債券(寶島債券)-本國發行人及第一、二上市(櫃)公司之外國發行人發行資料下載",
+    "status_code": 200
+  },
+  {
+    "file": "GET__bond_ISSBD11_data.json",
+    "path": "/bond_ISSBD11_data",
+    "method": "GET",
+    "operationId": null,
+    "summary": "國際債券(寶島債券)-外國發行人(在我國未公開發行股權商品者)發行資料下載",
+    "status_code": 200
+  }
+]

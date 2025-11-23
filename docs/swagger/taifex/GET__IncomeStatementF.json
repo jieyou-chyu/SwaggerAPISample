@@ -1,0 +1,154 @@
+{
+  "path": "/IncomeStatementF",
+  "method": "GET",
+  "operationId": null,
+  "summary": "專營期貨商稅前累計損益彙總表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/IncomeStatementF",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:42 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "2737",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:55 GMT",
+      "ETag": "\"ab1-6443698612e44\"",
+      "Content-Disposition": "attachment; filename=IncomeStatementF.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d5098ef324a68-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F001",
+        "FCMName": "國泰期貨",
+        "NetIncomeBeforeTaxThisMonth": "25165208",
+        "AccumulatedNetIncomeLastMonth": "196841151",
+        "AccumulatedNetIncome": "222006359"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F002",
+        "FCMName": "永豐期貨",
+        "NetIncomeBeforeTaxThisMonth": "75461435",
+        "AccumulatedNetIncomeLastMonth": "656431572",
+        "AccumulatedNetIncome": "731893007"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F004",
+        "FCMName": "凱基期貨",
+        "NetIncomeBeforeTaxThisMonth": "106134391",
+        "AccumulatedNetIncomeLastMonth": "733662785",
+        "AccumulatedNetIncome": "839797176"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F005",
+        "FCMName": "國票期貨",
+        "NetIncomeBeforeTaxThisMonth": "12792252",
+        "AccumulatedNetIncomeLastMonth": "94156490",
+        "AccumulatedNetIncome": "106948742"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F008",
+        "FCMName": "統一期貨",
+        "NetIncomeBeforeTaxThisMonth": "58078346",
+        "AccumulatedNetIncomeLastMonth": "476324405",
+        "AccumulatedNetIncome": "534402751"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F014",
+        "FCMName": "華南期貨",
+        "NetIncomeBeforeTaxThisMonth": "9320370",
+        "AccumulatedNetIncomeLastMonth": "73433081",
+        "AccumulatedNetIncome": "82753451"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F018",
+        "FCMName": "元富期貨",
+        "NetIncomeBeforeTaxThisMonth": "10142080",
+        "AccumulatedNetIncomeLastMonth": "38758423",
+        "AccumulatedNetIncome": "48900503"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F020",
+        "FCMName": "群益期貨",
+        "NetIncomeBeforeTaxThisMonth": "182209812",
+        "AccumulatedNetIncomeLastMonth": "1175167491",
+        "AccumulatedNetIncome": "1357377303"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F021",
+        "FCMName": "元大期貨",
+        "NetIncomeBeforeTaxThisMonth": "343284074",
+        "AccumulatedNetIncomeLastMonth": "2451130429",
+        "AccumulatedNetIncome": "2794414503"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F026",
+        "FCMName": "富邦期貨",
+        "NetIncomeBeforeTaxThisMonth": "46277827",
+        "AccumulatedNetIncomeLastMonth": "399626009",
+        "AccumulatedNetIncome": "445903836"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F029",
+        "FCMName": "康和期貨",
+        "NetIncomeBeforeTaxThisMonth": "17524570",
+        "AccumulatedNetIncomeLastMonth": "84303665",
+        "AccumulatedNetIncome": "101828235"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F030",
+        "FCMName": "兆豐期貨",
+        "NetIncomeBeforeTaxThisMonth": "6763433",
+        "AccumulatedNetIncomeLastMonth": "55724740",
+        "AccumulatedNetIncome": "62488173"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F034",
+        "FCMName": "澳帝華期貨",
+        "NetIncomeBeforeTaxThisMonth": "65605952",
+        "AccumulatedNetIncomeLastMonth": "718542984",
+        "AccumulatedNetIncome": "784148936"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F039",
+        "FCMName": "大昌期貨",
+        "NetIncomeBeforeTaxThisMonth": "1669705",
+        "AccumulatedNetIncomeLastMonth": "6644374",
+        "AccumulatedNetIncome": "8314079"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F040",
+        "FCMName": "台新期貨",
+        "NetIncomeBeforeTaxThisMonth": "4877402",
+        "AccumulatedNetIncomeLastMonth": "22395551",
+        "AccumulatedNetIncome": "27272953"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "path": "/SettledPositionsGold",
+  "method": "GET",
+  "operationId": null,
+  "summary": "到期契約履約交割-商品類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SettledPositionsGold",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:53 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1718",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:35 GMT",
+      "ETag": "\"6b6-644369ac646bf\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SettledPositionsGold.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50dd6cdca3a9-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251030",
+        "ContractDeliveryMonth": "202510",
+        "ContractName": "黃金期貨",
+        "Contract": "GDF",
+        "Call/Put": "",
+        "CashSettlementLong(lot)": "148",
+        "CashSettlementShort(lot)": "148",
+        "OIAtTheMaturityDate(Lot)": "",
+        "CashSettlementOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "",
+        "CashSettlementAbandonedOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "",
+        "CashSettlementActualExecutedOI(Lot)": "",
+        "PhysicalDelivery(lot)": "0"
+      },
+      {
+        "TheFinalSettlementDay": "20251030",
+        "ContractDeliveryMonth": "202510",
+        "ContractName": "臺幣黃金期貨",
+        "Contract": "TGF",
+        "Call/Put": "",
+        "CashSettlementLong(lot)": "469",
+        "CashSettlementShort(lot)": "469",
+        "OIAtTheMaturityDate(Lot)": "",
+        "CashSettlementOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "",
+        "CashSettlementAbandonedOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "",
+        "CashSettlementActualExecutedOI(Lot)": "",
+        "PhysicalDelivery(lot)": "0"
+      },
+      {
+        "TheFinalSettlementDay": "20251030",
+        "ContractDeliveryMonth": "202510",
+        "ContractName": "黃金選擇權",
+        "Contract": "TGO",
+        "Call/Put": "買權",
+        "CashSettlementLong(lot)": "",
+        "CashSettlementShort(lot)": "",
+        "OIAtTheMaturityDate(Lot)": "1428",
+        "CashSettlementOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "794",
+        "CashSettlementAbandonedOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "0",
+        "CashSettlementActualExecutedOI(Lot)": "794",
+        "PhysicalDelivery(lot)": "0"
+      },
+      {
+        "TheFinalSettlementDay": "20251030",
+        "ContractDeliveryMonth": "202510",
+        "ContractName": "黃金選擇權",
+        "Contract": "TGO",
+        "Call/Put": "賣權",
+        "CashSettlementLong(lot)": "",
+        "CashSettlementShort(lot)": "",
+        "OIAtTheMaturityDate(Lot)": "1625",
+        "CashSettlementOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "565",
+        "CashSettlementAbandonedOIOfIn-the-MoneyAtTheMaturityDate(Lot)": "0",
+        "CashSettlementActualExecutedOI(Lot)": "565",
+        "PhysicalDelivery(lot)": "0"
+      }
+    ]
+  }
+}

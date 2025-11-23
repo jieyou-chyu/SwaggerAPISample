@@ -1,0 +1,274 @@
+{
+  "path": "/EPSBeforeTaxS",
+  "method": "GET",
+  "operationId": null,
+  "summary": "兼營期貨商每股稅前盈餘統計表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/EPSBeforeTaxS",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:43 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "5524",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:59 GMT",
+      "ETag": "\"1594-64436989e7683\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=EPSBeforeTaxS.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d509f5f16f22a-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S980",
+        "FCMName": "元大證券股份有限公司",
+        "NetIncomeBeforeTax": "69954195",
+        "AccumulatedIncomeBeforeTax": "1177586437",
+        "Shares": "295000000",
+        "EPS-NetIncomeBeforeTax": "0.24",
+        "EPS-AccumulatedIncomeBeforeTax": "3.99"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S844",
+        "FCMName": "摩根大通證券",
+        "NetIncomeBeforeTax": "71278890",
+        "AccumulatedIncomeBeforeTax": "1012773372",
+        "Shares": "333730000",
+        "EPS-NetIncomeBeforeTax": "0.21",
+        "EPS-AccumulatedIncomeBeforeTax": "3.03"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S856",
+        "FCMName": "新光證券",
+        "NetIncomeBeforeTax": "9158716",
+        "AccumulatedIncomeBeforeTax": "83399132",
+        "Shares": "42000000",
+        "EPS-NetIncomeBeforeTax": "0.22",
+        "EPS-AccumulatedIncomeBeforeTax": "1.99"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S884",
+        "FCMName": "玉山證券",
+        "NetIncomeBeforeTax": "16949430",
+        "AccumulatedIncomeBeforeTax": "139890065",
+        "Shares": "93500000",
+        "EPS-NetIncomeBeforeTax": "0.18",
+        "EPS-AccumulatedIncomeBeforeTax": "1.5"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S147",
+        "FCMName": "台灣摩根士丹利證券",
+        "NetIncomeBeforeTax": "35836481",
+        "AccumulatedIncomeBeforeTax": "471394471",
+        "Shares": "332800000",
+        "EPS-NetIncomeBeforeTax": "0.11",
+        "EPS-AccumulatedIncomeBeforeTax": "1.42"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S592",
+        "FCMName": "元富證券",
+        "NetIncomeBeforeTax": "-12697199",
+        "AccumulatedIncomeBeforeTax": "115746147",
+        "Shares": "100000000",
+        "EPS-NetIncomeBeforeTax": "-0.13",
+        "EPS-AccumulatedIncomeBeforeTax": "1.16"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S144",
+        "FCMName": "美林證券",
+        "NetIncomeBeforeTax": "33290022.6",
+        "AccumulatedIncomeBeforeTax": "247636590.4",
+        "Shares": "300000000",
+        "EPS-NetIncomeBeforeTax": "0.11",
+        "EPS-AccumulatedIncomeBeforeTax": "0.83"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S538",
+        "FCMName": "第一金證券",
+        "NetIncomeBeforeTax": "5543853",
+        "AccumulatedIncomeBeforeTax": "40766861",
+        "Shares": "81500000",
+        "EPS-NetIncomeBeforeTax": "0.07",
+        "EPS-AccumulatedIncomeBeforeTax": "0.5"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S585",
+        "FCMName": "統一證券",
+        "NetIncomeBeforeTax": "54382787",
+        "AccumulatedIncomeBeforeTax": "90258857",
+        "Shares": "230000000",
+        "EPS-NetIncomeBeforeTax": "0.24",
+        "EPS-AccumulatedIncomeBeforeTax": "0.39"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S526",
+        "FCMName": "美好證券",
+        "NetIncomeBeforeTax": "1083729",
+        "AccumulatedIncomeBeforeTax": "10408482",
+        "Shares": "28000000",
+        "EPS-NetIncomeBeforeTax": "0.04",
+        "EPS-AccumulatedIncomeBeforeTax": "0.37"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S551",
+        "FCMName": "永豐金證券",
+        "NetIncomeBeforeTax": "3369853",
+        "AccumulatedIncomeBeforeTax": "46035798",
+        "Shares": "200000000",
+        "EPS-NetIncomeBeforeTax": "0.02",
+        "EPS-AccumulatedIncomeBeforeTax": "0.23"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S616",
+        "FCMName": "中國信託證券",
+        "NetIncomeBeforeTax": "-19092826",
+        "AccumulatedIncomeBeforeTax": "16102899",
+        "Shares": "80000000",
+        "EPS-NetIncomeBeforeTax": "-0.24",
+        "EPS-AccumulatedIncomeBeforeTax": "0.2"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S920",
+        "FCMName": "凱基證券",
+        "NetIncomeBeforeTax": "4594456",
+        "AccumulatedIncomeBeforeTax": "53831239",
+        "Shares": "275000000",
+        "EPS-NetIncomeBeforeTax": "0.02",
+        "EPS-AccumulatedIncomeBeforeTax": "0.2"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S888",
+        "FCMName": "國泰證券",
+        "NetIncomeBeforeTax": "1187944",
+        "AccumulatedIncomeBeforeTax": "14119421",
+        "Shares": "110000000",
+        "EPS-NetIncomeBeforeTax": "0.01",
+        "EPS-AccumulatedIncomeBeforeTax": "0.13"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S910",
+        "FCMName": "群益金鼎證券",
+        "NetIncomeBeforeTax": "9716438",
+        "AccumulatedIncomeBeforeTax": "11548595",
+        "Shares": "140000000",
+        "EPS-NetIncomeBeforeTax": "0.07",
+        "EPS-AccumulatedIncomeBeforeTax": "0.08"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S960",
+        "FCMName": "富邦證券",
+        "NetIncomeBeforeTax": "210064",
+        "AccumulatedIncomeBeforeTax": "2109464",
+        "Shares": "56000000",
+        "EPS-NetIncomeBeforeTax": "0",
+        "EPS-AccumulatedIncomeBeforeTax": "0.04"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S700",
+        "FCMName": "兆豐證券",
+        "NetIncomeBeforeTax": "164036",
+        "AccumulatedIncomeBeforeTax": "505824",
+        "Shares": "50000000",
+        "EPS-NetIncomeBeforeTax": "0",
+        "EPS-AccumulatedIncomeBeforeTax": "0.01"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S218",
+        "FCMName": "亞東證券",
+        "NetIncomeBeforeTax": "2477787",
+        "AccumulatedIncomeBeforeTax": "-2338274",
+        "Shares": "61500000",
+        "EPS-NetIncomeBeforeTax": "0.04",
+        "EPS-AccumulatedIncomeBeforeTax": "-0.04"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S159",
+        "FCMName": "花旗環球證券",
+        "NetIncomeBeforeTax": "-423235",
+        "AccumulatedIncomeBeforeTax": "-3417686",
+        "Shares": "30000000",
+        "EPS-NetIncomeBeforeTax": "-0.01",
+        "EPS-AccumulatedIncomeBeforeTax": "-0.11"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S102",
+        "FCMName": "合庫證券",
+        "NetIncomeBeforeTax": "-5890762",
+        "AccumulatedIncomeBeforeTax": "-4786011",
+        "Shares": "40000000",
+        "EPS-NetIncomeBeforeTax": "-0.15",
+        "EPS-AccumulatedIncomeBeforeTax": "-0.12"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S890",
+        "FCMName": "法巴證",
+        "NetIncomeBeforeTax": "116328",
+        "AccumulatedIncomeBeforeTax": "-6000156",
+        "Shares": "40000000",
+        "EPS-NetIncomeBeforeTax": "0",
+        "EPS-AccumulatedIncomeBeforeTax": "-0.15"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S126",
+        "FCMName": "宏遠證券",
+        "NetIncomeBeforeTax": "-9510643",
+        "AccumulatedIncomeBeforeTax": "-13859339",
+        "Shares": "82100000",
+        "EPS-NetIncomeBeforeTax": "-0.12",
+        "EPS-AccumulatedIncomeBeforeTax": "-0.17"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S509",
+        "FCMName": "華南永昌證券",
+        "NetIncomeBeforeTax": "-12209307",
+        "AccumulatedIncomeBeforeTax": "-57848789",
+        "Shares": "60000000",
+        "EPS-NetIncomeBeforeTax": "-0.2",
+        "EPS-AccumulatedIncomeBeforeTax": "-0.96"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S779",
+        "FCMName": "國票證券",
+        "NetIncomeBeforeTax": "-13199433",
+        "AccumulatedIncomeBeforeTax": "-100264468",
+        "Shares": "100000000",
+        "EPS-NetIncomeBeforeTax": "-0.13",
+        "EPS-AccumulatedIncomeBeforeTax": "-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "path": "/tpex_margin_trading_marginspot",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃信用交易餘額概況表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_margin_trading_marginspot",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:31 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:03 GMT",
+      "ETag": "W/\"6921d737-22be\"",
+      "Content-Disposition": "attachment;filename=tpex_margin_trading_marginspot.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48fef9e46a96-TPE"
+    },
+    "body": [
+      {
+        "Month": "11410",
+        "Ranking": "1",
+        "SecuritiesCompanyCode": "9800",
+        "CompanyName": "元大",
+        "MonthlyAverageMarginPurchaseBalance": "14346323400",
+        "MarketShare": "13.58",
+        "MonthlyAverageShortSaleBalance": "2090791493",
+        "MonthlyAverageMarginTradingBalance": "16437114893"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "2",
+        "SecuritiesCompanyCode": "9600",
+        "CompanyName": "富邦",
+        "MonthlyAverageMarginPurchaseBalance": "11596081050",
+        "MarketShare": "10.77",
+        "MonthlyAverageShortSaleBalance": "1440796659",
+        "MonthlyAverageMarginTradingBalance": "13036877709"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "3",
+        "SecuritiesCompanyCode": "9200",
+        "CompanyName": "凱基",
+        "MonthlyAverageMarginPurchaseBalance": "9038858900",
+        "MarketShare": "8.19",
+        "MonthlyAverageShortSaleBalance": "873382601",
+        "MonthlyAverageMarginTradingBalance": "9912241501"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "4",
+        "SecuritiesCompanyCode": "9A00",
+        "CompanyName": "永豐金",
+        "MonthlyAverageMarginPurchaseBalance": "8324738600",
+        "MarketShare": "7.78",
+        "MonthlyAverageShortSaleBalance": "1095588640",
+        "MonthlyAverageMarginTradingBalance": "9420327240"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "5",
+        "SecuritiesCompanyCode": "9100",
+        "CompanyName": "群益",
+        "MonthlyAverageMarginPurchaseBalance": "5877069900",
+        "MarketShare": "5.66",
+        "MonthlyAverageShortSaleBalance": "981778428",
+        "MonthlyAverageMarginTradingBalance": "6858848328"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "6",
+        "SecuritiesCompanyCode": "5850",
+        "CompanyName": "統一",
+        "MonthlyAverageMarginPurchaseBalance": "5873153988",
+        "MarketShare": "5.29",
+        "MonthlyAverageShortSaleBalance": "527849948",
+        "MonthlyAverageMarginTradingBalance": "6401003936"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "7",
+        "SecuritiesCompanyCode": "9300",
+        "CompanyName": "華南永昌",
+        "MonthlyAverageMarginPurchaseBalance": "5550434950",
+        "MarketShare": "5.23",
+        "MonthlyAverageShortSaleBalance": "788135269",
+        "MonthlyAverageMarginTradingBalance": "6338570219"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "8",
+        "SecuritiesCompanyCode": "7000",
+        "CompanyName": "兆豐",
+        "MonthlyAverageMarginPurchaseBalance": "5312833350",
+        "MarketShare": "4.80",
+        "MonthlyAverageShortSaleBalance": "505318660",
+        "MonthlyAverageMarginTradingBalance": "5818152010"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "9",
+        "SecuritiesCompanyCode": "7790",
+        "CompanyName": "國票綜合",
+        "MonthlyAverageMarginPurchaseBalance": "5499703850",
+        "MarketShare": "4.79",
+        "MonthlyAverageShortSaleBalance": "306559972",
+        "MonthlyAverageMarginTradingBalance": "5806263822"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "10",
+        "SecuritiesCompanyCode": "5920",
+        "CompanyName": "元富",
+        "MonthlyAverageMarginPurchaseBalance": "4889902400",
+        "MarketShare": "4.52",
+        "MonthlyAverageShortSaleBalance": "586035450",
+        "MonthlyAverageMarginTradingBalance": "5475937850"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "11",
+        "SecuritiesCompanyCode": "8880",
+        "CompanyName": "國泰綜合",
+        "MonthlyAverageMarginPurchaseBalance": "4458784200",
+        "MarketShare": "4.20",
+        "MonthlyAverageShortSaleBalance": "623402131",
+        "MonthlyAverageMarginTradingBalance": "5082186331"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "12",
+        "SecuritiesCompanyCode": "8150",
+        "CompanyName": "台新",
+        "MonthlyAverageMarginPurchaseBalance": "4231462150",
+        "MarketShare": "3.83",
+        "MonthlyAverageShortSaleBalance": "409362326",
+        "MonthlyAverageMarginTradingBalance": "4640824476"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "13",
+        "SecuritiesCompanyCode": "8560",
+        "CompanyName": "新光",
+        "MonthlyAverageMarginPurchaseBalance": "4030670950",
+        "MarketShare": "3.68",
+        "MonthlyAverageShortSaleBalance": "432257723",
+        "MonthlyAverageMarginTradingBalance": "4462928673"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "14",
+        "SecuritiesCompanyCode": "8840",
+        "CompanyName": "玉山",
+        "MonthlyAverageMarginPurchaseBalance": "3048328000",
+        "MarketShare": "2.70",
+        "MonthlyAverageShortSaleBalance": "221852275",
+        "MonthlyAverageMarginTradingBalance": "3270180275"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "15",
+        "SecuritiesCompanyCode": "4010",
+        "CompanyName": "元大金融",
+        "MonthlyAverageMarginPurchaseBalance": "2774659900",
+        "MarketShare": "2.52",
+        "MonthlyAverageShortSaleBalance": "277039089",
+        "MonthlyAverageMarginTradingBalance": "3051698989"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "16",
+        "SecuritiesCompanyCode": "5380",
+        "CompanyName": "第一金證",
+        "MonthlyAverageMarginPurchaseBalance": "2322694300",
+        "MarketShare": "2.16",
+        "MonthlyAverageShortSaleBalance": "291236831",
+        "MonthlyAverageMarginTradingBalance": "2613931131"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "17",
+        "SecuritiesCompanyCode": "6160",
+        "CompanyName": "中國信託",
+        "MonthlyAverageMarginPurchaseBalance": "2355486350",
+        "MarketShare": "2.12",
+        "MonthlyAverageShortSaleBalance": "214381990",
+        "MonthlyAverageMarginTradingBalance": "2569868340"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "18",
+        "SecuritiesCompanyCode": "1020",
+        "CompanyName": "合庫",
+        "MonthlyAverageMarginPurchaseBalance": "1926803400",
+        "MarketShare": "1.72",
+        "MonthlyAverageShortSaleBalance": "154336675",
+        "MonthlyAverageMarginTradingBalance": "2081140075"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "19",
+        "SecuritiesCompanyCode": "8450",
+        "CompanyName": "康和",
+        "MonthlyAverageMarginPurchaseBalance": "1762003300",
+        "MarketShare": "1.53",
+        "MonthlyAverageShortSaleBalance": "100403372",
+        "MonthlyAverageMarginTradingBalance": "1862406672"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "20",
+        "SecuritiesCompanyCode": "1040",
+        "CompanyName": "臺銀",
+        "MonthlyAverageMarginPurchaseBalance": "839901100",
+        "MarketShare": "0.69",
+        "MonthlyAverageShortSaleBalance": "4149917",
+        "MonthlyAverageMarginTradingBalance": "844051017"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "21",
+        "SecuritiesCompanyCode": "5260",
+        "CompanyName": "美好",
+        "MonthlyAverageMarginPurchaseBalance": "704637150",
+        "MarketShare": "0.61",
+        "MonthlyAverageShortSaleBalance": "37945806",
+        "MonthlyAverageMarginTradingBalance": "742582956"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "22",
+        "SecuritiesCompanyCode": "1110",
+        "CompanyName": "企銀",
+        "MonthlyAverageMarginPurchaseBalance": "734061400",
+        "MarketShare": "0.61",
+        "MonthlyAverageShortSaleBalance": "6533441",
+        "MonthlyAverageMarginTradingBalance": "740594841"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "23",
+        "SecuritiesCompanyCode": "6110",
+        "CompanyName": "台中銀",
+        "MonthlyAverageMarginPurchaseBalance": "687348300",
+        "MarketShare": "0.59",
+        "MonthlyAverageShortSaleBalance": "26720794",
+        "MonthlyAverageMarginTradingBalance": "714069094"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "24",
+        "SecuritiesCompanyCode": "6460",
+        "CompanyName": "大昌",
+        "MonthlyAverageMarginPurchaseBalance": "502452800",
+        "MarketShare": "0.42",
+        "MonthlyAverageShortSaleBalance": "12095333",
+        "MonthlyAverageMarginTradingBalance": "514548133"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "25",
+        "SecuritiesCompanyCode": "6480",
+        "CompanyName": "福邦",
+        "MonthlyAverageMarginPurchaseBalance": "381877700",
+        "MarketShare": "0.31",
+        "MonthlyAverageShortSaleBalance": "0",
+        "MonthlyAverageMarginTradingBalance": "381877700"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "26",
+        "SecuritiesCompanyCode": "7030",
+        "CompanyName": "致和",
+        "MonthlyAverageMarginPurchaseBalance": "330161200",
+        "MarketShare": "0.27",
+        "MonthlyAverageShortSaleBalance": "6926640",
+        "MonthlyAverageMarginTradingBalance": "337087840"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "27",
+        "SecuritiesCompanyCode": "1030",
+        "CompanyName": "土銀",
+        "MonthlyAverageMarginPurchaseBalance": "295830550",
+        "MarketShare": "0.25",
+        "MonthlyAverageShortSaleBalance": "12941366",
+        "MonthlyAverageMarginTradingBalance": "308771916"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "28",
+        "SecuritiesCompanyCode": "2180",
+        "CompanyName": "亞東",
+        "MonthlyAverageMarginPurchaseBalance": "281281200",
+        "MarketShare": "0.24",
+        "MonthlyAverageShortSaleBalance": "9594195",
+        "MonthlyAverageMarginTradingBalance": "290875395"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "29",
+        "SecuritiesCompanyCode": "8710",
+        "CompanyName": "陽信",
+        "MonthlyAverageMarginPurchaseBalance": "279792250",
+        "MarketShare": "0.23",
+        "MonthlyAverageShortSaleBalance": "2279550",
+        "MonthlyAverageMarginTradingBalance": "282071800"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "30",
+        "SecuritiesCompanyCode": "5050",
+        "CompanyName": "大展",
+        "MonthlyAverageMarginPurchaseBalance": "183383500",
+        "MarketShare": "0.15",
+        "MonthlyAverageShortSaleBalance": "1655837",
+        "MonthlyAverageMarginTradingBalance": "185039337"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "31",
+        "SecuritiesCompanyCode": "6380",
+        "CompanyName": "光和",
+        "MonthlyAverageMarginPurchaseBalance": "169414250",
+        "MarketShare": "0.14",
+        "MonthlyAverageShortSaleBalance": "9758464",
+        "MonthlyAverageMarginTradingBalance": "179172714"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "32",
+        "SecuritiesCompanyCode": "6210",
+        "CompanyName": "新百王",
+        "MonthlyAverageMarginPurchaseBalance": "136666800",
+        "MarketShare": "0.12",
+        "MonthlyAverageShortSaleBalance": "12458576",
+        "MonthlyAverageMarginTradingBalance": "149125376"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "33",
+        "SecuritiesCompanyCode": "1230",
+        "CompanyName": "彰化銀行",
+        "MonthlyAverageMarginPurchaseBalance": "127001800",
+        "MarketShare": "0.10",
+        "MonthlyAverageShortSaleBalance": "0",
+        "MonthlyAverageMarginTradingBalance": "127001800"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "34",
+        "SecuritiesCompanyCode": "5660",
+        "CompanyName": "日進",
+        "MonthlyAverageMarginPurchaseBalance": "30430000",
+        "MarketShare": "0.02",
+        "MonthlyAverageShortSaleBalance": "858359",
+        "MonthlyAverageMarginTradingBalance": "31288359"
+      },
+      {
+        "Month": "11410",
+        "Ranking": "35",
+        "SecuritiesCompanyCode": "5860",
+        "CompanyName": "盈溢",
+        "MonthlyAverageMarginPurchaseBalance": "7250550",
+        "MarketShare": "0.00",
+        "MonthlyAverageShortSaleBalance": "0",
+        "MonthlyAverageMarginTradingBalance": "7250550"
+      }
+    ]
+  }
+}

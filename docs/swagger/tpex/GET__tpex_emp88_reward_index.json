@@ -1,0 +1,116 @@
+{
+  "path": "/tpex_emp88_reward_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "櫃買「勞工就業88指數」歷史收盤指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_emp88_reward_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:54 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:13 GMT",
+      "ETag": "W/\"6921d741-683\"",
+      "Content-Disposition": "attachment;filename=tpex_emp88_reward_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4990bd446b74-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "GretaiLaborEmployment88Index": "217.92",
+        "GretaiLaborEmployment88TotalReturnIndex": "348.08"
+      },
+      {
+        "Date": "1141104",
+        "GretaiLaborEmployment88Index": "212.87",
+        "GretaiLaborEmployment88TotalReturnIndex": "340.01"
+      },
+      {
+        "Date": "1141105",
+        "GretaiLaborEmployment88Index": "211.26",
+        "GretaiLaborEmployment88TotalReturnIndex": "337.44"
+      },
+      {
+        "Date": "1141106",
+        "GretaiLaborEmployment88Index": "212.60",
+        "GretaiLaborEmployment88TotalReturnIndex": "339.58"
+      },
+      {
+        "Date": "1141107",
+        "GretaiLaborEmployment88Index": "210.01",
+        "GretaiLaborEmployment88TotalReturnIndex": "335.45"
+      },
+      {
+        "Date": "1141110",
+        "GretaiLaborEmployment88Index": "208.31",
+        "GretaiLaborEmployment88TotalReturnIndex": "332.72"
+      },
+      {
+        "Date": "1141111",
+        "GretaiLaborEmployment88Index": "207.02",
+        "GretaiLaborEmployment88TotalReturnIndex": "330.67"
+      },
+      {
+        "Date": "1141112",
+        "GretaiLaborEmployment88Index": "208.68",
+        "GretaiLaborEmployment88TotalReturnIndex": "333.32"
+      },
+      {
+        "Date": "1141113",
+        "GretaiLaborEmployment88Index": "209.86",
+        "GretaiLaborEmployment88TotalReturnIndex": "335.20"
+      },
+      {
+        "Date": "1141114",
+        "GretaiLaborEmployment88Index": "207.02",
+        "GretaiLaborEmployment88TotalReturnIndex": "330.67"
+      },
+      {
+        "Date": "1141117",
+        "GretaiLaborEmployment88Index": "206.78",
+        "GretaiLaborEmployment88TotalReturnIndex": "330.28"
+      },
+      {
+        "Date": "1141118",
+        "GretaiLaborEmployment88Index": "200.94",
+        "GretaiLaborEmployment88TotalReturnIndex": "320.95"
+      },
+      {
+        "Date": "1141119",
+        "GretaiLaborEmployment88Index": "197.59",
+        "GretaiLaborEmployment88TotalReturnIndex": "315.60"
+      },
+      {
+        "Date": "1141120",
+        "GretaiLaborEmployment88Index": "204.41",
+        "GretaiLaborEmployment88TotalReturnIndex": "326.49"
+      },
+      {
+        "Date": "1141121",
+        "GretaiLaborEmployment88Index": "198.97",
+        "GretaiLaborEmployment88TotalReturnIndex": "317.81"
+      }
+    ]
+  }
+}

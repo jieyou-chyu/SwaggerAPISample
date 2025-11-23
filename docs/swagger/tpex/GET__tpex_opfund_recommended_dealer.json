@@ -1,0 +1,77 @@
+{
+  "path": "/tpex_opfund_recommended_dealer",
+  "method": "GET",
+  "operationId": null,
+  "summary": "開放式基金受益憑證造市商與造市之基金",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_opfund_recommended_dealer",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:12 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:54 GMT",
+      "ETag": "W/\"6921d7a6-317\"",
+      "Content-Disposition": "attachment;filename=tpex_opfund_recommended_dealer.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49fe7c214a40-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141122",
+        "SecurityCode": "T1001Y",
+        "SecurityName": "富邦FB",
+        "No.": "1",
+        "MarketMakerCode": "960T",
+        "MarketMakerName": "富邦自營",
+        "AddDate": "1031027",
+        "Contact": "張小姐",
+        "Telephone": "(02)27317501",
+        "Address": "台北市仁愛路四段169號15樓(部份)"
+      },
+      {
+        "Date": "1141122",
+        "SecurityCode": "T1010Y",
+        "SecurityName": "精銳FB",
+        "No.": "1",
+        "MarketMakerCode": "960T",
+        "MarketMakerName": "富邦自營",
+        "AddDate": "1031027",
+        "Contact": "張小姐",
+        "Telephone": "(02)27317501",
+        "Address": "台北市仁愛路四段169號15樓(部份)"
+      },
+      {
+        "Date": "1141122",
+        "SecurityCode": "T1012Y",
+        "SecurityName": "科技FB",
+        "No.": "1",
+        "MarketMakerCode": "960T",
+        "MarketMakerName": "富邦自營",
+        "AddDate": "1031027",
+        "Contact": "張小姐",
+        "Telephone": "(02)27317501",
+        "Address": "台北市仁愛路四段169號15樓(部份)"
+      }
+    ]
+  }
+}

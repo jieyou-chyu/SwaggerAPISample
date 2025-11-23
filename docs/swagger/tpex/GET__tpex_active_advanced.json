@@ -1,0 +1,281 @@
+{
+  "path": "/tpex_active_advanced",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃盤中個股漲幅排行",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_active_advanced",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:37 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:43 GMT",
+      "ETag": "W/\"6921d723-f45\"",
+      "Content-Disposition": "attachment;filename=tpex_active_advanced.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49224927843c-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3176",
+        "CompanyName": "基亞",
+        "ClosingPrice": "29.80",
+        "Up": "0.80",
+        "UpRatio": "2.75%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        "ClosingPrice": "47.85",
+        "Up": "4.35",
+        "UpRatio": "10.00%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3349",
+        "CompanyName": "寶德",
+        "ClosingPrice": "22.70",
+        "Up": "2.05",
+        "UpRatio": "9.92%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3546",
+        "CompanyName": "宇峻",
+        "ClosingPrice": "77.10",
+        "Up": "2.40",
+        "UpRatio": "3.21%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "ClosingPrice": "52.60",
+        "Up": "2.10",
+        "UpRatio": "4.15%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4192",
+        "CompanyName": "杏國",
+        "ClosingPrice": "26.45",
+        "Up": "1.50",
+        "UpRatio": "6.01%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4413",
+        "CompanyName": "飛寶企業",
+        "ClosingPrice": "19.35",
+        "Up": "0.60",
+        "UpRatio": "3.20%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4530",
+        "CompanyName": "宏易",
+        "ClosingPrice": "11.50",
+        "Up": "0.95",
+        "UpRatio": "9.00%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4735",
+        "CompanyName": "豪展",
+        "ClosingPrice": "33.95",
+        "Up": "1.65",
+        "UpRatio": "5.10%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "ClosingPrice": "21.05",
+        "Up": "1.90",
+        "UpRatio": "9.92%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4804",
+        "CompanyName": "大略-KY",
+        "ClosingPrice": "7.64",
+        "Up": "0.63",
+        "UpRatio": "8.98%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4939",
+        "CompanyName": "亞電",
+        "ClosingPrice": "25.50",
+        "Up": "0.85",
+        "UpRatio": "3.44%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5321",
+        "CompanyName": "美而快",
+        "ClosingPrice": "39.05",
+        "Up": "1.30",
+        "UpRatio": "3.44%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        "ClosingPrice": "156.50",
+        "Up": "14.00",
+        "UpRatio": "9.82%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6425",
+        "CompanyName": "易發",
+        "ClosingPrice": "68.50",
+        "Up": "1.80",
+        "UpRatio": "2.69%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6603",
+        "CompanyName": "富強鑫",
+        "ClosingPrice": "20.10",
+        "Up": "0.55",
+        "UpRatio": "2.81%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6629",
+        "CompanyName": "泰金-KY",
+        "ClosingPrice": "129.50",
+        "Up": "5.00",
+        "UpRatio": "4.01%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6804",
+        "CompanyName": "明係",
+        "ClosingPrice": "18.45",
+        "Up": "0.65",
+        "UpRatio": "3.65%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6840",
+        "CompanyName": "東研信超",
+        "ClosingPrice": "56.50",
+        "Up": "1.60",
+        "UpRatio": "2.91%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6996",
+        "CompanyName": "力領科技",
+        "ClosingPrice": "147.00",
+        "Up": "4.00",
+        "UpRatio": "2.79%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "7717",
+        "CompanyName": "萊德光電-KY",
+        "ClosingPrice": "194.50",
+        "Up": "14.50",
+        "UpRatio": "8.05%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "ClosingPrice": "44.25",
+        "Up": "1.65",
+        "UpRatio": "3.87%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "7738",
+        "CompanyName": "東聯互動",
+        "ClosingPrice": "212.00",
+        "Up": "6.00",
+        "UpRatio": "2.91%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "ClosingPrice": "50.90",
+        "Up": "4.55",
+        "UpRatio": "9.81%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "ClosingPrice": "80.50",
+        "Up": "7.30",
+        "UpRatio": "9.97%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8048",
+        "CompanyName": "德勝",
+        "ClosingPrice": "63.10",
+        "Up": "4.30",
+        "UpRatio": "7.31%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        "ClosingPrice": "196.50",
+        "Up": "11.00",
+        "UpRatio": "5.92%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8097",
+        "CompanyName": "常珵",
+        "ClosingPrice": "58.90",
+        "Up": "2.20",
+        "UpRatio": "3.88%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8279",
+        "CompanyName": "生展",
+        "ClosingPrice": "133.50",
+        "Up": "4.50",
+        "UpRatio": "3.48%"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8455",
+        "CompanyName": "大拓-KY",
+        "ClosingPrice": "22.90",
+        "Up": "0.65",
+        "UpRatio": "2.92%"
+      }
+    ]
+  }
+}

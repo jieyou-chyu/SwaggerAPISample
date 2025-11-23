@@ -1,0 +1,185 @@
+{
+  "path": "/exchangeReport/TWTBAU1",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場暫停先賣後買當日沖銷交易標的預告表",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/TWTBAU1",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:35 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:06 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"6922297e-93a\"",
+      "Content-Disposition": "attachment;filename=TWTBAU1.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Code": "0051",
+        "Name": "元大中型100",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "0053",
+        "Name": "元大電子",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "0055",
+        "Name": "元大MSCI金融",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00715L",
+        "Name": "期街口S&P布蘭特油正2",
+        "StartDate": "1141128",
+        "EndDate": "1141204",
+        "Reason": "ETF反分割"
+      },
+      {
+        "Code": "00771",
+        "Name": "元大US高息特別股",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00850",
+        "Name": "元大臺灣ESG永續",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00901",
+        "Name": "永豐智能車供應鏈",
+        "StartDate": "1141120",
+        "EndDate": "1141126",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00930",
+        "Name": "永豐ESG低碳高息",
+        "StartDate": "1141120",
+        "EndDate": "1141126",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00939",
+        "Name": "統一台灣高息動能",
+        "StartDate": "1141127",
+        "EndDate": "1141203",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00946",
+        "Name": "群益科技高息成長",
+        "StartDate": "1141128",
+        "EndDate": "1141204",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00953B",
+        "Name": "群益優選非投等債",
+        "StartDate": "1141128",
+        "EndDate": "1141204",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00985B",
+        "Name": "群益ESG投等債0-5",
+        "StartDate": "1141128",
+        "EndDate": "1141204",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "1707",
+        "Name": "葡萄王",
+        "StartDate": "1150105",
+        "EndDate": "1150109",
+        "Reason": "除息"
+      },
+      {
+        "Code": "2254",
+        "Name": "巨鎧精密-創",
+        "StartDate": "1141201",
+        "EndDate": "1141205",
+        "Reason": "臨時會"
+      },
+      {
+        "Code": "2371",
+        "Name": "大同",
+        "StartDate": "1141124",
+        "EndDate": "1141128",
+        "Reason": "臨時會"
+      },
+      {
+        "Code": "2497",
+        "Name": "怡利電",
+        "StartDate": "1141124",
+        "EndDate": "1141128",
+        "Reason": "臨時會"
+      },
+      {
+        "Code": "2762",
+        "Name": "世界健身-KY",
+        "StartDate": "1141124",
+        "EndDate": "1141128",
+        "Reason": "除息"
+      },
+      {
+        "Code": "3004",
+        "Name": "豐達科",
+        "StartDate": "1141201",
+        "EndDate": "1141205",
+        "Reason": "現金增資"
+      },
+      {
+        "Code": "3312",
+        "Name": "弘憶股",
+        "StartDate": "1141120",
+        "EndDate": "1141126",
+        "Reason": "臨時會"
+      },
+      {
+        "Code": "6277",
+        "Name": "宏正",
+        "StartDate": "1141204",
+        "EndDate": "1141210",
+        "Reason": "除息"
+      },
+      {
+        "Code": "6438",
+        "Name": "迅得",
+        "StartDate": "1141208",
+        "EndDate": "1141212",
+        "Reason": "除息"
+      },
+      {
+        "Code": "8103",
+        "Name": "瀚荃",
+        "StartDate": "1141124",
+        "EndDate": "1141128",
+        "Reason": "減資"
+      }
+    ]
+  }
+}

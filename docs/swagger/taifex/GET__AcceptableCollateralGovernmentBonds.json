@@ -1,0 +1,898 @@
+{
+  "path": "/AcceptableCollateralGovernmentBonds",
+  "method": "GET",
+  "operationId": null,
+  "summary": "有價證券保證金之可抵繳標的-公債",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AcceptableCollateralGovernmentBonds",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:34 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "12610",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:03 GMT",
+      "ETag": "\"3142-6443691b4463c\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AcceptableCollateralGovernmentBonds.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d4c00693ba9a9-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251124",
+        "Code": "A00102",
+        "Name": "100央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A00104",
+        "Name": "100央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A00107",
+        "Name": "100央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A00108",
+        "Name": "100央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A00201",
+        "Name": "100央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A01102",
+        "Name": "101央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A01104",
+        "Name": "101央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A01107",
+        "Name": "101央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A01108",
+        "Name": "101央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A01201",
+        "Name": "101央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A02101",
+        "Name": "102央債甲1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A02103",
+        "Name": "102央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A02105",
+        "Name": "102央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A02108",
+        "Name": "102央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A02109",
+        "Name": "102央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A02201",
+        "Name": "102央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03103",
+        "Name": "103央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03105",
+        "Name": "103央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03107",
+        "Name": "103央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03108",
+        "Name": "103央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03111",
+        "Name": "103央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03112",
+        "Name": "103央甲12",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03114",
+        "Name": "103央甲14",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A03116",
+        "Name": "103央甲16",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A04102",
+        "Name": "104央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A04104",
+        "Name": "104央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A04107",
+        "Name": "104央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A04108",
+        "Name": "104央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A04111",
+        "Name": "104央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A04114",
+        "Name": "104央甲14",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05102",
+        "Name": "105央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05104",
+        "Name": "105央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05106",
+        "Name": "105央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05107",
+        "Name": "105央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05109",
+        "Name": "105央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05110",
+        "Name": "105央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05111",
+        "Name": "105央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A05114",
+        "Name": "105央甲14",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A06103",
+        "Name": "106央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A06104",
+        "Name": "106央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A06106",
+        "Name": "106央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A06108",
+        "Name": "106央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A06109",
+        "Name": "106央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A06111",
+        "Name": "106央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07102",
+        "Name": "107央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07103",
+        "Name": "107央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07104",
+        "Name": "107央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07105",
+        "Name": "107央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07108",
+        "Name": "107央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07109",
+        "Name": "107央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A07110",
+        "Name": "107央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08102",
+        "Name": "108央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08103",
+        "Name": "108央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08104",
+        "Name": "108央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08105",
+        "Name": "108央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08106",
+        "Name": "108央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08108",
+        "Name": "108央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08109",
+        "Name": "108央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A08110",
+        "Name": "108央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09102",
+        "Name": "109央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09103",
+        "Name": "109央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09104",
+        "Name": "109央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09105",
+        "Name": "109央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09106",
+        "Name": "109央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09108",
+        "Name": "109央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09109",
+        "Name": "109央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09111",
+        "Name": "109央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09112",
+        "Name": "109央甲12",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A09113",
+        "Name": "109央甲13",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10101",
+        "Name": "110央債甲1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10102",
+        "Name": "110央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10103",
+        "Name": "110央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10104",
+        "Name": "110央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10105",
+        "Name": "110央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10107",
+        "Name": "110央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10108",
+        "Name": "110央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10110",
+        "Name": "110央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10111",
+        "Name": "110央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10112",
+        "Name": "110央甲12",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10113",
+        "Name": "110央甲13",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10201",
+        "Name": "110央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A10202",
+        "Name": "110央債乙2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11101",
+        "Name": "111央債甲1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11102",
+        "Name": "111央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11103",
+        "Name": "111央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11104",
+        "Name": "111央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11105",
+        "Name": "111央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11106",
+        "Name": "111央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11107",
+        "Name": "111央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11108",
+        "Name": "111央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11109",
+        "Name": "111央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11110",
+        "Name": "111央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11111",
+        "Name": "111央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A11201",
+        "Name": "111央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12101",
+        "Name": "112央債甲1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12102",
+        "Name": "112央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12104",
+        "Name": "112央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12105",
+        "Name": "112央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12106",
+        "Name": "112央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12107",
+        "Name": "112央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12108",
+        "Name": "112央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12109",
+        "Name": "112央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12110",
+        "Name": "112央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12111",
+        "Name": "112央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A12201",
+        "Name": "112央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13101",
+        "Name": "113央債甲1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13102",
+        "Name": "113央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13103",
+        "Name": "113央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13104",
+        "Name": "113央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13105",
+        "Name": "113央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13106",
+        "Name": "113央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13107",
+        "Name": "113央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13108",
+        "Name": "113央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13109",
+        "Name": "113央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13110",
+        "Name": "113央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13111",
+        "Name": "113央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13201",
+        "Name": "113央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A13202",
+        "Name": "113央債乙2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14101",
+        "Name": "114央債甲1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14102",
+        "Name": "114央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14103",
+        "Name": "114央債甲3",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14104",
+        "Name": "114央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14105",
+        "Name": "114央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14106",
+        "Name": "114央債甲6",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14107",
+        "Name": "114央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14108",
+        "Name": "114央債甲8",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14109",
+        "Name": "114央債甲9",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14110",
+        "Name": "114央甲10",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14111",
+        "Name": "114央甲11",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A14201",
+        "Name": "114央債乙1",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A90105",
+        "Name": "90央債甲五",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A93106",
+        "Name": "93央債甲六",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A95102",
+        "Name": "95央債甲二",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A95107",
+        "Name": "95央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A96102",
+        "Name": "96央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A96107",
+        "Name": "96央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A97102",
+        "Name": "97央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A97105",
+        "Name": "97央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A98102",
+        "Name": "98央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A98105",
+        "Name": "98央債甲5",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A99102",
+        "Name": "99央債甲2",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A99104",
+        "Name": "99央債甲4",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A99107",
+        "Name": "99央債甲7",
+        "DenominatedCurrency": "TWD"
+      },
+      {
+        "Date": "20251124",
+        "Code": "A99109",
+        "Name": "99央債甲9",
+        "DenominatedCurrency": "TWD"
+      }
+    ]
+  }
+}

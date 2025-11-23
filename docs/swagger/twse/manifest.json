@@ -1,0 +1,1146 @@
+[
+  {
+    "file": "GET__opendata_t187ap46_L_21.json",
+    "path": "/opendata/t187ap46_L_21",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-職業安全衛生",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap45_L.json",
+    "path": "/opendata/t187ap45_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司股利分派情形",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_20.json",
+    "path": "/opendata/t187ap46_L_20",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-反競爭行為法律訴訟",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_19.json",
+    "path": "/opendata/t187ap46_L_19",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-風險管理政策",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_18.json",
+    "path": "/opendata/t187ap46_L_18",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-持股及控制力",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_17.json",
+    "path": "/opendata/t187ap46_L_17",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-普惠金融",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_16.json",
+    "path": "/opendata/t187ap46_L_16",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-資訊安全",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_15.json",
+    "path": "/opendata/t187ap46_L_15",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-社區關係",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_14.json",
+    "path": "/opendata/t187ap46_L_14",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-產品品質與安全",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_13.json",
+    "path": "/opendata/t187ap46_L_13",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-供應鏈管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_12.json",
+    "path": "/opendata/t187ap46_L_12",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-食品安全",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_11.json",
+    "path": "/opendata/t187ap46_L_11",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-產品生命週期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_10.json",
+    "path": "/opendata/t187ap46_L_10",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-燃料管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_9.json",
+    "path": "/opendata/t187ap46_L_9",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-功能性委員會",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_8.json",
+    "path": "/opendata/t187ap46_L_8",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-氣候相關議題管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap47_L.json",
+    "path": "/opendata/t187ap47_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "基金基本資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap05_P.json",
+    "path": "/opendata/t187ap05_P",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公開發行公司每月營業收入彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_7.json",
+    "path": "/opendata/t187ap46_L_7",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-投資人溝通",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_6.json",
+    "path": "/opendata/t187ap46_L_6",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-董事會",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_5.json",
+    "path": "/opendata/t187ap46_L_5",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-人力發展",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_4.json",
+    "path": "/opendata/t187ap46_L_4",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-廢棄物管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_3.json",
+    "path": "/opendata/t187ap46_L_3",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-水資源管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_2.json",
+    "path": "/opendata/t187ap46_L_2",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-能源管理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap46_L_1.json",
+    "path": "/opendata/t187ap46_L_1",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司企業ESG資訊揭露彙總資料-溫室氣體排放",
+    "status_code": 200
+  },
+  {
+    "file": "GET__ETFReport_ETFRank.json",
+    "path": "/ETFReport/ETFRank",
+    "method": "GET",
+    "operationId": null,
+    "summary": "定期定額前十名交易戶數證券統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__brokerService_secRegData.json",
+    "path": "/brokerService/secRegData",
+    "method": "GET",
+    "operationId": null,
+    "summary": "開辦定期定額業務證券商名單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_X_ci.json",
+    "path": "/opendata/t187ap07_X_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司資產負債表-一般業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_X_mim.json",
+    "path": "/opendata/t187ap07_X_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司資產負債表-異業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_X_basi.json",
+    "path": "/opendata/t187ap06_X_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司綜合損益表-金融業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_X_bd.json",
+    "path": "/opendata/t187ap06_X_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司綜合損益表-證券期貨業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_X_ci.json",
+    "path": "/opendata/t187ap06_X_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司綜合損益表-一般業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_X_fh.json",
+    "path": "/opendata/t187ap06_X_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司綜合損益表-金控業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_X_ins.json",
+    "path": "/opendata/t187ap06_X_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司綜合損益表-保險業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_X_mim.json",
+    "path": "/opendata/t187ap06_X_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司綜合損益表-異業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__news_eventList.json",
+    "path": "/news/eventList",
+    "method": "GET",
+    "operationId": null,
+    "summary": "證交所活動訊息",
+    "status_code": 200
+  },
+  {
+    "file": "GET__company_applylistingForeign.json",
+    "path": "/company/applylistingForeign",
+    "method": "GET",
+    "operationId": null,
+    "summary": "外國公司向證交所申請第一上市之公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__company_newlisting.json",
+    "path": "/company/newlisting",
+    "method": "GET",
+    "operationId": null,
+    "summary": "最近上市公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__company_suspendListingCsvAndHtml.json",
+    "path": "/company/suspendListingCsvAndHtml",
+    "method": "GET",
+    "operationId": null,
+    "summary": "終止上市公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__brokerService_brokerList.json",
+    "path": "/brokerService/brokerList",
+    "method": "GET",
+    "operationId": null,
+    "summary": "證券商總公司基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__news_newsList.json",
+    "path": "/news/newsList",
+    "method": "GET",
+    "operationId": null,
+    "summary": "證交所新聞",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_BWIBBU_ALL.json",
+    "path": "/exchangeReport/BWIBBU_ALL",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股日本益比、殖利率及股價淨值比（依代碼查詢）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_STOCK_DAY_AVG_ALL.json",
+    "path": "/exchangeReport/STOCK_DAY_AVG_ALL",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股日收盤價及月平均價",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_STOCK_DAY_ALL.json",
+    "path": "/exchangeReport/STOCK_DAY_ALL",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股日成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_FMSRFK_ALL.json",
+    "path": "/exchangeReport/FMSRFK_ALL",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股月成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_FMNPTK_ALL.json",
+    "path": "/exchangeReport/FMNPTK_ALL",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股年成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_MI_INDEX.json",
+    "path": "/exchangeReport/MI_INDEX",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日收盤行情-大盤統計資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__company_applylistingLocal.json",
+    "path": "/company/applylistingLocal",
+    "method": "GET",
+    "operationId": null,
+    "summary": "申請上市之本國公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__fund_MI_QFIIS_cat.json",
+    "path": "/fund/MI_QFIIS_cat",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場外資及陸資投資類股持股比率表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__fund_MI_QFIIS_sort_20.json",
+    "path": "/fund/MI_QFIIS_sort_20",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場外資及陸資持股前 20 名彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_BFI61U.json",
+    "path": "/exchangeReport/BFI61U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "中央登錄公債補息資料表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWT88U.json",
+    "path": "/exchangeReport/TWT88U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股首五日無漲跌幅",
+    "status_code": 200
+  },
+  {
+    "file": "GET__Announcement_BFZFZU_T.json",
+    "path": "/Announcement/BFZFZU_T",
+    "method": "GET",
+    "operationId": null,
+    "summary": "投資理財節目異常推介個股",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWTB4U.json",
+    "path": "/exchangeReport/TWTB4U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市股票每日當日沖銷交易標的及統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWTBAU1.json",
+    "path": "/exchangeReport/TWTBAU1",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場暫停先賣後買當日沖銷交易標的預告表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWTBAU2.json",
+    "path": "/exchangeReport/TWTBAU2",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場暫停先賣後買當日沖銷交易歷史查詢",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_MI_INDEX4.json",
+    "path": "/exchangeReport/MI_INDEX4",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日上市上櫃跨市場成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__indicesReport_FRMSA.json",
+    "path": "/indicesReport/FRMSA",
+    "method": "GET",
+    "operationId": null,
+    "summary": "寶島股價指數歷史資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__indicesReport_TAI50I.json",
+    "path": "/indicesReport/TAI50I",
+    "method": "GET",
+    "operationId": null,
+    "summary": "臺灣 50 指數歷史資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_MI_5MINS.json",
+    "path": "/exchangeReport/MI_5MINS",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每 5 秒委託成交統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_FMTQIK.json",
+    "path": "/exchangeReport/FMTQIK",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場每日市場成交資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_MI_INDEX20.json",
+    "path": "/exchangeReport/MI_INDEX20",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場每日成交量前二十名證券",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWT53U.json",
+    "path": "/exchangeReport/TWT53U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場零股交易行情單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWTAWU.json",
+    "path": "/exchangeReport/TWTAWU",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場暫停交易證券",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_BFT41U.json",
+    "path": "/exchangeReport/BFT41U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場盤後定價交易",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_BFI84U.json",
+    "path": "/exchangeReport/BFI84U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場停資停券預告表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_MI_MARGN.json",
+    "path": "/exchangeReport/MI_MARGN",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場融資融券餘額",
+    "status_code": 200
+  },
+  {
+    "file": "GET__indicesReport_MI_5MINS_HIST.json",
+    "path": "/indicesReport/MI_5MINS_HIST",
+    "method": "GET",
+    "operationId": null,
+    "summary": "發行量加權股價指數歷史資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__block_BFIAUU_d.json",
+    "path": "/block/BFIAUU_d",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場鉅額交易日成交量值統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__block_BFIAUU_m.json",
+    "path": "/block/BFIAUU_m",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場鉅額交易月成交量值統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__block_BFIAUU_y.json",
+    "path": "/block/BFIAUU_y",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場鉅額交易年成交量值統計",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_STOCK_FIRST.json",
+    "path": "/exchangeReport/STOCK_FIRST",
+    "method": "GET",
+    "operationId": null,
+    "summary": "每日第一上市外國股票成交量值",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWT85U.json",
+    "path": "/exchangeReport/TWT85U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場證券變更交易",
+    "status_code": 200
+  },
+  {
+    "file": "GET__holidaySchedule_holidaySchedule.json",
+    "path": "/holidaySchedule/holidaySchedule",
+    "method": "GET",
+    "operationId": null,
+    "summary": "有價證券集中交易市場開（休）市日期",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_BWIBBU_d.json",
+    "path": "/exchangeReport/BWIBBU_d",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股日本益比、殖利率及股價淨值比（依日期查詢）",
+    "status_code": 200
+  },
+  {
+    "file": "GET__indicesReport_MFI94U.json",
+    "path": "/indicesReport/MFI94U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "發行量加權股價報酬指數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__SBL_TWT96U.json",
+    "path": "/SBL/TWT96U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市上櫃股票當日可借券賣出股數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWT84U.json",
+    "path": "/exchangeReport/TWT84U",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市個股股價升降幅度",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_twtazu_od.json",
+    "path": "/opendata/twtazu_od",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場漲跌證券數統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap04_L.json",
+    "path": "/opendata/t187ap04_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司每日重大訊息",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap03_L.json",
+    "path": "/opendata/t187ap03_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap05_L.json",
+    "path": "/opendata/t187ap05_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司每月營業收入彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap01.json",
+    "path": "/opendata/t187ap01",
+    "method": "GET",
+    "operationId": null,
+    "summary": "券商業務別人員數",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap02_L.json",
+    "path": "/opendata/t187ap02_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司持股逾 10% 大股東名單",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap14_L.json",
+    "path": "/opendata/t187ap14_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司各產業EPS統計資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap15_L.json",
+    "path": "/opendata/t187ap15_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司截至各季綜合損益財測達成情形(簡式)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap16_L.json",
+    "path": "/opendata/t187ap16_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司當季綜合損益經會計師查核(核閱)數與當季預測數差異達百分之十以上者，或截至當季累計差異達百分之二十以上者(簡式)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap17_L.json",
+    "path": "/opendata/t187ap17_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司營益分析查詢彙總表(全體公司彙總報表)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap20.json",
+    "path": "/opendata/t187ap20",
+    "method": "GET",
+    "operationId": null,
+    "summary": "各券商每月月計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap21.json",
+    "path": "/opendata/t187ap21",
+    "method": "GET",
+    "operationId": null,
+    "summary": "各券商收支概況表資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap18.json",
+    "path": "/opendata/t187ap18",
+    "method": "GET",
+    "operationId": null,
+    "summary": "證券商基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap19.json",
+    "path": "/opendata/t187ap19",
+    "method": "GET",
+    "operationId": null,
+    "summary": "電子式交易統計資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap08_L.json",
+    "path": "/opendata/t187ap08_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司董事、監察人持股不足法定成數彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap11_L.json",
+    "path": "/opendata/t187ap11_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司董監事持股餘額明細資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap12_L.json",
+    "path": "/opendata/t187ap12_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司每日內部人持股轉讓事前申報表-持股轉讓日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap13_L.json",
+    "path": "/opendata/t187ap13_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司每日內部人持股轉讓事前申報表-持股未轉讓日報表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap22_L.json",
+    "path": "/opendata/t187ap22_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司金管會證券期貨局裁罰案件專區",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap30_L.json",
+    "path": "/opendata/t187ap30_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司獨立董監事兼任情形彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap29_A_L.json",
+    "path": "/opendata/t187ap29_A_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司董事酬金相關資訊 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap29_B_L.json",
+    "path": "/opendata/t187ap29_B_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司監察人酬金相關資訊 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap29_C_L.json",
+    "path": "/opendata/t187ap29_C_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司合併報表董事酬金相關資訊 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap29_D_L.json",
+    "path": "/opendata/t187ap29_D_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司合併報表監察人酬金相關資訊 ",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap23_L.json",
+    "path": "/opendata/t187ap23_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司違反資訊申報、重大訊息及說明記者會規定專區",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap31_L.json",
+    "path": "/opendata/t187ap31_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司財務報告經監察人承認情形",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap36_L.json",
+    "path": "/opendata/t187ap36_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市認購(售)權證年度發行量概況統計表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap03_P.json",
+    "path": "/opendata/t187ap03_P",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公開發行公司基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap43_L.json",
+    "path": "/opendata/t187ap43_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市認購(售)權證交易人數檔",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap42_L.json",
+    "path": "/opendata/t187ap42_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市認購(售)權證每日成交資料檔",
+    "status_code": 200
+  },
+  {
+    "file": "GET__announcement_punish.json",
+    "path": "/announcement/punish",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場公布處置股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap10_L.json",
+    "path": "/opendata/t187ap10_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司董事、監察人持股不足法定成數連續達3個月以上彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap38_L.json",
+    "path": "/opendata/t187ap38_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司股東會公告-召集股東常(臨時)會公告資料彙總表(95年度起適用)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap24_L.json",
+    "path": "/opendata/t187ap24_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap37_L.json",
+    "path": "/opendata/t187ap37_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市權證基本資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap26_L.json",
+    "path": "/opendata/t187ap26_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更停止買賣公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap41_L.json",
+    "path": "/opendata/t187ap41_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司召開股東常 (臨時) 會日期、地點及採用電子投票情形等資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__announcement_notetrans.json",
+    "path": "/announcement/notetrans",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場公布注意累計次數異常資訊",
+    "status_code": 200
+  },
+  {
+    "file": "GET__announcement_notice.json",
+    "path": "/announcement/notice",
+    "method": "GET",
+    "operationId": null,
+    "summary": "集中市場當日公布注意股票",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap25_L.json",
+    "path": "/opendata/t187ap25_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap27_L.json",
+    "path": "/opendata/t187ap27_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap32_L.json",
+    "path": "/opendata/t187ap32_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司公司治理之相關規程規則",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap33_L.json",
+    "path": "/opendata/t187ap33_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司董事長是否兼任總經理",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap09_L.json",
+    "path": "/opendata/t187ap09_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司董事、監察人質權設定占董事及監察人實際持有股數彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_OpenData_BRK01.json",
+    "path": "/opendata/OpenData_BRK01",
+    "method": "GET",
+    "operationId": null,
+    "summary": "證券商營業員男女人數統計資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_OpenData_BRK02.json",
+    "path": "/opendata/OpenData_BRK02",
+    "method": "GET",
+    "operationId": null,
+    "summary": "證券商分公司基本資料",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap34_L.json",
+    "path": "/opendata/t187ap34_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司採累積投票制、全額連記法、候選人提名制選任董監事及當選資料彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap35_L.json",
+    "path": "/opendata/t187ap35_L",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司股東行使提案權情形彙總表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__exchangeReport_TWT48U_ALL.json",
+    "path": "/exchangeReport/TWT48U_ALL",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市股票除權除息預告表",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_L_bd.json",
+    "path": "/opendata/t187ap06_L_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司綜合損益表(證券期貨業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_L_ci.json",
+    "path": "/opendata/t187ap06_L_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司綜合損益表(一般業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_L_fh.json",
+    "path": "/opendata/t187ap06_L_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司綜合損益表(金控業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_L_ins.json",
+    "path": "/opendata/t187ap06_L_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司綜合損益表(保險業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_L_mim.json",
+    "path": "/opendata/t187ap06_L_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司綜合損益表(異業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_L_bd.json",
+    "path": "/opendata/t187ap07_L_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司資產負債表(證券期貨業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_L_ci.json",
+    "path": "/opendata/t187ap07_L_ci",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司資產負債表(一般業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_L_fh.json",
+    "path": "/opendata/t187ap07_L_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司資產負債表(金控業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_L_ins.json",
+    "path": "/opendata/t187ap07_L_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司資產負債表(保險業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_L_mim.json",
+    "path": "/opendata/t187ap07_L_mim",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司資產負債表(異業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_X_basi.json",
+    "path": "/opendata/t187ap07_X_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司資產負債表-金融業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_X_bd.json",
+    "path": "/opendata/t187ap07_X_bd",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司資產負債表-證券期貨業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_X_fh.json",
+    "path": "/opendata/t187ap07_X_fh",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司資產負債表-金控業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_X_ins.json",
+    "path": "/opendata/t187ap07_X_ins",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司資產負債表-保險業",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap11_P.json",
+    "path": "/opendata/t187ap11_P",
+    "method": "GET",
+    "operationId": null,
+    "summary": "公發公司董監事持股餘額明細",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap06_L_basi.json",
+    "path": "/opendata/t187ap06_L_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司綜合損益表(金融業)",
+    "status_code": 200
+  },
+  {
+    "file": "GET__opendata_t187ap07_L_basi.json",
+    "path": "/opendata/t187ap07_L_basi",
+    "method": "GET",
+    "operationId": null,
+    "summary": "上市公司資產負債表(金融業)",
+    "status_code": 200
+  }
+]

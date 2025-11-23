@@ -1,0 +1,14 @@
+{
+  "https://openapi.twse.com.tw/v1/swagger.json": {
+    "output_dir": "./swagger\\twse",
+    "get_count": 143
+  },
+  "https://www.tpex.org.tw/openapi/swagger.json": {
+    "output_dir": "./swagger\\tpex",
+    "get_count": 225
+  },
+  "https://openapi.taifex.com.tw/swagger.json": {
+    "output_dir": "./swagger\\taifex",
+    "get_count": 135
+  }
+}

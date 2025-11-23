@@ -1,0 +1,562 @@
+{
+  "path": "/AnnualTradingFX",
+  "method": "GET",
+  "operationId": null,
+  "summary": "商品年成交量統計-匯率類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingFX",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:59 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "10312",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:55 GMT",
+      "ETag": "\"2848-644369bf93994\"",
+      "Content-Disposition": "attachment; filename=AnnualTradingFX.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d51001bafa35b-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2015",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "106938",
+        "NumberOfTradingDays": "116",
+        "AvgDailyTradingVolume": "922"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "1046265",
+        "NumberOfTradingDays": "116",
+        "AvgDailyTradingVolume": "9020"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "99204",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "407"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "9822",
+        "NumberOfTradingDays": "130",
+        "AvgDailyTradingVolume": "76"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "523716",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "2146"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "140488",
+        "NumberOfTradingDays": "130",
+        "AvgDailyTradingVolume": "1081"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "33214",
+        "NumberOfTradingDays": "40",
+        "AvgDailyTradingVolume": "830"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "36309",
+        "NumberOfTradingDays": "40",
+        "AvgDailyTradingVolume": "908"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "67793",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "276"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "15128",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "61"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "269020",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "1094"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "123562",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "502"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "94290",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "383"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "102815",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "418"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "66743",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "270"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "16193",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "66"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "283451",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "1148"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "118833",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "481"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "49032",
+        "NumberOfTradingDays": "233",
+        "AvgDailyTradingVolume": "210"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "75468",
+        "NumberOfTradingDays": "233",
+        "AvgDailyTradingVolume": "324"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "77987",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "316"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "71851",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "291"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "75333",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "311"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "13405",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "55"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "289375",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "1196"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "108539",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "449"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "106597",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "440"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "177547",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "734"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "128534",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "531"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "184376",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "762"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "41740",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "170"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "2743",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "11"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "172431",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "704"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "22980",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "94"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "43343",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "177"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "72976",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "298"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "41737",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "170"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "41738",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "170"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "13976",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "57"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "7",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "68353",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "280"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "16472",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "68"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "25026",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "103"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "30460",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "125"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "23737",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "97"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "6386",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "26"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "RHO",
+        "ContractName": "美元兌人民幣選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "175",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "34049",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "138"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "RTO",
+        "ContractName": "小型美元兌人民幣選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "175",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "11684",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "47"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "19510",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "79"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "18327",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "75"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "40111",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "163"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "4456",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "19"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "31186",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "130"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "8935",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "37"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "10884",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "46"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "12770",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "53"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "41186",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "172"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "TotalVolume": "4751",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "20"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "TotalVolume": "33980",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "140"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "TotalVolume": "4283",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "18"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "TotalVolume": "10105",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "42"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "TotalVolume": "8076",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "33"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "TotalVolume": "72151",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "298"
+      }
+    ]
+  }
+}

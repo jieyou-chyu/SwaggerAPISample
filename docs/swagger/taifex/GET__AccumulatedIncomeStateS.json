@@ -1,0 +1,226 @@
+{
+  "path": "/AccumulatedIncomeStateS",
+  "method": "GET",
+  "operationId": null,
+  "summary": "兼營期貨商稅前累計損益明細表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AccumulatedIncomeStateS",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:39 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "3128",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:41 GMT",
+      "ETag": "\"c38-64436978ab317\"",
+      "Content-Disposition": "attachment; filename=AccumulatedIncomeStateS.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50817e528442-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S779",
+        "FCMName": "國票證券",
+        "Revenue": "-39036991",
+        "Expense": "57035142",
+        "NetIncome": "-96072133"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S551",
+        "FCMName": "永豐金證券",
+        "Revenue": "-54475854",
+        "Expense": "4983850",
+        "NetIncome": "-59459704"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S509",
+        "FCMName": "華南永昌證券",
+        "Revenue": "-49116409",
+        "Expense": "8171855",
+        "NetIncome": "-57288264"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S144",
+        "FCMName": "美林證券",
+        "Revenue": "102501135",
+        "Expense": "144969625.3",
+        "NetIncome": "-42468490.3"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S126",
+        "FCMName": "宏遠證券",
+        "Revenue": "1596919",
+        "Expense": "29412437",
+        "NetIncome": "-27815518"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S218",
+        "FCMName": "亞東證券",
+        "Revenue": "1777879",
+        "Expense": "12282078",
+        "NetIncome": "-10504199"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S890",
+        "FCMName": "法巴證",
+        "Revenue": "127632646",
+        "Expense": "137194395",
+        "NetIncome": "-9561749"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S102",
+        "FCMName": "合庫證券",
+        "Revenue": "-4489279",
+        "Expense": "4132303",
+        "NetIncome": "-8621582"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S159",
+        "FCMName": "花旗環球證券",
+        "Revenue": "2010695",
+        "Expense": "7864782",
+        "NetIncome": "-5854087"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S700",
+        "FCMName": "兆豐證券",
+        "Revenue": "4149141",
+        "Expense": "7539226",
+        "NetIncome": "-3390085"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S960",
+        "FCMName": "富邦證券",
+        "Revenue": "0",
+        "Expense": "631",
+        "NetIncome": "-631"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S888",
+        "FCMName": "國泰證券",
+        "Revenue": "-400",
+        "Expense": "180",
+        "NetIncome": "-580"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S616",
+        "FCMName": "中國信託證券",
+        "Revenue": "46613547",
+        "Expense": "43769200",
+        "NetIncome": "2844347"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S526",
+        "FCMName": "美好證券",
+        "Revenue": "18002663",
+        "Expense": "12604596",
+        "NetIncome": "5398067"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S910",
+        "FCMName": "群益金鼎證券",
+        "Revenue": "18006962",
+        "Expense": "9306422",
+        "NetIncome": "8700540"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S538",
+        "FCMName": "第一金證券",
+        "Revenue": "74623528",
+        "Expense": "55815353",
+        "NetIncome": "18808175"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S920",
+        "FCMName": "凱基證券",
+        "Revenue": "53712595",
+        "Expense": "15491187",
+        "NetIncome": "38221408"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S856",
+        "FCMName": "新光證券",
+        "Revenue": "97069651",
+        "Expense": "45999025",
+        "NetIncome": "51070626"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S585",
+        "FCMName": "統一證券",
+        "Revenue": "322274996",
+        "Expense": "253360266",
+        "NetIncome": "68914730"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S844",
+        "FCMName": "摩根大通證券",
+        "Revenue": "174938668",
+        "Expense": "103644878",
+        "NetIncome": "71293790"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S884",
+        "FCMName": "玉山證券",
+        "Revenue": "218692301",
+        "Expense": "108189479",
+        "NetIncome": "110502822"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S592",
+        "FCMName": "元富證券",
+        "Revenue": "200904590",
+        "Expense": "80327852",
+        "NetIncome": "120576738"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S147",
+        "FCMName": "台灣摩根士丹利證券",
+        "Revenue": "218177318",
+        "Expense": "72168784",
+        "NetIncome": "146008534"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S980",
+        "FCMName": "元大證券股份有限公司",
+        "Revenue": "1165104785",
+        "Expense": "252318961",
+        "NetIncome": "912785824"
+      }
+    ]
+  }
+}

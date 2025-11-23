@@ -1,0 +1,177 @@
+{
+  "path": "/tpex_dpsp_monthly_CBmcs007",
+  "method": "GET",
+  "operationId": null,
+  "summary": "可轉債資產交換ASO及ASW銀行承作餘額",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_dpsp_monthly_CBmcs007",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:55 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:41 GMT",
+      "ETag": "W/\"6921d799-d69\"",
+      "Content-Disposition": "attachment;filename=tpex_dpsp_monthly_CBmcs007.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4993598f4a54-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "102T",
+        "FinancialInstitutionsName": "合作金庫證券公司",
+        "ASWFixedIncomeOutstanding": "48000",
+        "ASOOptionOutstanding": "0",
+        "TotalOutstanding": "48000"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "218T",
+        "FinancialInstitutionsName": "亞東證券公司",
+        "ASWFixedIncomeOutstanding": "83490",
+        "ASOOptionOutstanding": "0",
+        "TotalOutstanding": "83490"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "505T",
+        "FinancialInstitutionsName": "大展證券公司",
+        "ASWFixedIncomeOutstanding": "46460",
+        "ASOOptionOutstanding": "56260",
+        "TotalOutstanding": "102720"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "538T",
+        "FinancialInstitutionsName": "第一金證券公司",
+        "ASWFixedIncomeOutstanding": "185250",
+        "ASOOptionOutstanding": "201100",
+        "TotalOutstanding": "386350"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "585T",
+        "FinancialInstitutionsName": "統一證券公司",
+        "ASWFixedIncomeOutstanding": "238250",
+        "ASOOptionOutstanding": "1281280",
+        "TotalOutstanding": "1519530"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "592T",
+        "FinancialInstitutionsName": "元富證券公司",
+        "ASWFixedIncomeOutstanding": "2339980",
+        "ASOOptionOutstanding": "3215690",
+        "TotalOutstanding": "5555670"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "616T",
+        "FinancialInstitutionsName": "中國信託證券公司",
+        "ASWFixedIncomeOutstanding": "220620",
+        "ASOOptionOutstanding": "0",
+        "TotalOutstanding": "220620"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "700T",
+        "FinancialInstitutionsName": "兆豐證券公司",
+        "ASWFixedIncomeOutstanding": "181300",
+        "ASOOptionOutstanding": "950",
+        "TotalOutstanding": "182250"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "779T",
+        "FinancialInstitutionsName": "國票證券公司",
+        "ASWFixedIncomeOutstanding": "34500",
+        "ASOOptionOutstanding": "292150",
+        "TotalOutstanding": "326650"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "815T",
+        "FinancialInstitutionsName": "台新證券公司",
+        "ASWFixedIncomeOutstanding": "440940",
+        "ASOOptionOutstanding": "487160",
+        "TotalOutstanding": "928100"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "845T",
+        "FinancialInstitutionsName": "康和證券公司",
+        "ASWFixedIncomeOutstanding": "83850",
+        "ASOOptionOutstanding": "421680",
+        "TotalOutstanding": "505530"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "910T",
+        "FinancialInstitutionsName": "群益金鼎證券公司",
+        "ASWFixedIncomeOutstanding": "831030",
+        "ASOOptionOutstanding": "2114880",
+        "TotalOutstanding": "2945910"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "920T",
+        "FinancialInstitutionsName": "凱基證券公司",
+        "ASWFixedIncomeOutstanding": "1455350",
+        "ASOOptionOutstanding": "1993320",
+        "TotalOutstanding": "3448670"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "930T",
+        "FinancialInstitutionsName": "華南永昌證券公司",
+        "ASWFixedIncomeOutstanding": "42000",
+        "ASOOptionOutstanding": "0",
+        "TotalOutstanding": "42000"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "960T",
+        "FinancialInstitutionsName": "富邦證券公司",
+        "ASWFixedIncomeOutstanding": "820310",
+        "ASOOptionOutstanding": "1858350",
+        "TotalOutstanding": "2678660"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "980T",
+        "FinancialInstitutionsName": "元大證券公司",
+        "ASWFixedIncomeOutstanding": "3346700",
+        "ASOOptionOutstanding": "6310750",
+        "TotalOutstanding": "9657450"
+      },
+      {
+        "Date": "1141103",
+        "FinancialInstitutionsCode": "9A0T",
+        "FinancialInstitutionsName": "永豐金證券公司",
+        "ASWFixedIncomeOutstanding": "455130",
+        "ASOOptionOutstanding": "1477700",
+        "TotalOutstanding": "1932830"
+      }
+    ]
+  }
+}

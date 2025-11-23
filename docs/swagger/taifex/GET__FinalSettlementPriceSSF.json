@@ -1,0 +1,2211 @@
+{
+  "path": "/FinalSettlementPriceSSF",
+  "method": "GET",
+  "operationId": null,
+  "summary": "最後結算價-股票期貨",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FinalSettlementPriceSSF",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:46 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "48237",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:11 GMT",
+      "ETag": "\"bc6d-6443699564d53\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=FinalSettlementPriceSSF.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d50b23dc68f06-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CAF",
+        "ContractName": "南亞期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "53.84"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CBF",
+        "ContractName": "中鋼期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "17.67"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CCF",
+        "ContractName": "聯電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "44.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CDF",
+        "ContractName": "台積電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1400.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CE1",
+        "ContractName": "富邦金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "88.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CEF",
+        "ContractName": "富邦金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "88.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CFF",
+        "ContractName": "台塑期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "40.18"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CGF",
+        "ContractName": "仁寶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.23"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CHF",
+        "ContractName": "友達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "11.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CJF",
+        "ContractName": "華南金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "28.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CKF",
+        "ContractName": "國泰金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "64.31"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CLF",
+        "ContractName": "兆豐金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "39.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CMF",
+        "ContractName": "台新新光金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "18.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CNF",
+        "ContractName": "中信金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "42.82"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CQF",
+        "ContractName": "統一期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "75.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CRF",
+        "ContractName": "遠東新期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.83"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CSF",
+        "ContractName": "華新期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.04"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CUF",
+        "ContractName": "中環期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "9.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CW1",
+        "ContractName": "佳世達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CWF",
+        "ContractName": "佳世達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CXF",
+        "ContractName": "大同期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "31.48"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CYF",
+        "ContractName": "南亞科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "160.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CZF",
+        "ContractName": "長榮期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "179.93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DAF",
+        "ContractName": "陽明期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "51.78"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DBF",
+        "ContractName": "華航期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "19.04"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DCF",
+        "ContractName": "彰銀期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "19.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DEF",
+        "ContractName": "永豐金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DFF",
+        "ContractName": "台泥期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "20.38"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DGF",
+        "ContractName": "台化期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "31.65"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DHF",
+        "ContractName": "鴻海期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "227.72"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DIF",
+        "ContractName": "旺宏期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "36.51"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DJF",
+        "ContractName": "華碩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "567.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DKF",
+        "ContractName": "廣達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "267.34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DLF",
+        "ContractName": "中華電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "131.11"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DNF",
+        "ContractName": "玉山金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.92"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DOF",
+        "ContractName": "元大金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "34.74"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DPF",
+        "ContractName": "第一金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.86"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DQF",
+        "ContractName": "群創期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "12.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DSF",
+        "ContractName": "宏碁期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DVF",
+        "ContractName": "聯發科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1159.61"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DWF",
+        "ContractName": "潤泰全期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "52.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DXF",
+        "ContractName": "緯創期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "136.35"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DYF",
+        "ContractName": "亞泥期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "37.38"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DZF",
+        "ContractName": "大成期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "51.1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EEF",
+        "ContractName": "國喬期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "10.14"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EGF",
+        "ContractName": "中石化期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "8.22"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EHF",
+        "ContractName": "東陽期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "95.02"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EKF",
+        "ContractName": "南紡期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "13.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EMF",
+        "ContractName": "東元期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "93.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EPF",
+        "ContractName": "亞德客-KY期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "895.88"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EYF",
+        "ContractName": "中纖期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "6.77"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "EZF",
+        "ContractName": "台肥期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "47.12"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FBF",
+        "ContractName": "東和鋼鐵期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "59.87"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FEF",
+        "ContractName": "大成鋼期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.21"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FFF",
+        "ContractName": "上銀期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "187.53"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FGF",
+        "ContractName": "川湖期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "3601.79"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FKF",
+        "ContractName": "正新期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "32.24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FNF",
+        "ContractName": "裕隆期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "36.06"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FQF",
+        "ContractName": "光寶科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "151.76"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FRF",
+        "ContractName": "台達電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "894.54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FSF",
+        "ContractName": "金寶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "21.83"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FTF",
+        "ContractName": "華通期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "77.13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FVF",
+        "ContractName": "精英期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "20.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FWF",
+        "ContractName": "友訊期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "14.87"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FYF",
+        "ContractName": "台亞期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "23.35"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "FZF",
+        "ContractName": "華邦電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "59.3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GAF",
+        "ContractName": "聯強期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "59.01"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GCF",
+        "ContractName": "鴻準期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "64.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GHF",
+        "ContractName": "技嘉期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "241.3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GIF",
+        "ContractName": "微星期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "101.69"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GJF",
+        "ContractName": "瑞昱期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "489.68"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GKF",
+        "ContractName": "群光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "119.13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GLF",
+        "ContractName": "正崴期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "37.45"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GMF",
+        "ContractName": "億光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "51.5"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GNF",
+        "ContractName": "凌陽期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "19.34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GOF",
+        "ContractName": "漢唐期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "774.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GRF",
+        "ContractName": "京元電子期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "198.1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GUF",
+        "ContractName": "全新期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "141"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GVF",
+        "ContractName": "飛宏期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GWF",
+        "ContractName": "義隆期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "126.01"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GXF",
+        "ContractName": "可成期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "207.24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GYF",
+        "ContractName": "強茂期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "80.88"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GZF",
+        "ContractName": "兆赫期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "16.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HAF",
+        "ContractName": "瑞軒期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "14.82"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HBF",
+        "ContractName": "華新科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "116.85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HCF",
+        "ContractName": "宏達電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "48.57"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HH1",
+        "ContractName": "中工期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "15.22"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HHF",
+        "ContractName": "中工期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "15.22"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HIF",
+        "ContractName": "冠德期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "32.49"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HL1",
+        "ContractName": "興富發期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "37.34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HLF",
+        "ContractName": "興富發期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "37.34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HOF",
+        "ContractName": "華固期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "97.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HQF",
+        "ContractName": "新興期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "23.13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HSF",
+        "ContractName": "長榮航期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "33.39"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IAF",
+        "ContractName": "臺企銀期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "15.36"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IHF",
+        "ContractName": "農林期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "13.27"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IIF",
+        "ContractName": "晶豪科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "85.86"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IJF",
+        "ContractName": "大立光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "2072.31"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IMF",
+        "ContractName": "亞光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "130.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IOF",
+        "ContractName": "聯詠期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "388.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IPF",
+        "ContractName": "智原期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "158.04"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IQF",
+        "ContractName": "文曄期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "131.77"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IR1",
+        "ContractName": "欣興期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "160.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IRF",
+        "ContractName": "欣興期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "160.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "ITF",
+        "ContractName": "晶技期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "81.13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IXF",
+        "ContractName": "景碩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "134.61"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IYF",
+        "ContractName": "新日興期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "171.84"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IZF",
+        "ContractName": "明泰期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.73"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JBF",
+        "ContractName": "創意期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1909.64"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JFF",
+        "ContractName": "嘉澤期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1175.89"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JMF",
+        "ContractName": "健策期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "2441.85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JNF",
+        "ContractName": "TPK-KY期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "40.43"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JPF",
+        "ContractName": "大聯大期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "63.75"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JSF",
+        "ContractName": "和碩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "69.79"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JWF",
+        "ContractName": "長虹期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "73.53"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JXF",
+        "ContractName": "群益證期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "24.34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "JZF",
+        "ContractName": "嘉聯益期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "14.07"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KAF",
+        "ContractName": "瑞儀期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "118.57"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KBF",
+        "ContractName": "聯茂期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "99.62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KCF",
+        "ContractName": "力成期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "154.12"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KDF",
+        "ContractName": "同欣電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "121.69"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KEF",
+        "ContractName": "台表科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "98.32"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KFF",
+        "ContractName": "康舒期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "38.89"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KGF",
+        "ContractName": "啟碁期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "96.18"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KIF",
+        "ContractName": "台虹期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "62.25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KKF",
+        "ContractName": "達方期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "30.39"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KLF",
+        "ContractName": "寶成期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KOF",
+        "ContractName": "宏全期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "122.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KPF",
+        "ContractName": "潤泰新期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "28.98"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KSF",
+        "ContractName": "聚陽期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "312.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KUF",
+        "ContractName": "台玻期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "30.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "KWF",
+        "ContractName": "廣宇期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "45.83"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LBF",
+        "ContractName": "健鼎期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "294.62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LCF",
+        "ContractName": "台灣大期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "106.92"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LEF",
+        "ContractName": "玉晶光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "447.17"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LIF",
+        "ContractName": "台郡期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "49.07"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LMF",
+        "ContractName": "美利達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "88.93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LOF",
+        "ContractName": "合庫金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "23.81"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LQF",
+        "ContractName": "英業達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "40.73"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LRF",
+        "ContractName": "凱基金期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "15.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LTF",
+        "ContractName": "遠傳期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "91.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LUF",
+        "ContractName": "臻鼎-KY期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "137.36"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LVF",
+        "ContractName": "中租-KY期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "99.63"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LWF",
+        "ContractName": "儒鴻期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "434.24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LXF",
+        "ContractName": "國巨期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "225.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LYF",
+        "ContractName": "南電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "250.85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "MBF",
+        "ContractName": "敬鵬期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.35"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "MJF",
+        "ContractName": "致茂期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "772.99"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "MKF",
+        "ContractName": "美律期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "107.6"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "MQF",
+        "ContractName": "矽格期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "95.01"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "MVF",
+        "ContractName": "百和期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "53.9"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "MYF",
+        "ContractName": "精華期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "125.19"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NAF",
+        "ContractName": "穩懋期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "116.45"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NBF",
+        "ContractName": "璟德期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "107.21"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NDF",
+        "ContractName": "威剛期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "192.15"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NEF",
+        "ContractName": "欣銓期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "87.25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NGF",
+        "ContractName": "碩禾期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "65.73"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NI1",
+        "ContractName": "晟德期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.56"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NIF",
+        "ContractName": "晟德期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.56"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NJF",
+        "ContractName": "榮剛期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "31.07"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NLF",
+        "ContractName": "世界期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "88.25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NMF",
+        "ContractName": "中光電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "83.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NOF",
+        "ContractName": "中美晶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "97.24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NQF",
+        "ContractName": "新普期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "341.83"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NSF",
+        "ContractName": "頎邦期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "51.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NUF",
+        "ContractName": "網家期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "28.76"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NVF",
+        "ContractName": "元太期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "169.17"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NWF",
+        "ContractName": "群聯期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1125.36"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NYF",
+        "ContractName": "元大台灣50ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "59.97"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OAF",
+        "ContractName": "富邦上証ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "38.12"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OBF",
+        "ContractName": "元大上證50ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.76"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "ODF",
+        "ContractName": "為升期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "95.64"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OEF",
+        "ContractName": "彩晶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "6.95"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OHF",
+        "ContractName": "胡連期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "123.36"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OJF",
+        "ContractName": "國泰中國A50ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OKF",
+        "ContractName": "富邦深100ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "14.54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OLF",
+        "ContractName": "小型大立光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "2072.31"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OMF",
+        "ContractName": "小型精華期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "125.19"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OOF",
+        "ContractName": "群益深証中小ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "15.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OPF",
+        "ContractName": "智邦期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "918.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OQF",
+        "ContractName": "樺漢期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "287.3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "ORF",
+        "ContractName": "和大期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "56.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OSF",
+        "ContractName": "榮成期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "10"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OTF",
+        "ContractName": "聯亞期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "404.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OUF",
+        "ContractName": "同致期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "64.02"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OVF",
+        "ContractName": "台燿期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "386.74"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OWF",
+        "ContractName": "環球晶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "350.38"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OXF",
+        "ContractName": "精測期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1506.12"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OYF",
+        "ContractName": "小型精測期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1506.12"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OZF",
+        "ContractName": "日月光投控期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "207.11"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PAF",
+        "ContractName": "原相期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "200.26"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PBF",
+        "ContractName": "小型環球晶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "350.38"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PCF",
+        "ContractName": "智擎期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "70.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PDF",
+        "ContractName": "泰博期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "121.2"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PEF",
+        "ContractName": "台半期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "53.28"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PFF",
+        "ContractName": "元大高股息ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "34.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PGF",
+        "ContractName": "台灣高鐵期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PHF",
+        "ContractName": "祥碩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1201.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PIF",
+        "ContractName": "力旺期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1999.59"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PJF",
+        "ContractName": "台光電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1328.99"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PKF",
+        "ContractName": "信昌電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "67.09"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PLF",
+        "ContractName": "合晶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PMF",
+        "ContractName": "大江期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "114.97"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PNF",
+        "ContractName": "小型祥碩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1201.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PPF",
+        "ContractName": "宣德期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "41.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PQF",
+        "ContractName": "金居期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "211.79"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PRF",
+        "ContractName": "宏捷科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "103.45"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PSF",
+        "ContractName": "神達期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "86.26"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PTF",
+        "ContractName": "雙鴻期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "926.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PUF",
+        "ContractName": "小型聯發科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1159.61"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PVF",
+        "ContractName": "緯穎期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "4141.63"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PWF",
+        "ContractName": "小型緯穎期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "4141.63"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PXF",
+        "ContractName": "鈊象期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "738.05"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PYF",
+        "ContractName": "小型鈊象期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "738.05"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "PZF",
+        "ContractName": "信驊期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "6263.2"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QAF",
+        "ContractName": "小型信驊期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "6263.2"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QBF",
+        "ContractName": "富采期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "31.28"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QCF",
+        "ContractName": "裕民期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "54.89"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QDF",
+        "ContractName": "台勝科期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "86.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QEF",
+        "ContractName": "小型國巨期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "225.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QFF",
+        "ContractName": "小型台積電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1400.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QGF",
+        "ContractName": "小型瑞昱期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "489.68"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QHF",
+        "ContractName": "小型聯詠期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "388.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QJF",
+        "ContractName": "小型玉晶光期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "447.17"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QKF",
+        "ContractName": "永豐餘期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QLF",
+        "ContractName": "精材期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "131.89"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QMF",
+        "ContractName": "小型上銀期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "187.53"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QNF",
+        "ContractName": "小型群聯期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1125.36"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QOF",
+        "ContractName": "長興期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "38.93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QPF",
+        "ContractName": "正隆期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "17.78"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QQF",
+        "ContractName": "僑威期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "69.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QRF",
+        "ContractName": "小型華碩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "567.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QSF",
+        "ContractName": "小型南電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "250.85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QTF",
+        "ContractName": "超豐期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "72.54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QUF",
+        "ContractName": "南茂期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "47.01"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QVF",
+        "ContractName": "光罩期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "33.67"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QWF",
+        "ContractName": "威盛期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "48.35"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QXF",
+        "ContractName": "萬海期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "82.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QYF",
+        "ContractName": "高端疫苗期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QZF",
+        "ContractName": "力積電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RAF",
+        "ContractName": "奇鋐期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1339.66"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RBF",
+        "ContractName": "中磊期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "79.44"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RCF",
+        "ContractName": "漢翔期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "47.25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RDF",
+        "ContractName": "中天期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "19.27"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "REF",
+        "ContractName": "新唐期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "50.17"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RFF",
+        "ContractName": "小型嘉澤期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1175.89"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RGF",
+        "ContractName": "小型健策期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "2441.85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RIF",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "20.26"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RJF",
+        "ContractName": "大亞期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "37.42"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RKF",
+        "ContractName": "金像電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "519.21"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RLF",
+        "ContractName": "元晶期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "12.81"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RNF",
+        "ContractName": "合一期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "58.68"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "ROF",
+        "ContractName": "立端期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "69.3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RPF",
+        "ContractName": "寶雅期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "436.18"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RRF",
+        "ContractName": "小型寶雅期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "436.18"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RSF",
+        "ContractName": "小型力旺期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1999.59"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RUF",
+        "ContractName": "世紀鋼期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "129.88"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RVF",
+        "ContractName": "小型台達電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "894.54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RWF",
+        "ContractName": "小型創意期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1909.64"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RXF",
+        "ContractName": "富邦越南ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "16.39"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RYF",
+        "ContractName": "群益台ESG低碳50ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "23.86"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "RZF",
+        "ContractName": "元大美債20年ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.55"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SAF",
+        "ContractName": "美時期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "281.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SBF",
+        "ContractName": "華紙期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "11.61"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SCF",
+        "ContractName": "小型聚陽期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "312.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SDF",
+        "ContractName": "中興電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "148.89"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SEF",
+        "ContractName": "小型智邦期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "918.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SFF",
+        "ContractName": "小型台光電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1328.99"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SGF",
+        "ContractName": "國泰智能電動車ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "30.99"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SIF",
+        "ContractName": "元大美債1-3ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "30.77"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SJF",
+        "ContractName": "神基期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "123.47"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SKF",
+        "ContractName": "至上期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "71.49"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SLF",
+        "ContractName": "小型技嘉期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "241.3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SMF",
+        "ContractName": "群益台灣精選高息ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "21.17"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SNF",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "17.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SQF",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "33.93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SRF",
+        "ContractName": "小型元大台灣50ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "59.97"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SSF",
+        "ContractName": "小型元大高股息ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "34.7"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SUF",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "9.06"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SVF",
+        "ContractName": "小型川湖期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "3601.79"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SWF",
+        "ContractName": "小型世紀鋼期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "129.88"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SYF",
+        "ContractName": "家登期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "331.07"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SZF",
+        "ContractName": "小型家登期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "331.07"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UAF",
+        "ContractName": "士電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "162.81"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UBF",
+        "ContractName": "亞翔期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "427.64"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UCF",
+        "ContractName": "廣明期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "96.46"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UEF",
+        "ContractName": "上海商銀期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "39.25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UFF",
+        "ContractName": "台塑化期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "53.51"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UGF",
+        "ContractName": "達發期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "435.66"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UHF",
+        "ContractName": "小型奇鋐期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1339.66"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UIF",
+        "ContractName": "小型達發期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "435.66"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UJF",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "14.91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UKF",
+        "ContractName": "國泰20年美債ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "28.6"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "ULF",
+        "ContractName": "小型雙鴻期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "926.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UMF",
+        "ContractName": "世芯-KY期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "3313.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UOF",
+        "ContractName": "小型世芯-KY期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "3313.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UPF",
+        "ContractName": "保瑞期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "512.1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UQF",
+        "ContractName": "小型保瑞期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "512.1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "URF",
+        "ContractName": "統一FANG+ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "118.19"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "USF",
+        "ContractName": "小型統一FANG+ETF期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "118.19"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UTF",
+        "ContractName": "一詮期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "98.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UUF",
+        "ContractName": "台灣虎航期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "67.04"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UVF",
+        "ContractName": "旺矽期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1771.48"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UWF",
+        "ContractName": "小型旺矽期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1771.48"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UXF",
+        "ContractName": "華泰期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "47.85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UYF",
+        "ContractName": "良維期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "172.32"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "UZF",
+        "ContractName": "小型漢唐期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "774.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "VAF",
+        "ContractName": "華榮期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "34.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "VBF",
+        "ContractName": "燿華期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "23.21"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "VCF",
+        "ContractName": "建準期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "177.61"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "VDF",
+        "ContractName": "小型致茂期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "772.99"
+      }
+    ]
+  }
+}

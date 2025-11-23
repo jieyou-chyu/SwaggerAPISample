@@ -1,0 +1,59 @@
+{
+  "path": "/tpex_trading_warning_note",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公布注意累計次數異常資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_trading_warning_note",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:21 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:17 GMT",
+      "ETag": "W/\"6921d709-20b\"",
+      "Content-Disposition": "attachment;filename=tpex_trading_warning_note.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48beaae28415-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3710",
+        "CompanyName": "連展投控",
+        "AccumulationSituation": "114年11月20日至114年11月21日連續二次"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5355",
+        "CompanyName": "佳總",
+        "AccumulationSituation": "114年11月20日至114年11月21日連續二次"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "AccumulationSituation": "114年11月20日至114年11月21日連續二次114年11月11日至114年11月21日等九個營業日已有五次"
+      }
+    ]
+  }
+}

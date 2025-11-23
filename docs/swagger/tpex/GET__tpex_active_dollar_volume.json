@@ -1,0 +1,251 @@
+{
+  "path": "/tpex_active_dollar_volume",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃盤中個股成交金額排行",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_active_dollar_volume",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:36 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:43 GMT",
+      "ETag": "W/\"6921d723-102b\"",
+      "Content-Disposition": "attachment;filename=tpex_active_dollar_volume.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d491fbe770738-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        "NumberOfThousandSharesTraded": "116260",
+        "TradeAmount": "9595344"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3081",
+        "CompanyName": "聯亞",
+        "NumberOfThousandSharesTraded": "2160",
+        "TradeAmount": "900878"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        "NumberOfThousandSharesTraded": "7019",
+        "TradeAmount": "784272"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3131",
+        "CompanyName": "弘塑",
+        "NumberOfThousandSharesTraded": "550",
+        "TradeAmount": "741030"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3163",
+        "CompanyName": "波若威",
+        "NumberOfThousandSharesTraded": "5961",
+        "TradeAmount": "1335990"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3260",
+        "CompanyName": "威剛",
+        "NumberOfThousandSharesTraded": "17313",
+        "TradeAmount": "3019757"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3264",
+        "CompanyName": "欣銓",
+        "NumberOfThousandSharesTraded": "9813",
+        "TradeAmount": "855858"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        "NumberOfThousandSharesTraded": "5874",
+        "TradeAmount": "4460271"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        "NumberOfThousandSharesTraded": "5106",
+        "TradeAmount": "4492965"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3357",
+        "CompanyName": "臺慶科",
+        "NumberOfThousandSharesTraded": "4408",
+        "TradeAmount": "704196"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3363",
+        "CompanyName": "上詮",
+        "NumberOfThousandSharesTraded": "3012",
+        "TradeAmount": "1015739"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        "NumberOfThousandSharesTraded": "1321",
+        "TradeAmount": "2501845"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "NumberOfThousandSharesTraded": "28598",
+        "TradeAmount": "1489477"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4749",
+        "CompanyName": "新應材",
+        "NumberOfThousandSharesTraded": "1014",
+        "TradeAmount": "753189"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "4979",
+        "CompanyName": "華星光",
+        "NumberOfThousandSharesTraded": "8554",
+        "TradeAmount": "1640686"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5274",
+        "CompanyName": "信驊",
+        "NumberOfThousandSharesTraded": "744",
+        "TradeAmount": "4497535"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        "NumberOfThousandSharesTraded": "4427",
+        "TradeAmount": "2174448"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        "NumberOfThousandSharesTraded": "11222",
+        "TradeAmount": "1047164"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5425",
+        "CompanyName": "台半",
+        "NumberOfThousandSharesTraded": "15655",
+        "TradeAmount": "912226"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "5439",
+        "CompanyName": "高技",
+        "NumberOfThousandSharesTraded": "5958",
+        "TradeAmount": "1794179"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6163",
+        "CompanyName": "華電網",
+        "NumberOfThousandSharesTraded": "27504",
+        "TradeAmount": "925549"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        "NumberOfThousandSharesTraded": "66206",
+        "TradeAmount": "4638669"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6223",
+        "CompanyName": "旺矽",
+        "NumberOfThousandSharesTraded": "1487",
+        "TradeAmount": "2718265"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        "NumberOfThousandSharesTraded": "15496",
+        "TradeAmount": "6119175"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "6510",
+        "CompanyName": "精測",
+        "NumberOfThousandSharesTraded": "596",
+        "TradeAmount": "893100"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "NumberOfThousandSharesTraded": "27645",
+        "TradeAmount": "1369995"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "NumberOfThousandSharesTraded": "46594",
+        "TradeAmount": "3629250"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        "NumberOfThousandSharesTraded": "29790",
+        "TradeAmount": "5799149"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        "NumberOfThousandSharesTraded": "1649",
+        "TradeAmount": "1756185"
+      },
+      {
+        "Date": "20251121",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        "NumberOfThousandSharesTraded": "69343",
+        "TradeAmount": "15899220"
+      }
+    ]
+  }
+}

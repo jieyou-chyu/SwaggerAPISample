@@ -1,0 +1,602 @@
+{
+  "path": "/SSFRefferedOpeningPrice",
+  "method": "GET",
+  "operationId": null,
+  "summary": "股票期貨/選擇權調整開盤參考價",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SSFRefferedOpeningPrice",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:14 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "11235",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:34 GMT",
+      "ETag": "\"2be3-644369e40fa6e\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SSFRefferedOpeningPrice.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d4b82dbcf4a86-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "元大高股息ETF期貨",
+        "TickerSymbol": "PFF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "36.88"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "元大高股息ETF期貨",
+        "TickerSymbol": "PFF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "36.89"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "元大高股息ETF期貨",
+        "TickerSymbol": "PFF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "36.88"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "元大高股息ETF期貨",
+        "TickerSymbol": "PFF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "36.88"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "元大高股息ETF期貨",
+        "TickerSymbol": "PFF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "36.8"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "小型元大高股息ETF期貨",
+        "TickerSymbol": "SSF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "36.88"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "小型元大高股息ETF期貨",
+        "TickerSymbol": "SSF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "36.89"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "小型元大高股息ETF期貨",
+        "TickerSymbol": "SSF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "36.88"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "小型元大高股息ETF期貨",
+        "TickerSymbol": "SSF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "36.88"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "0056",
+        "ContractName": "小型元大高股息ETF期貨",
+        "TickerSymbol": "SSF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "36.8"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "00719B",
+        "ContractName": "元大美債1-3ETF期貨",
+        "TickerSymbol": "SIF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "30.35"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "00719B",
+        "ContractName": "元大美債1-3ETF期貨",
+        "TickerSymbol": "SIF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "30.4"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "00719B",
+        "ContractName": "元大美債1-3ETF期貨",
+        "TickerSymbol": "SIF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "30.47"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "00719B",
+        "ContractName": "元大美債1-3ETF期貨",
+        "TickerSymbol": "SIF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "30.8"
+      },
+      {
+        "Date": "20251023",
+        "StockCode": "00719B",
+        "ContractName": "元大美債1-3ETF期貨",
+        "TickerSymbol": "SIF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "30.57"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HA1",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HA1",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HA1",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HAF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "15.05"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HAF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HAF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HAF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251027",
+        "StockCode": "2489",
+        "ContractName": "瑞軒期貨",
+        "TickerSymbol": "HAF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "15.1"
+      },
+      {
+        "Date": "20251106",
+        "StockCode": "00940",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "TickerSymbol": "SUF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "9.58"
+      },
+      {
+        "Date": "20251106",
+        "StockCode": "00940",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "TickerSymbol": "SUF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "9.56"
+      },
+      {
+        "Date": "20251106",
+        "StockCode": "00940",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "TickerSymbol": "SUF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "9.59"
+      },
+      {
+        "Date": "20251106",
+        "StockCode": "00940",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "TickerSymbol": "SUF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "9.59"
+      },
+      {
+        "Date": "20251106",
+        "StockCode": "00940",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "TickerSymbol": "SUF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "9.63"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HH1",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "16.3"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HH1",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "16.25"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HH1",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "16.3"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HH1",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "16.25"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HHF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "16.3"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HHF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "16.25"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HHF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "16.3"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HHF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "16.25"
+      },
+      {
+        "Date": "20251110",
+        "StockCode": "2515",
+        "ContractName": "中工期貨",
+        "TickerSymbol": "HHF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "16.3"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IR1",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "179.5"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IR1",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "179.5"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IR1",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "178"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IR1",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "180.5"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IRF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "179.5"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IRF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "179.5"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IRF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "178"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IRF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "180.5"
+      },
+      {
+        "Date": "20251114",
+        "StockCode": "3037",
+        "ContractName": "欣興期貨",
+        "TickerSymbol": "IRF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "179.5"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00772B",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "TickerSymbol": "SQF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "33.8"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00772B",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "TickerSymbol": "SQF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "33.87"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00772B",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "TickerSymbol": "SQF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "34.07"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00772B",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "TickerSymbol": "SQF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "34.17"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00772B",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "TickerSymbol": "SQF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "33.91"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00878",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "TickerSymbol": "RIF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "20.57"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00878",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "TickerSymbol": "RIF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "20.6"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00878",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "TickerSymbol": "RIF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "20.86"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00878",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "TickerSymbol": "RIF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "20.9"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00878",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "TickerSymbol": "RIF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "21"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00937B",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "TickerSymbol": "UJF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "14.87"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00937B",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "TickerSymbol": "UJF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "14.89"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00937B",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "TickerSymbol": "UJF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "14.94"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00937B",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "TickerSymbol": "UJF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "15.02"
+      },
+      {
+        "Date": "20251118",
+        "StockCode": "00937B",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "TickerSymbol": "UJF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "15.15"
+      },
+      {
+        "Date": "20251119",
+        "StockCode": "00929",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "TickerSymbol": "SNF",
+        "DeliveryMonth": "202511",
+        "ReferredOpeningPrice": "17.46"
+      },
+      {
+        "Date": "20251119",
+        "StockCode": "00929",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "TickerSymbol": "SNF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "17.47"
+      },
+      {
+        "Date": "20251119",
+        "StockCode": "00929",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "TickerSymbol": "SNF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "17.45"
+      },
+      {
+        "Date": "20251119",
+        "StockCode": "00929",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "TickerSymbol": "SNF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "17.46"
+      },
+      {
+        "Date": "20251119",
+        "StockCode": "00929",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "TickerSymbol": "SNF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "17.34"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "27.28"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202601",
+        "ReferredOpeningPrice": "27.28"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "27.4"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "27.53"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "27.65"
+      }
+    ]
+  }
+}

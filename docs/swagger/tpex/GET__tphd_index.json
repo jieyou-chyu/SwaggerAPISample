@@ -1,0 +1,116 @@
+{
+  "path": "/tphd_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "高殖利率指數歷史收盤指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tphd_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:06 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:15 GMT",
+      "ETag": "W/\"6921d707-647\"",
+      "Content-Disposition": "attachment;filename=tphd_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4b4ef88fa367-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TPExHighDividendYieldIndex": "261.40",
+        "TPExHighDividendYieldTotalReturnIndex": "457.67"
+      },
+      {
+        "Date": "1141104",
+        "TPExHighDividendYieldIndex": "254.55",
+        "TPExHighDividendYieldTotalReturnIndex": "445.69"
+      },
+      {
+        "Date": "1141105",
+        "TPExHighDividendYieldIndex": "253.45",
+        "TPExHighDividendYieldTotalReturnIndex": "443.76"
+      },
+      {
+        "Date": "1141106",
+        "TPExHighDividendYieldIndex": "255.53",
+        "TPExHighDividendYieldTotalReturnIndex": "447.41"
+      },
+      {
+        "Date": "1141107",
+        "TPExHighDividendYieldIndex": "251.19",
+        "TPExHighDividendYieldTotalReturnIndex": "439.82"
+      },
+      {
+        "Date": "1141110",
+        "TPExHighDividendYieldIndex": "251.52",
+        "TPExHighDividendYieldTotalReturnIndex": "440.41"
+      },
+      {
+        "Date": "1141111",
+        "TPExHighDividendYieldIndex": "251.85",
+        "TPExHighDividendYieldTotalReturnIndex": "440.98"
+      },
+      {
+        "Date": "1141112",
+        "TPExHighDividendYieldIndex": "255.82",
+        "TPExHighDividendYieldTotalReturnIndex": "447.93"
+      },
+      {
+        "Date": "1141113",
+        "TPExHighDividendYieldIndex": "256.29",
+        "TPExHighDividendYieldTotalReturnIndex": "448.75"
+      },
+      {
+        "Date": "1141114",
+        "TPExHighDividendYieldIndex": "250.70",
+        "TPExHighDividendYieldTotalReturnIndex": "438.97"
+      },
+      {
+        "Date": "1141117",
+        "TPExHighDividendYieldIndex": "251.45",
+        "TPExHighDividendYieldTotalReturnIndex": "440.28"
+      },
+      {
+        "Date": "1141118",
+        "TPExHighDividendYieldIndex": "243.08",
+        "TPExHighDividendYieldTotalReturnIndex": "425.62"
+      },
+      {
+        "Date": "1141119",
+        "TPExHighDividendYieldIndex": "238.90",
+        "TPExHighDividendYieldTotalReturnIndex": "418.31"
+      },
+      {
+        "Date": "1141120",
+        "TPExHighDividendYieldIndex": "246.59",
+        "TPExHighDividendYieldTotalReturnIndex": "431.76"
+      },
+      {
+        "Date": "1141121",
+        "TPExHighDividendYieldIndex": "238.33",
+        "TPExHighDividendYieldTotalReturnIndex": "417.31"
+      }
+    ]
+  }
+}

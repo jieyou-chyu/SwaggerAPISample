@@ -1,0 +1,129 @@
+{
+  "path": "/tpex_margin_trading_term",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃融資融券暫停融券賣出預告表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_margin_trading_term",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:30 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:01 GMT",
+      "ETag": "W/\"6921d735-773\"",
+      "Content-Disposition": "attachment;filename=tpex_margin_trading_term.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48f71fe76b69-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "00950B",
+        "CompanyName": "凱基A級公司債",
+        "ShortSaleSuspensionStartDate": "1141127",
+        "ShortSaleSuspensionEndDate": "1141202",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "00958B",
+        "CompanyName": "永豐ESG銀行債15+",
+        "ShortSaleSuspensionStartDate": "1141119",
+        "ShortSaleSuspensionEndDate": "1141124",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "00959B",
+        "CompanyName": "大華投等美債15Y+",
+        "ShortSaleSuspensionStartDate": "1141128",
+        "ShortSaleSuspensionEndDate": "1141203",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "00966B",
+        "CompanyName": "統一ESG投等債15+",
+        "ShortSaleSuspensionStartDate": "1141127",
+        "ShortSaleSuspensionEndDate": "1141202",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        "ShortSaleSuspensionStartDate": "1141121",
+        "ShortSaleSuspensionEndDate": "1141126",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控",
+        "ShortSaleSuspensionStartDate": "1141127",
+        "ShortSaleSuspensionEndDate": "1141202",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2726",
+        "CompanyName": "雅茗-KY",
+        "ShortSaleSuspensionStartDate": "1141120",
+        "ShortSaleSuspensionEndDate": "1141125",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4714",
+        "CompanyName": "永捷",
+        "ShortSaleSuspensionStartDate": "1141127",
+        "ShortSaleSuspensionEndDate": "1141202",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4735",
+        "CompanyName": "豪展",
+        "ShortSaleSuspensionStartDate": "1141126",
+        "ShortSaleSuspensionEndDate": "1141201",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5263",
+        "CompanyName": "智崴",
+        "ShortSaleSuspensionStartDate": "1141119",
+        "ShortSaleSuspensionEndDate": "1141124",
+        "Reason": ""
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6523",
+        "CompanyName": "達爾膚",
+        "ShortSaleSuspensionStartDate": "1141128",
+        "ShortSaleSuspensionEndDate": "1141203",
+        "Reason": ""
+      }
+    ]
+  }
+}

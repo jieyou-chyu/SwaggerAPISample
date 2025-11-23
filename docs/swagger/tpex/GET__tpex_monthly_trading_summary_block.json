@@ -1,0 +1,393 @@
+{
+  "path": "/tpex_monthly_trading_summary_block",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃鉅額交易月成交量值統計",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_monthly_trading_summary_block",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:43 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:49 GMT",
+      "ETag": "W/\"6921d729-1a84\"",
+      "Content-Disposition": "attachment;filename=tpex_monthly_trading_summary_block.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49480d786b69-TPE"
+    },
+    "body": [
+      {
+        "Month": "11401",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "5",
+        "NumberOfSharesTraded": "299000",
+        "MarketShare": "0.00",
+        "TradeValue": "20497350"
+      },
+      {
+        "Month": "11401",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "16",
+        "NumberOfSharesTraded": "3965000",
+        "MarketShare": "0.04",
+        "TradeValue": "577674500"
+      },
+      {
+        "Month": "11401",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11401",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "4",
+        "NumberOfSharesTraded": "28765546",
+        "MarketShare": "0.07",
+        "TradeValue": "1076520092"
+      },
+      {
+        "Month": "11402",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "32",
+        "NumberOfSharesTraded": "1577000",
+        "MarketShare": "0.00",
+        "TradeValue": "77591150"
+      },
+      {
+        "Month": "11402",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "65",
+        "NumberOfSharesTraded": "810056000",
+        "MarketShare": "1.28",
+        "TradeValue": "25585988705"
+      },
+      {
+        "Month": "11402",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11402",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "5560910",
+        "MarketShare": "0.01",
+        "TradeValue": "233492760"
+      },
+      {
+        "Month": "11403",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "22",
+        "NumberOfSharesTraded": "175000",
+        "MarketShare": "0.00",
+        "TradeValue": "95839700"
+      },
+      {
+        "Month": "11403",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "81",
+        "NumberOfSharesTraded": "792767000",
+        "MarketShare": "1.06",
+        "TradeValue": "24034289680"
+      },
+      {
+        "Month": "11403",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11403",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "3500000",
+        "MarketShare": "0.00",
+        "TradeValue": "159400000"
+      },
+      {
+        "Month": "11404",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "42",
+        "NumberOfSharesTraded": "2232396",
+        "MarketShare": "0.01",
+        "TradeValue": "308537503"
+      },
+      {
+        "Month": "11404",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "80",
+        "NumberOfSharesTraded": "308088000",
+        "MarketShare": "0.79",
+        "TradeValue": "12929183150"
+      },
+      {
+        "Month": "11404",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11404",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "3",
+        "NumberOfSharesTraded": "7525533",
+        "MarketShare": "0.00",
+        "TradeValue": "109682139"
+      },
+      {
+        "Month": "11405",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "31",
+        "NumberOfSharesTraded": "1012849",
+        "MarketShare": "0.00",
+        "TradeValue": "141132904"
+      },
+      {
+        "Month": "11405",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "59",
+        "NumberOfSharesTraded": "56052444",
+        "MarketShare": "0.24",
+        "TradeValue": "4440522952"
+      },
+      {
+        "Month": "11405",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11405",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "8",
+        "NumberOfSharesTraded": "3400000",
+        "MarketShare": "0.00",
+        "TradeValue": "147153750"
+      },
+      {
+        "Month": "11406",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "16",
+        "NumberOfSharesTraded": "484270",
+        "MarketShare": "0.00",
+        "TradeValue": "102415950"
+      },
+      {
+        "Month": "11406",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "68",
+        "NumberOfSharesTraded": "485233000",
+        "MarketShare": "0.71",
+        "TradeValue": "14478166394"
+      },
+      {
+        "Month": "11406",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11406",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "4750000",
+        "MarketShare": "0.00",
+        "TradeValue": "110325000"
+      },
+      {
+        "Month": "11407",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "5",
+        "NumberOfSharesTraded": "410000",
+        "MarketShare": "0.00",
+        "TradeValue": "22926500"
+      },
+      {
+        "Month": "11407",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "63",
+        "NumberOfSharesTraded": "46615263",
+        "MarketShare": "0.16",
+        "TradeValue": "3872904915"
+      },
+      {
+        "Month": "11407",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11407",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "1",
+        "NumberOfSharesTraded": "1700474",
+        "MarketShare": "0.00",
+        "TradeValue": "181100481"
+      },
+      {
+        "Month": "11408",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11408",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "72",
+        "NumberOfSharesTraded": "1025260926",
+        "MarketShare": "0.89",
+        "TradeValue": "26625969290"
+      },
+      {
+        "Month": "11408",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11408",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "10",
+        "NumberOfSharesTraded": "13166871",
+        "MarketShare": "0.01",
+        "TradeValue": "495928532"
+      },
+      {
+        "Month": "11409",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "45",
+        "NumberOfSharesTraded": "2061000",
+        "MarketShare": "0.00",
+        "TradeValue": "212791950"
+      },
+      {
+        "Month": "11409",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "115",
+        "NumberOfSharesTraded": "1278582811",
+        "MarketShare": "0.77",
+        "TradeValue": "25727607069"
+      },
+      {
+        "Month": "11409",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11409",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "14",
+        "NumberOfSharesTraded": "24790000",
+        "MarketShare": "0.02",
+        "TradeValue": "704124000"
+      },
+      {
+        "Month": "11410",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11410",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "82",
+        "NumberOfSharesTraded": "991085000",
+        "MarketShare": "0.88",
+        "TradeValue": "23433113387"
+      },
+      {
+        "Month": "11410",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11410",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "7",
+        "NumberOfSharesTraded": "37810000",
+        "MarketShare": "0.04",
+        "TradeValue": "1231505800"
+      },
+      {
+        "Month": "11411",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "275",
+        "NumberOfSharesTraded": "10529240",
+        "MarketShare": "0.01",
+        "TradeValue": "215875171"
+      },
+      {
+        "Month": "11411",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "49",
+        "NumberOfSharesTraded": "901572000",
+        "MarketShare": "0.80",
+        "TradeValue": "15863320004"
+      },
+      {
+        "Month": "11411",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Month": "11411",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "3",
+        "NumberOfSharesTraded": "13000000",
+        "MarketShare": "0.02",
+        "TradeValue": "485600000"
+      }
+    ]
+  }
+}

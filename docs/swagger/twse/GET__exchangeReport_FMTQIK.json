@@ -1,0 +1,151 @@
+{
+  "path": "/exchangeReport/FMTQIK",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場每日市場成交資訊",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/FMTQIK",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:38 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:41 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229a1-802\"",
+      "Content-Disposition": "attachment;filename=FMTQIK.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TradeVolume": "8299689369",
+        "TradeValue": "581496914983",
+        "Transaction": "3801445",
+        "TAIEX": "28334.59",
+        "Change": "101.24"
+      },
+      {
+        "Date": "1141104",
+        "TradeVolume": "8404740088",
+        "TradeValue": "604283395876",
+        "Transaction": "3961004",
+        "TAIEX": "28116.56",
+        "Change": "-218.03"
+      },
+      {
+        "Date": "1141105",
+        "TradeVolume": "8989778518",
+        "TradeValue": "619346788683",
+        "Transaction": "4143624",
+        "TAIEX": "27717.06",
+        "Change": "-399.50"
+      },
+      {
+        "Date": "1141106",
+        "TradeVolume": "7863001986",
+        "TradeValue": "514272235406",
+        "Transaction": "3191145",
+        "TAIEX": "27899.45",
+        "Change": "182.39"
+      },
+      {
+        "Date": "1141107",
+        "TradeVolume": "7878592276",
+        "TradeValue": "486727226387",
+        "Transaction": "3660081",
+        "TAIEX": "27651.41",
+        "Change": "-248.04"
+      },
+      {
+        "Date": "1141110",
+        "TradeVolume": "7491028505",
+        "TradeValue": "504213278890",
+        "Transaction": "3251620",
+        "TAIEX": "27869.51",
+        "Change": "218.10"
+      },
+      {
+        "Date": "1141111",
+        "TradeVolume": "8924063428",
+        "TradeValue": "584494820328",
+        "Transaction": "3913468",
+        "TAIEX": "27784.95",
+        "Change": "-84.56"
+      },
+      {
+        "Date": "1141112",
+        "TradeVolume": "8954069218",
+        "TradeValue": "576091990790",
+        "Transaction": "3816761",
+        "TAIEX": "27947.09",
+        "Change": "162.14"
+      },
+      {
+        "Date": "1141113",
+        "TradeVolume": "10545273898",
+        "TradeValue": "674189961874",
+        "Transaction": "4546715",
+        "TAIEX": "27903.56",
+        "Change": "-43.53"
+      },
+      {
+        "Date": "1141114",
+        "TradeVolume": "9939352945",
+        "TradeValue": "614575227909",
+        "Transaction": "4948433",
+        "TAIEX": "27397.50",
+        "Change": "-506.06"
+      },
+      {
+        "Date": "1141117",
+        "TradeVolume": "8604107358",
+        "TradeValue": "547722102923",
+        "Transaction": "3814397",
+        "TAIEX": "27447.31",
+        "Change": "49.81"
+      },
+      {
+        "Date": "1141118",
+        "TradeVolume": "10450443082",
+        "TradeValue": "672757035089",
+        "Transaction": "5492551",
+        "TAIEX": "26756.12",
+        "Change": "-691.19"
+      },
+      {
+        "Date": "1141119",
+        "TradeVolume": "8069342681",
+        "TradeValue": "516180089038",
+        "Transaction": "3919396",
+        "TAIEX": "26580.12",
+        "Change": "-176.00"
+      },
+      {
+        "Date": "1141120",
+        "TradeVolume": "8497528679",
+        "TradeValue": "592368253864",
+        "Transaction": "3468629",
+        "TAIEX": "27426.36",
+        "Change": "846.24"
+      },
+      {
+        "Date": "1141121",
+        "TradeVolume": "8853582470",
+        "TradeValue": "581860848616",
+        "Transaction": "4474744",
+        "TAIEX": "26434.94",
+        "Change": "-991.42"
+      }
+    ]
+  }
+}

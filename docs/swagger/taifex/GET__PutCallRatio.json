@@ -1,0 +1,232 @@
+{
+  "path": "/PutCallRatio",
+  "method": "GET",
+  "operationId": null,
+  "summary": "臺指選擇權Put/Call比",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/PutCallRatio",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:18 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "3417",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:07 GMT",
+      "ETag": "\"d59-644368e58abd7\"",
+      "Content-Disposition": "attachment; filename=PutCallRatio.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4b9c3d774a9e-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "PutVolume": "666800",
+        "CallVolume": "809218",
+        "PutCallVolumeRatio%": "82.40",
+        "PutOI": "84537",
+        "CallOI": "90661",
+        "PutCallOIRatio%": "93.25"
+      },
+      {
+        "Date": "20251120",
+        "PutVolume": "374014",
+        "CallVolume": "332008",
+        "PutCallVolumeRatio%": "112.65",
+        "PutOI": "130541",
+        "CallOI": "98106",
+        "PutCallOIRatio%": "133.06"
+      },
+      {
+        "Date": "20251119",
+        "PutVolume": "653813",
+        "CallVolume": "638470",
+        "PutCallVolumeRatio%": "102.40",
+        "PutOI": "62362",
+        "CallOI": "60370",
+        "PutCallOIRatio%": "103.30"
+      },
+      {
+        "Date": "20251118",
+        "PutVolume": "493258",
+        "CallVolume": "582025",
+        "PutCallVolumeRatio%": "84.75",
+        "PutOI": "167779",
+        "CallOI": "188273",
+        "PutCallOIRatio%": "89.11"
+      },
+      {
+        "Date": "20251117",
+        "PutVolume": "395041",
+        "CallVolume": "400569",
+        "PutCallVolumeRatio%": "98.62",
+        "PutOI": "161867",
+        "CallOI": "143677",
+        "PutCallOIRatio%": "112.66"
+      },
+      {
+        "Date": "20251114",
+        "PutVolume": "589004",
+        "CallVolume": "669500",
+        "PutCallVolumeRatio%": "87.98",
+        "PutOI": "114577",
+        "CallOI": "110534",
+        "PutCallOIRatio%": "103.66"
+      },
+      {
+        "Date": "20251113",
+        "PutVolume": "308035",
+        "CallVolume": "315429",
+        "PutCallVolumeRatio%": "97.66",
+        "PutOI": "154675",
+        "CallOI": "133801",
+        "PutCallOIRatio%": "115.60"
+      },
+      {
+        "Date": "20251112",
+        "PutVolume": "569831",
+        "CallVolume": "528985",
+        "PutCallVolumeRatio%": "107.72",
+        "PutOI": "102364",
+        "CallOI": "87116",
+        "PutCallOIRatio%": "117.50"
+      },
+      {
+        "Date": "20251111",
+        "PutVolume": "334181",
+        "CallVolume": "370075",
+        "PutCallVolumeRatio%": "90.30",
+        "PutOI": "162467",
+        "CallOI": "156249",
+        "PutCallOIRatio%": "103.98"
+      },
+      {
+        "Date": "20251110",
+        "PutVolume": "348988",
+        "CallVolume": "379351",
+        "PutCallVolumeRatio%": "92.00",
+        "PutOI": "149355",
+        "CallOI": "137596",
+        "PutCallOIRatio%": "108.55"
+      },
+      {
+        "Date": "20251107",
+        "PutVolume": "565995",
+        "CallVolume": "638177",
+        "PutCallVolumeRatio%": "88.69",
+        "PutOI": "103983",
+        "CallOI": "107189",
+        "PutCallOIRatio%": "97.01"
+      },
+      {
+        "Date": "20251106",
+        "PutVolume": "304944",
+        "CallVolume": "270534",
+        "PutCallVolumeRatio%": "112.72",
+        "PutOI": "142349",
+        "CallOI": "123300",
+        "PutCallOIRatio%": "115.45"
+      },
+      {
+        "Date": "20251105",
+        "PutVolume": "724514",
+        "CallVolume": "775009",
+        "PutCallVolumeRatio%": "93.48",
+        "PutOI": "85411",
+        "CallOI": "88458",
+        "PutCallOIRatio%": "96.56"
+      },
+      {
+        "Date": "20251104",
+        "PutVolume": "396395",
+        "CallVolume": "407571",
+        "PutCallVolumeRatio%": "97.26",
+        "PutOI": "150594",
+        "CallOI": "150403",
+        "PutCallOIRatio%": "100.13"
+      },
+      {
+        "Date": "20251103",
+        "PutVolume": "294232",
+        "CallVolume": "311467",
+        "PutCallVolumeRatio%": "94.47",
+        "PutOI": "128666",
+        "CallOI": "120332",
+        "PutCallOIRatio%": "106.93"
+      },
+      {
+        "Date": "20251031",
+        "PutVolume": "478562",
+        "CallVolume": "506953",
+        "PutCallVolumeRatio%": "94.40",
+        "PutOI": "90463",
+        "CallOI": "80331",
+        "PutCallOIRatio%": "112.61"
+      },
+      {
+        "Date": "20251030",
+        "PutVolume": "312482",
+        "CallVolume": "338836",
+        "PutCallVolumeRatio%": "92.22",
+        "PutOI": "120177",
+        "CallOI": "124790",
+        "PutCallOIRatio%": "96.30"
+      },
+      {
+        "Date": "20251029",
+        "PutVolume": "513561",
+        "CallVolume": "466203",
+        "PutCallVolumeRatio%": "110.16",
+        "PutOI": "80644",
+        "CallOI": "74246",
+        "PutCallOIRatio%": "108.62"
+      },
+      {
+        "Date": "20251028",
+        "PutVolume": "251592",
+        "CallVolume": "296896",
+        "PutCallVolumeRatio%": "84.74",
+        "PutOI": "129834",
+        "CallOI": "125223",
+        "PutCallOIRatio%": "103.68"
+      },
+      {
+        "Date": "20251027",
+        "PutVolume": "391200",
+        "CallVolume": "383720",
+        "PutCallVolumeRatio%": "101.95",
+        "PutOI": "96541",
+        "CallOI": "80692",
+        "PutCallOIRatio%": "119.64"
+      },
+      {
+        "Date": "20251023",
+        "PutVolume": "224414",
+        "CallVolume": "242130",
+        "PutCallVolumeRatio%": "92.68",
+        "PutOI": "119972",
+        "CallOI": "110959",
+        "PutCallOIRatio%": "108.12"
+      },
+      {
+        "Date": "20251022",
+        "PutVolume": "612679",
+        "CallVolume": "628054",
+        "PutCallVolumeRatio%": "97.55",
+        "PutOI": "83518",
+        "CallOI": "67289",
+        "PutCallOIRatio%": "124.12"
+      }
+    ]
+  }
+}

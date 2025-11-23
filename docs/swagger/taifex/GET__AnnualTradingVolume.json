@@ -1,0 +1,346 @@
+{
+  "path": "/AnnualTradingVolume",
+  "method": "GET",
+  "operationId": null,
+  "summary": "各商品年成交量統計表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingVolume",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:29 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "5658",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:09 GMT",
+      "ETag": "\"161a-6443695a11185\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AnnualTradingVolume.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d5047aeea8082-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2024",
+        "Contract": "TX",
+        "ContractName": "臺股期貨",
+        "Volume": "38894857",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "160723"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TE",
+        "ContractName": "電子期貨",
+        "Volume": "326140",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "1348"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TF",
+        "ContractName": "金融期貨",
+        "Volume": "199190",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "823"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "MTX",
+        "ContractName": "小型臺指",
+        "Volume": "76030540",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "314176"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "Volume": "14086",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "58"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "GTF",
+        "ContractName": "櫃買期貨",
+        "Volume": "3521",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "15"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XIF",
+        "ContractName": "非金電期貨",
+        "Volume": "28483",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "118"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "Volume": "62376",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "258"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "Volume": "66057655",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "272966"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "Volume": "2088113",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "8629"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "RHF",
+        "ContractName": "美元兌人民幣期貨",
+        "Volume": "4751",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "20"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "RTF",
+        "ContractName": "小型美元兌人民幣期貨",
+        "Volume": "33980",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "140"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TJF",
+        "ContractName": "東證期貨",
+        "Volume": "63242",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "261"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XJF",
+        "ContractName": "美元兌日圓期貨",
+        "Volume": "72151",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "298"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XEF",
+        "ContractName": "歐元兌美元期貨",
+        "Volume": "8076",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "33"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "UDF",
+        "ContractName": "美國道瓊期貨",
+        "Volume": "231594",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "957"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "SPF",
+        "ContractName": "美國標普500期貨",
+        "Volume": "23554",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "97"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XAF",
+        "ContractName": "澳幣兌美元期貨",
+        "Volume": "4283",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "18"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "XBF",
+        "ContractName": "英鎊兌美元期貨",
+        "Volume": "10105",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "42"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "Volume": "28091",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "116"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "G2F",
+        "ContractName": "富櫃200期貨",
+        "Volume": "40809",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "169"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "UNF",
+        "ContractName": "美國那斯達克100期貨",
+        "Volume": "709302",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "2931"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "BTF",
+        "ContractName": "臺灣生技期貨",
+        "Volume": "2230",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "9"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨",
+        "Volume": "23833",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "98"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "F1F",
+        "ContractName": "英國富時100期貨",
+        "Volume": "37705",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "156"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "ZEF",
+        "ContractName": "小型電子期貨",
+        "Volume": "1016592",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "4201"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "ZFF",
+        "ContractName": "小型金融期貨",
+        "Volume": "160364",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "663"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "SHF",
+        "ContractName": "航運期貨",
+        "Volume": "3320",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "14"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "SOF",
+        "ContractName": "半導體30期貨",
+        "Volume": "69415",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "287"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "SXF",
+        "ContractName": "美國費城半導體期貨",
+        "Volume": "135345",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "559"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "MXFFX",
+        "ContractName": "客製化小型臺指期貨",
+        "Volume": "3190",
+        "NumberOfTradingDays": "227",
+        "AvgDailyTradingVolume": "14"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TMF",
+        "ContractName": "微型臺指期貨",
+        "Volume": "15309725",
+        "NumberOfTradingDays": "107",
+        "AvgDailyTradingVolume": "143082"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨",
+        "Volume": "6906",
+        "NumberOfTradingDays": "17",
+        "AvgDailyTradingVolume": "406"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "Volume": "193407488",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "799204"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "STO",
+        "ContractName": "股票選擇權",
+        "Volume": "125100",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "517"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "Volume": "34555",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "143"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "Volume": "115573",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "478"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "Volume": "36805",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "152"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "ETC",
+        "ContractName": "ETF選擇權",
+        "Volume": "48396",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "200"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "path": "/opendata/t187ap43_L",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市認購(售)權證交易人數檔",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap43_L",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:37:01 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "54",
+      "Last-Modified": "Sat, 22 Nov 2025 21:27:04 GMT",
+      "Connection": "keep-alive",
+      "ETag": "\"69222aa8-36\"",
+      "Content-Disposition": "attachment;filename=t187ap43_L.json",
+      "Accept-Ranges": "bytes"
+    },
+    "body": [
+      {
+        "出表日期": "1141112",
+        "日期": "",
+        "人數": ""
+      }
+    ]
+  }
+}

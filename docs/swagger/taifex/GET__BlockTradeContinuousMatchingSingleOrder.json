@@ -1,0 +1,44 @@
+{
+  "path": "/BlockTradeContinuousMatchingSingleOrder",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易逐筆撮合之單式委託成交",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BlockTradeContinuousMatchingSingleOrder",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:18 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "162",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:09 GMT",
+      "ETag": "\"a2-644368e7cbe37\"",
+      "Content-Disposition": "attachment; filename=BlockTradeContinuousMatchingSingleOrder.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4b9f1f350734-TPE"
+    },
+    "body": [
+      {
+        "Date": "20180212",
+        "Contract": "TX",
+        "ContractMonth(Week)": "201802",
+        "StrikePrice": "-",
+        "CallPut": "-",
+        "TradePrice": "10425",
+        "Volume": "606",
+        "TradingSession": "一般"
+      }
+    ]
+  }
+}

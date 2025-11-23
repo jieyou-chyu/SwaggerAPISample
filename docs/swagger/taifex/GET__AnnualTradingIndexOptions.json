@@ -1,0 +1,802 @@
+{
+  "path": "/AnnualTradingIndexOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "商品年成交量統計-股價指數類（指數選擇權）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingIndexOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:55 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "14250",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:41 GMT",
+      "ETag": "\"37aa-644369b22885a\"",
+      "Content-Disposition": "attachment; filename=AnnualTradingIndexOptions.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50e6ca4b56fb-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2001",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "5137",
+        "NumberOfTradingDays": "6",
+        "AvgDailyTradingVolume": "856"
+      },
+      {
+        "YYYY": "2002",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "1566446",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "6316"
+      },
+      {
+        "YYYY": "2003",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "21720083",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "87229"
+      },
+      {
+        "YYYY": "2004",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "43824511",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "175298"
+      },
+      {
+        "YYYY": "2005",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "680026",
+        "NumberOfTradingDays": "194",
+        "AvgDailyTradingVolume": "3505"
+      },
+      {
+        "YYYY": "2005",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "756570",
+        "NumberOfTradingDays": "194",
+        "AvgDailyTradingVolume": "3900"
+      },
+      {
+        "YYYY": "2005",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "80096506",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "324277"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "MSO",
+        "ContractName": "摩臺選",
+        "TotalVolume": "867597",
+        "NumberOfTradingDays": "195",
+        "AvgDailyTradingVolume": "4449"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "773353",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "3118"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "937044",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "3778"
+      },
+      {
+        "YYYY": "2006",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "96929940",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "390847"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "187967",
+        "NumberOfTradingDays": "60",
+        "AvgDailyTradingVolume": "3133"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "MSO",
+        "ContractName": "摩臺選",
+        "TotalVolume": "1634117",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "6616"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "1066141",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "4316"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "1203084",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "4871"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "92585637",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "374841"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "186161",
+        "NumberOfTradingDays": "60",
+        "AvgDailyTradingVolume": "3103"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "839437",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "3371"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "MSO",
+        "ContractName": "摩臺選",
+        "TotalVolume": "1640944",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "6590"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "1068755",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "4292"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "927888",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "3726"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "92757254",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "372519"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "888030",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "3566"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "688481",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "2743"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "MSO",
+        "ContractName": "摩臺選",
+        "TotalVolume": "1116142",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "4447"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "786132",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "3132"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "761886",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "3035"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "72082548",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "287181"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "741908",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "2956"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "123537",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "492"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "MSO",
+        "ContractName": "摩臺選",
+        "TotalVolume": "27048",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "108"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "382747",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "1525"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "797910",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "3179"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "95666916",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "381143"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "118565",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "472"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "36595",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "148"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "MSO",
+        "ContractName": "摩臺選",
+        "TotalVolume": "50",
+        "NumberOfTradingDays": "176",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "187576",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "759"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "352241",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "1426"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "125767624",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "509181"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "46334",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "188"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "109",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "105009",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "420"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "209689",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "839"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "108458103",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "433832"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "801",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "3"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "4",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "113279",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "460"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "245997",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "1000"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "109311515",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "444356"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "979",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "4"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "238646",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "962"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "330969",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "1335"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "151620546",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "611373"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "1111",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "4"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "297571",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "1220"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "379912",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "1557"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "191513144",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "784890"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "337",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "1"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "155433",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "637"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "234487",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "961"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "167342279",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "685829"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "369",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "2"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "6",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "180453",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "734"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "145482",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "591"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "186410859",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "757768"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "163",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "1"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "229985",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "931"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "139980",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "567"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "194438947",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "787202"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "GTO",
+        "ContractName": "櫃買選擇權",
+        "TotalVolume": "8",
+        "NumberOfTradingDays": "171",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "125808",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "520"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "56501",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "233"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "170012273",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "702530"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "XIO",
+        "ContractName": "非金電選擇權",
+        "TotalVolume": "0",
+        "NumberOfTradingDays": "171",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "85870",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "350"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "93262",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "381"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "201733160",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "823401"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "83469",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "342"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "115930",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "475"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "197333257",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "808743"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "131112",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "533"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "145919",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "593"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "200743525",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "816031"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "61963",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "259"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "56311",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "236"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "176273126",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "737544"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TEO",
+        "ContractName": "電子選擇權",
+        "TotalVolume": "34555",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "143"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TFO",
+        "ContractName": "金融選擇權",
+        "TotalVolume": "115573",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "478"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "TotalVolume": "193407488",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "799204"
+      }
+    ]
+  }
+}

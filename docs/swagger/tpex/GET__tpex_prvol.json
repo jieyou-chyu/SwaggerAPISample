@@ -1,0 +1,497 @@
+{
+  "path": "/tpex_prvol",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票等價系統成交分價表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_prvol",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:44 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:32 GMT",
+      "ETag": "W/\"6921d718-1f8b\"",
+      "Content-Disposition": "attachment;filename=tpex_prvol.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49523c446e87-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1264",
+        "CompanyNam": "德麥",
+        "TradingPrice": "289.00",
+        "PriceNote": "＝",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1264",
+        "CompanyNam": "德麥",
+        "TradingPrice": "289.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "3"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "73.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "73.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "5"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "73.60",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "73.70",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "73.80",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.00",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "4"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.10",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "6"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.20",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "8"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.30",
+        "PriceNote": "＊",
+        "NumberOfSharesTraded": "8"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "6"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "7"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.80",
+        "PriceNote": "＃",
+        "NumberOfSharesTraded": "4"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "74.90",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "75.20",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "75.30",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "75.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyNam": "漢田生技",
+        "TradingPrice": "76.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.20",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "16"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.30",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "3"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "12"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.50",
+        "PriceNote": "＃",
+        "NumberOfSharesTraded": "42"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.60",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "16"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.70",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "26"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.80",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "90.90",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.00",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "12"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.10",
+        "PriceNote": "＊",
+        "NumberOfSharesTraded": "13"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.20",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.30",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "7"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "91.80",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "3"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyNam": "生合",
+        "TradingPrice": "92.00",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "5"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1796",
+        "CompanyNam": "金穎生技",
+        "TradingPrice": "46.15",
+        "PriceNote": "＝",
+        "NumberOfSharesTraded": "8"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4205",
+        "CompanyNam": "中華食",
+        "TradingPrice": "82.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "5"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4205",
+        "CompanyNam": "中華食",
+        "TradingPrice": "82.60",
+        "PriceNote": "＃",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4205",
+        "CompanyNam": "中華食",
+        "TradingPrice": "82.80",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4205",
+        "CompanyNam": "中華食",
+        "TradingPrice": "83.40",
+        "PriceNote": "＊",
+        "NumberOfSharesTraded": "3"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyNam": "環泰",
+        "TradingPrice": "19.25",
+        "PriceNote": "＃",
+        "NumberOfSharesTraded": "17"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyNam": "環泰",
+        "TradingPrice": "19.30",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "97"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyNam": "環泰",
+        "TradingPrice": "19.35",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "68"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyNam": "環泰",
+        "TradingPrice": "19.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "44"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyNam": "環泰",
+        "TradingPrice": "19.45",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "41"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyNam": "環泰",
+        "TradingPrice": "19.50",
+        "PriceNote": "＊",
+        "NumberOfSharesTraded": "37"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyNam": "綠茵",
+        "TradingPrice": "72.20",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "4"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyNam": "綠茵",
+        "TradingPrice": "72.30",
+        "PriceNote": "＊",
+        "NumberOfSharesTraded": "3"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyNam": "綠茵",
+        "TradingPrice": "72.40",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyNam": "綠茵",
+        "TradingPrice": "73.50",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "2"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyNam": "綠茵",
+        "TradingPrice": "73.80",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyNam": "綠茵",
+        "TradingPrice": "74.80",
+        "PriceNote": "＃",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyNam": "金利食安",
+        "TradingPrice": "22.80",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "3"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyNam": "金利食安",
+        "TradingPrice": "22.85",
+        "PriceNote": "＊",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyNam": "金利食安",
+        "TradingPrice": "22.90",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyNam": "金利食安",
+        "TradingPrice": "22.95",
+        "PriceNote": "",
+        "NumberOfSharesTraded": "1"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyNam": "金利食安",
+        "TradingPrice": "23.00",
+        "PriceNote": "＃",
+        "NumberOfSharesTraded": "1"
+      }
+    ]
+  }
+}

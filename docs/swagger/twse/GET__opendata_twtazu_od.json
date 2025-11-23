@@ -1,0 +1,53 @@
+{
+  "path": "/opendata/twtazu_od",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場漲跌證券數統計表",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/twtazu_od",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:46 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:24:18 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222a02-13d\"",
+      "Content-Disposition": "attachment;filename=twtazu_od.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "出表日期": "1141121",
+        "類型": "整體市場",
+        "上漲": "2096",
+        "漲停": "4",
+        "下跌": "10101",
+        "跌停": "362",
+        "持平": "305",
+        "未成交": "19389",
+        "無比價": "2785"
+      },
+      {
+        "出表日期": "1141121",
+        "類型": "股票",
+        "上漲": "149",
+        "漲停": "1",
+        "下跌": "829",
+        "跌停": "9",
+        "持平": "69",
+        "未成交": "4",
+        "無比價": "5"
+      }
+    ]
+  }
+}

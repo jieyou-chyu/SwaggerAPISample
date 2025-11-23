@@ -1,0 +1,283 @@
+{
+  "path": "/fund/MI_QFIIS_cat",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場外資及陸資投資類股持股比率表",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/fund/MI_QFIIS_cat",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:33 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:21:36 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222960-1315\"",
+      "Content-Disposition": "attachment;filename=MI_QFIIS_cat.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "IndustryCat": "ETF",
+        "Numbers": "205",
+        "ShareNumber": "164330891412",
+        "ForeignMainlandAreaShare": "1832908290",
+        "Percentage": "1.12"
+      },
+      {
+        "IndustryCat": "水泥工業",
+        "Numbers": "8",
+        "ShareNumber": "14092571612",
+        "ForeignMainlandAreaShare": "2293910860",
+        "Percentage": "16.28"
+      },
+      {
+        "IndustryCat": "食品工業",
+        "Numbers": "25",
+        "ShareNumber": "14138108385",
+        "ForeignMainlandAreaShare": "2682075214",
+        "Percentage": "18.97"
+      },
+      {
+        "IndustryCat": "塑膠工業",
+        "Numbers": "22",
+        "ShareNumber": "31835231713",
+        "ForeignMainlandAreaShare": "7162474784",
+        "Percentage": "22.50"
+      },
+      {
+        "IndustryCat": "紡織纖維",
+        "Numbers": "42",
+        "ShareNumber": "18988493230",
+        "ForeignMainlandAreaShare": "1932322006",
+        "Percentage": "10.18"
+      },
+      {
+        "IndustryCat": "電機機械",
+        "Numbers": "49",
+        "ShareNumber": "12101578669",
+        "ForeignMainlandAreaShare": "1552337570",
+        "Percentage": "12.83"
+      },
+      {
+        "IndustryCat": "電器電纜",
+        "Numbers": "15",
+        "ShareNumber": "8389026419",
+        "ForeignMainlandAreaShare": "880912714",
+        "Percentage": "10.50"
+      },
+      {
+        "IndustryCat": "化學生技醫療",
+        "Numbers": "83",
+        "ShareNumber": "20305084581",
+        "ForeignMainlandAreaShare": "2968897129",
+        "Percentage": "14.62"
+      },
+      {
+        "IndustryCat": "化學工業",
+        "Numbers": "28",
+        "ShareNumber": "10727216265",
+        "ForeignMainlandAreaShare": "1357299429",
+        "Percentage": "12.65"
+      },
+      {
+        "IndustryCat": "生技醫療業",
+        "Numbers": "55",
+        "ShareNumber": "9577868316",
+        "ForeignMainlandAreaShare": "1611597700",
+        "Percentage": "16.83"
+      },
+      {
+        "IndustryCat": "玻璃陶瓷",
+        "Numbers": "5",
+        "ShareNumber": "3840410326",
+        "ForeignMainlandAreaShare": "211538546",
+        "Percentage": "5.51"
+      },
+      {
+        "IndustryCat": "造紙工業",
+        "Numbers": "7",
+        "ShareNumber": "5877335202",
+        "ForeignMainlandAreaShare": "496641219",
+        "Percentage": "8.45"
+      },
+      {
+        "IndustryCat": "鋼鐵工業",
+        "Numbers": "32",
+        "ShareNumber": "30142951296",
+        "ForeignMainlandAreaShare": "3632766710",
+        "Percentage": "12.05"
+      },
+      {
+        "IndustryCat": "橡膠工業",
+        "Numbers": "11",
+        "ShareNumber": "8473538291",
+        "ForeignMainlandAreaShare": "880252655",
+        "Percentage": "10.39"
+      },
+      {
+        "IndustryCat": "汽車工業",
+        "Numbers": "43",
+        "ShareNumber": "9300937921",
+        "ForeignMainlandAreaShare": "1077557968",
+        "Percentage": "11.59"
+      },
+      {
+        "IndustryCat": "電子工業",
+        "Numbers": "449",
+        "ShareNumber": "236463270029",
+        "ForeignMainlandAreaShare": "65866196210",
+        "Percentage": "27.85"
+      },
+      {
+        "IndustryCat": "半導體業",
+        "Numbers": "92",
+        "ShareNumber": "77680230900",
+        "ForeignMainlandAreaShare": "32587303571",
+        "Percentage": "41.95"
+      },
+      {
+        "IndustryCat": "電腦及週邊設備業",
+        "Numbers": "63",
+        "ShareNumber": "37669699790",
+        "ForeignMainlandAreaShare": "8195712489",
+        "Percentage": "21.76"
+      },
+      {
+        "IndustryCat": "光電業",
+        "Numbers": "69",
+        "ShareNumber": "35519291182",
+        "ForeignMainlandAreaShare": "5796629693",
+        "Percentage": "16.32"
+      },
+      {
+        "IndustryCat": "通信網路業",
+        "Numbers": "45",
+        "ShareNumber": "23905401590",
+        "ForeignMainlandAreaShare": "3882539622",
+        "Percentage": "16.24"
+      },
+      {
+        "IndustryCat": "電子零組件業",
+        "Numbers": "102",
+        "ShareNumber": "28665779266",
+        "ForeignMainlandAreaShare": "7088687667",
+        "Percentage": "24.73"
+      },
+      {
+        "IndustryCat": "電子通路業",
+        "Numbers": "22",
+        "ShareNumber": "8862016472",
+        "ForeignMainlandAreaShare": "1497029979",
+        "Percentage": "16.89"
+      },
+      {
+        "IndustryCat": "資訊服務業",
+        "Numbers": "11",
+        "ShareNumber": "1443964583",
+        "ForeignMainlandAreaShare": "89623525",
+        "Percentage": "6.21"
+      },
+      {
+        "IndustryCat": "其他電子業",
+        "Numbers": "45",
+        "ShareNumber": "22716886246",
+        "ForeignMainlandAreaShare": "6728669664",
+        "Percentage": "29.62"
+      },
+      {
+        "IndustryCat": "建材營造",
+        "Numbers": "55",
+        "ShareNumber": "29006348904",
+        "ForeignMainlandAreaShare": "3666754491",
+        "Percentage": "12.64"
+      },
+      {
+        "IndustryCat": "航運業",
+        "Numbers": "27",
+        "ShareNumber": "37176665578",
+        "ForeignMainlandAreaShare": "5407642507",
+        "Percentage": "14.55"
+      },
+      {
+        "IndustryCat": "觀光餐旅",
+        "Numbers": "18",
+        "ShareNumber": "3005707690",
+        "ForeignMainlandAreaShare": "280154380",
+        "Percentage": "9.32"
+      },
+      {
+        "IndustryCat": "金融保險",
+        "Numbers": "49",
+        "ShareNumber": "268051512382",
+        "ForeignMainlandAreaShare": "56639918953",
+        "Percentage": "21.13"
+      },
+      {
+        "IndustryCat": "貿易百貨",
+        "Numbers": "19",
+        "ShareNumber": "8103363972",
+        "ForeignMainlandAreaShare": "894874960",
+        "Percentage": "11.04"
+      },
+      {
+        "IndustryCat": "油電燃氣業",
+        "Numbers": "8",
+        "ShareNumber": "11699335310",
+        "ForeignMainlandAreaShare": "665887547",
+        "Percentage": "5.69"
+      },
+      {
+        "IndustryCat": "存託憑證",
+        "Numbers": "10",
+        "ShareNumber": "2492456976",
+        "ForeignMainlandAreaShare": "23155919",
+        "Percentage": "0.93"
+      },
+      {
+        "IndustryCat": "綠能環保",
+        "Numbers": "24",
+        "ShareNumber": "3596558894",
+        "ForeignMainlandAreaShare": "274766114",
+        "Percentage": "7.64"
+      },
+      {
+        "IndustryCat": "數位雲端",
+        "Numbers": "10",
+        "ShareNumber": "703394636",
+        "ForeignMainlandAreaShare": "97483159",
+        "Percentage": "13.86"
+      },
+      {
+        "IndustryCat": "運動休閒",
+        "Numbers": "18",
+        "ShareNumber": "6715027572",
+        "ForeignMainlandAreaShare": "2308464533",
+        "Percentage": "34.38"
+      },
+      {
+        "IndustryCat": "居家生活",
+        "Numbers": "11",
+        "ShareNumber": "1827530995",
+        "ForeignMainlandAreaShare": "424589632",
+        "Percentage": "23.23"
+      },
+      {
+        "IndustryCat": "其他",
+        "Numbers": "56",
+        "ShareNumber": "16962156076",
+        "ForeignMainlandAreaShare": "2537927172",
+        "Percentage": "14.96"
+      }
+    ]
+  }
+}

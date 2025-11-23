@@ -1,0 +1,124 @@
+{
+  "path": "/NetIncomeRankingF",
+  "method": "GET",
+  "operationId": null,
+  "summary": "專營期貨商稅前損益排序表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/NetIncomeRankingF",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:41 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1427",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:49 GMT",
+      "ETag": "\"593-6443698054310\"",
+      "Content-Disposition": "attachment; filename=NetIncomeRankingF.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d508f8e288082-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F039",
+        "FCMName": "大昌期貨",
+        "NetIncomeThisMonth": "1669705"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F040",
+        "FCMName": "台新期貨",
+        "NetIncomeThisMonth": "4877402"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F030",
+        "FCMName": "兆豐期貨",
+        "NetIncomeThisMonth": "6763433"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F014",
+        "FCMName": "華南期貨",
+        "NetIncomeThisMonth": "9320370"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F018",
+        "FCMName": "元富期貨",
+        "NetIncomeThisMonth": "10142080"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F005",
+        "FCMName": "國票期貨",
+        "NetIncomeThisMonth": "12777546"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F029",
+        "FCMName": "康和期貨",
+        "NetIncomeThisMonth": "17475570"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F001",
+        "FCMName": "國泰期貨",
+        "NetIncomeThisMonth": "25165208"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F026",
+        "FCMName": "富邦期貨",
+        "NetIncomeThisMonth": "46277827"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F008",
+        "FCMName": "統一期貨",
+        "NetIncomeThisMonth": "58078346"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F034",
+        "FCMName": "澳帝華期貨",
+        "NetIncomeThisMonth": "65605952"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F002",
+        "FCMName": "永豐期貨",
+        "NetIncomeThisMonth": "75461435"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F004",
+        "FCMName": "凱基期貨",
+        "NetIncomeThisMonth": "106134391"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F020",
+        "FCMName": "群益期貨",
+        "NetIncomeThisMonth": "182183703"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F021",
+        "FCMName": "元大期貨",
+        "NetIncomeThisMonth": "343091278"
+      }
+    ]
+  }
+}

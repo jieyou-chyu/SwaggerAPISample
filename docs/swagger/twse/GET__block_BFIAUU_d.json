@@ -1,0 +1,511 @@
+{
+  "path": "/block/BFIAUU_d",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場鉅額交易日成交量值統計",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/block/BFIAUU_d",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:41 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:23:21 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229c9-1caf\"",
+      "Content-Disposition": "attachment;filename=BFIAUU_d.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "2508713",
+        "MarketSharePer": "0.07",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141103",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141103",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "8612000",
+        "MarketSharePer": "0.38",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141103",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141104",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141104",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141104",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "10967000",
+        "MarketSharePer": "0.41",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141104",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141105",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141105",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141105",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "3585000",
+        "MarketSharePer": "0.36",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141105",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141106",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141106",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141106",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "6168000",
+        "MarketSharePer": "0.42",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141106",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141107",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141107",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141107",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "7252000",
+        "MarketSharePer": "0.66",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141107",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141110",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "2450000",
+        "MarketSharePer": "0.07",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141110",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141110",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "6259000",
+        "MarketSharePer": "0.40",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141110",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141111",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141111",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141111",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "12779523",
+        "MarketSharePer": "0.52",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141111",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "2762600",
+        "MarketSharePer": "0.01",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141112",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141112",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141112",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "12376000",
+        "MarketSharePer": "0.59",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141112",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "4559635",
+        "MarketSharePer": "0.05",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141113",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141113",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141113",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "6787000",
+        "MarketSharePer": "0.50",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141113",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141114",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141114",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141114",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "13749000",
+        "MarketSharePer": "0.43",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141114",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141117",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141117",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141117",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "18491606",
+        "MarketSharePer": "2.33",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141117",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141118",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "30197303",
+        "MarketSharePer": "0.05",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141118",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141118",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "13398000",
+        "MarketSharePer": "0.88",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141118",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141119",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141119",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141119",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "14492000",
+        "MarketSharePer": "1.81",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141119",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "2143000",
+        "MarketSharePer": "0.01",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141120",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "500000",
+        "MarketSharePer": "0.00",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141120",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141120",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "4043734",
+        "MarketSharePer": "0.46",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141120",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "6856000",
+        "MarketSharePer": "0.02",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141121",
+        "Class": "逐筆交易",
+        "Type": "單一證券",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141121",
+        "Class": "逐筆交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141121",
+        "Class": "配對交易",
+        "Type": "單一證券",
+        "TradeVolume": "13740000",
+        "MarketSharePer": "0.76",
+        "TradeValue": ""
+      },
+      {
+        "Date": "1141121",
+        "Class": "配對交易",
+        "Type": "股票組合",
+        "TradeVolume": "",
+        "MarketSharePer": "",
+        "TradeValue": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "path": "/va01",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日股價指數類選擇權未平倉量增減",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va01",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:01 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "123",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:04 GMT",
+      "ETag": "\"7b-644369c7446d5\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=va01.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d510e9bf84a36-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "OpenInterest": "179311",
+        "PreviousDay": "20251120",
+        "PreviousDayOpenInterest": "232680",
+        "Change": "-53369"
+      }
+    ]
+  }
+}

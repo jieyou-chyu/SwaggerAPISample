@@ -1,0 +1,70 @@
+{
+  "path": "/eTradeQty",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每月市場電子式交易下單統計（網路與DMA下單）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/eTradeQty",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:58 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "369",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:51 GMT",
+      "ETag": "\"171-644369bbbee95\"",
+      "Content-Disposition": "attachment; filename=eTradeQty.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50f82d6756fb-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202501",
+        "Volume": "36139145"
+      },
+      {
+        "YYYYMM": "202502",
+        "Volume": "37268407"
+      },
+      {
+        "YYYYMM": "202503",
+        "Volume": "53122891"
+      },
+      {
+        "YYYYMM": "202504",
+        "Volume": "55738095"
+      },
+      {
+        "YYYYMM": "202505",
+        "Volume": "43292479"
+      },
+      {
+        "YYYYMM": "202506",
+        "Volume": "42686757"
+      },
+      {
+        "YYYYMM": "202507",
+        "Volume": "44800690"
+      },
+      {
+        "YYYYMM": "202508",
+        "Volume": "47610846"
+      },
+      {
+        "YYYYMM": "202509",
+        "Volume": "57664075"
+      }
+    ]
+  }
+}

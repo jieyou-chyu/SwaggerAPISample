@@ -1,0 +1,237 @@
+{
+  "path": "/tpex_trading_volume_ratio",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃歷史類股成交價量比重",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_trading_volume_ratio",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:40 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:47 GMT",
+      "ETag": "W/\"6921d727-dc8\"",
+      "Content-Disposition": "attachment;filename=tpex_trading_volume_ratio.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d493a98016a96-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Sector": "光電業",
+        "TradeAmount": "7544468549",
+        "TradeWeight": "6.5",
+        " NumberOfSharesTraded": "64054578"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "其他",
+        "TradeAmount": "1575753923",
+        "TradeWeight": "2.16",
+        " NumberOfSharesTraded": "21328853"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "其他電子業",
+        "TradeAmount": "8267434178",
+        "TradeWeight": "3.53",
+        " NumberOfSharesTraded": "34753480"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "化學工業",
+        "TradeAmount": "736733000",
+        "TradeWeight": "0.63",
+        " NumberOfSharesTraded": "6217962"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "半導體業",
+        "TradeAmount": "28237126414",
+        "TradeWeight": "14.84",
+        " NumberOfSharesTraded": "146286717"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "塑膠工業",
+        "TradeAmount": "158249001",
+        "TradeWeight": "0.25",
+        " NumberOfSharesTraded": "2490056"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "居家生活",
+        "TradeAmount": "209075809",
+        "TradeWeight": "0.16",
+        " NumberOfSharesTraded": "1549210"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "建材營造",
+        "TradeAmount": "144645246",
+        "TradeWeight": "0.47",
+        " NumberOfSharesTraded": "4588404"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "數位雲端",
+        "TradeAmount": "256102699",
+        "TradeWeight": "0.41",
+        " NumberOfSharesTraded": "4039441"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "文化創意業",
+        "TradeAmount": "4849819393",
+        "TradeWeight": "0.96",
+        " NumberOfSharesTraded": "9440100"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "油電燃氣業",
+        "TradeAmount": "63459727",
+        "TradeWeight": "0.26",
+        " NumberOfSharesTraded": "2591040"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "生技醫療",
+        "TradeAmount": "1188192506",
+        "TradeWeight": "2.61",
+        " NumberOfSharesTraded": "25752152"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "紡織纖維",
+        "TradeAmount": "43520473",
+        "TradeWeight": "0.09",
+        " NumberOfSharesTraded": "863179"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "綠能環保",
+        "TradeAmount": "510064311",
+        "TradeWeight": "0.66",
+        " NumberOfSharesTraded": "6489537"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "航運業",
+        "TradeAmount": "152616226",
+        "TradeWeight": "0.75",
+        " NumberOfSharesTraded": "7372680"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "觀光餐旅",
+        "TradeAmount": "123493977",
+        "TradeWeight": "0.34",
+        " NumberOfSharesTraded": "3345910"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "資訊服務業",
+        "TradeAmount": "399711123",
+        "TradeWeight": "0.58",
+        " NumberOfSharesTraded": "5737071"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "農業科技",
+        "TradeAmount": "5114369",
+        "TradeWeight": "0.02",
+        " NumberOfSharesTraded": "197848"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "通信網路業",
+        "TradeAmount": "8175478211",
+        "TradeWeight": "8.25",
+        " NumberOfSharesTraded": "81333753"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "運動休閒",
+        "TradeAmount": "17192789",
+        "TradeWeight": "0.06",
+        " NumberOfSharesTraded": "562320"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "金融業",
+        "TradeAmount": "65526395",
+        "TradeWeight": "0.29",
+        " NumberOfSharesTraded": "2860436"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "鋼鐵工業",
+        "TradeAmount": "86821803",
+        "TradeWeight": "0.29",
+        " NumberOfSharesTraded": "2898359"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "電器電纜",
+        "TradeAmount": "2468508",
+        "TradeWeight": "0.01",
+        " NumberOfSharesTraded": "144751"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "電子通路業",
+        "TradeAmount": "336012626",
+        "TradeWeight": "1",
+        " NumberOfSharesTraded": "9873742"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "電子零組件業",
+        "TradeAmount": "51072604401",
+        "TradeWeight": "50.11",
+        " NumberOfSharesTraded": "493814334"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "電機機械",
+        "TradeAmount": "590653390",
+        "TradeWeight": "1.33",
+        " NumberOfSharesTraded": "13096942"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "電腦及週邊設備業",
+        "TradeAmount": "5047507038",
+        "TradeWeight": "3.37",
+        " NumberOfSharesTraded": "33255840"
+      },
+      {
+        "Date": "1141121",
+        "Sector": "食品工業",
+        "TradeAmount": "31513943",
+        "TradeWeight": "0.06",
+        " NumberOfSharesTraded": "593889"
+      }
+    ]
+  }
+}

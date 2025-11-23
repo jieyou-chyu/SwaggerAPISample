@@ -1,0 +1,58 @@
+{
+  "path": "/tpex_esb_highlight",
+  "method": "GET",
+  "operationId": null,
+  "summary": "興櫃股票市場現況",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_esb_highlight",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:06 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:17 GMT",
+      "ETag": "W/\"6921d709-1d9\"",
+      "Content-Disposition": "attachment;filename=tpex_esb_highlight.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4b517c1f826b-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "RegisteredStocksNumber": "357",
+        "TotalPaidinCapital": "240447",
+        "TotalMarketValue": "1433039",
+        "TransactionAmount": "6804",
+        "TradingShares": "36090",
+        "TransactionNumber": "29442",
+        "RecommendingDealersNumber": "25",
+        "RecommendedPositions": "1162",
+        "RecommendationsPerRecommendingDealerAverageNumber": "46.48",
+        "RecommendingDealersPerStockAverageNumber": "3.25",
+        "IncreaseNumber": "86",
+        "DecreaseNumber": "242",
+        "UnchangedNumber": "8",
+        "IncompleteNumberIncludingSuspended": "21"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5865 @@
+{
+  "path": "/tpex_trading_amount_avg",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃歷史個股日均值排行",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_trading_amount_avg",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:40 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:46 GMT",
+      "ETag": "W/\"6921d726-169b0\"",
+      "Content-Disposition": "attachment;filename=tpex_trading_amount_avg.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49375c007aab-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Rank": "1",
+        "StockCode": "8358",
+        "StockName": "金居開發",
+        "AverageDailyTradingAmount": "16012123"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "2",
+        "StockCode": "1815",
+        "StockName": "富喬",
+        "AverageDailyTradingAmount": "9650540"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "3",
+        "StockCode": "6274",
+        "StockName": "台燿科技",
+        "AverageDailyTradingAmount": "6250567"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "4",
+        "StockCode": "8069",
+        "StockName": "元太",
+        "AverageDailyTradingAmount": "5850667"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "5",
+        "StockCode": "3324",
+        "StockName": "雙鴻科技",
+        "AverageDailyTradingAmount": "4678920"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "6",
+        "StockCode": "6173",
+        "StockName": "信昌電陶",
+        "AverageDailyTradingAmount": "4654721"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "7",
+        "StockCode": "5274",
+        "StockName": "信驊",
+        "AverageDailyTradingAmount": "4612370"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "8",
+        "StockCode": "3293",
+        "StockName": "鈊象電子",
+        "AverageDailyTradingAmount": "4590981"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "9",
+        "StockCode": "8043",
+        "StockName": "蜜望實",
+        "AverageDailyTradingAmount": "3636873"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "10",
+        "StockCode": "3260",
+        "StockName": "威剛科技",
+        "AverageDailyTradingAmount": "3054769"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "11",
+        "StockCode": "6223",
+        "StockName": "旺矽科技",
+        "AverageDailyTradingAmount": "2806148"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "12",
+        "StockCode": "3529",
+        "StockName": "力旺電子",
+        "AverageDailyTradingAmount": "2771011"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "13",
+        "StockCode": "5289",
+        "StockName": "宜鼎",
+        "AverageDailyTradingAmount": "2233255"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "14",
+        "StockCode": "8299",
+        "StockName": "群聯電子",
+        "AverageDailyTradingAmount": "2001624"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "15",
+        "StockCode": "5439",
+        "StockName": "高技企業",
+        "AverageDailyTradingAmount": "1834994"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "16",
+        "StockCode": "4979",
+        "StockName": "華星光",
+        "AverageDailyTradingAmount": "1660302"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "17",
+        "StockCode": "3624",
+        "StockName": "光頡科技",
+        "AverageDailyTradingAmount": "1494572"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "18",
+        "StockCode": "8042",
+        "StockName": "金山電子",
+        "AverageDailyTradingAmount": "1376518"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "19",
+        "StockCode": "3163",
+        "StockName": "波若威",
+        "AverageDailyTradingAmount": "1361012"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "20",
+        "StockCode": "5314",
+        "StockName": "世紀*",
+        "AverageDailyTradingAmount": "1056216"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "21",
+        "StockCode": "3363",
+        "StockName": "上詮",
+        "AverageDailyTradingAmount": "1050029"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "22",
+        "StockCode": "6163",
+        "StockName": "華電聯網",
+        "AverageDailyTradingAmount": "928644"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "23",
+        "StockCode": "3081",
+        "StockName": "聯亞",
+        "AverageDailyTradingAmount": "919497"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "24",
+        "StockCode": "5425",
+        "StockName": "台半",
+        "AverageDailyTradingAmount": "916223"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "25",
+        "StockCode": "6510",
+        "StockName": "精測",
+        "AverageDailyTradingAmount": "915476"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "26",
+        "StockCode": "3264",
+        "StockName": "欣銓科技",
+        "AverageDailyTradingAmount": "866526"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "27",
+        "StockCode": "4749",
+        "StockName": "新應材",
+        "AverageDailyTradingAmount": "835134"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "28",
+        "StockCode": "3131",
+        "StockName": "弘塑科技",
+        "AverageDailyTradingAmount": "813991"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "29",
+        "StockCode": "3105",
+        "StockName": "穩懋",
+        "AverageDailyTradingAmount": "791272"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "30",
+        "StockCode": "3357",
+        "StockName": "臺慶科",
+        "AverageDailyTradingAmount": "711758"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "31",
+        "StockCode": "5536",
+        "StockName": "聖暉*",
+        "AverageDailyTradingAmount": "706601"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "32",
+        "StockCode": "8048",
+        "StockName": "德勝科技",
+        "AverageDailyTradingAmount": "701560"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "33",
+        "StockCode": "8054",
+        "StockName": "安國國際",
+        "AverageDailyTradingAmount": "685742"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "34",
+        "StockCode": "8086",
+        "StockName": "宏捷科技",
+        "AverageDailyTradingAmount": "654078"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "35",
+        "StockCode": "3211",
+        "StockName": "順達科技",
+        "AverageDailyTradingAmount": "622770"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "36",
+        "StockCode": "3491",
+        "StockName": "昇達科技",
+        "AverageDailyTradingAmount": "608812"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "37",
+        "StockCode": "4577",
+        "StockName": "達航科技",
+        "AverageDailyTradingAmount": "596909"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "38",
+        "StockCode": "6290",
+        "StockName": "良維科技",
+        "AverageDailyTradingAmount": "596447"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "39",
+        "StockCode": "5347",
+        "StockName": "世界先進",
+        "AverageDailyTradingAmount": "556693"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "40",
+        "StockCode": "6488",
+        "StockName": "環球晶",
+        "AverageDailyTradingAmount": "500688"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "41",
+        "StockCode": "8111",
+        "StockName": "立碁電子",
+        "AverageDailyTradingAmount": "474344"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "42",
+        "StockCode": "4966",
+        "StockName": "譜瑞-KY",
+        "AverageDailyTradingAmount": "463960"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "43",
+        "StockCode": "5371",
+        "StockName": "中強光電",
+        "AverageDailyTradingAmount": "446831"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "44",
+        "StockCode": "4772",
+        "StockName": "台特化",
+        "AverageDailyTradingAmount": "445977"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "45",
+        "StockCode": "5351",
+        "StockName": "鈺創科技",
+        "AverageDailyTradingAmount": "433245"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "46",
+        "StockCode": "4931",
+        "StockName": "新盛力",
+        "AverageDailyTradingAmount": "411694"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "47",
+        "StockCode": "4971",
+        "StockName": "IET-KY",
+        "AverageDailyTradingAmount": "407794"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "48",
+        "StockCode": "8390",
+        "StockName": "金益鼎",
+        "AverageDailyTradingAmount": "398508"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "49",
+        "StockCode": "3680",
+        "StockName": "家登",
+        "AverageDailyTradingAmount": "385160"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "50",
+        "StockCode": "5483",
+        "StockName": "中美晶",
+        "AverageDailyTradingAmount": "383569"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "51",
+        "StockCode": "5498",
+        "StockName": "凱崴",
+        "AverageDailyTradingAmount": "373578"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "52",
+        "StockCode": "4991",
+        "StockName": "環宇-KY",
+        "AverageDailyTradingAmount": "363859"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "53",
+        "StockCode": "6584",
+        "StockName": "南俊國際",
+        "AverageDailyTradingAmount": "361907"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "54",
+        "StockCode": "6121",
+        "StockName": "新普科技",
+        "AverageDailyTradingAmount": "339381"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "55",
+        "StockCode": "4760",
+        "StockName": "勤凱",
+        "AverageDailyTradingAmount": "335990"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "56",
+        "StockCode": "3227",
+        "StockName": "原相科技",
+        "AverageDailyTradingAmount": "328496"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "57",
+        "StockCode": "6188",
+        "StockName": "廣明光電",
+        "AverageDailyTradingAmount": "325418"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "58",
+        "StockCode": "5328",
+        "StockName": "華容",
+        "AverageDailyTradingAmount": "309665"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "59",
+        "StockCode": "6548",
+        "StockName": "長科*",
+        "AverageDailyTradingAmount": "304039"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "60",
+        "StockCode": "3709",
+        "StockName": "鑫聯大投控",
+        "AverageDailyTradingAmount": "301588"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "61",
+        "StockCode": "3236",
+        "StockName": "千如電機",
+        "AverageDailyTradingAmount": "295587"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "62",
+        "StockCode": "3689",
+        "StockName": "湧德",
+        "AverageDailyTradingAmount": "295422"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "63",
+        "StockCode": "6187",
+        "StockName": "萬潤",
+        "AverageDailyTradingAmount": "273764"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "64",
+        "StockCode": "1785",
+        "StockName": "光洋科技",
+        "AverageDailyTradingAmount": "273475"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "65",
+        "StockCode": "6147",
+        "StockName": "頎邦科技",
+        "AverageDailyTradingAmount": "269413"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "66",
+        "StockCode": "6739",
+        "StockName": "竹陞科技",
+        "AverageDailyTradingAmount": "262273"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "67",
+        "StockCode": "6175",
+        "StockName": "立敦科技",
+        "AverageDailyTradingAmount": "257737"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "68",
+        "StockCode": "6643",
+        "StockName": "M31",
+        "AverageDailyTradingAmount": "246104"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "69",
+        "StockCode": "5475",
+        "StockName": "德宏工業",
+        "AverageDailyTradingAmount": "237369"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "70",
+        "StockCode": "8096",
+        "StockName": "擎亞",
+        "AverageDailyTradingAmount": "230456"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "71",
+        "StockCode": "8034",
+        "StockName": "榮群電訊",
+        "AverageDailyTradingAmount": "225955"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "72",
+        "StockCode": "3217",
+        "StockName": "優群科技",
+        "AverageDailyTradingAmount": "225318"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "73",
+        "StockCode": "8932",
+        "StockName": "智通*",
+        "AverageDailyTradingAmount": "212757"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "74",
+        "StockCode": "4768",
+        "StockName": "晶呈科技",
+        "AverageDailyTradingAmount": "188544"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "75",
+        "StockCode": "3693",
+        "StockName": "營邦",
+        "AverageDailyTradingAmount": "182640"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "76",
+        "StockCode": "8155",
+        "StockName": "博智",
+        "AverageDailyTradingAmount": "174675"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "77",
+        "StockCode": "6138",
+        "StockName": "茂達電子",
+        "AverageDailyTradingAmount": "171804"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "78",
+        "StockCode": "5309",
+        "StockName": "系統電子",
+        "AverageDailyTradingAmount": "168712"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "79",
+        "StockCode": "5904",
+        "StockName": "寶雅國際",
+        "AverageDailyTradingAmount": "163577"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "80",
+        "StockCode": "7717",
+        "StockName": "萊德光電-KY",
+        "AverageDailyTradingAmount": "160188"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "81",
+        "StockCode": "4303",
+        "StockName": "信立",
+        "AverageDailyTradingAmount": "157169"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "82",
+        "StockCode": "8088",
+        "StockName": "品安科技",
+        "AverageDailyTradingAmount": "156692"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "83",
+        "StockCode": "6462",
+        "StockName": "神盾",
+        "AverageDailyTradingAmount": "150448"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "84",
+        "StockCode": "6913",
+        "StockName": "鴻呈",
+        "AverageDailyTradingAmount": "148167"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "85",
+        "StockCode": "4939",
+        "StockName": "亞電",
+        "AverageDailyTradingAmount": "141702"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "86",
+        "StockCode": "2641",
+        "StockName": "正德",
+        "AverageDailyTradingAmount": "141247"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "87",
+        "StockCode": "6284",
+        "StockName": "佳邦科技",
+        "AverageDailyTradingAmount": "141216"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "88",
+        "StockCode": "6664",
+        "StockName": "群翊",
+        "AverageDailyTradingAmount": "139398"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "89",
+        "StockCode": "5251",
+        "StockName": "天鉞電",
+        "AverageDailyTradingAmount": "138283"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "90",
+        "StockCode": "6203",
+        "StockName": "海韻電子",
+        "AverageDailyTradingAmount": "135212"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "91",
+        "StockCode": "3707",
+        "StockName": "漢磊",
+        "AverageDailyTradingAmount": "131490"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "92",
+        "StockCode": "4174",
+        "StockName": "浩鼎",
+        "AverageDailyTradingAmount": "127066"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "93",
+        "StockCode": "3526",
+        "StockName": "凡甲科技",
+        "AverageDailyTradingAmount": "125002"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "94",
+        "StockCode": "3374",
+        "StockName": "精材",
+        "AverageDailyTradingAmount": "124891"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "95",
+        "StockCode": "6104",
+        "StockName": "創惟科技",
+        "AverageDailyTradingAmount": "121116"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "96",
+        "StockCode": "5340",
+        "StockName": "建榮工業",
+        "AverageDailyTradingAmount": "118251"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "97",
+        "StockCode": "3297",
+        "StockName": "杭特電子",
+        "AverageDailyTradingAmount": "113768"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "98",
+        "StockCode": "3147",
+        "StockName": "大綜",
+        "AverageDailyTradingAmount": "113448"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "99",
+        "StockCode": "6143",
+        "StockName": "振曜科技",
+        "AverageDailyTradingAmount": "112462"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "100",
+        "StockCode": "6217",
+        "StockName": "中國探針",
+        "AverageDailyTradingAmount": "107349"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "101",
+        "StockCode": "3078",
+        "StockName": "僑威科技",
+        "AverageDailyTradingAmount": "101717"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "102",
+        "StockCode": "4743",
+        "StockName": "合一",
+        "AverageDailyTradingAmount": "96811"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "103",
+        "StockCode": "6291",
+        "StockName": "沛亨半導",
+        "AverageDailyTradingAmount": "94846"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "104",
+        "StockCode": "6182",
+        "StockName": "合晶科技",
+        "AverageDailyTradingAmount": "92555"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "105",
+        "StockCode": "1569",
+        "StockName": "濱川企業",
+        "AverageDailyTradingAmount": "92125"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "106",
+        "StockCode": "8936",
+        "StockName": "國統國際",
+        "AverageDailyTradingAmount": "90753"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "107",
+        "StockCode": "6761",
+        "StockName": "穩得",
+        "AverageDailyTradingAmount": "90165"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "108",
+        "StockCode": "6788",
+        "StockName": "華景電",
+        "AverageDailyTradingAmount": "89985"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "109",
+        "StockCode": "3162",
+        "StockName": "精確",
+        "AverageDailyTradingAmount": "89972"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "110",
+        "StockCode": "6683",
+        "StockName": "雍智科技",
+        "AverageDailyTradingAmount": "80724"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "111",
+        "StockCode": "3128",
+        "StockName": "昇銳",
+        "AverageDailyTradingAmount": "79020"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "112",
+        "StockCode": "8436",
+        "StockName": "大江",
+        "AverageDailyTradingAmount": "78479"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "113",
+        "StockCode": "3546",
+        "StockName": "宇峻奧汀",
+        "AverageDailyTradingAmount": "78094"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "114",
+        "StockCode": "7734",
+        "StockName": "印能科技",
+        "AverageDailyTradingAmount": "75780"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "115",
+        "StockCode": "3537",
+        "StockName": "堡達",
+        "AverageDailyTradingAmount": "75376"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "116",
+        "StockCode": "4973",
+        "StockName": "廣穎",
+        "AverageDailyTradingAmount": "75263"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "117",
+        "StockCode": "7751",
+        "StockName": "竑騰",
+        "AverageDailyTradingAmount": "74989"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "118",
+        "StockCode": "5443",
+        "StockName": "均豪精密",
+        "AverageDailyTradingAmount": "74554"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "119",
+        "StockCode": "3323",
+        "StockName": "加百裕",
+        "AverageDailyTradingAmount": "72934"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "120",
+        "StockCode": "8027",
+        "StockName": "鈦昇",
+        "AverageDailyTradingAmount": "72684"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "121",
+        "StockCode": "3628",
+        "StockName": "盈正",
+        "AverageDailyTradingAmount": "72544"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "122",
+        "StockCode": "8074",
+        "StockName": "鉅橡",
+        "AverageDailyTradingAmount": "72471"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "123",
+        "StockCode": "3289",
+        "StockName": "宜特科技",
+        "AverageDailyTradingAmount": "71940"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "124",
+        "StockCode": "6667",
+        "StockName": "信紘科",
+        "AverageDailyTradingAmount": "71872"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "125",
+        "StockCode": "3551",
+        "StockName": "世禾科技",
+        "AverageDailyTradingAmount": "70357"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "126",
+        "StockCode": "8227",
+        "StockName": "巨有科技",
+        "AverageDailyTradingAmount": "69594"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "127",
+        "StockCode": "6125",
+        "StockName": "廣運機械",
+        "AverageDailyTradingAmount": "68921"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "128",
+        "StockCode": "5392",
+        "StockName": "能率",
+        "AverageDailyTradingAmount": "65363"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "129",
+        "StockCode": "6535",
+        "StockName": "順藥",
+        "AverageDailyTradingAmount": "63355"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "130",
+        "StockCode": "6432",
+        "StockName": "今展科",
+        "AverageDailyTradingAmount": "63010"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "131",
+        "StockCode": "6596",
+        "StockName": "寬宏藝術",
+        "AverageDailyTradingAmount": "62948"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "132",
+        "StockCode": "5321",
+        "StockName": "美而快",
+        "AverageDailyTradingAmount": "62288"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "133",
+        "StockCode": "6231",
+        "StockName": "系微",
+        "AverageDailyTradingAmount": "61757"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "134",
+        "StockCode": "3581",
+        "StockName": "博磊",
+        "AverageDailyTradingAmount": "60556"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "135",
+        "StockCode": "3675",
+        "StockName": "德微",
+        "AverageDailyTradingAmount": "60032"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "136",
+        "StockCode": "5508",
+        "StockName": "永信建設",
+        "AverageDailyTradingAmount": "57787"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "137",
+        "StockCode": "8927",
+        "StockName": "北基國際",
+        "AverageDailyTradingAmount": "57095"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "138",
+        "StockCode": "6127",
+        "StockName": "九豪精密",
+        "AverageDailyTradingAmount": "56588"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "139",
+        "StockCode": "6190",
+        "StockName": "萬泰科技",
+        "AverageDailyTradingAmount": "56354"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "140",
+        "StockCode": "7728",
+        "StockName": "光焱科技",
+        "AverageDailyTradingAmount": "55053"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "141",
+        "StockCode": "6785",
+        "StockName": "昱展新藥",
+        "AverageDailyTradingAmount": "54718"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "142",
+        "StockCode": "6485",
+        "StockName": "點序",
+        "AverageDailyTradingAmount": "53206"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "143",
+        "StockCode": "6640",
+        "StockName": "均華",
+        "AverageDailyTradingAmount": "52358"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "144",
+        "StockCode": "3483",
+        "StockName": "力致科技",
+        "AverageDailyTradingAmount": "51647"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "145",
+        "StockCode": "6265",
+        "StockName": "方土昶",
+        "AverageDailyTradingAmount": "51261"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "146",
+        "StockCode": "6411",
+        "StockName": "晶焱",
+        "AverageDailyTradingAmount": "50825"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "147",
+        "StockCode": "6603",
+        "StockName": "富強鑫",
+        "AverageDailyTradingAmount": "50772"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "148",
+        "StockCode": "6547",
+        "StockName": "高端疫苗",
+        "AverageDailyTradingAmount": "50332"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "149",
+        "StockCode": "3587",
+        "StockName": "閎康科技",
+        "AverageDailyTradingAmount": "49682"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "150",
+        "StockCode": "3218",
+        "StockName": "大學光學",
+        "AverageDailyTradingAmount": "49239"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "151",
+        "StockCode": "8255",
+        "StockName": "朋程",
+        "AverageDailyTradingAmount": "48388"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "152",
+        "StockCode": "6126",
+        "StockName": "信音企業",
+        "AverageDailyTradingAmount": "47910"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "153",
+        "StockCode": "6996",
+        "StockName": "力領科技",
+        "AverageDailyTradingAmount": "47583"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "154",
+        "StockCode": "5009",
+        "StockName": "榮剛材料",
+        "AverageDailyTradingAmount": "47091"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "155",
+        "StockCode": "4162",
+        "StockName": "智擎",
+        "AverageDailyTradingAmount": "46965"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "156",
+        "StockCode": "6763",
+        "StockName": "綠界科技*",
+        "AverageDailyTradingAmount": "46909"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "157",
+        "StockCode": "8234",
+        "StockName": "新漢",
+        "AverageDailyTradingAmount": "46542"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "158",
+        "StockCode": "4953",
+        "StockName": "緯軟",
+        "AverageDailyTradingAmount": "46205"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "159",
+        "StockCode": "6204",
+        "StockName": "台灣艾華",
+        "AverageDailyTradingAmount": "45419"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "160",
+        "StockCode": "4147",
+        "StockName": "中裕",
+        "AverageDailyTradingAmount": "45333"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "161",
+        "StockCode": "6245",
+        "StockName": "立端科技",
+        "AverageDailyTradingAmount": "44679"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "162",
+        "StockCode": "3213",
+        "StockName": "茂訊電腦",
+        "AverageDailyTradingAmount": "44442"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "163",
+        "StockCode": "3265",
+        "StockName": "台星科",
+        "AverageDailyTradingAmount": "44020"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "164",
+        "StockCode": "4903",
+        "StockName": "聯光通信",
+        "AverageDailyTradingAmount": "42852"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "165",
+        "StockCode": "6727",
+        "StockName": "亞泰金屬",
+        "AverageDailyTradingAmount": "42061"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "166",
+        "StockCode": "6679",
+        "StockName": "鈺太",
+        "AverageDailyTradingAmount": "42051"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "167",
+        "StockCode": "8038",
+        "StockName": "長園科",
+        "AverageDailyTradingAmount": "41699"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "168",
+        "StockCode": "5386",
+        "StockName": "青雲國際",
+        "AverageDailyTradingAmount": "41249"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "169",
+        "StockCode": "4114",
+        "StockName": "健喬信元",
+        "AverageDailyTradingAmount": "40616"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "170",
+        "StockCode": "6279",
+        "StockName": "胡連精密",
+        "AverageDailyTradingAmount": "40428"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "171",
+        "StockCode": "5381",
+        "StockName": "合正科技",
+        "AverageDailyTradingAmount": "40160"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "172",
+        "StockCode": "6499",
+        "StockName": "益安",
+        "AverageDailyTradingAmount": "38434"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "173",
+        "StockCode": "4128",
+        "StockName": "中天生技",
+        "AverageDailyTradingAmount": "38025"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "174",
+        "StockCode": "3362",
+        "StockName": "先進光",
+        "AverageDailyTradingAmount": "37696"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "175",
+        "StockCode": "5315",
+        "StockName": "光聯科技",
+        "AverageDailyTradingAmount": "37521"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "176",
+        "StockCode": "2745",
+        "StockName": "五福",
+        "AverageDailyTradingAmount": "35903"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "177",
+        "StockCode": "6561",
+        "StockName": "是方",
+        "AverageDailyTradingAmount": "35791"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "178",
+        "StockCode": "6469",
+        "StockName": "大樹",
+        "AverageDailyTradingAmount": "35597"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "179",
+        "StockCode": "7738",
+        "StockName": "東聯互動",
+        "AverageDailyTradingAmount": "35566"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "180",
+        "StockCode": "6903",
+        "StockName": "巨漢",
+        "AverageDailyTradingAmount": "34398"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "181",
+        "StockCode": "4541",
+        "StockName": "晟田",
+        "AverageDailyTradingAmount": "34245"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "182",
+        "StockCode": "5201",
+        "StockName": "凱衛資訊",
+        "AverageDailyTradingAmount": "34208"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "183",
+        "StockCode": "6425",
+        "StockName": "易發",
+        "AverageDailyTradingAmount": "34185"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "184",
+        "StockCode": "3228",
+        "StockName": "金麗科",
+        "AverageDailyTradingAmount": "33271"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "185",
+        "StockCode": "4442",
+        "StockName": "竣邦-KY",
+        "AverageDailyTradingAmount": "32361"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "186",
+        "StockCode": "6509",
+        "StockName": "聚和國際",
+        "AverageDailyTradingAmount": "31971"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "187",
+        "StockCode": "3710",
+        "StockName": "連展投控",
+        "AverageDailyTradingAmount": "31330"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "188",
+        "StockCode": "6023",
+        "StockName": "元大期",
+        "AverageDailyTradingAmount": "31270"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "189",
+        "StockCode": "5478",
+        "StockName": "智冠",
+        "AverageDailyTradingAmount": "31234"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "190",
+        "StockCode": "8064",
+        "StockName": "東捷科技",
+        "AverageDailyTradingAmount": "29683"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "191",
+        "StockCode": "4105",
+        "StockName": "東洋藥品",
+        "AverageDailyTradingAmount": "29675"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "192",
+        "StockCode": "8937",
+        "StockName": "合騏",
+        "AverageDailyTradingAmount": "29662"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "193",
+        "StockCode": "4909",
+        "StockName": "新復興",
+        "AverageDailyTradingAmount": "29401"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "194",
+        "StockCode": "5474",
+        "StockName": "聰泰科技",
+        "AverageDailyTradingAmount": "29070"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "195",
+        "StockCode": "3548",
+        "StockName": "兆利科技",
+        "AverageDailyTradingAmount": "28864"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "196",
+        "StockCode": "2743",
+        "StockName": "山富",
+        "AverageDailyTradingAmount": "28597"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "197",
+        "StockCode": "3294",
+        "StockName": "英濟",
+        "AverageDailyTradingAmount": "28527"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "198",
+        "StockCode": "4549",
+        "StockName": "桓達",
+        "AverageDailyTradingAmount": "28223"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "199",
+        "StockCode": "3317",
+        "StockName": "尼克森",
+        "AverageDailyTradingAmount": "27885"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "200",
+        "StockCode": "6895",
+        "StockName": "宏碩系統",
+        "AverageDailyTradingAmount": "27203"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "201",
+        "StockCode": "4510",
+        "StockName": "高鋒工業",
+        "AverageDailyTradingAmount": "27072"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "202",
+        "StockCode": "3479",
+        "StockName": "安勤",
+        "AverageDailyTradingAmount": "26385"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "203",
+        "StockCode": "3611",
+        "StockName": "鼎翰科技",
+        "AverageDailyTradingAmount": "26279"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "204",
+        "StockCode": "3379",
+        "StockName": "彬台",
+        "AverageDailyTradingAmount": "26133"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "205",
+        "StockCode": "4721",
+        "StockName": "美琪瑪",
+        "AverageDailyTradingAmount": "26013"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "206",
+        "StockCode": "6140",
+        "StockName": "訊達電腦",
+        "AverageDailyTradingAmount": "25967"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "207",
+        "StockCode": "6693",
+        "StockName": "廣閎科",
+        "AverageDailyTradingAmount": "25645"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "208",
+        "StockCode": "3402",
+        "StockName": "漢科",
+        "AverageDailyTradingAmount": "25626"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "209",
+        "StockCode": "3088",
+        "StockName": "艾訊",
+        "AverageDailyTradingAmount": "25532"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "210",
+        "StockCode": "1784",
+        "StockName": "訊聯",
+        "AverageDailyTradingAmount": "25530"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "211",
+        "StockCode": "6922",
+        "StockName": "宸曜",
+        "AverageDailyTradingAmount": "25282"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "212",
+        "StockCode": "6418",
+        "StockName": "詠昇",
+        "AverageDailyTradingAmount": "25173"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "213",
+        "StockCode": "3372",
+        "StockName": "典範",
+        "AverageDailyTradingAmount": "25024"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "214",
+        "StockCode": "6146",
+        "StockName": "耕興",
+        "AverageDailyTradingAmount": "24988"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "215",
+        "StockCode": "6435",
+        "StockName": "大中",
+        "AverageDailyTradingAmount": "24602"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "216",
+        "StockCode": "6179",
+        "StockName": "亞通利大",
+        "AverageDailyTradingAmount": "23980"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "217",
+        "StockCode": "6613",
+        "StockName": "朋億*",
+        "AverageDailyTradingAmount": "23308"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "218",
+        "StockCode": "2230",
+        "StockName": "泰茂",
+        "AverageDailyTradingAmount": "23157"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "219",
+        "StockCode": "4123",
+        "StockName": "晟德",
+        "AverageDailyTradingAmount": "23141"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "220",
+        "StockCode": "3685",
+        "StockName": "元創精密",
+        "AverageDailyTradingAmount": "23097"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "221",
+        "StockCode": "1565",
+        "StockName": "精華光學",
+        "AverageDailyTradingAmount": "23061"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "222",
+        "StockCode": "5457",
+        "StockName": "宣德",
+        "AverageDailyTradingAmount": "22907"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "223",
+        "StockCode": "6207",
+        "StockName": "雷科",
+        "AverageDailyTradingAmount": "22894"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "224",
+        "StockCode": "4726",
+        "StockName": "永昕",
+        "AverageDailyTradingAmount": "22869"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "225",
+        "StockCode": "3230",
+        "StockName": "錦明實業",
+        "AverageDailyTradingAmount": "22865"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "226",
+        "StockCode": "3466",
+        "StockName": "德晉",
+        "AverageDailyTradingAmount": "22478"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "227",
+        "StockCode": "6111",
+        "StockName": "大宇資訊",
+        "AverageDailyTradingAmount": "22431"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "228",
+        "StockCode": "3290",
+        "StockName": "東浦",
+        "AverageDailyTradingAmount": "21866"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "229",
+        "StockCode": "6732",
+        "StockName": "昇佳電子",
+        "AverageDailyTradingAmount": "21476"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "230",
+        "StockCode": "6148",
+        "StockName": "驊宏資通",
+        "AverageDailyTradingAmount": "21226"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "231",
+        "StockCode": "6186",
+        "StockName": "新潤興業",
+        "AverageDailyTradingAmount": "20867"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "232",
+        "StockCode": "4908",
+        "StockName": "前鼎光電",
+        "AverageDailyTradingAmount": "20843"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "233",
+        "StockCode": "6227",
+        "StockName": "茂綸",
+        "AverageDailyTradingAmount": "20558"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "234",
+        "StockCode": "3558",
+        "StockName": "神準",
+        "AverageDailyTradingAmount": "20413"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "235",
+        "StockCode": "6576",
+        "StockName": "逸達",
+        "AverageDailyTradingAmount": "20310"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "236",
+        "StockCode": "6712",
+        "StockName": "長聖",
+        "AverageDailyTradingAmount": "20152"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "237",
+        "StockCode": "1584",
+        "StockName": "精剛精密",
+        "AverageDailyTradingAmount": "20079"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "238",
+        "StockCode": "4745",
+        "StockName": "合富-KY",
+        "AverageDailyTradingAmount": "19993"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "239",
+        "StockCode": "6150",
+        "StockName": "撼訊科技",
+        "AverageDailyTradingAmount": "19890"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "240",
+        "StockCode": "6546",
+        "StockName": "正基",
+        "AverageDailyTradingAmount": "19848"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "241",
+        "StockCode": "5481",
+        "StockName": "新華",
+        "AverageDailyTradingAmount": "18884"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "242",
+        "StockCode": "3434",
+        "StockName": "哲固資訊",
+        "AverageDailyTradingAmount": "18551"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "243",
+        "StockCode": "3498",
+        "StockName": "陽程",
+        "AverageDailyTradingAmount": "18517"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "244",
+        "StockCode": "3349",
+        "StockName": "寶德",
+        "AverageDailyTradingAmount": "18103"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "245",
+        "StockCode": "2066",
+        "StockName": "世德",
+        "AverageDailyTradingAmount": "18035"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "246",
+        "StockCode": "4157",
+        "StockName": "太景*-KY",
+        "AverageDailyTradingAmount": "18009"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "247",
+        "StockCode": "4714",
+        "StockName": "永捷",
+        "AverageDailyTradingAmount": "17966"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "248",
+        "StockCode": "3234",
+        "StockName": "光環",
+        "AverageDailyTradingAmount": "17711"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "249",
+        "StockCode": "4974",
+        "StockName": "亞泰",
+        "AverageDailyTradingAmount": "17356"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "250",
+        "StockCode": "8091",
+        "StockName": "翔名科技",
+        "AverageDailyTradingAmount": "17342"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "251",
+        "StockCode": "5213",
+        "StockName": "亞昕",
+        "AverageDailyTradingAmount": "17262"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "252",
+        "StockCode": "5530",
+        "StockName": "龍巖",
+        "AverageDailyTradingAmount": "17188"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "253",
+        "StockCode": "4129",
+        "StockName": "聯合骨科",
+        "AverageDailyTradingAmount": "17148"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "254",
+        "StockCode": "3552",
+        "StockName": "同致電子",
+        "AverageDailyTradingAmount": "16760"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "255",
+        "StockCode": "3158",
+        "StockName": "嘉實",
+        "AverageDailyTradingAmount": "16556"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "256",
+        "StockCode": "6244",
+        "StockName": "茂迪",
+        "AverageDailyTradingAmount": "16476"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "257",
+        "StockCode": "5236",
+        "StockName": "凌陽創新",
+        "AverageDailyTradingAmount": "16030"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "258",
+        "StockCode": "3687",
+        "StockName": "歐買尬",
+        "AverageDailyTradingAmount": "15820"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "259",
+        "StockCode": "6829",
+        "StockName": "千附精密",
+        "AverageDailyTradingAmount": "15719"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "260",
+        "StockCode": "6741",
+        "StockName": "91APP*-KY",
+        "AverageDailyTradingAmount": "15664"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "261",
+        "StockCode": "6530",
+        "StockName": "創威",
+        "AverageDailyTradingAmount": "15537"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "262",
+        "StockCode": "7712",
+        "StockName": "博盛半導體",
+        "AverageDailyTradingAmount": "15474"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "263",
+        "StockCode": "6180",
+        "StockName": "橘子",
+        "AverageDailyTradingAmount": "15451"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "264",
+        "StockCode": "3455",
+        "StockName": "由田新技",
+        "AverageDailyTradingAmount": "15386"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "265",
+        "StockCode": "5905",
+        "StockName": "南仁湖",
+        "AverageDailyTradingAmount": "15378"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "266",
+        "StockCode": "1295",
+        "StockName": "生合",
+        "AverageDailyTradingAmount": "15159"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "267",
+        "StockCode": "8121",
+        "StockName": "越峰電子",
+        "AverageDailyTradingAmount": "15136"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "268",
+        "StockCode": "3630",
+        "StockName": "新鉅科",
+        "AverageDailyTradingAmount": "14603"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "269",
+        "StockCode": "4533",
+        "StockName": "協易機械",
+        "AverageDailyTradingAmount": "14600"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "270",
+        "StockCode": "4563",
+        "StockName": "百德",
+        "AverageDailyTradingAmount": "14300"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "271",
+        "StockCode": "4503",
+        "StockName": "金雨企業",
+        "AverageDailyTradingAmount": "14184"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "272",
+        "StockCode": "5263",
+        "StockName": "智崴",
+        "AverageDailyTradingAmount": "13827"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "273",
+        "StockCode": "3625",
+        "StockName": "西勝",
+        "AverageDailyTradingAmount": "13356"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "274",
+        "StockCode": "6690",
+        "StockName": "安碁資訊",
+        "AverageDailyTradingAmount": "13333"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "275",
+        "StockCode": "6841",
+        "StockName": "長佳智能",
+        "AverageDailyTradingAmount": "13328"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "276",
+        "StockCode": "3086",
+        "StockName": "華義國際",
+        "AverageDailyTradingAmount": "13317"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "277",
+        "StockCode": "5410",
+        "StockName": "國眾電腦",
+        "AverageDailyTradingAmount": "13262"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "278",
+        "StockCode": "3663",
+        "StockName": "鑫科",
+        "AverageDailyTradingAmount": "12726"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "279",
+        "StockCode": "8089",
+        "StockName": "康全電訊",
+        "AverageDailyTradingAmount": "12722"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "280",
+        "StockCode": "3207",
+        "StockName": "耀勝電子",
+        "AverageDailyTradingAmount": "12673"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "281",
+        "StockCode": "3594",
+        "StockName": "磐儀",
+        "AverageDailyTradingAmount": "12620"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "282",
+        "StockCode": "3141",
+        "StockName": "晶宏",
+        "AverageDailyTradingAmount": "12448"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "283",
+        "StockCode": "6649",
+        "StockName": "台生材",
+        "AverageDailyTradingAmount": "12437"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "284",
+        "StockCode": "5493",
+        "StockName": "三聯科技",
+        "AverageDailyTradingAmount": "12302"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "285",
+        "StockCode": "6194",
+        "StockName": "育富電子",
+        "AverageDailyTradingAmount": "12246"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "286",
+        "StockCode": "6968",
+        "StockName": "萬達寵物",
+        "AverageDailyTradingAmount": "12239"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "287",
+        "StockCode": "6684",
+        "StockName": "安格",
+        "AverageDailyTradingAmount": "12141"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "288",
+        "StockCode": "6417",
+        "StockName": "韋僑",
+        "AverageDailyTradingAmount": "12122"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "289",
+        "StockCode": "8044",
+        "StockName": "網路家庭",
+        "AverageDailyTradingAmount": "12049"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "290",
+        "StockCode": "7718",
+        "StockName": "友鋮",
+        "AverageDailyTradingAmount": "11999"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "291",
+        "StockCode": "6492",
+        "StockName": "生華科",
+        "AverageDailyTradingAmount": "11945"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "292",
+        "StockCode": "5903",
+        "StockName": "全家",
+        "AverageDailyTradingAmount": "11773"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "293",
+        "StockCode": "6517",
+        "StockName": "保勝光學",
+        "AverageDailyTradingAmount": "11472"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "294",
+        "StockCode": "8183",
+        "StockName": "台灣精星",
+        "AverageDailyTradingAmount": "11470"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "295",
+        "StockCode": "8942",
+        "StockName": "森鉅科技",
+        "AverageDailyTradingAmount": "11444"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "296",
+        "StockCode": "8938",
+        "StockName": "明安國際",
+        "AverageDailyTradingAmount": "11432"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "297",
+        "StockCode": "3176",
+        "StockName": "基亞",
+        "AverageDailyTradingAmount": "11396"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "298",
+        "StockCode": "3430",
+        "StockName": "奇鈦科",
+        "AverageDailyTradingAmount": "11204"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "299",
+        "StockCode": "6811",
+        "StockName": "宏碁資訊",
+        "AverageDailyTradingAmount": "11095"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "300",
+        "StockCode": "5864",
+        "StockName": "致和證",
+        "AverageDailyTradingAmount": "11063"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "301",
+        "StockCode": "3152",
+        "StockName": "璟德電子",
+        "AverageDailyTradingAmount": "11060"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "302",
+        "StockCode": "6016",
+        "StockName": "康和證券",
+        "AverageDailyTradingAmount": "10906"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "303",
+        "StockCode": "1591",
+        "StockName": "駿吉-KY",
+        "AverageDailyTradingAmount": "10903"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "304",
+        "StockCode": "6803",
+        "StockName": "崑鼎",
+        "AverageDailyTradingAmount": "10821"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "305",
+        "StockCode": "6752",
+        "StockName": "叡揚",
+        "AverageDailyTradingAmount": "10779"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "306",
+        "StockCode": "8059",
+        "StockName": "凱碩",
+        "AverageDailyTradingAmount": "10775"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "307",
+        "StockCode": "8097",
+        "StockName": "常珵科技",
+        "AverageDailyTradingAmount": "10562"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "308",
+        "StockCode": "3484",
+        "StockName": "崧騰",
+        "AverageDailyTradingAmount": "10524"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "309",
+        "StockCode": "6651",
+        "StockName": "全宇昕",
+        "AverageDailyTradingAmount": "10517"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "310",
+        "StockCode": "6170",
+        "StockName": "統振",
+        "AverageDailyTradingAmount": "10464"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "311",
+        "StockCode": "8431",
+        "StockName": "匯鑽科",
+        "AverageDailyTradingAmount": "10460"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "312",
+        "StockCode": "6733",
+        "StockName": "博晟生醫",
+        "AverageDailyTradingAmount": "10342"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "313",
+        "StockCode": "8083",
+        "StockName": "瑞穎",
+        "AverageDailyTradingAmount": "10241"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "314",
+        "StockCode": "8099",
+        "StockName": "大世科",
+        "AverageDailyTradingAmount": "9753"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "315",
+        "StockCode": "3313",
+        "StockName": "斐成",
+        "AverageDailyTradingAmount": "9677"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "316",
+        "StockCode": "7703",
+        "StockName": "銳澤",
+        "AverageDailyTradingAmount": "9564"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "317",
+        "StockCode": "6925",
+        "StockName": "意藍",
+        "AverageDailyTradingAmount": "9537"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "318",
+        "StockCode": "8050",
+        "StockName": "廣積",
+        "AverageDailyTradingAmount": "9518"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "319",
+        "StockCode": "6877",
+        "StockName": "鏵友益",
+        "AverageDailyTradingAmount": "9406"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "320",
+        "StockCode": "6859",
+        "StockName": "伯特光",
+        "AverageDailyTradingAmount": "9393"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "321",
+        "StockCode": "5398",
+        "StockName": "慕康生醫",
+        "AverageDailyTradingAmount": "9340"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "322",
+        "StockCode": "3221",
+        "StockName": "台灣嘉碩",
+        "AverageDailyTradingAmount": "9216"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "323",
+        "StockCode": "3580",
+        "StockName": "友威科",
+        "AverageDailyTradingAmount": "9216"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "324",
+        "StockCode": "8415",
+        "StockName": "大國鋼",
+        "AverageDailyTradingAmount": "9166"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "325",
+        "StockCode": "4523",
+        "StockName": "永彰",
+        "AverageDailyTradingAmount": "9119"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "326",
+        "StockCode": "6199",
+        "StockName": "天品",
+        "AverageDailyTradingAmount": "9098"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "327",
+        "StockCode": "6823",
+        "StockName": "濾能",
+        "AverageDailyTradingAmount": "8918"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "328",
+        "StockCode": "3169",
+        "StockName": "亞信電子",
+        "AverageDailyTradingAmount": "8809"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "329",
+        "StockCode": "3306",
+        "StockName": "鼎天國際",
+        "AverageDailyTradingAmount": "8776"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "330",
+        "StockCode": "8383",
+        "StockName": "千附實業",
+        "AverageDailyTradingAmount": "8716"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "331",
+        "StockCode": "6266",
+        "StockName": "泰詠電子",
+        "AverageDailyTradingAmount": "8637"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "332",
+        "StockCode": "6751",
+        "StockName": "智聯服務",
+        "AverageDailyTradingAmount": "8543"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "333",
+        "StockCode": "5426",
+        "StockName": "振發實業",
+        "AverageDailyTradingAmount": "8534"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "334",
+        "StockCode": "5609",
+        "StockName": "中菲行",
+        "AverageDailyTradingAmount": "8502"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "335",
+        "StockCode": "4167",
+        "StockName": "松瑞藥",
+        "AverageDailyTradingAmount": "8400"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "336",
+        "StockCode": "3219",
+        "StockName": "倚強科",
+        "AverageDailyTradingAmount": "8395"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "337",
+        "StockCode": "3691",
+        "StockName": "碩禾",
+        "AverageDailyTradingAmount": "8327"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "338",
+        "StockCode": "3339",
+        "StockName": "泰谷光電",
+        "AverageDailyTradingAmount": "8276"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "339",
+        "StockCode": "8109",
+        "StockName": "博大科技",
+        "AverageDailyTradingAmount": "8226"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "340",
+        "StockCode": "8279",
+        "StockName": "生展",
+        "AverageDailyTradingAmount": "8197"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "341",
+        "StockCode": "4933",
+        "StockName": "友輝",
+        "AverageDailyTradingAmount": "8163"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "342",
+        "StockCode": "3303",
+        "StockName": "岱稜",
+        "AverageDailyTradingAmount": "7926"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "343",
+        "StockCode": "7402",
+        "StockName": "邑錡",
+        "AverageDailyTradingAmount": "7894"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "344",
+        "StockCode": "6617",
+        "StockName": "共信-KY",
+        "AverageDailyTradingAmount": "7830"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "345",
+        "StockCode": "4951",
+        "StockName": "精拓科",
+        "AverageDailyTradingAmount": "7804"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "346",
+        "StockCode": "7714",
+        "StockName": "創泓科技",
+        "AverageDailyTradingAmount": "7801"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "347",
+        "StockCode": "6261",
+        "StockName": "久元電子",
+        "AverageDailyTradingAmount": "7746"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "348",
+        "StockCode": "7757",
+        "StockName": "金色三麥",
+        "AverageDailyTradingAmount": "7670"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "349",
+        "StockCode": "2070",
+        "StockName": "精湛",
+        "AverageDailyTradingAmount": "7630"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "350",
+        "StockCode": "6234",
+        "StockName": "高僑",
+        "AverageDailyTradingAmount": "7576"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "351",
+        "StockCode": "4716",
+        "StockName": "大立",
+        "AverageDailyTradingAmount": "7536"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "352",
+        "StockCode": "5490",
+        "StockName": "同亨科技",
+        "AverageDailyTradingAmount": "7439"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "353",
+        "StockCode": "5432",
+        "StockName": "新門",
+        "AverageDailyTradingAmount": "7434"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "354",
+        "StockCode": "8171",
+        "StockName": "天宇",
+        "AverageDailyTradingAmount": "7417"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "355",
+        "StockCode": "4417",
+        "StockName": "金洲製網",
+        "AverageDailyTradingAmount": "7227"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "356",
+        "StockCode": "5512",
+        "StockName": "力麒建設",
+        "AverageDailyTradingAmount": "7201"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "357",
+        "StockCode": "8047",
+        "StockName": "星雲電腦",
+        "AverageDailyTradingAmount": "7198"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "358",
+        "StockCode": "6237",
+        "StockName": "驊訊電子",
+        "AverageDailyTradingAmount": "7186"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "359",
+        "StockCode": "3071",
+        "StockName": "協禧電機",
+        "AverageDailyTradingAmount": "7102"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "360",
+        "StockCode": "5287",
+        "StockName": "數字",
+        "AverageDailyTradingAmount": "7078"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "361",
+        "StockCode": "3615",
+        "StockName": "安可光電",
+        "AverageDailyTradingAmount": "7065"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "362",
+        "StockCode": "2755",
+        "StockName": "揚秦",
+        "AverageDailyTradingAmount": "7064"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "363",
+        "StockCode": "6156",
+        "StockName": "松上",
+        "AverageDailyTradingAmount": "7023"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "364",
+        "StockCode": "6870",
+        "StockName": "騰雲",
+        "AverageDailyTradingAmount": "6746"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "365",
+        "StockCode": "8040",
+        "StockName": "九暘",
+        "AverageDailyTradingAmount": "6730"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "366",
+        "StockCode": "3540",
+        "StockName": "曜越",
+        "AverageDailyTradingAmount": "6593"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "367",
+        "StockCode": "3188",
+        "StockName": "鑫龍騰",
+        "AverageDailyTradingAmount": "6582"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "368",
+        "StockCode": "5452",
+        "StockName": "佶優科技",
+        "AverageDailyTradingAmount": "6546"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "369",
+        "StockCode": "4113",
+        "StockName": "聯上實業",
+        "AverageDailyTradingAmount": "6545"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "370",
+        "StockCode": "8147",
+        "StockName": "正淩",
+        "AverageDailyTradingAmount": "6437"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "371",
+        "StockCode": "8176",
+        "StockName": "智捷",
+        "AverageDailyTradingAmount": "6383"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "372",
+        "StockCode": "4173",
+        "StockName": "久裕",
+        "AverageDailyTradingAmount": "6267"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "373",
+        "StockCode": "6560",
+        "StockName": "欣普羅",
+        "AverageDailyTradingAmount": "6229"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "374",
+        "StockCode": "6263",
+        "StockName": "普萊德",
+        "AverageDailyTradingAmount": "6197"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "375",
+        "StockCode": "8066",
+        "StockName": "來思達",
+        "AverageDailyTradingAmount": "6161"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "376",
+        "StockCode": "4506",
+        "StockName": "崇友實業",
+        "AverageDailyTradingAmount": "6091"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "377",
+        "StockCode": "4729",
+        "StockName": "熒茂光學",
+        "AverageDailyTradingAmount": "6023"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "378",
+        "StockCode": "6122",
+        "StockName": "擎邦國際",
+        "AverageDailyTradingAmount": "6020"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "379",
+        "StockCode": "4207",
+        "StockName": "環泰企業",
+        "AverageDailyTradingAmount": "5945"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "380",
+        "StockCode": "2729",
+        "StockName": "瓦城",
+        "AverageDailyTradingAmount": "5911"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "381",
+        "StockCode": "3492",
+        "StockName": "長盛",
+        "AverageDailyTradingAmount": "5714"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "382",
+        "StockCode": "5465",
+        "StockName": "富驊企業",
+        "AverageDailyTradingAmount": "5708"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "383",
+        "StockCode": "8076",
+        "StockName": "伍豐科技",
+        "AverageDailyTradingAmount": "5677"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "384",
+        "StockCode": "7642",
+        "StockName": "昶瑞機電",
+        "AverageDailyTradingAmount": "5670"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "385",
+        "StockCode": "4166",
+        "StockName": "友霖",
+        "AverageDailyTradingAmount": "5645"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "386",
+        "StockCode": "8935",
+        "StockName": "邦泰",
+        "AverageDailyTradingAmount": "5614"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "387",
+        "StockCode": "8084",
+        "StockName": "巨虹電子",
+        "AverageDailyTradingAmount": "5547"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "388",
+        "StockCode": "6716",
+        "StockName": "應廣",
+        "AverageDailyTradingAmount": "5465"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "389",
+        "StockCode": "8446",
+        "StockName": "華研",
+        "AverageDailyTradingAmount": "5251"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "390",
+        "StockCode": "4111",
+        "StockName": "濟生",
+        "AverageDailyTradingAmount": "5168"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "391",
+        "StockCode": "4513",
+        "StockName": "福裕事業",
+        "AverageDailyTradingAmount": "5128"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "392",
+        "StockCode": "3564",
+        "StockName": "其陽",
+        "AverageDailyTradingAmount": "5119"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "393",
+        "StockCode": "6161",
+        "StockName": "捷波資訊",
+        "AverageDailyTradingAmount": "5066"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "394",
+        "StockCode": "1595",
+        "StockName": "川寶",
+        "AverageDailyTradingAmount": "5022"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "395",
+        "StockCode": "4561",
+        "StockName": "健椿",
+        "AverageDailyTradingAmount": "5009"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "396",
+        "StockCode": "5299",
+        "StockName": "杰力",
+        "AverageDailyTradingAmount": "5006"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "397",
+        "StockCode": "6275",
+        "StockName": "元山科技",
+        "AverageDailyTradingAmount": "4968"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "398",
+        "StockCode": "6221",
+        "StockName": "晉泰科技",
+        "AverageDailyTradingAmount": "4965"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "399",
+        "StockCode": "3205",
+        "StockName": "佰研生化",
+        "AverageDailyTradingAmount": "4964"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "400",
+        "StockCode": "4168",
+        "StockName": "醣聯",
+        "AverageDailyTradingAmount": "4825"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "401",
+        "StockCode": "8085",
+        "StockName": "福華電子",
+        "AverageDailyTradingAmount": "4809"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "402",
+        "StockCode": "3332",
+        "StockName": "幸康電子",
+        "AverageDailyTradingAmount": "4804"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "403",
+        "StockCode": "4744",
+        "StockName": "皇將",
+        "AverageDailyTradingAmount": "4792"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "404",
+        "StockCode": "6609",
+        "StockName": "瀧澤科技",
+        "AverageDailyTradingAmount": "4791"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "405",
+        "StockCode": "5511",
+        "StockName": "德昌營造",
+        "AverageDailyTradingAmount": "4788"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "406",
+        "StockCode": "1799",
+        "StockName": "易威",
+        "AverageDailyTradingAmount": "4763"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "407",
+        "StockCode": "5202",
+        "StockName": "力新國際",
+        "AverageDailyTradingAmount": "4753"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "408",
+        "StockCode": "8240",
+        "StockName": "華宏新技",
+        "AverageDailyTradingAmount": "4686"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "409",
+        "StockCode": "6568",
+        "StockName": "宏觀",
+        "AverageDailyTradingAmount": "4650"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "410",
+        "StockCode": "6470",
+        "StockName": "宇智",
+        "AverageDailyTradingAmount": "4645"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "411",
+        "StockCode": "6015",
+        "StockName": "宏遠證券",
+        "AverageDailyTradingAmount": "4626"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "412",
+        "StockCode": "8032",
+        "StockName": "光菱電子",
+        "AverageDailyTradingAmount": "4625"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "413",
+        "StockCode": "5489",
+        "StockName": "彩富電子",
+        "AverageDailyTradingAmount": "4599"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "414",
+        "StockCode": "1294",
+        "StockName": "漢田生技",
+        "AverageDailyTradingAmount": "4567"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "415",
+        "StockCode": "3577",
+        "StockName": "泓格科技",
+        "AverageDailyTradingAmount": "4543"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "416",
+        "StockCode": "4580",
+        "StockName": "捷流閥業",
+        "AverageDailyTradingAmount": "4499"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "417",
+        "StockCode": "3520",
+        "StockName": "華盈",
+        "AverageDailyTradingAmount": "4476"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "418",
+        "StockCode": "5278",
+        "StockName": "尚凡*",
+        "AverageDailyTradingAmount": "4344"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "419",
+        "StockCode": "6593",
+        "StockName": "台灣銘板",
+        "AverageDailyTradingAmount": "4308"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "420",
+        "StockCode": "3508",
+        "StockName": "位速",
+        "AverageDailyTradingAmount": "4304"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "421",
+        "StockCode": "8908",
+        "StockName": "欣雄",
+        "AverageDailyTradingAmount": "4300"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "422",
+        "StockCode": "6982",
+        "StockName": "大井泵浦",
+        "AverageDailyTradingAmount": "4297"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "423",
+        "StockCode": "6532",
+        "StockName": "瑞耘",
+        "AverageDailyTradingAmount": "4243"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "424",
+        "StockCode": "4130",
+        "StockName": "健亞",
+        "AverageDailyTradingAmount": "4240"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "425",
+        "StockCode": "3684",
+        "StockName": "榮昌",
+        "AverageDailyTradingAmount": "4234"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "426",
+        "StockCode": "6953",
+        "StockName": "家碩",
+        "AverageDailyTradingAmount": "4225"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "427",
+        "StockCode": "5209",
+        "StockName": "新鼎系統",
+        "AverageDailyTradingAmount": "4221"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "428",
+        "StockCode": "5291",
+        "StockName": "邑昇",
+        "AverageDailyTradingAmount": "4220"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "429",
+        "StockCode": "6498",
+        "StockName": "久禾光",
+        "AverageDailyTradingAmount": "4205"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "430",
+        "StockCode": "4747",
+        "StockName": "強生",
+        "AverageDailyTradingAmount": "4192"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "431",
+        "StockCode": "6118",
+        "StockName": "建達國際",
+        "AverageDailyTradingAmount": "4191"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "432",
+        "StockCode": "6703",
+        "StockName": "軒郁",
+        "AverageDailyTradingAmount": "4182"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "433",
+        "StockCode": "6538",
+        "StockName": "倉和",
+        "AverageDailyTradingAmount": "4104"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "434",
+        "StockCode": "3490",
+        "StockName": "單井",
+        "AverageDailyTradingAmount": "4104"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "435",
+        "StockCode": "6720",
+        "StockName": "久昌",
+        "AverageDailyTradingAmount": "4076"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "436",
+        "StockCode": "4946",
+        "StockName": "紅心辣椒",
+        "AverageDailyTradingAmount": "4040"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "437",
+        "StockCode": "6220",
+        "StockName": "岳豐科技",
+        "AverageDailyTradingAmount": "3998"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "438",
+        "StockCode": "6026",
+        "StockName": "福邦證",
+        "AverageDailyTradingAmount": "3970"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "439",
+        "StockCode": "2718",
+        "StockName": "全心投控",
+        "AverageDailyTradingAmount": "3929"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "440",
+        "StockCode": "6747",
+        "StockName": "亨泰光",
+        "AverageDailyTradingAmount": "3925"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "441",
+        "StockCode": "6523",
+        "StockName": "達爾膚",
+        "AverageDailyTradingAmount": "3912"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "442",
+        "StockCode": "5355",
+        "StockName": "佳總興業",
+        "AverageDailyTradingAmount": "3880"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "443",
+        "StockCode": "6219",
+        "StockName": "富旺",
+        "AverageDailyTradingAmount": "3867"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "444",
+        "StockCode": "3284",
+        "StockName": "太普高",
+        "AverageDailyTradingAmount": "3853"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "445",
+        "StockCode": "6134",
+        "StockName": "萬旭電業",
+        "AverageDailyTradingAmount": "3827"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "446",
+        "StockCode": "8071",
+        "StockName": "能率網通",
+        "AverageDailyTradingAmount": "3772"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "447",
+        "StockCode": "5210",
+        "StockName": "寶碩",
+        "AverageDailyTradingAmount": "3767"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "448",
+        "StockCode": "4543",
+        "StockName": "萬在",
+        "AverageDailyTradingAmount": "3759"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "449",
+        "StockCode": "3570",
+        "StockName": "大塚資訊",
+        "AverageDailyTradingAmount": "3727"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "450",
+        "StockCode": "6821",
+        "StockName": "聯寶",
+        "AverageDailyTradingAmount": "3673"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "451",
+        "StockCode": "4702",
+        "StockName": "中美實",
+        "AverageDailyTradingAmount": "3650"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "452",
+        "StockCode": "3232",
+        "StockName": "昱捷",
+        "AverageDailyTradingAmount": "3601"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "453",
+        "StockCode": "8349",
+        "StockName": "恒耀",
+        "AverageDailyTradingAmount": "3577"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "454",
+        "StockCode": "7723",
+        "StockName": "築間",
+        "AverageDailyTradingAmount": "3575"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "455",
+        "StockCode": "8930",
+        "StockName": "青鋼",
+        "AverageDailyTradingAmount": "3567"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "456",
+        "StockCode": "3444",
+        "StockName": "利機企業",
+        "AverageDailyTradingAmount": "3535"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "457",
+        "StockCode": "4126",
+        "StockName": "太平洋醫",
+        "AverageDailyTradingAmount": "3510"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "458",
+        "StockCode": "7704",
+        "StockName": "明遠精密",
+        "AverageDailyTradingAmount": "3504"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "459",
+        "StockCode": "3325",
+        "StockName": "旭品",
+        "AverageDailyTradingAmount": "3497"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "460",
+        "StockCode": "1580",
+        "StockName": "新麥",
+        "AverageDailyTradingAmount": "3466"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "461",
+        "StockCode": "1586",
+        "StockName": "和勤",
+        "AverageDailyTradingAmount": "3431"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "462",
+        "StockCode": "4107",
+        "StockName": "邦特生技",
+        "AverageDailyTradingAmount": "3399"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "463",
+        "StockCode": "5468",
+        "StockName": "凱鈺科技",
+        "AverageDailyTradingAmount": "3396"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "464",
+        "StockCode": "5324",
+        "StockName": "士林開發",
+        "AverageDailyTradingAmount": "3392"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "465",
+        "StockCode": "3511",
+        "StockName": "矽瑪科技",
+        "AverageDailyTradingAmount": "3389"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "466",
+        "StockCode": "7556",
+        "StockName": "意德士",
+        "AverageDailyTradingAmount": "3389"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "467",
+        "StockCode": "4102",
+        "StockName": "永日化工",
+        "AverageDailyTradingAmount": "3379"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "468",
+        "StockCode": "1777",
+        "StockName": "生泰合成",
+        "AverageDailyTradingAmount": "3327"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "469",
+        "StockCode": "2756",
+        "StockName": "聯發國際",
+        "AverageDailyTradingAmount": "3291"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "470",
+        "StockCode": "6113",
+        "StockName": "亞矽科技",
+        "AverageDailyTradingAmount": "3284"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "471",
+        "StockCode": "6629",
+        "StockName": "泰金-KY",
+        "AverageDailyTradingAmount": "3277"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "472",
+        "StockCode": "4950",
+        "StockName": "金耘國際",
+        "AverageDailyTradingAmount": "3277"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "473",
+        "StockCode": "3555",
+        "StockName": "博士旺",
+        "AverageDailyTradingAmount": "3276"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "474",
+        "StockCode": "3713",
+        "StockName": "新晶投控",
+        "AverageDailyTradingAmount": "3267"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "475",
+        "StockCode": "3073",
+        "StockName": "天方能源",
+        "AverageDailyTradingAmount": "3209"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "476",
+        "StockCode": "6248",
+        "StockName": "沛波",
+        "AverageDailyTradingAmount": "3206"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "477",
+        "StockCode": "8472",
+        "StockName": "夠麻吉",
+        "AverageDailyTradingAmount": "3163"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "478",
+        "StockCode": "4987",
+        "StockName": "科誠",
+        "AverageDailyTradingAmount": "3118"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "479",
+        "StockCode": "6569",
+        "StockName": "醫揚",
+        "AverageDailyTradingAmount": "3085"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "480",
+        "StockCode": "3178",
+        "StockName": "公準",
+        "AverageDailyTradingAmount": "3073"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "481",
+        "StockCode": "6233",
+        "StockName": "旺玖科技",
+        "AverageDailyTradingAmount": "3060"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "482",
+        "StockCode": "5403",
+        "StockName": "中菲",
+        "AverageDailyTradingAmount": "3056"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "483",
+        "StockCode": "4995",
+        "StockName": "晶達",
+        "AverageDailyTradingAmount": "3040"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "484",
+        "StockCode": "8916",
+        "StockName": "光隆",
+        "AverageDailyTradingAmount": "3027"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "485",
+        "StockCode": "8403",
+        "StockName": "盛弘",
+        "AverageDailyTradingAmount": "3002"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "486",
+        "StockCode": "5438",
+        "StockName": "東友",
+        "AverageDailyTradingAmount": "2999"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "487",
+        "StockCode": "8489",
+        "StockName": "三貝德",
+        "AverageDailyTradingAmount": "2989"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "488",
+        "StockCode": "5312",
+        "StockName": "寶島科",
+        "AverageDailyTradingAmount": "2983"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "489",
+        "StockCode": "9951",
+        "StockName": "皇田工業",
+        "AverageDailyTradingAmount": "2915"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "490",
+        "StockCode": "6151",
+        "StockName": "晉倫科技",
+        "AverageDailyTradingAmount": "2896"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "491",
+        "StockCode": "4707",
+        "StockName": "磐亞",
+        "AverageDailyTradingAmount": "2890"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "492",
+        "StockCode": "8277",
+        "StockName": "商丞科技",
+        "AverageDailyTradingAmount": "2847"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "493",
+        "StockCode": "6021",
+        "StockName": "美好證",
+        "AverageDailyTradingAmount": "2831"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "494",
+        "StockCode": "3268",
+        "StockName": "海德威",
+        "AverageDailyTradingAmount": "2804"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "495",
+        "StockCode": "4109",
+        "StockName": "加捷生醫",
+        "AverageDailyTradingAmount": "2801"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "496",
+        "StockCode": "8924",
+        "StockName": "大田精密",
+        "AverageDailyTradingAmount": "2752"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "497",
+        "StockCode": "6129",
+        "StockName": "普誠科技",
+        "AverageDailyTradingAmount": "2747"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "498",
+        "StockCode": "6270",
+        "StockName": "倍微科技",
+        "AverageDailyTradingAmount": "2699"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "499",
+        "StockCode": "3287",
+        "StockName": "廣寰科",
+        "AverageDailyTradingAmount": "2695"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "500",
+        "StockCode": "3390",
+        "StockName": "旭軟電子",
+        "AverageDailyTradingAmount": "2686"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "501",
+        "StockCode": "8426",
+        "StockName": "紅木-KY",
+        "AverageDailyTradingAmount": "2650"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "502",
+        "StockCode": "6516",
+        "StockName": "勤崴國際",
+        "AverageDailyTradingAmount": "2634"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "503",
+        "StockCode": "6570",
+        "StockName": "維田",
+        "AverageDailyTradingAmount": "2609"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "504",
+        "StockCode": "1264",
+        "StockName": "德麥",
+        "AverageDailyTradingAmount": "2601"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "505",
+        "StockCode": "3609",
+        "StockName": "三一東林",
+        "AverageDailyTradingAmount": "2599"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "506",
+        "StockCode": "8401",
+        "StockName": "白紗科技",
+        "AverageDailyTradingAmount": "2597"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "507",
+        "StockCode": "4161",
+        "StockName": "聿新科",
+        "AverageDailyTradingAmount": "2552"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "508",
+        "StockCode": "8068",
+        "StockName": "全達國際",
+        "AverageDailyTradingAmount": "2512"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "509",
+        "StockCode": "6875",
+        "StockName": "國邑*",
+        "AverageDailyTradingAmount": "2497"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "510",
+        "StockCode": "2061",
+        "StockName": "風青",
+        "AverageDailyTradingAmount": "2468"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "511",
+        "StockCode": "6728",
+        "StockName": "上洋",
+        "AverageDailyTradingAmount": "2459"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "512",
+        "StockCode": "4160",
+        "StockName": "訊聯基因",
+        "AverageDailyTradingAmount": "2455"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "513",
+        "StockCode": "6486",
+        "StockName": "互動",
+        "AverageDailyTradingAmount": "2444"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "514",
+        "StockCode": "4534",
+        "StockName": "慶騰精密",
+        "AverageDailyTradingAmount": "2432"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "515",
+        "StockCode": "6294",
+        "StockName": "智基科技",
+        "AverageDailyTradingAmount": "2404"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "516",
+        "StockCode": "8289",
+        "StockName": "泰藝電子",
+        "AverageDailyTradingAmount": "2382"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "517",
+        "StockCode": "2736",
+        "StockName": "富野",
+        "AverageDailyTradingAmount": "2378"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "518",
+        "StockCode": "8440",
+        "StockName": "綠電",
+        "AverageDailyTradingAmount": "2368"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "519",
+        "StockCode": "2754",
+        "StockName": "亞洲藏壽司",
+        "AverageDailyTradingAmount": "2349"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "520",
+        "StockCode": "3527",
+        "StockName": "聚積",
+        "AverageDailyTradingAmount": "2338"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "521",
+        "StockCode": "3083",
+        "StockName": "中華網龍",
+        "AverageDailyTradingAmount": "2330"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "522",
+        "StockCode": "4558",
+        "StockName": "寶緯",
+        "AverageDailyTradingAmount": "2269"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "523",
+        "StockCode": "6637",
+        "StockName": "醫影",
+        "AverageDailyTradingAmount": "2263"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "524",
+        "StockCode": "1336",
+        "StockName": "台翰",
+        "AverageDailyTradingAmount": "2223"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "525",
+        "StockCode": "6419",
+        "StockName": "京晨科",
+        "AverageDailyTradingAmount": "2202"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "526",
+        "StockCode": "4806",
+        "StockName": "桂田文創",
+        "AverageDailyTradingAmount": "2193"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "527",
+        "StockCode": "6185",
+        "StockName": "幃翔精密",
+        "AverageDailyTradingAmount": "2184"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "528",
+        "StockCode": "6167",
+        "StockName": "久正光電",
+        "AverageDailyTradingAmount": "2181"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "529",
+        "StockCode": "2734",
+        "StockName": "易飛網",
+        "AverageDailyTradingAmount": "2111"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "530",
+        "StockCode": "6130",
+        "StockName": "上亞科技",
+        "AverageDailyTradingAmount": "2107"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "531",
+        "StockCode": "6642",
+        "StockName": "富致",
+        "AverageDailyTradingAmount": "2101"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "532",
+        "StockCode": "6160",
+        "StockName": "欣技資訊",
+        "AverageDailyTradingAmount": "2076"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "533",
+        "StockCode": "6109",
+        "StockName": "亞元科技",
+        "AverageDailyTradingAmount": "2056"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "534",
+        "StockCode": "3438",
+        "StockName": "類比科",
+        "AverageDailyTradingAmount": "2054"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "535",
+        "StockCode": "3556",
+        "StockName": "禾瑞亞",
+        "AverageDailyTradingAmount": "2024"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "536",
+        "StockCode": "6894",
+        "StockName": "衛司特",
+        "AverageDailyTradingAmount": "2023"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "537",
+        "StockCode": "3093",
+        "StockName": "港建*",
+        "AverageDailyTradingAmount": "2020"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "538",
+        "StockCode": "4121",
+        "StockName": "優盛醫學",
+        "AverageDailyTradingAmount": "1974"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "539",
+        "StockCode": "6494",
+        "StockName": "九齊",
+        "AverageDailyTradingAmount": "1972"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "540",
+        "StockCode": "6855",
+        "StockName": "數泓科",
+        "AverageDailyTradingAmount": "1927"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "541",
+        "StockCode": "4741",
+        "StockName": "泓瀚",
+        "AverageDailyTradingAmount": "1883"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "542",
+        "StockCode": "8049",
+        "StockName": "晶采光電",
+        "AverageDailyTradingAmount": "1878"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "543",
+        "StockCode": "6174",
+        "StockName": "安碁科技",
+        "AverageDailyTradingAmount": "1869"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "544",
+        "StockCode": "6577",
+        "StockName": "勁豐",
+        "AverageDailyTradingAmount": "1858"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "545",
+        "StockCode": "5230",
+        "StockName": "雷笛克光學",
+        "AverageDailyTradingAmount": "1843"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "546",
+        "StockCode": "3322",
+        "StockName": "建舜電子",
+        "AverageDailyTradingAmount": "1820"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "547",
+        "StockCode": "3489",
+        "StockName": "森寶",
+        "AverageDailyTradingAmount": "1809"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "548",
+        "StockCode": "6654",
+        "StockName": "天正國際",
+        "AverageDailyTradingAmount": "1786"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "549",
+        "StockCode": "8931",
+        "StockName": "大園汽電",
+        "AverageDailyTradingAmount": "1767"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "550",
+        "StockCode": "3631",
+        "StockName": "晟楠",
+        "AverageDailyTradingAmount": "1767"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "551",
+        "StockCode": "3666",
+        "StockName": "光耀",
+        "AverageDailyTradingAmount": "1754"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "552",
+        "StockCode": "4205",
+        "StockName": "中華食品",
+        "AverageDailyTradingAmount": "1752"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "553",
+        "StockCode": "8093",
+        "StockName": "保銳科技",
+        "AverageDailyTradingAmount": "1748"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "554",
+        "StockCode": "6208",
+        "StockName": "日揚科技",
+        "AverageDailyTradingAmount": "1734"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "555",
+        "StockCode": "6101",
+        "StockName": "寬魚國際",
+        "AverageDailyTradingAmount": "1728"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "556",
+        "StockCode": "1570",
+        "StockName": "力肯實業",
+        "AverageDailyTradingAmount": "1699"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "557",
+        "StockCode": "4116",
+        "StockName": "明基醫",
+        "AverageDailyTradingAmount": "1687"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "558",
+        "StockCode": "8933",
+        "StockName": "愛地雅",
+        "AverageDailyTradingAmount": "1682"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "559",
+        "StockCode": "5272",
+        "StockName": "笙科",
+        "AverageDailyTradingAmount": "1630"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "560",
+        "StockCode": "6874",
+        "StockName": "倍力",
+        "AverageDailyTradingAmount": "1627"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "561",
+        "StockCode": "1240",
+        "StockName": "茂生農經",
+        "AverageDailyTradingAmount": "1627"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "562",
+        "StockCode": "6612",
+        "StockName": "奈米醫材",
+        "AverageDailyTradingAmount": "1624"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "563",
+        "StockCode": "4416",
+        "StockName": "三圓建設",
+        "AverageDailyTradingAmount": "1611"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "564",
+        "StockCode": "3521",
+        "StockName": "鴻翊",
+        "AverageDailyTradingAmount": "1604"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "565",
+        "StockCode": "5227",
+        "StockName": "立凱-KY",
+        "AverageDailyTradingAmount": "1582"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "566",
+        "StockCode": "2752",
+        "StockName": "豆府",
+        "AverageDailyTradingAmount": "1569"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "567",
+        "StockCode": "3373",
+        "StockName": "熱映光電",
+        "AverageDailyTradingAmount": "1551"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "568",
+        "StockCode": "4120",
+        "StockName": "友華生技",
+        "AverageDailyTradingAmount": "1525"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "569",
+        "StockCode": "6114",
+        "StockName": "久威國際",
+        "AverageDailyTradingAmount": "1521"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "570",
+        "StockCode": "3512",
+        "StockName": "皇龍",
+        "AverageDailyTradingAmount": "1520"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "571",
+        "StockCode": "2916",
+        "StockName": "滿心企業",
+        "AverageDailyTradingAmount": "1510"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "572",
+        "StockCode": "4542",
+        "StockName": "科嶠",
+        "AverageDailyTradingAmount": "1488"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "573",
+        "StockCode": "6461",
+        "StockName": "益得",
+        "AverageDailyTradingAmount": "1468"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "574",
+        "StockCode": "6292",
+        "StockName": "迅德興業",
+        "AverageDailyTradingAmount": "1459"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "575",
+        "StockCode": "6508",
+        "StockName": "惠光",
+        "AverageDailyTradingAmount": "1452"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "576",
+        "StockCode": "6881",
+        "StockName": "潤德",
+        "AverageDailyTradingAmount": "1447"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "577",
+        "StockCode": "4554",
+        "StockName": "橙的",
+        "AverageDailyTradingAmount": "1445"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "578",
+        "StockCode": "3276",
+        "StockName": "宇環科技",
+        "AverageDailyTradingAmount": "1407"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "579",
+        "StockCode": "4911",
+        "StockName": "德英",
+        "AverageDailyTradingAmount": "1401"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "580",
+        "StockCode": "3360",
+        "StockName": "尚立",
+        "AverageDailyTradingAmount": "1390"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "581",
+        "StockCode": "2596",
+        "StockName": "綠意開發",
+        "AverageDailyTradingAmount": "1382"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "582",
+        "StockCode": "5212",
+        "StockName": "凌網科技",
+        "AverageDailyTradingAmount": "1359"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "583",
+        "StockCode": "4420",
+        "StockName": "光明",
+        "AverageDailyTradingAmount": "1340"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "584",
+        "StockCode": "3388",
+        "StockName": "崇越電通",
+        "AverageDailyTradingAmount": "1336"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "585",
+        "StockCode": "8284",
+        "StockName": "三竹",
+        "AverageDailyTradingAmount": "1332"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "586",
+        "StockCode": "6123",
+        "StockName": "上奇科技",
+        "AverageDailyTradingAmount": "1327"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "587",
+        "StockCode": "3224",
+        "StockName": "三顧",
+        "AverageDailyTradingAmount": "1320"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "588",
+        "StockCode": "5464",
+        "StockName": "霖宏科技",
+        "AverageDailyTradingAmount": "1318"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "589",
+        "StockCode": "3114",
+        "StockName": "好德科技",
+        "AverageDailyTradingAmount": "1318"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "590",
+        "StockCode": "4127",
+        "StockName": "天良",
+        "AverageDailyTradingAmount": "1291"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "591",
+        "StockCode": "3623",
+        "StockName": "富晶通",
+        "AverageDailyTradingAmount": "1286"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "592",
+        "StockCode": "3171",
+        "StockName": "炎洲流通",
+        "AverageDailyTradingAmount": "1223"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "593",
+        "StockCode": "2065",
+        "StockName": "世豐",
+        "AverageDailyTradingAmount": "1223"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "594",
+        "StockCode": "1268",
+        "StockName": "漢來美食",
+        "AverageDailyTradingAmount": "1207"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "595",
+        "StockCode": "5460",
+        "StockName": "同協電子",
+        "AverageDailyTradingAmount": "1193"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "596",
+        "StockCode": "6158",
+        "StockName": "禾昌興業",
+        "AverageDailyTradingAmount": "1189"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "597",
+        "StockCode": "8092",
+        "StockName": "建暐精密",
+        "AverageDailyTradingAmount": "1168"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "598",
+        "StockCode": "4754",
+        "StockName": "國碳科技",
+        "AverageDailyTradingAmount": "1157"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "599",
+        "StockCode": "6240",
+        "StockName": "松崗",
+        "AverageDailyTradingAmount": "1150"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "600",
+        "StockCode": "3310",
+        "StockName": "佳穎精密",
+        "AverageDailyTradingAmount": "1135"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "601",
+        "StockCode": "6791",
+        "StockName": "虎門科技",
+        "AverageDailyTradingAmount": "1130"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "602",
+        "StockCode": "5356",
+        "StockName": "協益電子",
+        "AverageDailyTradingAmount": "1128"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "603",
+        "StockCode": "6276",
+        "StockName": "安鈦克",
+        "AverageDailyTradingAmount": "1115"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "604",
+        "StockCode": "3664",
+        "StockName": "安瑞-KY",
+        "AverageDailyTradingAmount": "1085"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "605",
+        "StockCode": "4171",
+        "StockName": "瑞基",
+        "AverageDailyTradingAmount": "1084"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "606",
+        "StockCode": "7547",
+        "StockName": "碩網",
+        "AverageDailyTradingAmount": "1065"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "607",
+        "StockCode": "7716",
+        "StockName": "昱臺國際",
+        "AverageDailyTradingAmount": "1054"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "608",
+        "StockCode": "5014",
+        "StockName": "建錩實業",
+        "AverageDailyTradingAmount": "1052"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "609",
+        "StockCode": "2067",
+        "StockName": "嘉鋼",
+        "AverageDailyTradingAmount": "1047"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "610",
+        "StockCode": "1788",
+        "StockName": "杏昌生技",
+        "AverageDailyTradingAmount": "1041"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "611",
+        "StockCode": "8107",
+        "StockName": "大億金茂",
+        "AverageDailyTradingAmount": "1039"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "612",
+        "StockCode": "6872",
+        "StockName": "浩宇生醫",
+        "AverageDailyTradingAmount": "1033"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "613",
+        "StockCode": "7715",
+        "StockName": "裕山",
+        "AverageDailyTradingAmount": "1032"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "614",
+        "StockCode": "2947",
+        "StockName": "振宇五金",
+        "AverageDailyTradingAmount": "1031"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "615",
+        "StockCode": "3467",
+        "StockName": "台灣精材",
+        "AverageDailyTradingAmount": "1018"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "616",
+        "StockCode": "6218",
+        "StockName": "豪勉科技",
+        "AverageDailyTradingAmount": "1015"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "617",
+        "StockCode": "4175",
+        "StockName": "杏一",
+        "AverageDailyTradingAmount": "1002"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "618",
+        "StockCode": "2719",
+        "StockName": "燦星旅",
+        "AverageDailyTradingAmount": "1002"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "619",
+        "StockCode": "3206",
+        "StockName": "志豐電子",
+        "AverageDailyTradingAmount": "993"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "620",
+        "StockCode": "7708",
+        "StockName": "全家餐飲",
+        "AverageDailyTradingAmount": "967"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "621",
+        "StockCode": "6865",
+        "StockName": "偉康科技",
+        "AverageDailyTradingAmount": "957"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "622",
+        "StockCode": "5488",
+        "StockName": "松普科技",
+        "AverageDailyTradingAmount": "955"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "623",
+        "StockCode": "6578",
+        "StockName": "達邦蛋白",
+        "AverageDailyTradingAmount": "950"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "624",
+        "StockCode": "6846",
+        "StockName": "綠茵",
+        "AverageDailyTradingAmount": "946"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "625",
+        "StockCode": "2640",
+        "StockName": "大車隊",
+        "AverageDailyTradingAmount": "941"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "626",
+        "StockCode": "2732",
+        "StockName": "六角",
+        "AverageDailyTradingAmount": "937"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "627",
+        "StockCode": "4304",
+        "StockName": "勝昱科技",
+        "AverageDailyTradingAmount": "924"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "628",
+        "StockCode": "8272",
+        "StockName": "全景軟體",
+        "AverageDailyTradingAmount": "916"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "629",
+        "StockCode": "6735",
+        "StockName": "美達科技",
+        "AverageDailyTradingAmount": "913"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "630",
+        "StockCode": "6210",
+        "StockName": "慶生電子",
+        "AverageDailyTradingAmount": "909"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "631",
+        "StockCode": "3597",
+        "StockName": "映興",
+        "AverageDailyTradingAmount": "903"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "632",
+        "StockCode": "7747",
+        "StockName": "昕奇雲端",
+        "AverageDailyTradingAmount": "893"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "633",
+        "StockCode": "6624",
+        "StockName": "萬年清",
+        "AverageDailyTradingAmount": "879"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "634",
+        "StockCode": "3522",
+        "StockName": "御嵿",
+        "AverageDailyTradingAmount": "874"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "635",
+        "StockCode": "4711",
+        "StockName": "永純",
+        "AverageDailyTradingAmount": "870"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "636",
+        "StockCode": "4139",
+        "StockName": "馬光-KY",
+        "AverageDailyTradingAmount": "862"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "637",
+        "StockCode": "3541",
+        "StockName": "西柏科技",
+        "AverageDailyTradingAmount": "861"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "638",
+        "StockCode": "6692",
+        "StockName": "進能服",
+        "AverageDailyTradingAmount": "861"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "639",
+        "StockCode": "5344",
+        "StockName": "立衛科技",
+        "AverageDailyTradingAmount": "858"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "640",
+        "StockCode": "6971",
+        "StockName": "惠民實業",
+        "AverageDailyTradingAmount": "856"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "641",
+        "StockCode": "6680",
+        "StockName": "鑫創電子",
+        "AverageDailyTradingAmount": "845"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "642",
+        "StockCode": "8087",
+        "StockName": "麗升能源",
+        "AverageDailyTradingAmount": "840"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "643",
+        "StockCode": "6482",
+        "StockName": "弘煜科",
+        "AverageDailyTradingAmount": "840"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "644",
+        "StockCode": "6899",
+        "StockName": "創為精密",
+        "AverageDailyTradingAmount": "840"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "645",
+        "StockCode": "4728",
+        "StockName": "雙美",
+        "AverageDailyTradingAmount": "819"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "646",
+        "StockCode": "1781",
+        "StockName": "合世生醫",
+        "AverageDailyTradingAmount": "816"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "647",
+        "StockCode": "4131",
+        "StockName": "浩泰",
+        "AverageDailyTradingAmount": "808"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "648",
+        "StockCode": "5603",
+        "StockName": "陸海交通",
+        "AverageDailyTradingAmount": "799"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "649",
+        "StockCode": "4735",
+        "StockName": "豪展",
+        "AverageDailyTradingAmount": "797"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "650",
+        "StockCode": "2643",
+        "StockName": "捷迅",
+        "AverageDailyTradingAmount": "788"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "651",
+        "StockCode": "6229",
+        "StockName": "研通科技",
+        "AverageDailyTradingAmount": "780"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "652",
+        "StockCode": "6441",
+        "StockName": "廣錠",
+        "AverageDailyTradingAmount": "778"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "653",
+        "StockCode": "5220",
+        "StockName": "萬達光電",
+        "AverageDailyTradingAmount": "775"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "654",
+        "StockCode": "4401",
+        "StockName": "東隆興業",
+        "AverageDailyTradingAmount": "761"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "655",
+        "StockCode": "3066",
+        "StockName": "李洲科技",
+        "AverageDailyTradingAmount": "759"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "656",
+        "StockCode": "5302",
+        "StockName": "太欣半導",
+        "AverageDailyTradingAmount": "754"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "657",
+        "StockCode": "3122",
+        "StockName": "笙泉",
+        "AverageDailyTradingAmount": "746"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "658",
+        "StockCode": "6259",
+        "StockName": "百徽",
+        "AverageDailyTradingAmount": "736"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "659",
+        "StockCode": "6904",
+        "StockName": "伯鑫",
+        "AverageDailyTradingAmount": "726"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "660",
+        "StockCode": "5011",
+        "StockName": "久陽精密",
+        "AverageDailyTradingAmount": "725"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "661",
+        "StockCode": "4163",
+        "StockName": "鐿鈦",
+        "AverageDailyTradingAmount": "711"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "662",
+        "StockCode": "6708",
+        "StockName": "天擎",
+        "AverageDailyTradingAmount": "709"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "663",
+        "StockCode": "3465",
+        "StockName": "進泰電子",
+        "AverageDailyTradingAmount": "699"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "664",
+        "StockCode": "4550",
+        "StockName": "長佳",
+        "AverageDailyTradingAmount": "678"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "665",
+        "StockCode": "3441",
+        "StockName": "聯一光",
+        "AverageDailyTradingAmount": "678"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "666",
+        "StockCode": "6527",
+        "StockName": "明達醫",
+        "AverageDailyTradingAmount": "668"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "667",
+        "StockCode": "6241",
+        "StockName": "易通展",
+        "AverageDailyTradingAmount": "659"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "668",
+        "StockCode": "5364",
+        "StockName": "力麗店",
+        "AverageDailyTradingAmount": "659"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "669",
+        "StockCode": "5878",
+        "StockName": "台名",
+        "AverageDailyTradingAmount": "657"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "670",
+        "StockCode": "8410",
+        "StockName": "森田印刷",
+        "AverageDailyTradingAmount": "655"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "671",
+        "StockCode": "7753",
+        "StockName": "星亞",
+        "AverageDailyTradingAmount": "654"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "672",
+        "StockCode": "5523",
+        "StockName": "豐謙",
+        "AverageDailyTradingAmount": "650"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "673",
+        "StockCode": "5245",
+        "StockName": "智晶",
+        "AverageDailyTradingAmount": "638"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "674",
+        "StockCode": "8906",
+        "StockName": "花王企業",
+        "AverageDailyTradingAmount": "636"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "675",
+        "StockCode": "5704",
+        "StockName": "老爺知",
+        "AverageDailyTradingAmount": "634"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "676",
+        "StockCode": "4972",
+        "StockName": "湯石照明",
+        "AverageDailyTradingAmount": "633"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "677",
+        "StockCode": "3567",
+        "StockName": "逸昌",
+        "AverageDailyTradingAmount": "629"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "678",
+        "StockCode": "5902",
+        "StockName": "德記洋行",
+        "AverageDailyTradingAmount": "624"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "679",
+        "StockCode": "5353",
+        "StockName": "台林電通",
+        "AverageDailyTradingAmount": "616"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "680",
+        "StockCode": "8409",
+        "StockName": "商之器",
+        "AverageDailyTradingAmount": "608"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "681",
+        "StockCode": "2926",
+        "StockName": "誠品生活",
+        "AverageDailyTradingAmount": "608"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "682",
+        "StockCode": "4706",
+        "StockName": "大恭化學",
+        "AverageDailyTradingAmount": "607"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "683",
+        "StockCode": "4527",
+        "StockName": "方土霖",
+        "AverageDailyTradingAmount": "593"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "684",
+        "StockCode": "4432",
+        "StockName": "銘旺實",
+        "AverageDailyTradingAmount": "591"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "685",
+        "StockCode": "7713",
+        "StockName": "威力德生醫",
+        "AverageDailyTradingAmount": "588"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "686",
+        "StockCode": "4402",
+        "StockName": "郡都開發",
+        "AverageDailyTradingAmount": "586"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "687",
+        "StockCode": "8432",
+        "StockName": "東生華",
+        "AverageDailyTradingAmount": "579"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "688",
+        "StockCode": "8067",
+        "StockName": "志旭國際",
+        "AverageDailyTradingAmount": "579"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "689",
+        "StockCode": "6843",
+        "StockName": "進典",
+        "AverageDailyTradingAmount": "575"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "690",
+        "StockCode": "4502",
+        "StockName": "健信科技",
+        "AverageDailyTradingAmount": "560"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "691",
+        "StockCode": "5529",
+        "StockName": "鉅陞",
+        "AverageDailyTradingAmount": "555"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "692",
+        "StockCode": "6856",
+        "StockName": "鑫傳",
+        "AverageDailyTradingAmount": "551"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "693",
+        "StockCode": "5211",
+        "StockName": "蒙恬科技",
+        "AverageDailyTradingAmount": "535"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "694",
+        "StockCode": "2949",
+        "StockName": "欣新網",
+        "AverageDailyTradingAmount": "527"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "695",
+        "StockCode": "6697",
+        "StockName": "東捷資訊",
+        "AverageDailyTradingAmount": "526"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "696",
+        "StockCode": "3354",
+        "StockName": "律勝",
+        "AverageDailyTradingAmount": "521"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "697",
+        "StockCode": "4138",
+        "StockName": "曜亞國際",
+        "AverageDailyTradingAmount": "519"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "698",
+        "StockCode": "5206",
+        "StockName": "坤悅開發",
+        "AverageDailyTradingAmount": "516"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "699",
+        "StockCode": "5015",
+        "StockName": "華祺工業",
+        "AverageDailyTradingAmount": "513"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "700",
+        "StockCode": "6198",
+        "StockName": "瑞築",
+        "AverageDailyTradingAmount": "504"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "701",
+        "StockCode": "4924",
+        "StockName": "欣厚-KY",
+        "AverageDailyTradingAmount": "497"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "702",
+        "StockCode": "6496",
+        "StockName": "科懋",
+        "AverageDailyTradingAmount": "495"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "703",
+        "StockCode": "3115",
+        "StockName": "富榮綱",
+        "AverageDailyTradingAmount": "489"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "704",
+        "StockCode": "3531",
+        "StockName": "先益電子",
+        "AverageDailyTradingAmount": "489"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "705",
+        "StockCode": "5345",
+        "StockName": "馥鴻",
+        "AverageDailyTradingAmount": "482"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "706",
+        "StockCode": "6762",
+        "StockName": "達亞",
+        "AverageDailyTradingAmount": "473"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "707",
+        "StockCode": "5228",
+        "StockName": "鈺鎧",
+        "AverageDailyTradingAmount": "468"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "708",
+        "StockCode": "8928",
+        "StockName": "鉅明",
+        "AverageDailyTradingAmount": "466"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "709",
+        "StockCode": "6590",
+        "StockName": "普鴻",
+        "AverageDailyTradingAmount": "461"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "710",
+        "StockCode": "3646",
+        "StockName": "艾恩特",
+        "AverageDailyTradingAmount": "460"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "711",
+        "StockCode": "3272",
+        "StockName": "東碩",
+        "AverageDailyTradingAmount": "457"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "712",
+        "StockCode": "2063",
+        "StockName": "世鎧精密",
+        "AverageDailyTradingAmount": "456"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "713",
+        "StockCode": "4153",
+        "StockName": "鈺緯",
+        "AverageDailyTradingAmount": "449"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "714",
+        "StockCode": "6154",
+        "StockName": "順發電腦",
+        "AverageDailyTradingAmount": "447"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "715",
+        "StockCode": "6195",
+        "StockName": "詩肯",
+        "AverageDailyTradingAmount": "444"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "716",
+        "StockCode": "8424",
+        "StockName": "惠普",
+        "AverageDailyTradingAmount": "441"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "717",
+        "StockCode": "8437",
+        "StockName": "大地-KY",
+        "AverageDailyTradingAmount": "437"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "718",
+        "StockCode": "8342",
+        "StockName": "益張",
+        "AverageDailyTradingAmount": "429"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "719",
+        "StockCode": "3288",
+        "StockName": "點晶科技",
+        "AverageDailyTradingAmount": "416"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "720",
+        "StockCode": "8433",
+        "StockName": "弘帆",
+        "AverageDailyTradingAmount": "408"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "721",
+        "StockCode": "8421",
+        "StockName": "旭源",
+        "AverageDailyTradingAmount": "408"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "722",
+        "StockCode": "6228",
+        "StockName": "全譜科技",
+        "AverageDailyTradingAmount": "406"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "723",
+        "StockCode": "1599",
+        "StockName": "宏佳騰",
+        "AverageDailyTradingAmount": "406"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "724",
+        "StockCode": "4430",
+        "StockName": "耀億",
+        "AverageDailyTradingAmount": "400"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "725",
+        "StockCode": "5013",
+        "StockName": "強新工業",
+        "AverageDailyTradingAmount": "399"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "726",
+        "StockCode": "8416",
+        "StockName": "實威",
+        "AverageDailyTradingAmount": "386"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "727",
+        "StockCode": "1796",
+        "StockName": "金穎生技",
+        "AverageDailyTradingAmount": "381"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "728",
+        "StockCode": "6242",
+        "StockName": "立康",
+        "AverageDailyTradingAmount": "380"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "729",
+        "StockCode": "8354",
+        "StockName": "冠好",
+        "AverageDailyTradingAmount": "377"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "730",
+        "StockCode": "4538",
+        "StockName": "大詠城",
+        "AverageDailyTradingAmount": "374"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "731",
+        "StockCode": "6246",
+        "StockName": "臺龍電子",
+        "AverageDailyTradingAmount": "373"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "732",
+        "StockCode": "5223",
+        "StockName": "安力-KY",
+        "AverageDailyTradingAmount": "371"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "733",
+        "StockCode": "7709",
+        "StockName": "榮田",
+        "AverageDailyTradingAmount": "369"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "734",
+        "StockCode": "6171",
+        "StockName": "大城地產",
+        "AverageDailyTradingAmount": "360"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "735",
+        "StockCode": "1593",
+        "StockName": "祺驊",
+        "AverageDailyTradingAmount": "359"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "736",
+        "StockCode": "8182",
+        "StockName": "加高電子",
+        "AverageDailyTradingAmount": "357"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "737",
+        "StockCode": "8929",
+        "StockName": "富堡工業",
+        "AverageDailyTradingAmount": "356"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "738",
+        "StockCode": "6222",
+        "StockName": "立軒",
+        "AverageDailyTradingAmount": "355"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "739",
+        "StockCode": "8941",
+        "StockName": "關中",
+        "AverageDailyTradingAmount": "351"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "740",
+        "StockCode": "6506",
+        "StockName": "雙邦實業",
+        "AverageDailyTradingAmount": "351"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "741",
+        "StockCode": "3516",
+        "StockName": "亞帝歐",
+        "AverageDailyTradingAmount": "337"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "742",
+        "StockCode": "6556",
+        "StockName": "勝品",
+        "AverageDailyTradingAmount": "335"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "743",
+        "StockCode": "8024",
+        "StockName": "佑華微電",
+        "AverageDailyTradingAmount": "335"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "744",
+        "StockCode": "6144",
+        "StockName": "得利影視",
+        "AverageDailyTradingAmount": "335"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "745",
+        "StockCode": "8435",
+        "StockName": "鉅邁",
+        "AverageDailyTradingAmount": "331"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "746",
+        "StockCode": "6616",
+        "StockName": "特昇-KY",
+        "AverageDailyTradingAmount": "330"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "747",
+        "StockCode": "5516",
+        "StockName": "雙喜",
+        "AverageDailyTradingAmount": "318"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "748",
+        "StockCode": "4907",
+        "StockName": "富宇地產",
+        "AverageDailyTradingAmount": "316"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "749",
+        "StockCode": "6169",
+        "StockName": "昱泉國際",
+        "AverageDailyTradingAmount": "314"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "750",
+        "StockCode": "8080",
+        "StockName": "泰霖",
+        "AverageDailyTradingAmount": "309"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "751",
+        "StockCode": "8477",
+        "StockName": "創業家",
+        "AverageDailyTradingAmount": "297"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "752",
+        "StockCode": "6588",
+        "StockName": "東典光電",
+        "AverageDailyTradingAmount": "296"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "753",
+        "StockCode": "8917",
+        "StockName": "欣泰",
+        "AverageDailyTradingAmount": "295"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "754",
+        "StockCode": "5450",
+        "StockName": "南良",
+        "AverageDailyTradingAmount": "284"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "755",
+        "StockCode": "5701",
+        "StockName": "劍湖山",
+        "AverageDailyTradingAmount": "279"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "756",
+        "StockCode": "2035",
+        "StockName": "唐榮公司",
+        "AverageDailyTradingAmount": "276"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "757",
+        "StockCode": "3259",
+        "StockName": "鑫創科技",
+        "AverageDailyTradingAmount": "267"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "758",
+        "StockCode": "6597",
+        "StockName": "立誠",
+        "AverageDailyTradingAmount": "262"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "759",
+        "StockCode": "5604",
+        "StockName": "中連",
+        "AverageDailyTradingAmount": "255"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "760",
+        "StockCode": "6767",
+        "StockName": "台微醫",
+        "AverageDailyTradingAmount": "251"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "761",
+        "StockCode": "6124",
+        "StockName": "業強科技",
+        "AverageDailyTradingAmount": "250"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "762",
+        "StockCode": "7584",
+        "StockName": "樂意",
+        "AverageDailyTradingAmount": "248"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "763",
+        "StockCode": "6967",
+        "StockName": "汎瑋材料",
+        "AverageDailyTradingAmount": "246"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "764",
+        "StockCode": "6844",
+        "StockName": "諾貝兒",
+        "AverageDailyTradingAmount": "246"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "765",
+        "StockCode": "4188",
+        "StockName": "安克",
+        "AverageDailyTradingAmount": "244"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "766",
+        "StockCode": "5348",
+        "StockName": "正能量智能",
+        "AverageDailyTradingAmount": "231"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "767",
+        "StockCode": "4804",
+        "StockName": "大略-KY",
+        "AverageDailyTradingAmount": "224"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "768",
+        "StockCode": "5601",
+        "StockName": "台聯貨櫃",
+        "AverageDailyTradingAmount": "223"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "769",
+        "StockCode": "6804",
+        "StockName": "明係",
+        "AverageDailyTradingAmount": "220"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "770",
+        "StockCode": "3191",
+        "StockName": "雲嘉南",
+        "AverageDailyTradingAmount": "215"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "771",
+        "StockCode": "9962",
+        "StockName": "有益鋼鐵",
+        "AverageDailyTradingAmount": "212"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "772",
+        "StockCode": "4923",
+        "StockName": "力士",
+        "AverageDailyTradingAmount": "202"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "773",
+        "StockCode": "6020",
+        "StockName": "大展證券",
+        "AverageDailyTradingAmount": "201"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "774",
+        "StockCode": "5543",
+        "StockName": "桓鼎-KY",
+        "AverageDailyTradingAmount": "197"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "775",
+        "StockCode": "4530",
+        "StockName": "宏易",
+        "AverageDailyTradingAmount": "196"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "776",
+        "StockCode": "4535",
+        "StockName": "至興精機",
+        "AverageDailyTradingAmount": "196"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "777",
+        "StockCode": "3672",
+        "StockName": "康聯訊",
+        "AverageDailyTradingAmount": "194"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "778",
+        "StockCode": "1259",
+        "StockName": "安心",
+        "AverageDailyTradingAmount": "188"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "779",
+        "StockCode": "5520",
+        "StockName": "力泰建設",
+        "AverageDailyTradingAmount": "183"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "780",
+        "StockCode": "3118",
+        "StockName": "進階",
+        "AverageDailyTradingAmount": "181"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "781",
+        "StockCode": "6542",
+        "StockName": "隆中",
+        "AverageDailyTradingAmount": "175"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "782",
+        "StockCode": "4556",
+        "StockName": "旭然",
+        "AverageDailyTradingAmount": "171"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "783",
+        "StockCode": "3095",
+        "StockName": "及成",
+        "AverageDailyTradingAmount": "167"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "784",
+        "StockCode": "4529",
+        "StockName": "淳紳",
+        "AverageDailyTradingAmount": "167"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "785",
+        "StockCode": "8450",
+        "StockName": "霹靂",
+        "AverageDailyTradingAmount": "167"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "786",
+        "StockCode": "4528",
+        "StockName": "江興鍛壓",
+        "AverageDailyTradingAmount": "164"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "787",
+        "StockCode": "4568",
+        "StockName": "科際精密",
+        "AverageDailyTradingAmount": "164"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "788",
+        "StockCode": "3632",
+        "StockName": "研勤科技",
+        "AverageDailyTradingAmount": "163"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "789",
+        "StockCode": "7743",
+        "StockName": "金利食安",
+        "AverageDailyTradingAmount": "160"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "790",
+        "StockCode": "9950",
+        "StockName": "萬國通路",
+        "AverageDailyTradingAmount": "155"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "791",
+        "StockCode": "4433",
+        "StockName": "興采",
+        "AverageDailyTradingAmount": "155"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "792",
+        "StockCode": "8905",
+        "StockName": "裕國",
+        "AverageDailyTradingAmount": "154"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "793",
+        "StockCode": "1813",
+        "StockName": "寶利徠",
+        "AverageDailyTradingAmount": "154"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "794",
+        "StockCode": "3226",
+        "StockName": "龍鋒",
+        "AverageDailyTradingAmount": "150"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "795",
+        "StockCode": "3426",
+        "StockName": "台興",
+        "AverageDailyTradingAmount": "145"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "796",
+        "StockCode": "2724",
+        "StockName": "藝舍-KY",
+        "AverageDailyTradingAmount": "143"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "797",
+        "StockCode": "6929",
+        "StockName": "佑全",
+        "AverageDailyTradingAmount": "142"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "798",
+        "StockCode": "2726",
+        "StockName": "雅茗-KY",
+        "AverageDailyTradingAmount": "140"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "799",
+        "StockCode": "5301",
+        "StockName": "寶得利",
+        "AverageDailyTradingAmount": "139"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "800",
+        "StockCode": "6264",
+        "StockName": "富裔",
+        "AverageDailyTradingAmount": "131"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "801",
+        "StockCode": "6840",
+        "StockName": "東研信超",
+        "AverageDailyTradingAmount": "129"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "802",
+        "StockCode": "9949",
+        "StockName": "琉園",
+        "AverageDailyTradingAmount": "122"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "803",
+        "StockCode": "3499",
+        "StockName": "環天科技",
+        "AverageDailyTradingAmount": "117"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "804",
+        "StockCode": "3285",
+        "StockName": "微端",
+        "AverageDailyTradingAmount": "116"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "805",
+        "StockCode": "4413",
+        "StockName": "飛寶企業",
+        "AverageDailyTradingAmount": "114"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "806",
+        "StockCode": "8923",
+        "StockName": "時報出版",
+        "AverageDailyTradingAmount": "99"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "807",
+        "StockCode": "6662",
+        "StockName": "樂斯科",
+        "AverageDailyTradingAmount": "98"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "808",
+        "StockCode": "6574",
+        "StockName": "霈方",
+        "AverageDailyTradingAmount": "97"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "809",
+        "StockCode": "4154",
+        "StockName": "樂威科-KY",
+        "AverageDailyTradingAmount": "96"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "810",
+        "StockCode": "8423",
+        "StockName": "保綠-KY",
+        "AverageDailyTradingAmount": "96"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "811",
+        "StockCode": "3252",
+        "StockName": "海灣",
+        "AverageDailyTradingAmount": "93"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "812",
+        "StockCode": "2740",
+        "StockName": "天蔥",
+        "AverageDailyTradingAmount": "92"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "813",
+        "StockCode": "2221",
+        "StockName": "大甲",
+        "AverageDailyTradingAmount": "92"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "814",
+        "StockCode": "5205",
+        "StockName": "中茂",
+        "AverageDailyTradingAmount": "90"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "815",
+        "StockCode": "1742",
+        "StockName": "台蠟",
+        "AverageDailyTradingAmount": "80"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "816",
+        "StockCode": "3067",
+        "StockName": "全域",
+        "AverageDailyTradingAmount": "72"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "817",
+        "StockCode": "3064",
+        "StockName": "泰偉電子",
+        "AverageDailyTradingAmount": "71"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "818",
+        "StockCode": "6661",
+        "StockName": "威健生技",
+        "AverageDailyTradingAmount": "61"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "819",
+        "StockCode": "5487",
+        "StockName": "通泰",
+        "AverageDailyTradingAmount": "60"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "820",
+        "StockCode": "3629",
+        "StockName": "地心引力",
+        "AverageDailyTradingAmount": "49"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "821",
+        "StockCode": "9960",
+        "StockName": "邁達康",
+        "AverageDailyTradingAmount": "48"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "822",
+        "StockCode": "4192",
+        "StockName": "杏國",
+        "AverageDailyTradingAmount": "48"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "823",
+        "StockCode": "8444",
+        "StockName": "綠河-KY",
+        "AverageDailyTradingAmount": "48"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "824",
+        "StockCode": "2064",
+        "StockName": "晉椿",
+        "AverageDailyTradingAmount": "47"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "825",
+        "StockCode": "8077",
+        "StockName": "洛碁實業",
+        "AverageDailyTradingAmount": "46"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "826",
+        "StockCode": "4183",
+        "StockName": "福永生技",
+        "AverageDailyTradingAmount": "34"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "827",
+        "StockCode": "5310",
+        "StockName": "天剛資訊",
+        "AverageDailyTradingAmount": "31"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "828",
+        "StockCode": "4406",
+        "StockName": "新昕纖維",
+        "AverageDailyTradingAmount": "30"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "829",
+        "StockCode": "2073",
+        "StockName": "雄順",
+        "AverageDailyTradingAmount": "29"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "830",
+        "StockCode": "4767",
+        "StockName": "誠泰科技",
+        "AverageDailyTradingAmount": "28"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "831",
+        "StockCode": "8455",
+        "StockName": "大拓-KY",
+        "AverageDailyTradingAmount": "25"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "832",
+        "StockCode": "3085",
+        "StockName": "新零售",
+        "AverageDailyTradingAmount": "17"
+      }
+    ]
+  }
+}

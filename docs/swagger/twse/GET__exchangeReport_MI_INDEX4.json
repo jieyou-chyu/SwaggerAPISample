@@ -1,0 +1,121 @@
+{
+  "path": "/exchangeReport/MI_INDEX4",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日上市上櫃跨市場成交資訊",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/MI_INDEX4",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:36 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:21 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"6922298d-56d\"",
+      "Content-Disposition": "attachment;filename=MI_INDEX4.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TradeValue": "712001435606",
+        "FormosaIndex": "31599.01",
+        "Change": "116.48"
+      },
+      {
+        "Date": "1141104",
+        "TradeValue": "753563226401",
+        "FormosaIndex": "31333.51",
+        "Change": "-265.50"
+      },
+      {
+        "Date": "1141105",
+        "TradeValue": "764244533332",
+        "FormosaIndex": "30903.72",
+        "Change": "-429.79"
+      },
+      {
+        "Date": "1141106",
+        "TradeValue": "655061441967",
+        "FormosaIndex": "31118.09",
+        "Change": "214.37"
+      },
+      {
+        "Date": "1141107",
+        "TradeValue": "601824830111",
+        "FormosaIndex": "30833.62",
+        "Change": "-284.47"
+      },
+      {
+        "Date": "1141110",
+        "TradeValue": "620609193565",
+        "FormosaIndex": "31045.91",
+        "Change": "212.29"
+      },
+      {
+        "Date": "1141111",
+        "TradeValue": "719565115592",
+        "FormosaIndex": "30953.60",
+        "Change": "-92.31"
+      },
+      {
+        "Date": "1141112",
+        "TradeValue": "711637426009",
+        "FormosaIndex": "31139.48",
+        "Change": "185.88"
+      },
+      {
+        "Date": "1141113",
+        "TradeValue": "840295422963",
+        "FormosaIndex": "31107.02",
+        "Change": "-32.46"
+      },
+      {
+        "Date": "1141114",
+        "TradeValue": "741930726706",
+        "FormosaIndex": "30548.57",
+        "Change": "-558.45"
+      },
+      {
+        "Date": "1141117",
+        "TradeValue": "686092346891",
+        "FormosaIndex": "30597.62",
+        "Change": "49.05"
+      },
+      {
+        "Date": "1141118",
+        "TradeValue": "812433218903",
+        "FormosaIndex": "29831.79",
+        "Change": "-765.83"
+      },
+      {
+        "Date": "1141119",
+        "TradeValue": "628890590919",
+        "FormosaIndex": "29620.94",
+        "Change": "-210.85"
+      },
+      {
+        "Date": "1141120",
+        "TradeValue": "722298633711",
+        "FormosaIndex": "30550.39",
+        "Change": "929.45"
+      },
+      {
+        "Date": "1141121",
+        "TradeValue": "711743616748",
+        "FormosaIndex": "29464.40",
+        "Change": "-1085.99"
+      }
+    ]
+  }
+}

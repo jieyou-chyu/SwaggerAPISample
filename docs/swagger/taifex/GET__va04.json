@@ -1,0 +1,434 @@
+{
+  "path": "/va04",
+  "method": "GET",
+  "operationId": null,
+  "summary": "股價指數類期貨商品每月平均成交金額",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va04",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:03 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "7412",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:10 GMT",
+      "ETag": "\"1cf4-644369cd08488\"",
+      "Content-Disposition": "attachment; filename=va04.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d51182a580750-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "AverageDailyTradingValueForTheMonth": "1212279966202"
+      },
+      {
+        "YYYYMM": "202509",
+        "AverageDailyTradingValueForTheMonth": "935404634417"
+      },
+      {
+        "YYYYMM": "202508",
+        "AverageDailyTradingValueForTheMonth": "778826012067"
+      },
+      {
+        "YYYYMM": "202507",
+        "AverageDailyTradingValueForTheMonth": "727079178106"
+      },
+      {
+        "YYYYMM": "202506",
+        "AverageDailyTradingValueForTheMonth": "754713150793"
+      },
+      {
+        "YYYYMM": "202505",
+        "AverageDailyTradingValueForTheMonth": "810449865605"
+      },
+      {
+        "YYYYMM": "202504",
+        "AverageDailyTradingValueForTheMonth": "1074586753585"
+      },
+      {
+        "YYYYMM": "202503",
+        "AverageDailyTradingValueForTheMonth": "997200772781"
+      },
+      {
+        "YYYYMM": "202502",
+        "AverageDailyTradingValueForTheMonth": "751889267129"
+      },
+      {
+        "YYYYMM": "202501",
+        "AverageDailyTradingValueForTheMonth": "918437108234"
+      },
+      {
+        "YYYYMM": "202412",
+        "AverageDailyTradingValueForTheMonth": "796070249444"
+      },
+      {
+        "YYYYMM": "202411",
+        "AverageDailyTradingValueForTheMonth": "1036591781932"
+      },
+      {
+        "YYYYMM": "202410",
+        "AverageDailyTradingValueForTheMonth": "1015754604804"
+      },
+      {
+        "YYYYMM": "202409",
+        "AverageDailyTradingValueForTheMonth": "1113628014204"
+      },
+      {
+        "YYYYMM": "202408",
+        "AverageDailyTradingValueForTheMonth": "1389944526233"
+      },
+      {
+        "YYYYMM": "202407",
+        "AverageDailyTradingValueForTheMonth": "1418346874599"
+      },
+      {
+        "YYYYMM": "202406",
+        "AverageDailyTradingValueForTheMonth": "1241957745605"
+      },
+      {
+        "YYYYMM": "202405",
+        "AverageDailyTradingValueForTheMonth": "950279279127"
+      },
+      {
+        "YYYYMM": "202404",
+        "AverageDailyTradingValueForTheMonth": "1138377945772"
+      },
+      {
+        "YYYYMM": "202403",
+        "AverageDailyTradingValueForTheMonth": "990215161847"
+      },
+      {
+        "YYYYMM": "202402",
+        "AverageDailyTradingValueForTheMonth": "691990568279"
+      },
+      {
+        "YYYYMM": "202401",
+        "AverageDailyTradingValueForTheMonth": "748720667845"
+      },
+      {
+        "YYYYMM": "202312",
+        "AverageDailyTradingValueForTheMonth": "600602356163"
+      },
+      {
+        "YYYYMM": "202311",
+        "AverageDailyTradingValueForTheMonth": "633290421835"
+      },
+      {
+        "YYYYMM": "202310",
+        "AverageDailyTradingValueForTheMonth": "757185139451"
+      },
+      {
+        "YYYYMM": "202309",
+        "AverageDailyTradingValueForTheMonth": "643862623497"
+      },
+      {
+        "YYYYMM": "202308",
+        "AverageDailyTradingValueForTheMonth": "810157466488"
+      },
+      {
+        "YYYYMM": "202307",
+        "AverageDailyTradingValueForTheMonth": "736897484911"
+      },
+      {
+        "YYYYMM": "202306",
+        "AverageDailyTradingValueForTheMonth": "638932575676"
+      },
+      {
+        "YYYYMM": "202305",
+        "AverageDailyTradingValueForTheMonth": "602198702481"
+      },
+      {
+        "YYYYMM": "202304",
+        "AverageDailyTradingValueForTheMonth": "596913129457"
+      },
+      {
+        "YYYYMM": "202303",
+        "AverageDailyTradingValueForTheMonth": "707170149516"
+      },
+      {
+        "YYYYMM": "202302",
+        "AverageDailyTradingValueForTheMonth": "631747296606"
+      },
+      {
+        "YYYYMM": "202301",
+        "AverageDailyTradingValueForTheMonth": "616489488295"
+      },
+      {
+        "YYYYMM": "202212",
+        "AverageDailyTradingValueForTheMonth": "652931507951"
+      },
+      {
+        "YYYYMM": "202211",
+        "AverageDailyTradingValueForTheMonth": "682320278068"
+      },
+      {
+        "YYYYMM": "202210",
+        "AverageDailyTradingValueForTheMonth": "833237651010"
+      },
+      {
+        "YYYYMM": "202209",
+        "AverageDailyTradingValueForTheMonth": "750481418585"
+      },
+      {
+        "YYYYMM": "202208",
+        "AverageDailyTradingValueForTheMonth": "629594741753"
+      },
+      {
+        "YYYYMM": "202207",
+        "AverageDailyTradingValueForTheMonth": "841455361092"
+      },
+      {
+        "YYYYMM": "202206",
+        "AverageDailyTradingValueForTheMonth": "879276787968"
+      },
+      {
+        "YYYYMM": "202205",
+        "AverageDailyTradingValueForTheMonth": "908417288099"
+      },
+      {
+        "YYYYMM": "202204",
+        "AverageDailyTradingValueForTheMonth": "875003722375"
+      },
+      {
+        "YYYYMM": "202203",
+        "AverageDailyTradingValueForTheMonth": "961836741029"
+      },
+      {
+        "YYYYMM": "202202",
+        "AverageDailyTradingValueForTheMonth": "941339202770"
+      },
+      {
+        "YYYYMM": "202201",
+        "AverageDailyTradingValueForTheMonth": "928653889888"
+      },
+      {
+        "YYYYMM": "202112",
+        "AverageDailyTradingValueForTheMonth": "634992372121"
+      },
+      {
+        "YYYYMM": "202111",
+        "AverageDailyTradingValueForTheMonth": "640346516608"
+      },
+      {
+        "YYYYMM": "202110",
+        "AverageDailyTradingValueForTheMonth": "793137472550"
+      },
+      {
+        "YYYYMM": "202109",
+        "AverageDailyTradingValueForTheMonth": "802627003590"
+      },
+      {
+        "YYYYMM": "202108",
+        "AverageDailyTradingValueForTheMonth": "834830170693"
+      },
+      {
+        "YYYYMM": "202107",
+        "AverageDailyTradingValueForTheMonth": "886069784235"
+      },
+      {
+        "YYYYMM": "202106",
+        "AverageDailyTradingValueForTheMonth": "785567316885"
+      },
+      {
+        "YYYYMM": "202105",
+        "AverageDailyTradingValueForTheMonth": "1232292767407"
+      },
+      {
+        "YYYYMM": "202104",
+        "AverageDailyTradingValueForTheMonth": "792157050090"
+      },
+      {
+        "YYYYMM": "202103",
+        "AverageDailyTradingValueForTheMonth": "927190287226"
+      },
+      {
+        "YYYYMM": "202102",
+        "AverageDailyTradingValueForTheMonth": "996317489719"
+      },
+      {
+        "YYYYMM": "202101",
+        "AverageDailyTradingValueForTheMonth": "1042240523266"
+      },
+      {
+        "YYYYMM": "202012",
+        "AverageDailyTradingValueForTheMonth": "602339461194"
+      },
+      {
+        "YYYYMM": "202011",
+        "AverageDailyTradingValueForTheMonth": "587222766274"
+      },
+      {
+        "YYYYMM": "202010",
+        "AverageDailyTradingValueForTheMonth": "516458469930"
+      },
+      {
+        "YYYYMM": "202009",
+        "AverageDailyTradingValueForTheMonth": "627736047650"
+      },
+      {
+        "YYYYMM": "202008",
+        "AverageDailyTradingValueForTheMonth": "591247541955"
+      },
+      {
+        "YYYYMM": "202007",
+        "AverageDailyTradingValueForTheMonth": "592446212228"
+      },
+      {
+        "YYYYMM": "202006",
+        "AverageDailyTradingValueForTheMonth": "528993080905"
+      },
+      {
+        "YYYYMM": "202005",
+        "AverageDailyTradingValueForTheMonth": "517811619719"
+      },
+      {
+        "YYYYMM": "202004",
+        "AverageDailyTradingValueForTheMonth": "530243139703"
+      },
+      {
+        "YYYYMM": "202003",
+        "AverageDailyTradingValueForTheMonth": "1008601104565"
+      },
+      {
+        "YYYYMM": "202002",
+        "AverageDailyTradingValueForTheMonth": "609886514088"
+      },
+      {
+        "YYYYMM": "202001",
+        "AverageDailyTradingValueForTheMonth": "529264607046"
+      },
+      {
+        "YYYYMM": "201912",
+        "AverageDailyTradingValueForTheMonth": "372746954607"
+      },
+      {
+        "YYYYMM": "201911",
+        "AverageDailyTradingValueForTheMonth": "385211674221"
+      },
+      {
+        "YYYYMM": "201910",
+        "AverageDailyTradingValueForTheMonth": "339836149459"
+      },
+      {
+        "YYYYMM": "201909",
+        "AverageDailyTradingValueForTheMonth": "323375673211"
+      },
+      {
+        "YYYYMM": "201908",
+        "AverageDailyTradingValueForTheMonth": "461623355549"
+      },
+      {
+        "YYYYMM": "201907",
+        "AverageDailyTradingValueForTheMonth": "317513287407"
+      },
+      {
+        "YYYYMM": "201906",
+        "AverageDailyTradingValueForTheMonth": "374145568667"
+      },
+      {
+        "YYYYMM": "201905",
+        "AverageDailyTradingValueForTheMonth": "525884485026"
+      },
+      {
+        "YYYYMM": "201904",
+        "AverageDailyTradingValueForTheMonth": "355732229667"
+      },
+      {
+        "YYYYMM": "201903",
+        "AverageDailyTradingValueForTheMonth": "365872702226"
+      },
+      {
+        "YYYYMM": "201902",
+        "AverageDailyTradingValueForTheMonth": "339729497819"
+      },
+      {
+        "YYYYMM": "201901",
+        "AverageDailyTradingValueForTheMonth": "412204947499"
+      },
+      {
+        "YYYYMM": "201812",
+        "AverageDailyTradingValueForTheMonth": "418472216953"
+      },
+      {
+        "YYYYMM": "201811",
+        "AverageDailyTradingValueForTheMonth": "462776895175"
+      },
+      {
+        "YYYYMM": "201810",
+        "AverageDailyTradingValueForTheMonth": "650178081421"
+      },
+      {
+        "YYYYMM": "201809",
+        "AverageDailyTradingValueForTheMonth": "507206200877"
+      },
+      {
+        "YYYYMM": "201808",
+        "AverageDailyTradingValueForTheMonth": "458241527727"
+      },
+      {
+        "YYYYMM": "201807",
+        "AverageDailyTradingValueForTheMonth": "473681447840"
+      },
+      {
+        "YYYYMM": "201806",
+        "AverageDailyTradingValueForTheMonth": "471219003438"
+      },
+      {
+        "YYYYMM": "201805",
+        "AverageDailyTradingValueForTheMonth": "431803234272"
+      },
+      {
+        "YYYYMM": "201804",
+        "AverageDailyTradingValueForTheMonth": "531503012698"
+      },
+      {
+        "YYYYMM": "201803",
+        "AverageDailyTradingValueForTheMonth": "525925605926"
+      },
+      {
+        "YYYYMM": "201802",
+        "AverageDailyTradingValueForTheMonth": "647454578515"
+      },
+      {
+        "YYYYMM": "201801",
+        "AverageDailyTradingValueForTheMonth": "433432636668"
+      },
+      {
+        "YYYYMM": "201712",
+        "AverageDailyTradingValueForTheMonth": "419307611619"
+      },
+      {
+        "YYYYMM": "201711",
+        "AverageDailyTradingValueForTheMonth": "366624214105"
+      },
+      {
+        "YYYYMM": "201710",
+        "AverageDailyTradingValueForTheMonth": "353402019602"
+      },
+      {
+        "YYYYMM": "201709",
+        "AverageDailyTradingValueForTheMonth": "388409353194"
+      },
+      {
+        "YYYYMM": "201708",
+        "AverageDailyTradingValueForTheMonth": "379972355580"
+      },
+      {
+        "YYYYMM": "201707",
+        "AverageDailyTradingValueForTheMonth": "348653441443"
+      }
+    ]
+  }
+}

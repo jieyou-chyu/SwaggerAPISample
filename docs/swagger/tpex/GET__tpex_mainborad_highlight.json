@@ -1,0 +1,57 @@
+{
+  "path": "/tpex_mainborad_highlight",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票市場現況",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_mainborad_highlight",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:21 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:07 GMT",
+      "ETag": "W/\"6921d6ff-1ab\"",
+      "Content-Disposition": "attachment;filename=tpex_mainborad_highlight.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48c12b45a355-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "ListedCompanyNumbers": "862",
+        "AuthorizedCapital": "818022",
+        "MarketCapitalization": "6506152",
+        "DailyTradingValue": "119891",
+        "DailyTradingVolume": "985533",
+        "CloseIndex": "245.97",
+        "IndexChange": "-6.98",
+        "PriceRiseCompanyNumbers": "111",
+        "LimitUpCompanyNumbers": "6",
+        "PriceDeclineCompanyNumbers": "679",
+        "LimitDownCompanyNumbers": "6",
+        "PriceFlatCompanyNumbers": "42",
+        "UnmatchedCompanyNumbersSuspensionStocksIncluded": "30"
+      }
+    ]
+  }
+}

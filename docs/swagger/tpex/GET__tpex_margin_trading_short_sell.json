@@ -1,0 +1,221 @@
+{
+  "path": "/tpex_margin_trading_short_sell",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃融資融券增減排行表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_margin_trading_short_sell",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:32 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:04 GMT",
+      "ETag": "W/\"6921d738-bc5\"",
+      "Content-Disposition": "attachment;filename=tpex_margin_trading_short_sell.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4906c8f2a339-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Rank": "1",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "PreviousBalance": "2277",
+        "CurrentBalance": "3066",
+        "Used": "789"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "2",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "PreviousBalance": "3741",
+        "CurrentBalance": "4388",
+        "Used": "647"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "3",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        "PreviousBalance": "7193",
+        "CurrentBalance": "7835",
+        "Used": "642"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "4",
+        "SecuritiesCompanyCode": "8048",
+        "CompanyName": "德勝",
+        "PreviousBalance": "2473",
+        "CurrentBalance": "2957",
+        "Used": "484"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "5",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        "PreviousBalance": "1594",
+        "CurrentBalance": "1872",
+        "Used": "278"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "6",
+        "SecuritiesCompanyCode": "3236",
+        "CompanyName": "千如",
+        "PreviousBalance": "2975",
+        "CurrentBalance": "3233",
+        "Used": "258"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "7",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科",
+        "PreviousBalance": "3093",
+        "CurrentBalance": "3329",
+        "Used": "236"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "8",
+        "SecuritiesCompanyCode": "00958B",
+        "CompanyName": "永豐ESG銀行債15+",
+        "PreviousBalance": "34",
+        "CurrentBalance": "264",
+        "Used": "230"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "9",
+        "SecuritiesCompanyCode": "4157",
+        "CompanyName": "太景*-KY",
+        "PreviousBalance": "4426",
+        "CurrentBalance": "4624",
+        "Used": "198"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "10",
+        "SecuritiesCompanyCode": "00981B",
+        "CompanyName": "第一金優選非投債",
+        "PreviousBalance": "25057",
+        "CurrentBalance": "25250",
+        "Used": "193"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "11",
+        "SecuritiesCompanyCode": "5251",
+        "CompanyName": "天鉞電",
+        "PreviousBalance": "2565",
+        "CurrentBalance": "2748",
+        "Used": "183"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "12",
+        "SecuritiesCompanyCode": "2641",
+        "CompanyName": "正德",
+        "PreviousBalance": "11815",
+        "CurrentBalance": "11996",
+        "Used": "181"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "13",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "PreviousBalance": "538",
+        "CurrentBalance": "716",
+        "Used": "178"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "14",
+        "SecuritiesCompanyCode": "6603",
+        "CompanyName": "富強鑫",
+        "PreviousBalance": "4592",
+        "CurrentBalance": "4761",
+        "Used": "169"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "15",
+        "SecuritiesCompanyCode": "3128",
+        "CompanyName": "昇銳",
+        "PreviousBalance": "1951",
+        "CurrentBalance": "2110",
+        "Used": "159"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "16",
+        "SecuritiesCompanyCode": "4174",
+        "CompanyName": "浩鼎",
+        "PreviousBalance": "4178",
+        "CurrentBalance": "4320",
+        "Used": "142"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "17",
+        "SecuritiesCompanyCode": "4716",
+        "CompanyName": "大立",
+        "PreviousBalance": "7436",
+        "CurrentBalance": "7574",
+        "Used": "138"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "18",
+        "SecuritiesCompanyCode": "3363",
+        "CompanyName": "上詮",
+        "PreviousBalance": "7095",
+        "CurrentBalance": "7219",
+        "Used": "124"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "19",
+        "SecuritiesCompanyCode": "3078",
+        "CompanyName": "僑威",
+        "PreviousBalance": "5599",
+        "CurrentBalance": "5722",
+        "Used": "123"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "20",
+        "SecuritiesCompanyCode": "6182",
+        "CompanyName": "合晶",
+        "PreviousBalance": "12219",
+        "CurrentBalance": "12325",
+        "Used": "106"
+      }
+    ]
+  }
+}

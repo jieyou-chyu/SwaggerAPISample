@@ -1,0 +1,97 @@
+{
+  "path": "/tpex_3insti_summary",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票三大法人買賣金額彙總表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_3insti_summary",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:45 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:33 GMT",
+      "ETag": "W/\"6921d719-3f9\"",
+      "Content-Disposition": "attachment;filename=tpex_3insti_summary.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4954bddf4a30-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Investor": "外資及陸資合計",
+        "PurchaseAmount": "33732715627",
+        "SaleAmount": "37393439849",
+        "Net": "-3660724222"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "　外資及陸資(不含自營商)",
+        "PurchaseAmount": "33732715627",
+        "SaleAmount": "37393439849",
+        "Net": "-3660724222"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "　外資自營商",
+        "PurchaseAmount": "0",
+        "SaleAmount": "0",
+        "Net": "0"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "投信",
+        "PurchaseAmount": "4220084700",
+        "SaleAmount": "1079783948",
+        "Net": "3140300752"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "自營商合計",
+        "PurchaseAmount": "2659115936",
+        "SaleAmount": "3799602841",
+        "Net": "-1140486905"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "　自營商(自行買賣)",
+        "PurchaseAmount": "1388229945",
+        "SaleAmount": "1779190738",
+        "Net": "-390960793"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "　自營商(避險)",
+        "PurchaseAmount": "1270885991",
+        "SaleAmount": "2020412103",
+        "Net": "-749526112"
+      },
+      {
+        "Date": "1141121",
+        "Investor": "三大法人合計*",
+        "PurchaseAmount": "40611916263",
+        "SaleAmount": "42272826638",
+        "Net": "-1660910375"
+      }
+    ]
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "path": "/AnnualTradingGold",
+  "method": "GET",
+  "operationId": null,
+  "summary": "商品年成交量統計-商品類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingGold",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:57 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "8686",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:49 GMT",
+      "ETag": "\"21ee-644369b9d4e9a\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AnnualTradingGold.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50f48b3c4a97-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2006",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "35027",
+        "NumberOfTradingDays": "195",
+        "AvgDailyTradingVolume": "180"
+      },
+      {
+        "YYYY": "2007",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "48925",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "198"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "40174",
+        "NumberOfTradingDays": "249",
+        "AvgDailyTradingVolume": "161"
+      },
+      {
+        "YYYY": "2008",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "5314069",
+        "NumberOfTradingDays": "231",
+        "AvgDailyTradingVolume": "23005"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "205",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "1"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "3342838",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "13318"
+      },
+      {
+        "YYYY": "2009",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "5821638",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "24358"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "677",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "3"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "75218",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "300"
+      },
+      {
+        "YYYY": "2010",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "76873",
+        "NumberOfTradingDays": "251",
+        "AvgDailyTradingVolume": "306"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "383",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "2"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "105458",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "427"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "101708",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "412"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "36",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "62418",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "250"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "75925",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "304"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "7",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "67341",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "274"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "85176",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "346"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "1",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "45069",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "182"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "52022",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "210"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "2",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "0"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "58014",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "238"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "73579",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "302"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "10131",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "42"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "101744",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "417"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "73749",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "302"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "12933",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "53"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "75442",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "307"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "40075",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "163"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "27118",
+        "NumberOfTradingDays": "129",
+        "AvgDailyTradingVolume": "210"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "20396",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "83"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "110513",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "447"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "45385",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "184"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "28562",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "118"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "26465",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "109"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "145837",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "603"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "44076",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "182"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "37449",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "153"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "62224",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "254"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "160835",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "656"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "42522",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "174"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "24821",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "102"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "38528",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "158"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "73604",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "302"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "27087",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "111"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "44862",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "182"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "27234",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "111"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "81718",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "332"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "28704",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "117"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "10907",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "46"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "22814",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "95"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "70286",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "294"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "26529",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "111"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "BRF",
+        "ContractName": "布蘭特原油期貨",
+        "TotalVolume": "28091",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "116"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "GDF",
+        "ContractName": "黃金期貨",
+        "TotalVolume": "14086",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "58"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TGF",
+        "ContractName": "臺幣黃金期貨",
+        "TotalVolume": "62376",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "258"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "TGO",
+        "ContractName": "黃金選擇權",
+        "TotalVolume": "36805",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "152"
+      }
+    ]
+  }
+}

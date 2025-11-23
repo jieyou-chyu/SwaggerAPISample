@@ -1,0 +1,161 @@
+{
+  "path": "/tpex_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "櫃買指數歷史資料",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:24 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:15 GMT",
+      "ETag": "W/\"6921d707-5f7\"",
+      "Content-Disposition": "attachment;filename=tpex_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48d41eb3a9bc-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251103",
+        "Open": "264.48",
+        "High": "266.33",
+        "Low": "264.48",
+        "Close": "265.68",
+        "Change": "1.37"
+      },
+      {
+        "Date": "20251104",
+        "Open": "265.83",
+        "High": "267.22",
+        "Low": "261.00",
+        "Close": "261.00",
+        "Change": "-4.68"
+      },
+      {
+        "Date": "20251105",
+        "Open": "260.17",
+        "High": "260.17",
+        "Low": "254.53",
+        "Close": "259.11",
+        "Change": "-1.89"
+      },
+      {
+        "Date": "20251106",
+        "Open": "259.83",
+        "High": "262.27",
+        "Low": "259.83",
+        "Close": "262.11",
+        "Change": "3.00"
+      },
+      {
+        "Date": "20251107",
+        "Open": "261.99",
+        "High": "261.99",
+        "Low": "258.07",
+        "Close": "258.86",
+        "Change": "-3.25"
+      },
+      {
+        "Date": "20251110",
+        "Open": "258.87",
+        "High": "260.07",
+        "Low": "255.90",
+        "Close": "257.26",
+        "Change": "-1.60"
+      },
+      {
+        "Date": "20251111",
+        "Open": "257.54",
+        "High": "259.90",
+        "Low": "256.61",
+        "Close": "256.70",
+        "Change": "-0.56"
+      },
+      {
+        "Date": "20251112",
+        "Open": "257.10",
+        "High": "259.73",
+        "Low": "257.10",
+        "Close": "258.82",
+        "Change": "2.12"
+      },
+      {
+        "Date": "20251113",
+        "Open": "259.10",
+        "High": "261.08",
+        "Low": "258.87",
+        "Close": "260.30",
+        "Change": "1.48"
+      },
+      {
+        "Date": "20251114",
+        "Open": "259.78",
+        "High": "259.78",
+        "Low": "256.25",
+        "Close": "256.25",
+        "Change": "-4.05"
+      },
+      {
+        "Date": "20251117",
+        "Open": "256.53",
+        "High": "259.41",
+        "Low": "255.93",
+        "Close": "255.96",
+        "Change": "-0.29"
+      },
+      {
+        "Date": "20251118",
+        "Open": "255.63",
+        "High": "256.25",
+        "Low": "249.67",
+        "Close": "250.06",
+        "Change": "-5.90"
+      },
+      {
+        "Date": "20251119",
+        "Open": "249.70",
+        "High": "250.57",
+        "Low": "246.51",
+        "Close": "246.70",
+        "Change": "-3.36"
+      },
+      {
+        "Date": "20251120",
+        "Open": "247.71",
+        "High": "254.19",
+        "Low": "247.71",
+        "Close": "252.95",
+        "Change": "6.25"
+      },
+      {
+        "Date": "20251121",
+        "Open": "251.63",
+        "High": "251.63",
+        "Low": "244.74",
+        "Close": "245.97",
+        "Change": "-6.98"
+      }
+    ]
+  }
+}

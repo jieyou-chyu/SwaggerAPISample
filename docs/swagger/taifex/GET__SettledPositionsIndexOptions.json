@@ -1,0 +1,56 @@
+{
+  "path": "/SettledPositionsIndexOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "到期契約履約交割-股價指數類（指數選擇權）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SettledPositionsIndexOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:51 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "625",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:27 GMT",
+      "ETag": "\"271-644369a4b901f\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SettledPositionsIndexOptions.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d50ce7880b3a4-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251121",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺指選擇權F3",
+        "Contract": "TXX",
+        "Call/Put": "買權",
+        "OIAtTheMaturityDate(Lot)": "129123",
+        "OIOfIn-the-MoneyAtTheMaturityDate(Lot)": "7051",
+        "AbandonedOIofIn-the-MoneyAtTheMaturityDate(Lot)": "0",
+        "ActualExecutedOI(Lot)": "7051"
+      },
+      {
+        "TheFinalSettlementDay": "20251121",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺指選擇權F3",
+        "Contract": "TXX",
+        "Call/Put": "賣權",
+        "OIAtTheMaturityDate(Lot)": "77834",
+        "OIOfIn-the-MoneyAtTheMaturityDate(Lot)": "20055",
+        "AbandonedOIofIn-the-MoneyAtTheMaturityDate(Lot)": "0",
+        "ActualExecutedOI(Lot)": "20055"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "path": "/IncomeStatementS",
+  "method": "GET",
+  "operationId": null,
+  "summary": "兼營期貨商稅前累計損益彙總表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/IncomeStatementS",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:42 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4417",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:53 GMT",
+      "ETag": "\"1141-6443698428ad7\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=IncomeStatementS.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d5096290a6b86-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S102",
+        "FCMName": "合庫證券",
+        "NetIncomeBeforeTaxThisMonth": "-5890762",
+        "AccumulatedNetIncomeLastMonth": "1104751",
+        "AccumulatedNetIncome": "-4786011"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S126",
+        "FCMName": "宏遠證券",
+        "NetIncomeBeforeTaxThisMonth": "-9510643",
+        "AccumulatedNetIncomeLastMonth": "-4348696",
+        "AccumulatedNetIncome": "-13859339"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S144",
+        "FCMName": "美林證券",
+        "NetIncomeBeforeTaxThisMonth": "33290022.6",
+        "AccumulatedNetIncomeLastMonth": "214346567.8",
+        "AccumulatedNetIncome": "247636590.4"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S147",
+        "FCMName": "台灣摩根士丹利證券",
+        "NetIncomeBeforeTaxThisMonth": "35836481",
+        "AccumulatedNetIncomeLastMonth": "435557990",
+        "AccumulatedNetIncome": "471394471"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S159",
+        "FCMName": "花旗環球證券",
+        "NetIncomeBeforeTaxThisMonth": "-423235",
+        "AccumulatedNetIncomeLastMonth": "-2994451",
+        "AccumulatedNetIncome": "-3417686"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S218",
+        "FCMName": "亞東證券",
+        "NetIncomeBeforeTaxThisMonth": "2477787",
+        "AccumulatedNetIncomeLastMonth": "-4816061",
+        "AccumulatedNetIncome": "-2338274"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S509",
+        "FCMName": "華南永昌證券",
+        "NetIncomeBeforeTaxThisMonth": "-12209307",
+        "AccumulatedNetIncomeLastMonth": "-45639482",
+        "AccumulatedNetIncome": "-57848789"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S526",
+        "FCMName": "美好證券",
+        "NetIncomeBeforeTaxThisMonth": "1083729",
+        "AccumulatedNetIncomeLastMonth": "9324753",
+        "AccumulatedNetIncome": "10408482"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S538",
+        "FCMName": "第一金證券",
+        "NetIncomeBeforeTaxThisMonth": "5543853",
+        "AccumulatedNetIncomeLastMonth": "35223008",
+        "AccumulatedNetIncome": "40766861"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S551",
+        "FCMName": "永豐金證券",
+        "NetIncomeBeforeTaxThisMonth": "3369853",
+        "AccumulatedNetIncomeLastMonth": "42665945",
+        "AccumulatedNetIncome": "46035798"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S585",
+        "FCMName": "統一證券",
+        "NetIncomeBeforeTaxThisMonth": "54382787",
+        "AccumulatedNetIncomeLastMonth": "35876070",
+        "AccumulatedNetIncome": "90258857"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S592",
+        "FCMName": "元富證券",
+        "NetIncomeBeforeTaxThisMonth": "-12697199",
+        "AccumulatedNetIncomeLastMonth": "128443346",
+        "AccumulatedNetIncome": "115746147"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S616",
+        "FCMName": "中國信託證券",
+        "NetIncomeBeforeTaxThisMonth": "-19092826",
+        "AccumulatedNetIncomeLastMonth": "35195725",
+        "AccumulatedNetIncome": "16102899"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S700",
+        "FCMName": "兆豐證券",
+        "NetIncomeBeforeTaxThisMonth": "164036",
+        "AccumulatedNetIncomeLastMonth": "341788",
+        "AccumulatedNetIncome": "505824"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S779",
+        "FCMName": "國票證券",
+        "NetIncomeBeforeTaxThisMonth": "-13199433",
+        "AccumulatedNetIncomeLastMonth": "-87065035",
+        "AccumulatedNetIncome": "-100264468"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S844",
+        "FCMName": "摩根大通證券",
+        "NetIncomeBeforeTaxThisMonth": "71278890",
+        "AccumulatedNetIncomeLastMonth": "941494482",
+        "AccumulatedNetIncome": "1012773372"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S856",
+        "FCMName": "新光證券",
+        "NetIncomeBeforeTaxThisMonth": "9158716",
+        "AccumulatedNetIncomeLastMonth": "74240416",
+        "AccumulatedNetIncome": "83399132"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S884",
+        "FCMName": "玉山證券",
+        "NetIncomeBeforeTaxThisMonth": "16949430",
+        "AccumulatedNetIncomeLastMonth": "122940635",
+        "AccumulatedNetIncome": "139890065"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S888",
+        "FCMName": "國泰證券",
+        "NetIncomeBeforeTaxThisMonth": "1187944",
+        "AccumulatedNetIncomeLastMonth": "12931477",
+        "AccumulatedNetIncome": "14119421"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S890",
+        "FCMName": "法巴證",
+        "NetIncomeBeforeTaxThisMonth": "116328",
+        "AccumulatedNetIncomeLastMonth": "-6116484",
+        "AccumulatedNetIncome": "-6000156"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S910",
+        "FCMName": "群益金鼎證券",
+        "NetIncomeBeforeTaxThisMonth": "9716438",
+        "AccumulatedNetIncomeLastMonth": "1832157",
+        "AccumulatedNetIncome": "11548595"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S920",
+        "FCMName": "凱基證券",
+        "NetIncomeBeforeTaxThisMonth": "4594456",
+        "AccumulatedNetIncomeLastMonth": "49236783",
+        "AccumulatedNetIncome": "53831239"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S960",
+        "FCMName": "富邦證券",
+        "NetIncomeBeforeTaxThisMonth": "210064",
+        "AccumulatedNetIncomeLastMonth": "1899400",
+        "AccumulatedNetIncome": "2109464"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S980",
+        "FCMName": "元大證券股份有限公司",
+        "NetIncomeBeforeTaxThisMonth": "69954195",
+        "AccumulatedNetIncomeLastMonth": "1107632242",
+        "AccumulatedNetIncome": "1177586437"
+      }
+    ]
+  }
+}

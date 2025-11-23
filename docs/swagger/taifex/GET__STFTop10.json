@@ -1,0 +1,94 @@
+{
+  "path": "/STFTop10",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日股票期貨交易量前十大統計表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/STFTop10",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:58 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "869",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:53 GMT",
+      "ETag": "\"365-644369bda95b2\"",
+      "Content-Disposition": "attachment; filename=STFTop10.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50fbedca6b7a-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "Contract": "QFF",
+        "ContractName": "小型台積電期貨",
+        "Volume": "30997"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "CYF",
+        "ContractName": "南亞科期貨",
+        "Volume": "24500"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "QZF",
+        "ContractName": "力積電期貨",
+        "Volume": "20750"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "FZF",
+        "ContractName": "華邦電期貨",
+        "Volume": "15539"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "KUF",
+        "ContractName": "台玻期貨",
+        "Volume": "14129"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "PQF",
+        "ContractName": "金居期貨",
+        "Volume": "13403"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "CDF",
+        "ContractName": "台積電期貨",
+        "Volume": "11565"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "DIF",
+        "ContractName": "旺宏期貨",
+        "Volume": "11154"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "CAF",
+        "ContractName": "南亞期貨",
+        "Volume": "9065"
+      },
+      {
+        "Date": "20251121",
+        "Contract": "DHF",
+        "ContractName": "鴻海期貨",
+        "Volume": "8851"
+      }
+    ]
+  }
+}

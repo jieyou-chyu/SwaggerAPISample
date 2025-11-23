@@ -1,0 +1,6025 @@
+{
+  "path": "/tpex_margin_trading_margin_mark",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃平盤下得融(借)券賣出之證券名單",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_margin_trading_margin_mark",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:31 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:04 GMT",
+      "ETag": "W/\"6921d738-1e8ac\"",
+      "Content-Disposition": "attachment;filename=tpex_margin_trading_margin_mark.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d490189368288-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00679B",
+        "CompanyName": "元大美債20年",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00687B",
+        "CompanyName": "國泰20年美債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00694B",
+        "CompanyName": "富邦美債1-3",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00695B",
+        "CompanyName": "富邦美債7-10",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00696B",
+        "CompanyName": "富邦美債20年",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00697B",
+        "CompanyName": "元大美債7-10",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00719B",
+        "CompanyName": "元大美債1-3",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00720B",
+        "CompanyName": "元大投資級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00722B",
+        "CompanyName": "群益投資級電信債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00723B",
+        "CompanyName": "群益投資級科技債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00724B",
+        "CompanyName": "群益投資級金融債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00725B",
+        "CompanyName": "國泰投資級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00726B",
+        "CompanyName": "國泰新興投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00727B",
+        "CompanyName": "國泰優選非投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00734B",
+        "CompanyName": "台新JPM新興債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00740B",
+        "CompanyName": "富邦全球投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00741B",
+        "CompanyName": "富邦全球非投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00746B",
+        "CompanyName": "富邦A級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00749B",
+        "CompanyName": "凱基新興債10+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00750B",
+        "CompanyName": "凱基科技債10+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00751B",
+        "CompanyName": "元大AAA至A公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00754B",
+        "CompanyName": "群益AAA-AA公司債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00755B",
+        "CompanyName": "群益投資級公用債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00756B",
+        "CompanyName": "群益投等新興公債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00758B",
+        "CompanyName": "復華能源債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00759B",
+        "CompanyName": "復華製藥債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00760B",
+        "CompanyName": "復華新興企業債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00761B",
+        "CompanyName": "國泰A級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00764B",
+        "CompanyName": "群益25年美債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00768B",
+        "CompanyName": "復華20年美債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00772B",
+        "CompanyName": "中信高評級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00773B",
+        "CompanyName": "中信優先金融債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00777B",
+        "CompanyName": "凱基AAA至A公司債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00778B",
+        "CompanyName": "凱基金融債20+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00779B",
+        "CompanyName": "凱基美債25+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00780B",
+        "CompanyName": "國泰A級金融債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00781B",
+        "CompanyName": "國泰A級科技債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00782B",
+        "CompanyName": "國泰A級公用債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00785B",
+        "CompanyName": "富邦金融投等債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00786B",
+        "CompanyName": "元大10年IG銀行債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00787B",
+        "CompanyName": "元大10年IG醫療債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00788B",
+        "CompanyName": "元大10年IG電能債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00789B",
+        "CompanyName": "復華公司債A3",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00791B",
+        "CompanyName": "復華信用債1-5",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00792B",
+        "CompanyName": "群益A級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00793B",
+        "CompanyName": "群益AAA-A醫療債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00795B",
+        "CompanyName": "中信美國公債20年",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00799B",
+        "CompanyName": "國泰A級醫療債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00834B",
+        "CompanyName": "第一金金融債10+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00836B",
+        "CompanyName": "永豐10年A公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00840B",
+        "CompanyName": "凱基IG精選15+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00841B",
+        "CompanyName": "凱基AAA-AA公司債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00842B",
+        "CompanyName": "台新美元銀行債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00844B",
+        "CompanyName": "新光15年IG金融債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00845B",
+        "CompanyName": "富邦新興投等債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00846B",
+        "CompanyName": "富邦歐洲銀行債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00847B",
+        "CompanyName": "中信美國市政債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00848B",
+        "CompanyName": "中信新興亞洲債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00849B",
+        "CompanyName": "中信EM主權債0-5",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00853B",
+        "CompanyName": "統一美債10年Aa-A",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00856B",
+        "CompanyName": "永豐1-3年美公債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00857B",
+        "CompanyName": "永豐20年美公債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00858",
+        "CompanyName": "永豐美國500大",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00859B",
+        "CompanyName": "群益0-1年美債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00860B",
+        "CompanyName": "群益1-5Y投資級債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00862B",
+        "CompanyName": "中信投資級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00863B",
+        "CompanyName": "中信全球電信債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00864B",
+        "CompanyName": "中信美國公債0-1",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00867B",
+        "CompanyName": "新光A-BBB電信債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00870B",
+        "CompanyName": "元大15年EM主權債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00877",
+        "CompanyName": "復華中國5G",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00883B",
+        "CompanyName": "中信ESG投資級債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00884B",
+        "CompanyName": "中信低碳新興債",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00886",
+        "CompanyName": "永豐美國科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00887",
+        "CompanyName": "永豐中國科技50大",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00888",
+        "CompanyName": "永豐台灣ESG",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00890B",
+        "CompanyName": "凱基ESG BBB債15+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00928",
+        "CompanyName": "中信上櫃ESG 30",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00931B",
+        "CompanyName": "統一美債20年",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00933B",
+        "CompanyName": "國泰10Y+金融債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00937B",
+        "CompanyName": "群益ESG投等債20+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00942B",
+        "CompanyName": "台新美A公司債20+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00948B",
+        "CompanyName": "中信優息投資級債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00950B",
+        "CompanyName": "凱基A級公司債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00955",
+        "CompanyName": "中信日本商社",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00957B",
+        "CompanyName": "兆豐US優選投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00958B",
+        "CompanyName": "永豐ESG銀行債15+",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00959B",
+        "CompanyName": "大華投等美債15Y+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00966B",
+        "CompanyName": "統一ESG投等債15+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00967B",
+        "CompanyName": "元大優息美債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00968B",
+        "CompanyName": "元大優息投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00969B",
+        "CompanyName": "元大零息超長美債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00970B",
+        "CompanyName": "新光BBB投等債20+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00980B",
+        "CompanyName": "台新特選IG債10+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00980D",
+        "CompanyName": "主動聯博投等入息",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00980T",
+        "CompanyName": "平衡凱基美國TOP",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00981B",
+        "CompanyName": "第一金優選非投債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00981D",
+        "CompanyName": "主動中信非投等債",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00982B",
+        "CompanyName": "FT投資級債20+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00983B",
+        "CompanyName": "大華優利美公債20",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00984B",
+        "CompanyName": "大華優利美A債15",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "00986B",
+        "CompanyName": "FT金融債10+",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1240",
+        "CompanyName": "茂生農經",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1259",
+        "CompanyName": "安心",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1264",
+        "CompanyName": "德麥",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1268",
+        "CompanyName": "漢來美食",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyName": "漢田生技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1336",
+        "CompanyName": "台翰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1565",
+        "CompanyName": "精華",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1569",
+        "CompanyName": "濱川",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1570",
+        "CompanyName": "力肯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1580",
+        "CompanyName": "新麥",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1584",
+        "CompanyName": "精剛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1586",
+        "CompanyName": "和勤",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1591",
+        "CompanyName": "駿吉-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1593",
+        "CompanyName": "祺驊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1595",
+        "CompanyName": "川寶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1599",
+        "CompanyName": "宏佳騰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1742",
+        "CompanyName": "台蠟",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1777",
+        "CompanyName": "生泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1784",
+        "CompanyName": "訊聯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1785",
+        "CompanyName": "光洋科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1788",
+        "CompanyName": "杏昌",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1796",
+        "CompanyName": "金穎生技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1813",
+        "CompanyName": "寶利徠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2061",
+        "CompanyName": "風青",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2063",
+        "CompanyName": "世鎧",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2064",
+        "CompanyName": "晉椿",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2065",
+        "CompanyName": "世豐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2066",
+        "CompanyName": "世德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2070",
+        "CompanyName": "精湛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2221",
+        "CompanyName": "大甲",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2230",
+        "CompanyName": "泰茂",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2235",
+        "CompanyName": "謚源",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2596",
+        "CompanyName": "綠意",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2640",
+        "CompanyName": "大車隊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2641",
+        "CompanyName": "正德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2643",
+        "CompanyName": "捷迅",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2726",
+        "CompanyName": "雅茗-KY",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2729",
+        "CompanyName": "瓦城",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2732",
+        "CompanyName": "六角",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2734",
+        "CompanyName": "易飛網",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2736",
+        "CompanyName": "富野",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2743",
+        "CompanyName": "山富",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2745",
+        "CompanyName": "五福",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2754",
+        "CompanyName": "亞洲藏壽司",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2755",
+        "CompanyName": "揚秦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2916",
+        "CompanyName": "滿心",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "2926",
+        "CompanyName": "誠品生活",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3066",
+        "CompanyName": "李洲",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3071",
+        "CompanyName": "協禧",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3073",
+        "CompanyName": "天方能源",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3078",
+        "CompanyName": "僑威",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3081",
+        "CompanyName": "聯亞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3083",
+        "CompanyName": "網龍",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3086",
+        "CompanyName": "華義",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3088",
+        "CompanyName": "艾訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3093",
+        "CompanyName": "港建*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3114",
+        "CompanyName": "好德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3118",
+        "CompanyName": "進階",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3128",
+        "CompanyName": "昇銳",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3141",
+        "CompanyName": "晶宏",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3147",
+        "CompanyName": "大綜",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3152",
+        "CompanyName": "璟德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3163",
+        "CompanyName": "波若威",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3169",
+        "CompanyName": "亞信",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3171",
+        "CompanyName": "炎洲流通",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3178",
+        "CompanyName": "公準",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3188",
+        "CompanyName": "鑫龍騰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3205",
+        "CompanyName": "佰研",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3206",
+        "CompanyName": "志豐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3207",
+        "CompanyName": "耀勝",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3211",
+        "CompanyName": "順達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3213",
+        "CompanyName": "茂訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3217",
+        "CompanyName": "優群",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3218",
+        "CompanyName": "大學光",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3219",
+        "CompanyName": "倚強科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3221",
+        "CompanyName": "台嘉碩",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3224",
+        "CompanyName": "三顧",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3226",
+        "CompanyName": "龍鋒",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3227",
+        "CompanyName": "原相",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3230",
+        "CompanyName": "錦明",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3232",
+        "CompanyName": "昱捷",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3236",
+        "CompanyName": "千如",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3252",
+        "CompanyName": "海灣",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3260",
+        "CompanyName": "威剛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3264",
+        "CompanyName": "欣銓",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3265",
+        "CompanyName": "台星科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3268",
+        "CompanyName": "海德威",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3272",
+        "CompanyName": "東碩",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3276",
+        "CompanyName": "宇環",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3284",
+        "CompanyName": "太普高",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3285",
+        "CompanyName": "微端",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3287",
+        "CompanyName": "廣寰科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3289",
+        "CompanyName": "宜特",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3290",
+        "CompanyName": "東浦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3294",
+        "CompanyName": "英濟",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3303",
+        "CompanyName": "岱稜",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3306",
+        "CompanyName": "鼎天",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3310",
+        "CompanyName": "佳穎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3317",
+        "CompanyName": "尼克森",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3322",
+        "CompanyName": "建舜電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3323",
+        "CompanyName": "加百裕",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3332",
+        "CompanyName": "幸康",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3339",
+        "CompanyName": "泰谷",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3354",
+        "CompanyName": "律勝",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3357",
+        "CompanyName": "臺慶科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3360",
+        "CompanyName": "尚立",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3362",
+        "CompanyName": "先進光",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3363",
+        "CompanyName": "上詮",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3373",
+        "CompanyName": "熱映",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3374",
+        "CompanyName": "精材",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3379",
+        "CompanyName": "彬台",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3388",
+        "CompanyName": "崇越電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3390",
+        "CompanyName": "旭軟",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3402",
+        "CompanyName": "漢科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3430",
+        "CompanyName": "奇鈦科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3434",
+        "CompanyName": "哲固",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3438",
+        "CompanyName": "類比科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3441",
+        "CompanyName": "聯一光",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3444",
+        "CompanyName": "利機",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3455",
+        "CompanyName": "由田",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3465",
+        "CompanyName": "進泰電子",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3466",
+        "CompanyName": "德晉",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3467",
+        "CompanyName": "台灣精材",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3479",
+        "CompanyName": "安勤",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3483",
+        "CompanyName": "力致",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3484",
+        "CompanyName": "崧騰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3490",
+        "CompanyName": "單井",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3491",
+        "CompanyName": "昇達科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3492",
+        "CompanyName": "長盛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3498",
+        "CompanyName": "陽程",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3511",
+        "CompanyName": "矽瑪",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3512",
+        "CompanyName": "皇龍",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3516",
+        "CompanyName": "亞帝歐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3520",
+        "CompanyName": "華盈",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3521",
+        "CompanyName": "鴻翊",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3526",
+        "CompanyName": "凡甲",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3527",
+        "CompanyName": "聚積",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3531",
+        "CompanyName": "先益",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3537",
+        "CompanyName": "堡達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3540",
+        "CompanyName": "曜越",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3541",
+        "CompanyName": "西柏",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3546",
+        "CompanyName": "宇峻",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3548",
+        "CompanyName": "兆利",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3551",
+        "CompanyName": "世禾",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3552",
+        "CompanyName": "同致",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3555",
+        "CompanyName": "博士旺",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3556",
+        "CompanyName": "禾瑞亞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3558",
+        "CompanyName": "神準",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3564",
+        "CompanyName": "其陽",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3567",
+        "CompanyName": "逸昌",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3577",
+        "CompanyName": "泓格",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3580",
+        "CompanyName": "友威科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3581",
+        "CompanyName": "博磊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3587",
+        "CompanyName": "閎康",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3594",
+        "CompanyName": "磐儀",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3597",
+        "CompanyName": "映興",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3609",
+        "CompanyName": "三一東林",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3611",
+        "CompanyName": "鼎翰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3615",
+        "CompanyName": "安可",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3623",
+        "CompanyName": "富晶通",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3628",
+        "CompanyName": "盈正",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3630",
+        "CompanyName": "新鉅科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3631",
+        "CompanyName": "晟楠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3646",
+        "CompanyName": "艾恩特",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3663",
+        "CompanyName": "鑫科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3666",
+        "CompanyName": "光耀",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3675",
+        "CompanyName": "德微",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3680",
+        "CompanyName": "家登",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3687",
+        "CompanyName": "歐買尬",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3689",
+        "CompanyName": "湧德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3691",
+        "CompanyName": "碩禾",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3693",
+        "CompanyName": "營邦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3707",
+        "CompanyName": "漢磊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "3709",
+        "CompanyName": "鑫聯大投控",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": "*"
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4102",
+        "CompanyName": "永日",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4105",
+        "CompanyName": "東洋",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4107",
+        "CompanyName": "邦特",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4109",
+        "CompanyName": "加捷生醫",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4111",
+        "CompanyName": "濟生",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4113",
+        "CompanyName": "聯上",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4114",
+        "CompanyName": "健喬",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4116",
+        "CompanyName": "明基醫",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4120",
+        "CompanyName": "友華",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4121",
+        "CompanyName": "優盛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4123",
+        "CompanyName": "晟德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4126",
+        "CompanyName": "太醫",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4127",
+        "CompanyName": "天良",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4128",
+        "CompanyName": "中天",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4129",
+        "CompanyName": "聯合",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4130",
+        "CompanyName": "健亞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4138",
+        "CompanyName": "曜亞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4139",
+        "CompanyName": "馬光-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4147",
+        "CompanyName": "中裕",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4153",
+        "CompanyName": "鈺緯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4157",
+        "CompanyName": "太景*-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4161",
+        "CompanyName": "聿新科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4162",
+        "CompanyName": "智擎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4163",
+        "CompanyName": "鐿鈦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4167",
+        "CompanyName": "松瑞藥",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4171",
+        "CompanyName": "瑞基",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4173",
+        "CompanyName": "久裕",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4175",
+        "CompanyName": "杏一",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4205",
+        "CompanyName": "中華食",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyName": "環泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4303",
+        "CompanyName": "信立",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4305",
+        "CompanyName": "世坤",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4401",
+        "CompanyName": "東隆興",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4406",
+        "CompanyName": "新昕纖",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4413",
+        "CompanyName": "飛寶企業",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4416",
+        "CompanyName": "三圓",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4417",
+        "CompanyName": "金洲",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4420",
+        "CompanyName": "光明",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4430",
+        "CompanyName": "耀億",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4432",
+        "CompanyName": "銘旺實",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4433",
+        "CompanyName": "興采",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4502",
+        "CompanyName": "健信",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4503",
+        "CompanyName": "金雨",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4506",
+        "CompanyName": "崇友",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4510",
+        "CompanyName": "高鋒",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4513",
+        "CompanyName": "福裕",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4523",
+        "CompanyName": "永彰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4527",
+        "CompanyName": "方土霖",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4528",
+        "CompanyName": "江興鍛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4533",
+        "CompanyName": "協易機",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4535",
+        "CompanyName": "至興",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4541",
+        "CompanyName": "晟田",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4542",
+        "CompanyName": "科嶠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4543",
+        "CompanyName": "萬在",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4549",
+        "CompanyName": "桓達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4550",
+        "CompanyName": "長佳",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4556",
+        "CompanyName": "旭然",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4558",
+        "CompanyName": "寶緯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4561",
+        "CompanyName": "健椿",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4563",
+        "CompanyName": "百德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4568",
+        "CompanyName": "科際精密",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4580",
+        "CompanyName": "捷流閥業",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4702",
+        "CompanyName": "中美實",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4706",
+        "CompanyName": "大恭",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4707",
+        "CompanyName": "磐亞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4711",
+        "CompanyName": "永純",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4714",
+        "CompanyName": "永捷",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4716",
+        "CompanyName": "大立",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4721",
+        "CompanyName": "美琪瑪",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4728",
+        "CompanyName": "雙美",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4729",
+        "CompanyName": "熒茂",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4735",
+        "CompanyName": "豪展",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4741",
+        "CompanyName": "泓瀚",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4743",
+        "CompanyName": "合一",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4744",
+        "CompanyName": "皇將",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4747",
+        "CompanyName": "強生",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4749",
+        "CompanyName": "新應材",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4754",
+        "CompanyName": "國碳科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4760",
+        "CompanyName": "勤凱",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4767",
+        "CompanyName": "誠泰科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4768",
+        "CompanyName": "晶呈科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4772",
+        "CompanyName": "台特化",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4903",
+        "CompanyName": "聯光通",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4905",
+        "CompanyName": "台聯電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4907",
+        "CompanyName": "富宇",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4908",
+        "CompanyName": "前鼎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4909",
+        "CompanyName": "新復興",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4911",
+        "CompanyName": "德英",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4923",
+        "CompanyName": "力士",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4931",
+        "CompanyName": "新盛力",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4933",
+        "CompanyName": "友輝",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4939",
+        "CompanyName": "亞電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4951",
+        "CompanyName": "精拓科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4953",
+        "CompanyName": "緯軟",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4966",
+        "CompanyName": "譜瑞-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4971",
+        "CompanyName": "IET-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4972",
+        "CompanyName": "湯石照明",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4973",
+        "CompanyName": "廣穎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4974",
+        "CompanyName": "亞泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4979",
+        "CompanyName": "華星光",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4987",
+        "CompanyName": "科誠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4991",
+        "CompanyName": "環宇-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "4995",
+        "CompanyName": "晶達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5009",
+        "CompanyName": "榮剛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5011",
+        "CompanyName": "久陽",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5013",
+        "CompanyName": "強新",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5014",
+        "CompanyName": "建錩",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5015",
+        "CompanyName": "華祺",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5016",
+        "CompanyName": "松和",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5201",
+        "CompanyName": "凱衛",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5202",
+        "CompanyName": "力新",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5206",
+        "CompanyName": "坤悅",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5211",
+        "CompanyName": "蒙恬",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5212",
+        "CompanyName": "凌網",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5213",
+        "CompanyName": "亞昕",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5220",
+        "CompanyName": "萬達光電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5223",
+        "CompanyName": "安力-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5228",
+        "CompanyName": "鈺鎧",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5230",
+        "CompanyName": "雷笛克光學",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5236",
+        "CompanyName": "凌陽創新",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5245",
+        "CompanyName": "智晶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5251",
+        "CompanyName": "天鉞電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5263",
+        "CompanyName": "智崴",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5272",
+        "CompanyName": "笙科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5274",
+        "CompanyName": "信驊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5278",
+        "CompanyName": "尚凡*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5287",
+        "CompanyName": "數字",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5291",
+        "CompanyName": "邑昇",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5299",
+        "CompanyName": "杰力",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5309",
+        "CompanyName": "系統電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5312",
+        "CompanyName": "寶島科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5315",
+        "CompanyName": "光聯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5321",
+        "CompanyName": "美而快",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5328",
+        "CompanyName": "華容",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5347",
+        "CompanyName": "世界",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5351",
+        "CompanyName": "鈺創",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5353",
+        "CompanyName": "台林",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5356",
+        "CompanyName": "協益",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5371",
+        "CompanyName": "中光電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5386",
+        "CompanyName": "青雲",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5392",
+        "CompanyName": "能率",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5398",
+        "CompanyName": "慕康生醫",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5403",
+        "CompanyName": "中菲",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5410",
+        "CompanyName": "國眾",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5425",
+        "CompanyName": "台半",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5426",
+        "CompanyName": "振發",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5432",
+        "CompanyName": "新門",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5438",
+        "CompanyName": "東友",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5439",
+        "CompanyName": "高技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5443",
+        "CompanyName": "均豪",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5450",
+        "CompanyName": "南良",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5452",
+        "CompanyName": "佶優",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5455",
+        "CompanyName": "昇益",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5457",
+        "CompanyName": "宣德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5460",
+        "CompanyName": "同協",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5464",
+        "CompanyName": "霖宏",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5465",
+        "CompanyName": "富驊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5474",
+        "CompanyName": "聰泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5478",
+        "CompanyName": "智冠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5481",
+        "CompanyName": "新華",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5483",
+        "CompanyName": "中美晶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5487",
+        "CompanyName": "通泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5489",
+        "CompanyName": "彩富",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5490",
+        "CompanyName": "同亨",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5493",
+        "CompanyName": "三聯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5508",
+        "CompanyName": "永信建",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5511",
+        "CompanyName": "德昌",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5512",
+        "CompanyName": "力麒",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5514",
+        "CompanyName": "三豐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5520",
+        "CompanyName": "力泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5523",
+        "CompanyName": "豐謙",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5529",
+        "CompanyName": "鉅陞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5530",
+        "CompanyName": "龍巖",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5536",
+        "CompanyName": "聖暉*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5548",
+        "CompanyName": "安倉",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5601",
+        "CompanyName": "台聯櫃",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5603",
+        "CompanyName": "陸海",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5604",
+        "CompanyName": "中連",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5609",
+        "CompanyName": "中菲行",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5704",
+        "CompanyName": "老爺知",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5864",
+        "CompanyName": "致和證",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5902",
+        "CompanyName": "德記",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5903",
+        "CompanyName": "全家",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5904",
+        "CompanyName": "寶雅",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "5905",
+        "CompanyName": "南仁湖",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6015",
+        "CompanyName": "宏遠證",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6016",
+        "CompanyName": "康和證",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6020",
+        "CompanyName": "大展證",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6021",
+        "CompanyName": "美好證",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6023",
+        "CompanyName": "元大期",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6026",
+        "CompanyName": "福邦證",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6104",
+        "CompanyName": "創惟",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6111",
+        "CompanyName": "大宇資",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6113",
+        "CompanyName": "亞矽",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6114",
+        "CompanyName": "久威",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6118",
+        "CompanyName": "建達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6121",
+        "CompanyName": "新普",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6122",
+        "CompanyName": "擎邦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6123",
+        "CompanyName": "上奇",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6124",
+        "CompanyName": "業強",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6125",
+        "CompanyName": "廣運",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6126",
+        "CompanyName": "信音",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6127",
+        "CompanyName": "九豪",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6134",
+        "CompanyName": "萬旭",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6138",
+        "CompanyName": "茂達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6143",
+        "CompanyName": "振曜",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6146",
+        "CompanyName": "耕興",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6147",
+        "CompanyName": "頎邦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6148",
+        "CompanyName": "驊宏資",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6150",
+        "CompanyName": "撼訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6151",
+        "CompanyName": "晉倫",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6154",
+        "CompanyName": "順發",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6156",
+        "CompanyName": "松上",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6158",
+        "CompanyName": "禾昌",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6160",
+        "CompanyName": "欣技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6161",
+        "CompanyName": "捷波",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6163",
+        "CompanyName": "華電網",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6167",
+        "CompanyName": "久正",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6170",
+        "CompanyName": "統振",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6171",
+        "CompanyName": "大城地產",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6174",
+        "CompanyName": "安碁",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6175",
+        "CompanyName": "立敦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6179",
+        "CompanyName": "亞通",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6180",
+        "CompanyName": "橘子",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6182",
+        "CompanyName": "合晶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6185",
+        "CompanyName": "幃翔",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6186",
+        "CompanyName": "新潤",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6187",
+        "CompanyName": "萬潤",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6188",
+        "CompanyName": "廣明",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6190",
+        "CompanyName": "萬泰科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6194",
+        "CompanyName": "育富",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6195",
+        "CompanyName": "詩肯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6199",
+        "CompanyName": "天品",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "006201",
+        "CompanyName": "元大富櫃50",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6203",
+        "CompanyName": "海韻電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6204",
+        "CompanyName": "艾華",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6207",
+        "CompanyName": "雷科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6208",
+        "CompanyName": "日揚",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6210",
+        "CompanyName": "慶生",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6212",
+        "CompanyName": "理銘",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6217",
+        "CompanyName": "中探針",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6218",
+        "CompanyName": "豪勉",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6219",
+        "CompanyName": "富旺",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6220",
+        "CompanyName": "岳豐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6221",
+        "CompanyName": "晉泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6222",
+        "CompanyName": "立軒",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6223",
+        "CompanyName": "旺矽",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6227",
+        "CompanyName": "茂綸",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6229",
+        "CompanyName": "研通",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6231",
+        "CompanyName": "系微",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6233",
+        "CompanyName": "旺玖",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6234",
+        "CompanyName": "高僑",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6237",
+        "CompanyName": "驊訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6240",
+        "CompanyName": "松崗",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6244",
+        "CompanyName": "茂迪",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6245",
+        "CompanyName": "立端",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6248",
+        "CompanyName": "沛波",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6261",
+        "CompanyName": "久元",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6263",
+        "CompanyName": "普萊德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": "*"
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6266",
+        "CompanyName": "泰詠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6270",
+        "CompanyName": "倍微",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6275",
+        "CompanyName": "元山",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6279",
+        "CompanyName": "胡連",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6284",
+        "CompanyName": "佳邦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6290",
+        "CompanyName": "良維",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6292",
+        "CompanyName": "迅德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6294",
+        "CompanyName": "智基",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6411",
+        "CompanyName": "晶焱",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6417",
+        "CompanyName": "韋僑",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6418",
+        "CompanyName": "詠昇",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6425",
+        "CompanyName": "易發",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6432",
+        "CompanyName": "今展科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6435",
+        "CompanyName": "大中",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6441",
+        "CompanyName": "廣錠",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6462",
+        "CompanyName": "神盾",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6469",
+        "CompanyName": "大樹",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6470",
+        "CompanyName": "宇智",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6485",
+        "CompanyName": "點序",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6486",
+        "CompanyName": "互動",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6488",
+        "CompanyName": "環球晶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6494",
+        "CompanyName": "九齊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6496",
+        "CompanyName": "科懋",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6499",
+        "CompanyName": "益安",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6506",
+        "CompanyName": "雙邦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6508",
+        "CompanyName": "惠光",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6509",
+        "CompanyName": "聚和",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6510",
+        "CompanyName": "精測",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6516",
+        "CompanyName": "勤崴國際",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6517",
+        "CompanyName": "保勝光學",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6523",
+        "CompanyName": "達爾膚",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6530",
+        "CompanyName": "創威",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6532",
+        "CompanyName": "瑞耘",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6538",
+        "CompanyName": "倉和",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6542",
+        "CompanyName": "隆中",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6546",
+        "CompanyName": "正基",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6548",
+        "CompanyName": "長科*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6561",
+        "CompanyName": "是方",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6568",
+        "CompanyName": "宏觀",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6569",
+        "CompanyName": "醫揚",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6570",
+        "CompanyName": "維田",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6577",
+        "CompanyName": "勁豐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6578",
+        "CompanyName": "達邦蛋白",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6596",
+        "CompanyName": "寬宏藝術",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6603",
+        "CompanyName": "富強鑫",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6609",
+        "CompanyName": "瀧澤科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6612",
+        "CompanyName": "奈米醫材",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6613",
+        "CompanyName": "朋億*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6616",
+        "CompanyName": "特昇-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6629",
+        "CompanyName": "泰金-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6642",
+        "CompanyName": "富致",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6643",
+        "CompanyName": "M31",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6649",
+        "CompanyName": "台生材",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6651",
+        "CompanyName": "全宇昕",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6654",
+        "CompanyName": "天正國際",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6664",
+        "CompanyName": "群翊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6667",
+        "CompanyName": "信紘科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6679",
+        "CompanyName": "鈺太",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6684",
+        "CompanyName": "安格",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6690",
+        "CompanyName": "安碁資訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6692",
+        "CompanyName": "進能服",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6693",
+        "CompanyName": "廣閎科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6703",
+        "CompanyName": "軒郁",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6712",
+        "CompanyName": "長聖",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6716",
+        "CompanyName": "應廣",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6720",
+        "CompanyName": "久昌",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6728",
+        "CompanyName": "上洋",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6732",
+        "CompanyName": "昇佳電子",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6735",
+        "CompanyName": "美達科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6741",
+        "CompanyName": "91APP*-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6752",
+        "CompanyName": "叡揚",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6761",
+        "CompanyName": "穩得",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6763",
+        "CompanyName": "綠界科技*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6785",
+        "CompanyName": "昱展新藥",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6788",
+        "CompanyName": "華景電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6803",
+        "CompanyName": "崑鼎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6804",
+        "CompanyName": "明係",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6811",
+        "CompanyName": "宏碁資訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6821",
+        "CompanyName": "聯寶",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6829",
+        "CompanyName": "千附精密",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6841",
+        "CompanyName": "長佳智能",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6843",
+        "CompanyName": "進典",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6859",
+        "CompanyName": "伯特光",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6877",
+        "CompanyName": "鏵友益",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6895",
+        "CompanyName": "宏碩系統",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6899",
+        "CompanyName": "創為精密",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6903",
+        "CompanyName": "巨漢",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6913",
+        "CompanyName": "鴻呈",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6953",
+        "CompanyName": "家碩",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6968",
+        "CompanyName": "萬達寵物",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6982",
+        "CompanyName": "大井泵浦",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "6996",
+        "CompanyName": "力領科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7402",
+        "CompanyName": "邑錡",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7703",
+        "CompanyName": "銳澤",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7704",
+        "CompanyName": "明遠精密",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7712",
+        "CompanyName": "博盛半導體",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7715",
+        "CompanyName": "裕山",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "7723",
+        "CompanyName": "築間",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8027",
+        "CompanyName": "鈦昇",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8032",
+        "CompanyName": "光菱",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8034",
+        "CompanyName": "榮群",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8040",
+        "CompanyName": "九暘",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8044",
+        "CompanyName": "網家",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8048",
+        "CompanyName": "德勝",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8049",
+        "CompanyName": "晶采",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8050",
+        "CompanyName": "廣積",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8064",
+        "CompanyName": "東捷",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8066",
+        "CompanyName": "來思達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8068",
+        "CompanyName": "全達",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8071",
+        "CompanyName": "能率網通",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8074",
+        "CompanyName": "鉅橡",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8076",
+        "CompanyName": "伍豐",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8083",
+        "CompanyName": "瑞穎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8085",
+        "CompanyName": "福華",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": "*"
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8087",
+        "CompanyName": "麗升能源",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8089",
+        "CompanyName": "康全電訊",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8091",
+        "CompanyName": "翔名",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8097",
+        "CompanyName": "常珵",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8099",
+        "CompanyName": "大世科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8107",
+        "CompanyName": "大億金茂",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8109",
+        "CompanyName": "博大",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8111",
+        "CompanyName": "立碁",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8147",
+        "CompanyName": "正淩",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8155",
+        "CompanyName": "博智",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8171",
+        "CompanyName": "天宇",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8182",
+        "CompanyName": "加高",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8183",
+        "CompanyName": "精星",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8227",
+        "CompanyName": "巨有科技",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8234",
+        "CompanyName": "新漢",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8240",
+        "CompanyName": "華宏",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8255",
+        "CompanyName": "朋程",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8284",
+        "CompanyName": "三竹",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8289",
+        "CompanyName": "泰藝",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": "*"
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8342",
+        "CompanyName": "益張",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8349",
+        "CompanyName": "恒耀",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8354",
+        "CompanyName": "冠好",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8383",
+        "CompanyName": "千附",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8390",
+        "CompanyName": "金益鼎",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8401",
+        "CompanyName": "白紗科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8403",
+        "CompanyName": "盛弘",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8410",
+        "CompanyName": "森田",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8415",
+        "CompanyName": "大國鋼",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8421",
+        "CompanyName": "旭源",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8423",
+        "CompanyName": "保綠-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8424",
+        "CompanyName": "惠普",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8426",
+        "CompanyName": "紅木-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8431",
+        "CompanyName": "匯鑽科",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8432",
+        "CompanyName": "東生華",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8433",
+        "CompanyName": "弘帆",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8435",
+        "CompanyName": "鉅邁",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8436",
+        "CompanyName": "大江",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8437",
+        "CompanyName": "大地-KY",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8440",
+        "CompanyName": "綠電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8446",
+        "CompanyName": "華研",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8450",
+        "CompanyName": "霹靂",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8489",
+        "CompanyName": "三貝德",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8905",
+        "CompanyName": "裕國",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8906",
+        "CompanyName": "花王",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8908",
+        "CompanyName": "欣雄",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8916",
+        "CompanyName": "光隆",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8917",
+        "CompanyName": "欣泰",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8923",
+        "CompanyName": "時報",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8924",
+        "CompanyName": "大田",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8927",
+        "CompanyName": "北基",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8928",
+        "CompanyName": "鉅明",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8929",
+        "CompanyName": "富堡",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8930",
+        "CompanyName": "青鋼",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8931",
+        "CompanyName": "大汽電",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8932",
+        "CompanyName": "智通*",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8936",
+        "CompanyName": "國統",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8937",
+        "CompanyName": "合騏",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8938",
+        "CompanyName": "明安",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8941",
+        "CompanyName": "關中",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "8942",
+        "CompanyName": "森鉅",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "009806",
+        "CompanyName": "台新標普500",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "009807",
+        "CompanyName": "台新標普科技精選",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "9949",
+        "CompanyName": "琉園",
+        "BannedFromMarginShortSelling": "*",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "9951",
+        "CompanyName": "皇田",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "9960",
+        "CompanyName": "邁達康",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      },
+      {
+        "Date": "1141124",
+        "SecuritiesCompanyCode": "9962",
+        "CompanyName": "有益",
+        "BannedFromMarginShortSelling": "",
+        "BannedFromSBLShortSelling": "",
+        "SubjectToUptickRule": ""
+      }
+    ]
+  }
+}

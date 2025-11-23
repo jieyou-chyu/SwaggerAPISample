@@ -1,0 +1,41 @@
+{
+  "path": "/FinalSettlementPriceIR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "最後結算價-利率類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FinalSettlementPriceIR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:49 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "153",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:19 GMT",
+      "ETag": "\"99-6443699d0d8f2\"",
+      "Content-Disposition": "attachment; filename=FinalSettlementPriceIR.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50c05bb94a5a-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20190911",
+        "Contract": "GBF",
+        "ContractName": "公債期貨",
+        "ContractDeliveryMonth": "201909",
+        "TheFinalSettlementPrice": "119.44"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "path": "/MarketDataOfMajorInstitutionalTradersGeneralBytheDate",
+  "method": "GET",
+  "operationId": null,
+  "summary": "三大法人-總表-依日期",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersGeneralBytheDate",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:21 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1509",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:17 GMT",
+      "ETag": "\"5e5-644368ef70f46\"",
+      "Content-Disposition": "attachment; filename=MarketDataOfMajorInstitutionalTradersGeneralBytheDate.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4bac8ea18276-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "Item": "自營商",
+        "TradingVolume(Long)": "567119",
+        "TradingValue(Long)(Millions)": "124527",
+        "TradingVolume(Short)": "637128",
+        "TradingValue(Short)(Millions)": "122611",
+        "TradingVolume(Net)": "-70009",
+        "TradingValue(Net)(Millions)": "1916",
+        "OpenInterest(Long)": "167345",
+        "ContractValueOfOpenInterest(Long)(Millions)": "57520",
+        "OpenInterest(Short)": "323213",
+        "ContractValueOfOpenInterest(Short)(Millions)": "111789",
+        "OpenInterest(Net)": "-155868",
+        "ContractValueOfOpenInterest(Net)(Millions)": "-54269"
+      },
+      {
+        "Date": "20251121",
+        "Item": "投信",
+        "TradingVolume(Long)": "2851",
+        "TradingValue(Long)(Millions)": "3828",
+        "TradingVolume(Short)": "543",
+        "TradingValue(Short)(Millions)": "2596",
+        "TradingVolume(Net)": "2308",
+        "TradingValue(Net)(Millions)": "1232",
+        "OpenInterest(Long)": "46345",
+        "ContractValueOfOpenInterest(Long)(Millions)": "174166",
+        "OpenInterest(Short)": "8039",
+        "ContractValueOfOpenInterest(Short)(Millions)": "40355",
+        "OpenInterest(Net)": "38306",
+        "ContractValueOfOpenInterest(Net)(Millions)": "133811"
+      },
+      {
+        "Date": "20251121",
+        "Item": "外資及陸資",
+        "TradingVolume(Long)": "847993",
+        "TradingValue(Long)(Millions)": "815222",
+        "TradingVolume(Short)": "876828",
+        "TradingValue(Short)(Millions)": "878940",
+        "TradingVolume(Net)": "-28835",
+        "TradingValue(Net)(Millions)": "-63718",
+        "OpenInterest(Long)": "132848",
+        "ContractValueOfOpenInterest(Long)(Millions)": "138506",
+        "OpenInterest(Short)": "458579",
+        "ContractValueOfOpenInterest(Short)(Millions)": "429473",
+        "OpenInterest(Net)": "-325731",
+        "ContractValueOfOpenInterest(Net)(Millions)": "-290967"
+      }
+    ]
+  }
+}

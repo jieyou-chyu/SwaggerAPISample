@@ -1,0 +1,50 @@
+{
+  "path": "/va02",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日個股選擇權未平倉量增減(區分股票與ETF)",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va02",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:02 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "274",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:06 GMT",
+      "ETag": "\"112-644369c92ede6\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=va02.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d51115a68073c-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "ContractType": "STC",
+        "OpenInterest": "3482",
+        "PreviousDay": "20251120",
+        "PreviousDayOpenInterest": "3231",
+        "Change": "251"
+      },
+      {
+        "Date": "20251121",
+        "ContractType": "ETC",
+        "OpenInterest": "2001",
+        "PreviousDay": "20251120",
+        "PreviousDayOpenInterest": "1883",
+        "Change": "118"
+      }
+    ]
+  }
+}

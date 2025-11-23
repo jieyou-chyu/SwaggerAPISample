@@ -1,0 +1,2522 @@
+{
+  "path": "/SettledPositionsSSF",
+  "method": "GET",
+  "operationId": null,
+  "summary": "到期契約履約交割-股票類（股票期貨）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SettledPositionsSSF",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:52 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "48968",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:29 GMT",
+      "ETag": "\"bf48-644369a6a3f24\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SettledPositionsSSF.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d50d229cfb846-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "南亞期貨",
+        "Contract": "CAF",
+        "Long(lot)": "1623",
+        "Short(lot)": "1623"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中鋼期貨",
+        "Contract": "CBF",
+        "Long(lot)": "807",
+        "Short(lot)": "807"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聯電期貨",
+        "Contract": "CCF",
+        "Long(lot)": "868",
+        "Short(lot)": "868"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台積電期貨",
+        "Contract": "CDF",
+        "Long(lot)": "5280",
+        "Short(lot)": "5280"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型台積電期貨",
+        "Contract": "QFF",
+        "Long(lot)": "11425",
+        "Short(lot)": "11425"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富邦金期貨",
+        "Contract": "CE1",
+        "Long(lot)": "154",
+        "Short(lot)": "154"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富邦金期貨",
+        "Contract": "CEF",
+        "Long(lot)": "752",
+        "Short(lot)": "752"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台塑期貨",
+        "Contract": "CFF",
+        "Long(lot)": "953",
+        "Short(lot)": "953"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "仁寶期貨",
+        "Contract": "CGF",
+        "Long(lot)": "857",
+        "Short(lot)": "857"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "友達期貨",
+        "Contract": "CHF",
+        "Long(lot)": "1484",
+        "Short(lot)": "1484"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華南金期貨",
+        "Contract": "CJF",
+        "Long(lot)": "253",
+        "Short(lot)": "253"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國泰金期貨",
+        "Contract": "CKF",
+        "Long(lot)": "815",
+        "Short(lot)": "815"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "兆豐金期貨",
+        "Contract": "CLF",
+        "Long(lot)": "270",
+        "Short(lot)": "270"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台新新光金期貨",
+        "Contract": "CMF",
+        "Long(lot)": "1354",
+        "Short(lot)": "1354"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中信金期貨",
+        "Contract": "CNF",
+        "Long(lot)": "318",
+        "Short(lot)": "318"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "統一期貨",
+        "Contract": "CQF",
+        "Long(lot)": "499",
+        "Short(lot)": "499"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "遠東新期貨",
+        "Contract": "CRF",
+        "Long(lot)": "244",
+        "Short(lot)": "244"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華新期貨",
+        "Contract": "CSF",
+        "Long(lot)": "2339",
+        "Short(lot)": "2339"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中環期貨",
+        "Contract": "CUF",
+        "Long(lot)": "157",
+        "Short(lot)": "157"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "佳世達期貨",
+        "Contract": "CW1",
+        "Long(lot)": "360",
+        "Short(lot)": "360"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "佳世達期貨",
+        "Contract": "CWF",
+        "Long(lot)": "172",
+        "Short(lot)": "172"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大同期貨",
+        "Contract": "CXF",
+        "Long(lot)": "840",
+        "Short(lot)": "840"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "南亞科期貨",
+        "Contract": "CYF",
+        "Long(lot)": "4720",
+        "Short(lot)": "4720"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "長榮期貨",
+        "Contract": "CZF",
+        "Long(lot)": "1252",
+        "Short(lot)": "1252"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "陽明期貨",
+        "Contract": "DAF",
+        "Long(lot)": "1188",
+        "Short(lot)": "1188"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華航期貨",
+        "Contract": "DBF",
+        "Long(lot)": "418",
+        "Short(lot)": "418"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "彰銀期貨",
+        "Contract": "DCF",
+        "Long(lot)": "1486",
+        "Short(lot)": "1486"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "永豐金期貨",
+        "Contract": "DEF",
+        "Long(lot)": "93",
+        "Short(lot)": "93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台泥期貨",
+        "Contract": "DFF",
+        "Long(lot)": "1097",
+        "Short(lot)": "1097"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台化期貨",
+        "Contract": "DGF",
+        "Long(lot)": "516",
+        "Short(lot)": "516"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "鴻海期貨",
+        "Contract": "DHF",
+        "Long(lot)": "2203",
+        "Short(lot)": "2203"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "旺宏期貨",
+        "Contract": "DIF",
+        "Long(lot)": "3512",
+        "Short(lot)": "3512"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華碩期貨",
+        "Contract": "DJF",
+        "Long(lot)": "90",
+        "Short(lot)": "90"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型華碩期貨",
+        "Contract": "QRF",
+        "Long(lot)": "1203",
+        "Short(lot)": "1203"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "廣達期貨",
+        "Contract": "DKF",
+        "Long(lot)": "467",
+        "Short(lot)": "467"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中華電期貨",
+        "Contract": "DLF",
+        "Long(lot)": "171",
+        "Short(lot)": "171"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "玉山金期貨",
+        "Contract": "DNF",
+        "Long(lot)": "744",
+        "Short(lot)": "744"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大金期貨",
+        "Contract": "DOF",
+        "Long(lot)": "365",
+        "Short(lot)": "365"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "第一金期貨",
+        "Contract": "DPF",
+        "Long(lot)": "97",
+        "Short(lot)": "97"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群創期貨",
+        "Contract": "DQF",
+        "Long(lot)": "2515",
+        "Short(lot)": "2515"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "宏碁期貨",
+        "Contract": "DSF",
+        "Long(lot)": "692",
+        "Short(lot)": "692"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聯發科期貨",
+        "Contract": "DVF",
+        "Long(lot)": "547",
+        "Short(lot)": "547"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型聯發科期貨",
+        "Contract": "PUF",
+        "Long(lot)": "3081",
+        "Short(lot)": "3081"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "潤泰全期貨",
+        "Contract": "DWF",
+        "Long(lot)": "165",
+        "Short(lot)": "165"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "緯創期貨",
+        "Contract": "DXF",
+        "Long(lot)": "1318",
+        "Short(lot)": "1318"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "亞泥期貨",
+        "Contract": "DYF",
+        "Long(lot)": "221",
+        "Short(lot)": "221"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大成期貨",
+        "Contract": "DZF",
+        "Long(lot)": "140",
+        "Short(lot)": "140"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國喬期貨",
+        "Contract": "EEF",
+        "Long(lot)": "428",
+        "Short(lot)": "428"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中石化期貨",
+        "Contract": "EGF",
+        "Long(lot)": "1362",
+        "Short(lot)": "1362"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "東陽期貨",
+        "Contract": "EHF",
+        "Long(lot)": "206",
+        "Short(lot)": "206"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "南紡期貨",
+        "Contract": "EKF",
+        "Long(lot)": "110",
+        "Short(lot)": "110"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "東元期貨",
+        "Contract": "EMF",
+        "Long(lot)": "621",
+        "Short(lot)": "621"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "亞德客-KY期貨",
+        "Contract": "EPF",
+        "Long(lot)": "6",
+        "Short(lot)": "6"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中纖期貨",
+        "Contract": "EYF",
+        "Long(lot)": "68",
+        "Short(lot)": "68"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台肥期貨",
+        "Contract": "EZF",
+        "Long(lot)": "29",
+        "Short(lot)": "29"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "東和鋼鐵期貨",
+        "Contract": "FBF",
+        "Long(lot)": "28",
+        "Short(lot)": "28"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大成鋼期貨",
+        "Contract": "FEF",
+        "Long(lot)": "574",
+        "Short(lot)": "574"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "上銀期貨",
+        "Contract": "FFF",
+        "Long(lot)": "158",
+        "Short(lot)": "158"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型上銀期貨",
+        "Contract": "QMF",
+        "Long(lot)": "739",
+        "Short(lot)": "739"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "川湖期貨",
+        "Contract": "FGF",
+        "Long(lot)": "58",
+        "Short(lot)": "58"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型川湖期貨",
+        "Contract": "SVF",
+        "Long(lot)": "612",
+        "Short(lot)": "612"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "正新期貨",
+        "Contract": "FKF",
+        "Long(lot)": "357",
+        "Short(lot)": "357"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "裕隆期貨",
+        "Contract": "FNF",
+        "Long(lot)": "230",
+        "Short(lot)": "230"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "光寶科期貨",
+        "Contract": "FQF",
+        "Long(lot)": "694",
+        "Short(lot)": "694"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台達電期貨",
+        "Contract": "FRF",
+        "Long(lot)": "717",
+        "Short(lot)": "717"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型台達電期貨",
+        "Contract": "RVF",
+        "Long(lot)": "4458",
+        "Short(lot)": "4458"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "金寶期貨",
+        "Contract": "FSF",
+        "Long(lot)": "623",
+        "Short(lot)": "623"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華通期貨",
+        "Contract": "FTF",
+        "Long(lot)": "1117",
+        "Short(lot)": "1117"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "精英期貨",
+        "Contract": "FVF",
+        "Long(lot)": "184",
+        "Short(lot)": "184"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "友訊期貨",
+        "Contract": "FWF",
+        "Long(lot)": "274",
+        "Short(lot)": "274"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台亞期貨",
+        "Contract": "FYF",
+        "Long(lot)": "440",
+        "Short(lot)": "440"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華邦電期貨",
+        "Contract": "FZF",
+        "Long(lot)": "8284",
+        "Short(lot)": "8284"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聯強期貨",
+        "Contract": "GAF",
+        "Long(lot)": "199",
+        "Short(lot)": "199"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "鴻準期貨",
+        "Contract": "GCF",
+        "Long(lot)": "460",
+        "Short(lot)": "460"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "技嘉期貨",
+        "Contract": "GHF",
+        "Long(lot)": "616",
+        "Short(lot)": "616"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型技嘉期貨",
+        "Contract": "SLF",
+        "Long(lot)": "2695",
+        "Short(lot)": "2695"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "微星期貨",
+        "Contract": "GIF",
+        "Long(lot)": "376",
+        "Short(lot)": "376"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "瑞昱期貨",
+        "Contract": "GJF",
+        "Long(lot)": "69",
+        "Short(lot)": "69"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型瑞昱期貨",
+        "Contract": "QGF",
+        "Long(lot)": "522",
+        "Short(lot)": "522"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群光期貨",
+        "Contract": "GKF",
+        "Long(lot)": "62",
+        "Short(lot)": "62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "正崴期貨",
+        "Contract": "GLF",
+        "Long(lot)": "63",
+        "Short(lot)": "63"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "億光期貨",
+        "Contract": "GMF",
+        "Long(lot)": "50",
+        "Short(lot)": "50"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "凌陽期貨",
+        "Contract": "GNF",
+        "Long(lot)": "104",
+        "Short(lot)": "104"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "漢唐期貨",
+        "Contract": "GOF",
+        "Long(lot)": "70",
+        "Short(lot)": "70"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型漢唐期貨",
+        "Contract": "UZF",
+        "Long(lot)": "614",
+        "Short(lot)": "614"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "京元電子期貨",
+        "Contract": "GRF",
+        "Long(lot)": "1723",
+        "Short(lot)": "1723"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "全新期貨",
+        "Contract": "GUF",
+        "Long(lot)": "200",
+        "Short(lot)": "200"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "飛宏期貨",
+        "Contract": "GVF",
+        "Long(lot)": "307",
+        "Short(lot)": "307"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "義隆期貨",
+        "Contract": "GWF",
+        "Long(lot)": "62",
+        "Short(lot)": "62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "可成期貨",
+        "Contract": "GXF",
+        "Long(lot)": "322",
+        "Short(lot)": "322"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "強茂期貨",
+        "Contract": "GYF",
+        "Long(lot)": "703",
+        "Short(lot)": "703"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "兆赫期貨",
+        "Contract": "GZF",
+        "Long(lot)": "149",
+        "Short(lot)": "149"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "瑞軒期貨",
+        "Contract": "HAF",
+        "Long(lot)": "38",
+        "Short(lot)": "38"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華新科期貨",
+        "Contract": "HBF",
+        "Long(lot)": "275",
+        "Short(lot)": "275"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "宏達電期貨",
+        "Contract": "HCF",
+        "Long(lot)": "1156",
+        "Short(lot)": "1156"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中工期貨",
+        "Contract": "HH1",
+        "Long(lot)": "1555",
+        "Short(lot)": "1555"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中工期貨",
+        "Contract": "HHF",
+        "Long(lot)": "1730",
+        "Short(lot)": "1730"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "冠德期貨",
+        "Contract": "HIF",
+        "Long(lot)": "102",
+        "Short(lot)": "102"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "興富發期貨",
+        "Contract": "HL1",
+        "Long(lot)": "64",
+        "Short(lot)": "64"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "興富發期貨",
+        "Contract": "HLF",
+        "Long(lot)": "299",
+        "Short(lot)": "299"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華固期貨",
+        "Contract": "HOF",
+        "Long(lot)": "82",
+        "Short(lot)": "82"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "新興期貨",
+        "Contract": "HQF",
+        "Long(lot)": "606",
+        "Short(lot)": "606"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "長榮航期貨",
+        "Contract": "HSF",
+        "Long(lot)": "1190",
+        "Short(lot)": "1190"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臺企銀期貨",
+        "Contract": "IAF",
+        "Long(lot)": "218",
+        "Short(lot)": "218"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "農林期貨",
+        "Contract": "IHF",
+        "Long(lot)": "151",
+        "Short(lot)": "151"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "晶豪科期貨",
+        "Contract": "IIF",
+        "Long(lot)": "612",
+        "Short(lot)": "612"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大立光期貨",
+        "Contract": "IJF",
+        "Long(lot)": "25",
+        "Short(lot)": "25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型大立光期貨",
+        "Contract": "OLF",
+        "Long(lot)": "570",
+        "Short(lot)": "570"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "亞光期貨",
+        "Contract": "IMF",
+        "Long(lot)": "260",
+        "Short(lot)": "260"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聯詠期貨",
+        "Contract": "IOF",
+        "Long(lot)": "204",
+        "Short(lot)": "204"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型聯詠期貨",
+        "Contract": "QHF",
+        "Long(lot)": "1903",
+        "Short(lot)": "1903"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "智原期貨",
+        "Contract": "IPF",
+        "Long(lot)": "544",
+        "Short(lot)": "544"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "文曄期貨",
+        "Contract": "IQF",
+        "Long(lot)": "445",
+        "Short(lot)": "445"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "欣興期貨",
+        "Contract": "IR1",
+        "Long(lot)": "2687",
+        "Short(lot)": "2687"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "欣興期貨",
+        "Contract": "IRF",
+        "Long(lot)": "1936",
+        "Short(lot)": "1936"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "晶技期貨",
+        "Contract": "ITF",
+        "Long(lot)": "304",
+        "Short(lot)": "304"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "景碩期貨",
+        "Contract": "IXF",
+        "Long(lot)": "663",
+        "Short(lot)": "663"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "新日興期貨",
+        "Contract": "IYF",
+        "Long(lot)": "285",
+        "Short(lot)": "285"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "明泰期貨",
+        "Contract": "IZF",
+        "Long(lot)": "262",
+        "Short(lot)": "262"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "創意期貨",
+        "Contract": "JBF",
+        "Long(lot)": "218",
+        "Short(lot)": "218"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型創意期貨",
+        "Contract": "RWF",
+        "Long(lot)": "2394",
+        "Short(lot)": "2394"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "嘉澤期貨",
+        "Contract": "JFF",
+        "Long(lot)": "23",
+        "Short(lot)": "23"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型嘉澤期貨",
+        "Contract": "RFF",
+        "Long(lot)": "524",
+        "Short(lot)": "524"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "健策期貨",
+        "Contract": "JMF",
+        "Long(lot)": "206",
+        "Short(lot)": "206"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型健策期貨",
+        "Contract": "RGF",
+        "Long(lot)": "3636",
+        "Short(lot)": "3636"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "TPK-KY期貨",
+        "Contract": "JNF",
+        "Long(lot)": "165",
+        "Short(lot)": "165"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大聯大期貨",
+        "Contract": "JPF",
+        "Long(lot)": "469",
+        "Short(lot)": "469"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "和碩期貨",
+        "Contract": "JSF",
+        "Long(lot)": "421",
+        "Short(lot)": "421"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "長虹期貨",
+        "Contract": "JWF",
+        "Long(lot)": "160",
+        "Short(lot)": "160"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群益證期貨",
+        "Contract": "JXF",
+        "Long(lot)": "210",
+        "Short(lot)": "210"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "嘉聯益期貨",
+        "Contract": "JZF",
+        "Long(lot)": "332",
+        "Short(lot)": "332"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "瑞儀期貨",
+        "Contract": "KAF",
+        "Long(lot)": "162",
+        "Short(lot)": "162"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聯茂期貨",
+        "Contract": "KBF",
+        "Long(lot)": "275",
+        "Short(lot)": "275"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "力成期貨",
+        "Contract": "KCF",
+        "Long(lot)": "697",
+        "Short(lot)": "697"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "同欣電期貨",
+        "Contract": "KDF",
+        "Long(lot)": "80",
+        "Short(lot)": "80"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台表科期貨",
+        "Contract": "KEF",
+        "Long(lot)": "51",
+        "Short(lot)": "51"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "康舒期貨",
+        "Contract": "KFF",
+        "Long(lot)": "1065",
+        "Short(lot)": "1065"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "啟碁期貨",
+        "Contract": "KGF",
+        "Long(lot)": "253",
+        "Short(lot)": "253"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台虹期貨",
+        "Contract": "KIF",
+        "Long(lot)": "264",
+        "Short(lot)": "264"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "達方期貨",
+        "Contract": "KKF",
+        "Long(lot)": "24",
+        "Short(lot)": "24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "寶成期貨",
+        "Contract": "KLF",
+        "Long(lot)": "415",
+        "Short(lot)": "415"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "宏全期貨",
+        "Contract": "KOF",
+        "Long(lot)": "39",
+        "Short(lot)": "39"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "潤泰新期貨",
+        "Contract": "KPF",
+        "Long(lot)": "198",
+        "Short(lot)": "198"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聚陽期貨",
+        "Contract": "KSF",
+        "Long(lot)": "53",
+        "Short(lot)": "53"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型聚陽期貨",
+        "Contract": "SCF",
+        "Long(lot)": "309",
+        "Short(lot)": "309"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台玻期貨",
+        "Contract": "KUF",
+        "Long(lot)": "2784",
+        "Short(lot)": "2784"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "廣宇期貨",
+        "Contract": "KWF",
+        "Long(lot)": "722",
+        "Short(lot)": "722"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "健鼎期貨",
+        "Contract": "LBF",
+        "Long(lot)": "95",
+        "Short(lot)": "95"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台灣大期貨",
+        "Contract": "LCF",
+        "Long(lot)": "259",
+        "Short(lot)": "259"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "玉晶光期貨",
+        "Contract": "LEF",
+        "Long(lot)": "62",
+        "Short(lot)": "62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型玉晶光期貨",
+        "Contract": "QJF",
+        "Long(lot)": "708",
+        "Short(lot)": "708"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台郡期貨",
+        "Contract": "LIF",
+        "Long(lot)": "232",
+        "Short(lot)": "232"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "美利達期貨",
+        "Contract": "LMF",
+        "Long(lot)": "106",
+        "Short(lot)": "106"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "合庫金期貨",
+        "Contract": "LOF",
+        "Long(lot)": "35",
+        "Short(lot)": "35"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "英業達期貨",
+        "Contract": "LQF",
+        "Long(lot)": "349",
+        "Short(lot)": "349"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "凱基金期貨",
+        "Contract": "LRF",
+        "Long(lot)": "391",
+        "Short(lot)": "391"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "遠傳期貨",
+        "Contract": "LTF",
+        "Long(lot)": "148",
+        "Short(lot)": "148"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "臻鼎-KY期貨",
+        "Contract": "LUF",
+        "Long(lot)": "540",
+        "Short(lot)": "540"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中租-KY期貨",
+        "Contract": "LVF",
+        "Long(lot)": "146",
+        "Short(lot)": "146"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "儒鴻期貨",
+        "Contract": "LWF",
+        "Long(lot)": "49",
+        "Short(lot)": "49"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國巨期貨",
+        "Contract": "LXF",
+        "Long(lot)": "1097",
+        "Short(lot)": "1097"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型國巨期貨",
+        "Contract": "QEF",
+        "Long(lot)": "4138",
+        "Short(lot)": "4138"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "南電期貨",
+        "Contract": "LYF",
+        "Long(lot)": "415",
+        "Short(lot)": "415"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型南電期貨",
+        "Contract": "QSF",
+        "Long(lot)": "1916",
+        "Short(lot)": "1916"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "敬鵬期貨",
+        "Contract": "MBF",
+        "Long(lot)": "57",
+        "Short(lot)": "57"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "致茂期貨",
+        "Contract": "MJF",
+        "Long(lot)": "123",
+        "Short(lot)": "123"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型致茂期貨",
+        "Contract": "VDF",
+        "Long(lot)": "467",
+        "Short(lot)": "467"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "美律期貨",
+        "Contract": "MKF",
+        "Long(lot)": "117",
+        "Short(lot)": "117"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "矽格期貨",
+        "Contract": "MQF",
+        "Long(lot)": "134",
+        "Short(lot)": "134"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "百和期貨",
+        "Contract": "MVF",
+        "Long(lot)": "121",
+        "Short(lot)": "121"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "精華期貨",
+        "Contract": "MYF",
+        "Long(lot)": "1",
+        "Short(lot)": "1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型精華期貨",
+        "Contract": "OMF",
+        "Long(lot)": "47",
+        "Short(lot)": "47"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "穩懋期貨",
+        "Contract": "NAF",
+        "Long(lot)": "389",
+        "Short(lot)": "389"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "璟德期貨",
+        "Contract": "NBF",
+        "Long(lot)": "3",
+        "Short(lot)": "3"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "威剛期貨",
+        "Contract": "NDF",
+        "Long(lot)": "1212",
+        "Short(lot)": "1212"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "欣銓期貨",
+        "Contract": "NEF",
+        "Long(lot)": "220",
+        "Short(lot)": "220"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "碩禾期貨",
+        "Contract": "NGF",
+        "Long(lot)": "37",
+        "Short(lot)": "37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "晟德期貨",
+        "Contract": "NI1",
+        "Long(lot)": "44",
+        "Short(lot)": "44"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "晟德期貨",
+        "Contract": "NIF",
+        "Long(lot)": "316",
+        "Short(lot)": "316"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "榮剛期貨",
+        "Contract": "NJF",
+        "Long(lot)": "111",
+        "Short(lot)": "111"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "世界期貨",
+        "Contract": "NLF",
+        "Long(lot)": "348",
+        "Short(lot)": "348"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中光電期貨",
+        "Contract": "NMF",
+        "Long(lot)": "423",
+        "Short(lot)": "423"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中美晶期貨",
+        "Contract": "NOF",
+        "Long(lot)": "326",
+        "Short(lot)": "326"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "新普期貨",
+        "Contract": "NQF",
+        "Long(lot)": "26",
+        "Short(lot)": "26"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "頎邦期貨",
+        "Contract": "NSF",
+        "Long(lot)": "68",
+        "Short(lot)": "68"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "網家期貨",
+        "Contract": "NUF",
+        "Long(lot)": "30",
+        "Short(lot)": "30"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元太期貨",
+        "Contract": "NVF",
+        "Long(lot)": "336",
+        "Short(lot)": "336"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群聯期貨",
+        "Contract": "NWF",
+        "Long(lot)": "1004",
+        "Short(lot)": "1004"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型群聯期貨",
+        "Contract": "QNF",
+        "Long(lot)": "5113",
+        "Short(lot)": "5113"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大台灣50ETF期貨",
+        "Contract": "NYF",
+        "Long(lot)": "1440",
+        "Short(lot)": "1440"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型元大台灣50ETF期貨",
+        "Contract": "SRF",
+        "Long(lot)": "1097",
+        "Short(lot)": "1097"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富邦上証ETF期貨",
+        "Contract": "OAF",
+        "Long(lot)": "126",
+        "Short(lot)": "126"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大上證50ETF期貨",
+        "Contract": "OBF",
+        "Long(lot)": "4",
+        "Short(lot)": "4"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "為升期貨",
+        "Contract": "ODF",
+        "Long(lot)": "114",
+        "Short(lot)": "114"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "彩晶期貨",
+        "Contract": "OEF",
+        "Long(lot)": "75",
+        "Short(lot)": "75"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "胡連期貨",
+        "Contract": "OHF",
+        "Long(lot)": "41",
+        "Short(lot)": "41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國泰中國A50ETF期貨",
+        "Contract": "OJF",
+        "Long(lot)": "224",
+        "Short(lot)": "224"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富邦深100ETF期貨",
+        "Contract": "OKF",
+        "Long(lot)": "212",
+        "Short(lot)": "212"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群益深証中小ETF期貨",
+        "Contract": "OOF",
+        "Long(lot)": "73",
+        "Short(lot)": "73"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "智邦期貨",
+        "Contract": "OPF",
+        "Long(lot)": "165",
+        "Short(lot)": "165"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型智邦期貨",
+        "Contract": "SEF",
+        "Long(lot)": "2108",
+        "Short(lot)": "2108"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "樺漢期貨",
+        "Contract": "OQF",
+        "Long(lot)": "29",
+        "Short(lot)": "29"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "和大期貨",
+        "Contract": "ORF",
+        "Long(lot)": "316",
+        "Short(lot)": "316"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "榮成期貨",
+        "Contract": "OSF",
+        "Long(lot)": "178",
+        "Short(lot)": "178"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "聯亞期貨",
+        "Contract": "OTF",
+        "Long(lot)": "195",
+        "Short(lot)": "195"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "同致期貨",
+        "Contract": "OUF",
+        "Long(lot)": "34",
+        "Short(lot)": "34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台燿期貨",
+        "Contract": "OVF",
+        "Long(lot)": "456",
+        "Short(lot)": "456"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "環球晶期貨",
+        "Contract": "OWF",
+        "Long(lot)": "275",
+        "Short(lot)": "275"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型環球晶期貨",
+        "Contract": "PBF",
+        "Long(lot)": "1635",
+        "Short(lot)": "1635"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "精測期貨",
+        "Contract": "OXF",
+        "Long(lot)": "26",
+        "Short(lot)": "26"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型精測期貨",
+        "Contract": "OYF",
+        "Long(lot)": "387",
+        "Short(lot)": "387"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "日月光投控期貨",
+        "Contract": "OZF",
+        "Long(lot)": "1772",
+        "Short(lot)": "1772"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "原相期貨",
+        "Contract": "PAF",
+        "Long(lot)": "193",
+        "Short(lot)": "193"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "智擎期貨",
+        "Contract": "PCF",
+        "Long(lot)": "44",
+        "Short(lot)": "44"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "泰博期貨",
+        "Contract": "PDF",
+        "Long(lot)": "1",
+        "Short(lot)": "1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台半期貨",
+        "Contract": "PEF",
+        "Long(lot)": "230",
+        "Short(lot)": "230"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大高股息ETF期貨",
+        "Contract": "PFF",
+        "Long(lot)": "172",
+        "Short(lot)": "172"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型元大高股息ETF期貨",
+        "Contract": "SSF",
+        "Long(lot)": "47",
+        "Short(lot)": "47"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台灣高鐵期貨",
+        "Contract": "PGF",
+        "Long(lot)": "25",
+        "Short(lot)": "25"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "祥碩期貨",
+        "Contract": "PHF",
+        "Long(lot)": "29",
+        "Short(lot)": "29"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型祥碩期貨",
+        "Contract": "PNF",
+        "Long(lot)": "725",
+        "Short(lot)": "725"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "力旺期貨",
+        "Contract": "PIF",
+        "Long(lot)": "22",
+        "Short(lot)": "22"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型力旺期貨",
+        "Contract": "RSF",
+        "Long(lot)": "647",
+        "Short(lot)": "647"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台光電期貨",
+        "Contract": "PJF",
+        "Long(lot)": "233",
+        "Short(lot)": "233"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型台光電期貨",
+        "Contract": "SFF",
+        "Long(lot)": "2675",
+        "Short(lot)": "2675"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "信昌電期貨",
+        "Contract": "PKF",
+        "Long(lot)": "304",
+        "Short(lot)": "304"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "合晶期貨",
+        "Contract": "PLF",
+        "Long(lot)": "295",
+        "Short(lot)": "295"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大江期貨",
+        "Contract": "PMF",
+        "Long(lot)": "19",
+        "Short(lot)": "19"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "宣德期貨",
+        "Contract": "PPF",
+        "Long(lot)": "43",
+        "Short(lot)": "43"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "金居期貨",
+        "Contract": "PQF",
+        "Long(lot)": "1332",
+        "Short(lot)": "1332"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "宏捷科期貨",
+        "Contract": "PRF",
+        "Long(lot)": "101",
+        "Short(lot)": "101"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "神達期貨",
+        "Contract": "PSF",
+        "Long(lot)": "899",
+        "Short(lot)": "899"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "雙鴻期貨",
+        "Contract": "PTF",
+        "Long(lot)": "301",
+        "Short(lot)": "301"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型雙鴻期貨",
+        "Contract": "ULF",
+        "Long(lot)": "1096",
+        "Short(lot)": "1096"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "緯穎期貨",
+        "Contract": "PVF",
+        "Long(lot)": "113",
+        "Short(lot)": "113"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型緯穎期貨",
+        "Contract": "PWF",
+        "Long(lot)": "1796",
+        "Short(lot)": "1796"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "鈊象期貨",
+        "Contract": "PXF",
+        "Long(lot)": "95",
+        "Short(lot)": "95"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型鈊象期貨",
+        "Contract": "PYF",
+        "Long(lot)": "1359",
+        "Short(lot)": "1359"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "信驊期貨",
+        "Contract": "PZF",
+        "Long(lot)": "13",
+        "Short(lot)": "13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型信驊期貨",
+        "Contract": "QAF",
+        "Long(lot)": "355",
+        "Short(lot)": "355"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富采期貨",
+        "Contract": "QBF",
+        "Long(lot)": "54",
+        "Short(lot)": "54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "裕民期貨",
+        "Contract": "QCF",
+        "Long(lot)": "256",
+        "Short(lot)": "256"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台勝科期貨",
+        "Contract": "QDF",
+        "Long(lot)": "172",
+        "Short(lot)": "172"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "永豐餘期貨",
+        "Contract": "QKF",
+        "Long(lot)": "113",
+        "Short(lot)": "113"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "精材期貨",
+        "Contract": "QLF",
+        "Long(lot)": "738",
+        "Short(lot)": "738"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "長興期貨",
+        "Contract": "QOF",
+        "Long(lot)": "265",
+        "Short(lot)": "265"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "正隆期貨",
+        "Contract": "QPF",
+        "Long(lot)": "21",
+        "Short(lot)": "21"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "僑威期貨",
+        "Contract": "QQF",
+        "Long(lot)": "91",
+        "Short(lot)": "91"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "超豐期貨",
+        "Contract": "QTF",
+        "Long(lot)": "85",
+        "Short(lot)": "85"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "南茂期貨",
+        "Contract": "QUF",
+        "Long(lot)": "251",
+        "Short(lot)": "251"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "光罩期貨",
+        "Contract": "QVF",
+        "Long(lot)": "289",
+        "Short(lot)": "289"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "威盛期貨",
+        "Contract": "QWF",
+        "Long(lot)": "316",
+        "Short(lot)": "316"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "萬海期貨",
+        "Contract": "QXF",
+        "Long(lot)": "1338",
+        "Short(lot)": "1338"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "高端疫苗期貨",
+        "Contract": "QYF",
+        "Long(lot)": "117",
+        "Short(lot)": "117"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "力積電期貨",
+        "Contract": "QZF",
+        "Long(lot)": "4592",
+        "Short(lot)": "4592"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "奇鋐期貨",
+        "Contract": "RAF",
+        "Long(lot)": "236",
+        "Short(lot)": "236"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型奇鋐期貨",
+        "Contract": "UHF",
+        "Long(lot)": "961",
+        "Short(lot)": "961"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中磊期貨",
+        "Contract": "RBF",
+        "Long(lot)": "103",
+        "Short(lot)": "103"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "漢翔期貨",
+        "Contract": "RCF",
+        "Long(lot)": "342",
+        "Short(lot)": "342"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中天期貨",
+        "Contract": "RDF",
+        "Long(lot)": "23",
+        "Short(lot)": "23"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "新唐期貨",
+        "Contract": "REF",
+        "Long(lot)": "46",
+        "Short(lot)": "46"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國泰永續高股息ETF期貨",
+        "Contract": "RIF",
+        "Long(lot)": "736",
+        "Short(lot)": "736"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "大亞期貨",
+        "Contract": "RJF",
+        "Long(lot)": "364",
+        "Short(lot)": "364"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "金像電期貨",
+        "Contract": "RKF",
+        "Long(lot)": "313",
+        "Short(lot)": "313"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元晶期貨",
+        "Contract": "RLF",
+        "Long(lot)": "248",
+        "Short(lot)": "248"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "合一期貨",
+        "Contract": "RNF",
+        "Long(lot)": "62",
+        "Short(lot)": "62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "立端期貨",
+        "Contract": "ROF",
+        "Long(lot)": "13",
+        "Short(lot)": "13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "寶雅期貨",
+        "Contract": "RPF",
+        "Long(lot)": "2",
+        "Short(lot)": "2"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型寶雅期貨",
+        "Contract": "RRF",
+        "Long(lot)": "45",
+        "Short(lot)": "45"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "世紀鋼期貨",
+        "Contract": "RUF",
+        "Long(lot)": "156",
+        "Short(lot)": "156"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型世紀鋼期貨",
+        "Contract": "SWF",
+        "Long(lot)": "338",
+        "Short(lot)": "338"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "富邦越南ETF期貨",
+        "Contract": "RXF",
+        "Long(lot)": "24",
+        "Short(lot)": "24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群益台ESG低碳50ETF期貨",
+        "Contract": "RYF",
+        "Long(lot)": "8",
+        "Short(lot)": "8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大美債20年ETF期貨",
+        "Contract": "RZF",
+        "Long(lot)": "3681",
+        "Short(lot)": "3681"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "美時期貨",
+        "Contract": "SAF",
+        "Long(lot)": "130",
+        "Short(lot)": "130"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華紙期貨",
+        "Contract": "SBF",
+        "Long(lot)": "47",
+        "Short(lot)": "47"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中興電期貨",
+        "Contract": "SDF",
+        "Long(lot)": "204",
+        "Short(lot)": "204"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國泰智能電動車ETF期貨",
+        "Contract": "SGF",
+        "Long(lot)": "4",
+        "Short(lot)": "4"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大美債1-3ETF期貨",
+        "Contract": "SIF",
+        "Long(lot)": "14",
+        "Short(lot)": "14"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "神基期貨",
+        "Contract": "SJF",
+        "Long(lot)": "52",
+        "Short(lot)": "52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "至上期貨",
+        "Contract": "SKF",
+        "Long(lot)": "759",
+        "Short(lot)": "759"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群益台灣精選高息ETF期貨",
+        "Contract": "SMF",
+        "Long(lot)": "183",
+        "Short(lot)": "183"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "復華台灣科技優息ETF期貨",
+        "Contract": "SNF",
+        "Long(lot)": "138",
+        "Short(lot)": "138"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "中信高評級公司債ETF期貨",
+        "Contract": "SQF",
+        "Long(lot)": "23",
+        "Short(lot)": "23"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "元大台灣價值高息ETF期貨",
+        "Contract": "SUF",
+        "Long(lot)": "1034",
+        "Short(lot)": "1034"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "家登期貨",
+        "Contract": "SYF",
+        "Long(lot)": "109",
+        "Short(lot)": "109"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型家登期貨",
+        "Contract": "SZF",
+        "Long(lot)": "559",
+        "Short(lot)": "559"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "士電期貨",
+        "Contract": "UAF",
+        "Long(lot)": "112",
+        "Short(lot)": "112"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "亞翔期貨",
+        "Contract": "UBF",
+        "Long(lot)": "344",
+        "Short(lot)": "344"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "廣明期貨",
+        "Contract": "UCF",
+        "Long(lot)": "117",
+        "Short(lot)": "117"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "上海商銀期貨",
+        "Contract": "UEF",
+        "Long(lot)": "84",
+        "Short(lot)": "84"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台塑化期貨",
+        "Contract": "UFF",
+        "Long(lot)": "410",
+        "Short(lot)": "410"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "達發期貨",
+        "Contract": "UGF",
+        "Long(lot)": "1",
+        "Short(lot)": "1"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型達發期貨",
+        "Contract": "UIF",
+        "Long(lot)": "93",
+        "Short(lot)": "93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "群益ESG投等債20+ETF期貨",
+        "Contract": "UJF",
+        "Long(lot)": "344",
+        "Short(lot)": "344"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "國泰20年美債ETF期貨",
+        "Contract": "UKF",
+        "Long(lot)": "41",
+        "Short(lot)": "41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "世芯-KY期貨",
+        "Contract": "UMF",
+        "Long(lot)": "62",
+        "Short(lot)": "62"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型世芯-KY期貨",
+        "Contract": "UOF",
+        "Long(lot)": "1191",
+        "Short(lot)": "1191"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "保瑞期貨",
+        "Contract": "UPF",
+        "Long(lot)": "96",
+        "Short(lot)": "96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型保瑞期貨",
+        "Contract": "UQF",
+        "Long(lot)": "640",
+        "Short(lot)": "640"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "統一FANG+ETF期貨",
+        "Contract": "URF",
+        "Long(lot)": "9",
+        "Short(lot)": "9"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型統一FANG+ETF期貨",
+        "Contract": "USF",
+        "Long(lot)": "13",
+        "Short(lot)": "13"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "一詮期貨",
+        "Contract": "UTF",
+        "Long(lot)": "70",
+        "Short(lot)": "70"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "台灣虎航期貨",
+        "Contract": "UUF",
+        "Long(lot)": "53",
+        "Short(lot)": "53"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "旺矽期貨",
+        "Contract": "UVF",
+        "Long(lot)": "39",
+        "Short(lot)": "39"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型旺矽期貨",
+        "Contract": "UWF",
+        "Long(lot)": "1041",
+        "Short(lot)": "1041"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華泰期貨",
+        "Contract": "UXF",
+        "Long(lot)": "167",
+        "Short(lot)": "167"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "良維期貨",
+        "Contract": "UYF",
+        "Long(lot)": "142",
+        "Short(lot)": "142"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "華榮期貨",
+        "Contract": "VAF",
+        "Long(lot)": "30",
+        "Short(lot)": "30"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "燿華期貨",
+        "Contract": "VBF",
+        "Long(lot)": "6",
+        "Short(lot)": "6"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "建準期貨",
+        "Contract": "VCF",
+        "Long(lot)": "75",
+        "Short(lot)": "75"
+      }
+    ]
+  }
+}

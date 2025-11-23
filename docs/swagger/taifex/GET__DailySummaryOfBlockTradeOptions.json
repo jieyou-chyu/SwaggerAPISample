@@ -1,0 +1,40 @@
+{
+  "path": "/DailySummaryOfBlockTradeOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易成交量統計-選擇權商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/DailySummaryOfBlockTradeOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:34 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "82",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:25 GMT",
+      "ETag": "\"52-644369695b78b\"",
+      "Content-Disposition": "attachment; filename=DailySummaryOfBlockTradeOptions.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50643ec74a8b-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251119",
+        "ProductCategory": "TXO",
+        "Volume": "700",
+        "MarketShare%": "0.05"
+      }
+    ]
+  }
+}

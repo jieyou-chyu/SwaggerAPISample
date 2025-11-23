@@ -1,0 +1,111 @@
+{
+  "path": "/FinalSettlementPriceIndexFutures",
+  "method": "GET",
+  "operationId": null,
+  "summary": "最後結算價-股價指數類（指數期貨）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FinalSettlementPriceIndexFutures",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:48 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1793",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:15 GMT",
+      "ETag": "\"701-64436999395a1\"",
+      "Content-Disposition": "attachment; filename=FinalSettlementPriceIndexFutures.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50b91e686a90-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "TX/MTX/TMF",
+        "ContractName": "臺股期貨/小型臺指期貨/微型臺指期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26615"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "M1F",
+        "ContractName": "臺灣中型100期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "21715"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "TE/ZEF",
+        "ContractName": "電子期貨/小型電子期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1579.2"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "TF/ZFF",
+        "ContractName": "金融期貨/小型金融期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "2183.2"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "XIF",
+        "ContractName": "非金電期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "13193"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GTF",
+        "ContractName": "櫃買期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "246.9"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "G2F",
+        "ContractName": "富櫃200期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "10137"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "E4F",
+        "ContractName": "臺灣永續期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "13950"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "BTF",
+        "ContractName": "臺灣生技期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "3601"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SOF",
+        "ContractName": "半導體30期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "7294"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "SHF",
+        "ContractName": "航運期貨",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "172.6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "path": "/NetValuePerShareS",
+  "method": "GET",
+  "operationId": null,
+  "summary": "兼營期貨商每股淨值明細表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/NetValuePerShareS",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:37 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "3606",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:35 GMT",
+      "ETag": "\"e16-64436972ecb5a\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=NetValuePerShareS.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50772f8d56f5-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S960",
+        "FCMName": "富邦證券",
+        "NetValue(NTD)": "387063584",
+        "Shares(InThousand)": "56000",
+        "NetValuePerShare": "6.91"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S509",
+        "FCMName": "華南永昌證券",
+        "NetValue(NTD)": "436594143",
+        "Shares(InThousand)": "60000",
+        "NetValuePerShare": "7.28"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S159",
+        "FCMName": "花旗環球證券",
+        "NetValue(NTD)": "240937934",
+        "Shares(InThousand)": "30000",
+        "NetValuePerShare": "8.03"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S700",
+        "FCMName": "兆豐證券",
+        "NetValue(NTD)": "407997590",
+        "Shares(InThousand)": "50000",
+        "NetValuePerShare": "8.16"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S779",
+        "FCMName": "國票證券",
+        "NetValue(NTD)": "835560500",
+        "Shares(InThousand)": "100000",
+        "NetValuePerShare": "8.36"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S890",
+        "FCMName": "法巴證",
+        "NetValue(NTD)": "335829306",
+        "Shares(InThousand)": "40000",
+        "NetValuePerShare": "8.4"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S102",
+        "FCMName": "合庫證券",
+        "NetValue(NTD)": "337761246",
+        "Shares(InThousand)": "40000",
+        "NetValuePerShare": "8.44"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S218",
+        "FCMName": "亞東證券",
+        "NetValue(NTD)": "595698408",
+        "Shares(InThousand)": "61500",
+        "NetValuePerShare": "9.69"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S126",
+        "FCMName": "宏遠證券",
+        "NetValue(NTD)": "806460323",
+        "Shares(InThousand)": "82100",
+        "NetValuePerShare": "9.82"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S910",
+        "FCMName": "群益金鼎證券",
+        "NetValue(NTD)": "1411548595",
+        "Shares(InThousand)": "140000",
+        "NetValuePerShare": "10.08"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S888",
+        "FCMName": "國泰證券",
+        "NetValue(NTD)": "1125918028",
+        "Shares(InThousand)": "110000",
+        "NetValuePerShare": "10.24"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S616",
+        "FCMName": "中國信託證券",
+        "NetValue(NTD)": "820088857",
+        "Shares(InThousand)": "80000",
+        "NetValuePerShare": "10.25"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S551",
+        "FCMName": "永豐金證券",
+        "NetValue(NTD)": "2097362578",
+        "Shares(InThousand)": "200000",
+        "NetValuePerShare": "10.49"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S538",
+        "FCMName": "第一金證券",
+        "NetValue(NTD)": "855766861",
+        "Shares(InThousand)": "81500",
+        "NetValuePerShare": "10.5"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S592",
+        "FCMName": "元富證券",
+        "NetValue(NTD)": "1098554072",
+        "Shares(InThousand)": "100000",
+        "NetValuePerShare": "10.99"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S920",
+        "FCMName": "凱基證券",
+        "NetValue(NTD)": "3335101727",
+        "Shares(InThousand)": "275000",
+        "NetValuePerShare": "12.13"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S526",
+        "FCMName": "美好證券",
+        "NetValue(NTD)": "352106345",
+        "Shares(InThousand)": "28000",
+        "NetValuePerShare": "12.58"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S147",
+        "FCMName": "台灣摩根士丹利證券",
+        "NetValue(NTD)": "4551804462",
+        "Shares(InThousand)": "332800",
+        "NetValuePerShare": "13.68"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S144",
+        "FCMName": "美林證券",
+        "NetValue(NTD)": "4189128554",
+        "Shares(InThousand)": "300000",
+        "NetValuePerShare": "13.96"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S585",
+        "FCMName": "統一證券",
+        "NetValue(NTD)": "3226330785",
+        "Shares(InThousand)": "230000",
+        "NetValuePerShare": "14.03"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S884",
+        "FCMName": "玉山證券",
+        "NetValue(NTD)": "1345301042",
+        "Shares(InThousand)": "93500",
+        "NetValuePerShare": "14.39"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S844",
+        "FCMName": "摩根大通證券",
+        "NetValue(NTD)": "5364661727",
+        "Shares(InThousand)": "333730",
+        "NetValuePerShare": "16.07"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S856",
+        "FCMName": "新光證券",
+        "NetValue(NTD)": "831111698",
+        "Shares(InThousand)": "42000",
+        "NetValuePerShare": "19.79"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S980",
+        "FCMName": "元大證券股份有限公司",
+        "NetValue(NTD)": "11066275192",
+        "Shares(InThousand)": "295000",
+        "NetValuePerShare": "37.51"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "path": "/BTDailyTradeInformationOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易各商品成交資訊-選擇權商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BTDailyTradeInformationOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:33 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "334",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:21 GMT",
+      "ETag": "\"14e-6443696582534\"",
+      "Content-Disposition": "attachment; filename=BTDailyTradeInformationOptions.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d505d7a9d4a5d-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251119",
+        "Contract": "TXO",
+        "ContractMonth(Week)": "202512",
+        "StrikePrice": "25000",
+        "Call/Put": "賣權",
+        "Volume": "350",
+        "HighestPrice": "265",
+        "LowestPrice": "265"
+      },
+      {
+        "Date": "20251119",
+        "Contract": "TXO",
+        "ContractMonth(Week)": "202512",
+        "StrikePrice": "26000",
+        "Call/Put": "賣權",
+        "Volume": "350",
+        "HighestPrice": "472",
+        "LowestPrice": "472"
+      }
+    ]
+  }
+}

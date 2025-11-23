@@ -1,0 +1,66 @@
+{
+  "path": "/ClearingBankLists",
+  "method": "GET",
+  "operationId": null,
+  "summary": "結算銀行名冊",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/ClearingBankLists",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:47 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "687",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:34 GMT",
+      "ETag": "\"2af-644369388357b\"",
+      "Content-Disposition": "attachment; filename=ClearingBankLists.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4c534c1c6b68-TPE"
+    },
+    "body": [
+      {
+        "ClearBankName": "臺灣銀行(Bank of Taiwan)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "第一商業銀行(First Commercial Bank)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "華南商業銀行(Hua Nan Commercial Bank)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "彰化商業銀行(Chang Hwa Commercial Bank)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "國泰世華商業銀行(Cathay United Bank)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "兆豐國際商業銀行(Mega International Commercial Bank)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "中國信託商業銀行(Chinatrust Commercial Bank)",
+        "Date": "20251121"
+      },
+      {
+        "ClearBankName": "美商摩根大通銀行(JP Morgan Chase Bank， N.A.)",
+        "Date": "20251121"
+      }
+    ]
+  }
+}

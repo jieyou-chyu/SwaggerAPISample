@@ -1,0 +1,251 @@
+{
+  "path": "/fund/MI_QFIIS_sort_20",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場外資及陸資持股前 20 名彙總表",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/fund/MI_QFIIS_sort_20",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:33 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:21:42 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222966-fd7\"",
+      "Content-Disposition": "attachment;filename=MI_QFIIS_sort_20.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Rank": "1",
+        "Code": "2923",
+        "Name": "鼎固-KY",
+        "ShareNumber": "1740296982",
+        "AvailableShare": "11113266",
+        "SharesHeld": "1729183716",
+        "AvailableInvestPer": "0.63",
+        "SharesHeldPer": "99.36",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "2",
+        "Code": "8482",
+        "Name": "商億-KY",
+        "ShareNumber": "107444000",
+        "AvailableShare": "8916651",
+        "SharesHeld": "98527349",
+        "AvailableInvestPer": "8.29",
+        "SharesHeldPer": "91.70",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "3",
+        "Code": "6890",
+        "Name": "來億-KY",
+        "ShareNumber": "249400000",
+        "AvailableShare": "29608647",
+        "SharesHeld": "219791353",
+        "AvailableInvestPer": "11.87",
+        "SharesHeldPer": "88.12",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "4",
+        "Code": "6230",
+        "Name": "尼得科超眾",
+        "ShareNumber": "86343396",
+        "AvailableShare": "11202477",
+        "SharesHeld": "75140919",
+        "AvailableInvestPer": "12.97",
+        "SharesHeldPer": "87.02",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "5",
+        "Code": "4560",
+        "Name": "強信-KY",
+        "ShareNumber": "68097240",
+        "AvailableShare": "9896451",
+        "SharesHeld": "58200789",
+        "AvailableInvestPer": "14.53",
+        "SharesHeldPer": "85.46",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "6",
+        "Code": "2762",
+        "Name": "世界健身-KY",
+        "ShareNumber": "112500000",
+        "AvailableShare": "19443224",
+        "SharesHeld": "93056776",
+        "AvailableInvestPer": "17.28",
+        "SharesHeldPer": "82.71",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "7",
+        "Code": "6415",
+        "Name": "矽力*-KY",
+        "ShareNumber": "388056131",
+        "AvailableShare": "68779280",
+        "SharesHeld": "319276851",
+        "AvailableInvestPer": "17.72",
+        "SharesHeldPer": "82.27",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "8",
+        "Code": "1341",
+        "Name": "富林-KY",
+        "ShareNumber": "52850634",
+        "AvailableShare": "10676183",
+        "SharesHeld": "42174451",
+        "AvailableInvestPer": "20.20",
+        "SharesHeldPer": "79.79",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "9",
+        "Code": "006203",
+        "Name": "元大MSCI台灣",
+        "ShareNumber": "10218000",
+        "AvailableShare": "2200151",
+        "SharesHeld": "8017849",
+        "AvailableInvestPer": "21.53",
+        "SharesHeldPer": "78.46",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "10",
+        "Code": "6924",
+        "Name": "榮惠-KY創",
+        "ShareNumber": "20850000",
+        "AvailableShare": "4714550",
+        "SharesHeld": "16135450",
+        "AvailableInvestPer": "22.61",
+        "SharesHeldPer": "77.38",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "11",
+        "Code": "1590",
+        "Name": "亞德客-KY",
+        "ShareNumber": "199999998",
+        "AvailableShare": "45395371",
+        "SharesHeld": "154604627",
+        "AvailableInvestPer": "22.69",
+        "SharesHeldPer": "77.30",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "12",
+        "Code": "6965",
+        "Name": "中傑-KY",
+        "ShareNumber": "156336000",
+        "AvailableShare": "35491631",
+        "SharesHeld": "120844369",
+        "AvailableInvestPer": "22.70",
+        "SharesHeldPer": "77.29",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "13",
+        "Code": "3711",
+        "Name": "日月光投控",
+        "ShareNumber": "4422175232",
+        "AvailableShare": "1030759198",
+        "SharesHeld": "3391416034",
+        "AvailableInvestPer": "23.30",
+        "SharesHeldPer": "76.69",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "14",
+        "Code": "6666",
+        "Name": "羅麗芬-KY",
+        "ShareNumber": "47388000",
+        "AvailableShare": "11758042",
+        "SharesHeld": "35629958",
+        "AvailableInvestPer": "24.81",
+        "SharesHeldPer": "75.18",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "15",
+        "Code": "6781",
+        "Name": "AES-KY",
+        "ShareNumber": "85418780",
+        "AvailableShare": "22082146",
+        "SharesHeld": "63336634",
+        "AvailableInvestPer": "25.85",
+        "SharesHeldPer": "74.14",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "16",
+        "Code": "2239",
+        "Name": "英利-KY",
+        "ShareNumber": "120346593",
+        "AvailableShare": "31569262",
+        "SharesHeld": "88777331",
+        "AvailableInvestPer": "26.23",
+        "SharesHeldPer": "73.76",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "17",
+        "Code": "4807",
+        "Name": "日成-KY",
+        "ShareNumber": "38396032",
+        "AvailableShare": "10205676",
+        "SharesHeld": "28190356",
+        "AvailableInvestPer": "26.58",
+        "SharesHeldPer": "73.41",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "18",
+        "Code": "2330",
+        "Name": "台積電",
+        "ShareNumber": "25932615521",
+        "AvailableShare": "7027828778",
+        "SharesHeld": "18904786743",
+        "AvailableInvestPer": "27.10",
+        "SharesHeldPer": "72.89",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "19",
+        "Code": "8499",
+        "Name": "鼎炫-KY",
+        "ShareNumber": "41165557",
+        "AvailableShare": "11596221",
+        "SharesHeld": "29569336",
+        "AvailableInvestPer": "28.16",
+        "SharesHeldPer": "71.83",
+        "Upperlimit": "100.00"
+      },
+      {
+        "Rank": "20",
+        "Code": "4148",
+        "Name": "全宇生技-KY",
+        "ShareNumber": "67235701",
+        "AvailableShare": "19538183",
+        "SharesHeld": "47697518",
+        "AvailableInvestPer": "29.05",
+        "SharesHeldPer": "70.94",
+        "Upperlimit": "100.00"
+      }
+    ]
+  }
+}

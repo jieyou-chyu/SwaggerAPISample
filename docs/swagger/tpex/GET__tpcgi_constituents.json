@@ -1,0 +1,341 @@
+{
+  "path": "/tpcgi_constituents",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公司治理指數當日成分股資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpcgi_constituents",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:48 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:49 GMT",
+      "ETag": "W/\"6921d7a1-1190\"",
+      "Content-Disposition": "attachment;filename=tpcgi_constituents.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d496cbfd64a8b-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1268",
+        "CompanyName": "漢來美食"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1777",
+        "CompanyName": "生泰"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3088",
+        "CompanyName": "艾訊"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3218",
+        "CompanyName": "大學光"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3227",
+        "CompanyName": "原相"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3260",
+        "CompanyName": "威剛"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3264",
+        "CompanyName": "欣銓"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3289",
+        "CompanyName": "宜特"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3303",
+        "CompanyName": "岱稜"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3357",
+        "CompanyName": "臺慶科"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3374",
+        "CompanyName": "精材"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3526",
+        "CompanyName": "凡甲"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3548",
+        "CompanyName": "兆利"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3570",
+        "CompanyName": "大塚"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3587",
+        "CompanyName": "閎康"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3680",
+        "CompanyName": "家登"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4105",
+        "CompanyName": "東洋"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4162",
+        "CompanyName": "智擎"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4506",
+        "CompanyName": "崇友"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4953",
+        "CompanyName": "緯軟"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4974",
+        "CompanyName": "亞泰"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5009",
+        "CompanyName": "榮剛"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5274",
+        "CompanyName": "信驊"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5347",
+        "CompanyName": "世界"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5443",
+        "CompanyName": "均豪"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5483",
+        "CompanyName": "中美晶"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5530",
+        "CompanyName": "龍巖"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5536",
+        "CompanyName": "聖暉*"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5903",
+        "CompanyName": "全家"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5904",
+        "CompanyName": "寶雅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6015",
+        "CompanyName": "宏遠證"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6023",
+        "CompanyName": "元大期"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6121",
+        "CompanyName": "新普"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6138",
+        "CompanyName": "茂達"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6147",
+        "CompanyName": "頎邦"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6156",
+        "CompanyName": "松上"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6180",
+        "CompanyName": "橘子"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6187",
+        "CompanyName": "萬潤"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6248",
+        "CompanyName": "沛波"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6263",
+        "CompanyName": "普萊德"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6279",
+        "CompanyName": "胡連"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6488",
+        "CompanyName": "環球晶"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6510",
+        "CompanyName": "精測"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6548",
+        "CompanyName": "長科*"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6561",
+        "CompanyName": "是方"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6613",
+        "CompanyName": "朋億*"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6679",
+        "CompanyName": "鈺太"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6732",
+        "CompanyName": "昇佳電子"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6803",
+        "CompanyName": "崑鼎"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6811",
+        "CompanyName": "宏碁資訊"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8255",
+        "CompanyName": "朋程"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8415",
+        "CompanyName": "大國鋼"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "path": "/BTContinuousMatchingSingleOrderFutures",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易逐筆撮合之單式委託成交-期貨商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BTContinuousMatchingSingleOrderFutures",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:31 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "105",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:15 GMT",
+      "ETag": "\"69-6443695fc398f\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=BTContinuousMatchingSingleOrderFutures.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d505249f5a34f-TPE"
+    },
+    "body": [
+      {
+        "Date": "20180212",
+        "Contract": "TXF",
+        "ContractMonth(Week)": "201802",
+        "TradePrice": "10425",
+        "Volume": "606"
+      }
+    ]
+  }
+}

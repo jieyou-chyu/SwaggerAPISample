@@ -1,0 +1,53 @@
+{
+  "path": "/tpci_change",
+  "method": "GET",
+  "operationId": null,
+  "summary": "櫃買「薪酬指數」當日收盤指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpci_change",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:53 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:12 GMT",
+      "ETag": "W/\"6921d740-ae\"",
+      "Content-Disposition": "attachment;filename=tpci_change.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49869be9827d-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "Name": "櫃買薪酬指數",
+        "Index": "137.45",
+        "Change": "-3.02"
+      },
+      {
+        "Date": "20251121",
+        "Name": "櫃買薪酬報酬指數",
+        "Index": "198.53",
+        "Change": "-3.02"
+      }
+    ]
+  }
+}

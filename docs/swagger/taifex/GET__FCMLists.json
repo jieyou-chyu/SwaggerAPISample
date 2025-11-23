@@ -1,0 +1,274 @@
+{
+  "path": "/FCMLists",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期貨商總公司名冊",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FCMLists",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:48 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "6045",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:36 GMT",
+      "ETag": "\"179d-6443693a6d54b\"",
+      "Content-Disposition": "attachment; filename=FCMLists.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4c571b77a9c1-TPE"
+    },
+    "body": [
+      {
+        "FCMCode": "F001",
+        "FCMName": "國泰期貨股份有限公司",
+        "Address": "台北市敦化南路二段333號19樓部分、335號10樓部分",
+        "TelNo": "(02)23269899"
+      },
+      {
+        "FCMCode": "F002",
+        "FCMName": "永豐期貨股份有限公司",
+        "Address": "台北市重慶南路一段2號8樓",
+        "TelNo": "(02)23811799"
+      },
+      {
+        "FCMCode": "F004",
+        "FCMName": "凱基期貨股份有限公司",
+        "Address": "台北市重慶南路一段2號6樓部分、12樓及13樓",
+        "TelNo": "(02)23619889"
+      },
+      {
+        "FCMCode": "F005",
+        "FCMName": "國票期貨股份有限公司",
+        "Address": "台北市松山區吉祥里南京東路五段188號15樓部分、15樓之1部分",
+        "TelNo": "(02)27683998"
+      },
+      {
+        "FCMCode": "F008",
+        "FCMName": "統一期貨股份有限公司",
+        "Address": "台北市東興路8號地下1樓之1",
+        "TelNo": "(02)27488338"
+      },
+      {
+        "FCMCode": "F014",
+        "FCMName": "華南期貨股份有限公司",
+        "Address": "台北市民生東路四段54號3樓之7、8、9",
+        "TelNo": "(02)27180000"
+      },
+      {
+        "FCMCode": "F018",
+        "FCMName": "元富期貨股份有限公司",
+        "Address": "台北市信義路五段8號3樓",
+        "TelNo": "(02)27290818"
+      },
+      {
+        "FCMCode": "F020",
+        "FCMName": "群益期貨股份有限公司",
+        "Address": "台北市敦化南路二段97號32樓、地下1樓及地下2樓",
+        "TelNo": "(02)27002888"
+      },
+      {
+        "FCMCode": "F021",
+        "FCMName": "元大期貨股份有限公司",
+        "Address": "台北市南京東路二段77號2樓部分、3樓、4樓、5樓",
+        "TelNo": "(02)27176000"
+      },
+      {
+        "FCMCode": "F026",
+        "FCMName": "富邦期貨股份有限公司",
+        "Address": "台北市襄陽路9號3樓、3樓之1、20樓及21樓",
+        "TelNo": "(02)23882626"
+      },
+      {
+        "FCMCode": "F029",
+        "FCMName": "康和期貨股份有限公司",
+        "Address": "台北市復興北路143號5樓、6樓",
+        "TelNo": "(02)27171339"
+      },
+      {
+        "FCMCode": "F030",
+        "FCMName": "兆豐期貨股份有限公司",
+        "Address": "台北市忠孝東路二段95號2樓、10樓部分",
+        "TelNo": "(02)23278895"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨股份有限公司-自營",
+        "Address": "台北市信義區松仁路100號8樓",
+        "TelNo": "(02)23570777"
+      },
+      {
+        "FCMCode": "F039",
+        "FCMName": "大昌期貨股份有限公司",
+        "Address": "新北市板橋區東門街30之2號9樓之2",
+        "TelNo": "(02)29601066"
+      },
+      {
+        "FCMCode": "F040",
+        "FCMName": "台新期貨股份有限公司",
+        "Address": "台北市中山區南京東路二段167號7樓",
+        "TelNo": "(02)77025600"
+      },
+      {
+        "FCMCode": "R201",
+        "FCMName": "美商愛德盟期貨經紀股份有限公司台灣分公司",
+        "Address": "台北市南京東路四段161號3樓",
+        "TelNo": "(02)27176018"
+      },
+      {
+        "FCMCode": "S102999",
+        "FCMName": "合作金庫證券股份有限公司-自營",
+        "Address": "台北市長安東路二段225號5樓",
+        "TelNo": "(02)27319987"
+      },
+      {
+        "FCMCode": "S126",
+        "FCMName": "宏遠證券股份有限公司",
+        "Address": "台北市信義路四段236號4樓",
+        "TelNo": "(02)27008899"
+      },
+      {
+        "FCMCode": "S144",
+        "FCMName": "美林證券股份有限公司",
+        "Address": "台北市信義路五段7號48樓部份及48樓之1部份",
+        "TelNo": "(02)23763766"
+      },
+      {
+        "FCMCode": "S147",
+        "FCMName": "台灣摩根士丹利證券股份有限公司",
+        "Address": "台北市信義路5段7號83樓",
+        "TelNo": "(02)27302888"
+      },
+      {
+        "FCMCode": "S159",
+        "FCMName": "花旗環球證券股份有限公司",
+        "Address": "台北市松智路1號14樓部分、15樓部分、16樓部分",
+        "TelNo": "(02)87269000"
+      },
+      {
+        "FCMCode": "S218",
+        "FCMName": "亞東證券股份有限公司",
+        "Address": "台北市重慶南路一段86號2樓",
+        "TelNo": "(02)77531899"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌綜合證券股份有限公司-自營",
+        "Address": "台北市民生東路四段54號4樓之2、5樓部分",
+        "TelNo": "(02)25456888"
+      },
+      {
+        "FCMCode": "S526",
+        "FCMName": "美好證券股份有限公司",
+        "Address": "台北市民生東路二段174、176號4樓",
+        "TelNo": "(02)25084888"
+      },
+      {
+        "FCMCode": "S538",
+        "FCMName": "第一金證券股份有限公司",
+        "Address": "台北市長安東路一段22號4樓",
+        "TelNo": "(02)25636262"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券股份有限公司-自營",
+        "Address": "台北市重慶南路一段2號17樓",
+        "TelNo": "(02)23114345"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一綜合證券股份有限公司-自營",
+        "Address": "台北市東興路8號2樓、11樓",
+        "TelNo": "(02)27478266"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券股份有限公司-自營",
+        "Address": "台北市敦化南路二段99號18樓部分",
+        "TelNo": "(02)23255818"
+      },
+      {
+        "FCMCode": "S616",
+        "FCMName": "中國信託綜合證券股份有限公司",
+        "Address": "台北市經貿二路168號3樓",
+        "TelNo": "(02)66392000"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券股份有限公司-自營",
+        "Address": "台北市忠孝東路2段95號5樓10樓部分",
+        "TelNo": "(02)23278988"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票綜合證券股份有限公司-自營",
+        "Address": "台北市樂群三路126號4樓及132號4樓",
+        "TelNo": "(02)25288988"
+      },
+      {
+        "FCMCode": "S844",
+        "FCMName": "摩根大通證券股份有限公司",
+        "Address": "台北市信義路五段106號3樓",
+        "TelNo": "(02)87862288"
+      },
+      {
+        "FCMCode": "S856",
+        "FCMName": "新光證券股份有限公司",
+        "Address": "台北市重慶南路一段66-1號5樓",
+        "TelNo": "(02)23118181"
+      },
+      {
+        "FCMCode": "S884",
+        "FCMName": "玉山綜合證券股份有限公司",
+        "Address": "台北市民生東路三段156號2樓、156號2樓之1",
+        "TelNo": "(02)55561313"
+      },
+      {
+        "FCMCode": "S888999",
+        "FCMName": "國泰綜合證券股份有限公司-自營",
+        "Address": "台北市敦化南路二段218號4樓部分",
+        "TelNo": "(02)23269888"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券股份有限公司-自營",
+        "Address": "台北市信義路五段7號72樓",
+        "TelNo": "(02)87297000"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券股份有限公司-自營",
+        "Address": "台北市松山區民生東路3段156號16樓之3、13樓、13樓之1、13樓之2",
+        "TelNo": "(02)87898888"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券股份有限公司-自營商",
+        "Address": "台北市明水路700號9樓",
+        "TelNo": "(02)21818888"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦綜合證券股份有限公司-自營",
+        "Address": "台北市仁愛路四段169號2樓部分",
+        "TelNo": "(02)87716888"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券股份有限公司-自營",
+        "Address": "台北市南京東路二段77號8樓及9樓部分",
+        "TelNo": "(02)27181234"
+      }
+    ]
+  }
+}

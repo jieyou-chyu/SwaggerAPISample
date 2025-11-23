@@ -1,0 +1,73 @@
+{
+  "path": "/tpex_yearly_trading_summary_block",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃鉅額交易年成交量值統計",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_yearly_trading_summary_block",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:43 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:49 GMT",
+      "ETag": "W/\"6921d729-26c\"",
+      "Content-Disposition": "attachment;filename=tpex_yearly_trading_summary_block.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d494a88c75706-TPE"
+    },
+    "body": [
+      {
+        "Year": "114",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "473",
+        "NumberOfSharesTraded": "18780755",
+        "MarketShare": "0.00",
+        "TradeValue": "1197608178"
+      },
+      {
+        "Year": "114",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "750",
+        "NumberOfSharesTraded": "6699277444",
+        "MarketShare": "0.73",
+        "TradeValue": "177568740046"
+      },
+      {
+        "Year": "114",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0"
+      },
+      {
+        "Year": "114",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "56",
+        "NumberOfSharesTraded": "143969334",
+        "MarketShare": "0.02",
+        "TradeValue": "4934832554"
+      }
+    ]
+  }
+}

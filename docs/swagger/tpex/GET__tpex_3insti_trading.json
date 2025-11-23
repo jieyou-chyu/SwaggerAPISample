@@ -1,0 +1,293 @@
+{
+  "path": "/tpex_3insti_trading",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票投信買賣超彙總表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_3insti_trading",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:45 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:33 GMT",
+      "ETag": "W/\"6921d719-d6e\"",
+      "Content-Disposition": "attachment;filename=tpex_3insti_trading.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49573fa3a378-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Rank": "1",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        "Buy": "2886",
+        "Sell": "1",
+        "NetBuy": "2885"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "2",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        "Buy": "2088",
+        "Sell": "24",
+        "NetBuy": "2064"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "3",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        "Buy": "1276",
+        "Sell": "109",
+        "NetBuy": "1167"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "4",
+        "SecuritiesCompanyCode": "5483",
+        "CompanyName": "中美晶",
+        "Buy": "1019",
+        "Sell": "4",
+        "NetBuy": "1015"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "5",
+        "SecuritiesCompanyCode": "3264",
+        "CompanyName": "欣銓",
+        "Buy": "1004",
+        "Sell": "2",
+        "NetBuy": "1002"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "6",
+        "SecuritiesCompanyCode": "6188",
+        "CompanyName": "廣明",
+        "Buy": "492",
+        "Sell": "0",
+        "NetBuy": "492"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "7",
+        "SecuritiesCompanyCode": "6290",
+        "CompanyName": "良維",
+        "Buy": "429",
+        "Sell": "10",
+        "NetBuy": "419"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "8",
+        "SecuritiesCompanyCode": "5009",
+        "CompanyName": "榮剛",
+        "Buy": "400",
+        "Sell": "0",
+        "NetBuy": "400"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "9",
+        "SecuritiesCompanyCode": "5536",
+        "CompanyName": "聖暉*",
+        "Buy": "221",
+        "Sell": "0",
+        "NetBuy": "221"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "10",
+        "SecuritiesCompanyCode": "3363",
+        "CompanyName": "上詮",
+        "Buy": "91",
+        "Sell": "0",
+        "NetBuy": "91"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "11",
+        "SecuritiesCompanyCode": "3693",
+        "CompanyName": "營邦",
+        "Buy": "90",
+        "Sell": "0",
+        "NetBuy": "90"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "12",
+        "SecuritiesCompanyCode": "6223",
+        "CompanyName": "旺矽",
+        "Buy": "83",
+        "Sell": "3",
+        "NetBuy": "80"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "13",
+        "SecuritiesCompanyCode": "6510",
+        "CompanyName": "精測",
+        "Buy": "60",
+        "Sell": "0",
+        "NetBuy": "60"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "14",
+        "SecuritiesCompanyCode": "5439",
+        "CompanyName": "高技",
+        "Buy": "57",
+        "Sell": "2",
+        "NetBuy": "55"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "15",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        "Buy": "150",
+        "Sell": "96",
+        "NetBuy": "54"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "16",
+        "SecuritiesCompanyCode": "6121",
+        "CompanyName": "新普",
+        "Buy": "43",
+        "Sell": "4",
+        "NetBuy": "39"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "17",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        "Buy": "31",
+        "Sell": "9",
+        "NetBuy": "22"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "18",
+        "SecuritiesCompanyCode": "1785",
+        "CompanyName": "光洋科",
+        "Buy": "21",
+        "Sell": "0",
+        "NetBuy": "21"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "19",
+        "SecuritiesCompanyCode": "6231",
+        "CompanyName": "系微",
+        "Buy": "10",
+        "Sell": "0",
+        "NetBuy": "10"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "20",
+        "SecuritiesCompanyCode": "3526",
+        "CompanyName": "凡甲",
+        "Buy": "9",
+        "Sell": "0",
+        "NetBuy": "9"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "21",
+        "SecuritiesCompanyCode": "5904",
+        "CompanyName": "寶雅",
+        "Buy": "7",
+        "Sell": "1",
+        "NetBuy": "6"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "22",
+        "SecuritiesCompanyCode": "6664",
+        "CompanyName": "群翊",
+        "Buy": "5",
+        "Sell": "0",
+        "NetBuy": "5"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "23",
+        "SecuritiesCompanyCode": "4749",
+        "CompanyName": "新應材",
+        "Buy": "3",
+        "Sell": "0",
+        "NetBuy": "3"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "24",
+        "SecuritiesCompanyCode": "4966",
+        "CompanyName": "譜瑞-KY",
+        "Buy": "2",
+        "Sell": "0",
+        "NetBuy": "2"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "25",
+        "SecuritiesCompanyCode": "3131",
+        "CompanyName": "弘塑",
+        "Buy": "1",
+        "Sell": "0",
+        "NetBuy": "1"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "26",
+        "SecuritiesCompanyCode": "3374",
+        "CompanyName": "精材",
+        "Buy": "1",
+        "Sell": "0",
+        "NetBuy": "1"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "27",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        "Buy": "1",
+        "Sell": "0",
+        "NetBuy": "1"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "28",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        "Buy": "0",
+        "Sell": "0",
+        "NetBuy": "0"
+      }
+    ]
+  }
+}

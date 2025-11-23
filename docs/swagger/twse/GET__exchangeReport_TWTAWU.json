@@ -1,0 +1,571 @@
+{
+  "path": "/exchangeReport/TWTAWU",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場暫停交易證券",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/TWTAWU",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:39 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:57 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229b1-2b1b\"",
+      "Content-Disposition": "attachment;filename=TWTAWU.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Number": "1",
+        "Code": "030126",
+        "Name": "正崴國票53購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "2",
+        "Code": "033641",
+        "Name": "正崴統一58購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "3",
+        "Code": "033642",
+        "Name": "正崴統一5C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "4",
+        "Code": "040421",
+        "Name": "正崴國票55購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "5",
+        "Code": "040613",
+        "Name": "正崴統一6A購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "6",
+        "Code": "041714",
+        "Name": "正崴元富54購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "7",
+        "Code": "041848",
+        "Name": "正崴永豐54購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "8",
+        "Code": "043160",
+        "Name": "正崴凱基55購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "9",
+        "Code": "043772",
+        "Name": "永崴控統一51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "10",
+        "Code": "044339",
+        "Name": "正崴元大55購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "11",
+        "Code": "04558U",
+        "Name": "正崴群益51售02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "12",
+        "Code": "04559U",
+        "Name": "正崴群益54售02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "13",
+        "Code": "050657",
+        "Name": "正崴統一52購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "14",
+        "Code": "057219",
+        "Name": "正崴統一4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "15",
+        "Code": "057220",
+        "Name": "正崴統一55購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "16",
+        "Code": "058100",
+        "Name": "正崴元大4B購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "",
+        "TradingResumptionTime": ""
+      },
+      {
+        "Number": "17",
+        "Code": "059401",
+        "Name": "正崴統一55購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "18",
+        "Code": "059407",
+        "Name": "永崴控統一55購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "19",
+        "Code": "059855",
+        "Name": "正崴統一4C購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "20",
+        "Code": "060019",
+        "Name": "正崴統一54購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "21",
+        "Code": "060026",
+        "Name": "正崴元富4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "22",
+        "Code": "061320",
+        "Name": "正崴統一4C購03",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "23",
+        "Code": "061543",
+        "Name": "正崴永豐4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "24",
+        "Code": "062967",
+        "Name": "正崴元大4B購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "25",
+        "Code": "070509",
+        "Name": "永崴控統一52購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "26",
+        "Code": "070699",
+        "Name": "永崴控統一52購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "27",
+        "Code": "074435",
+        "Name": "永崴控統一56購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "28",
+        "Code": "075114",
+        "Name": "永崴控統一53購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "29",
+        "Code": "079541",
+        "Name": "永崴控永豐4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "30",
+        "Code": "081121",
+        "Name": "永崴控統一57購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "31",
+        "Code": "08134P",
+        "Name": "永崴控國票4C售01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "32",
+        "Code": "081711",
+        "Name": "永崴控中信4B購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "33",
+        "Code": "082325",
+        "Name": "永崴控元大4B購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "34",
+        "Code": "083001",
+        "Name": "正崴國票51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "35",
+        "Code": "083040",
+        "Name": "正崴凱基4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "36",
+        "Code": "083057",
+        "Name": "正崴元富51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "37",
+        "Code": "083058",
+        "Name": "正崴元富51購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "38",
+        "Code": "083085",
+        "Name": "正崴永豐4C購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "39",
+        "Code": "083183",
+        "Name": "正崴統一56購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "40",
+        "Code": "083210",
+        "Name": "正崴群益4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "41",
+        "Code": "083231",
+        "Name": "正崴元富54購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "42",
+        "Code": "083333",
+        "Name": "正崴統一54購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "43",
+        "Code": "083334",
+        "Name": "正崴統一56購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "44",
+        "Code": "084132",
+        "Name": "正崴元大4C購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "45",
+        "Code": "084256",
+        "Name": "正崴凱基4C購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "46",
+        "Code": "084354",
+        "Name": "永崴控中信51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "47",
+        "Code": "085054",
+        "Name": "正崴元大4C購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "48",
+        "Code": "085174",
+        "Name": "正崴凱基51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "49",
+        "Code": "087036",
+        "Name": "永崴控元富51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "50",
+        "Code": "087918",
+        "Name": "永崴控國票52購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "51",
+        "Code": "087944",
+        "Name": "永崴控永豐52購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "52",
+        "Code": "087952",
+        "Name": "永崴控兆豐53購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "53",
+        "Code": "088804",
+        "Name": "正崴凱基51購02",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "54",
+        "Code": "088834",
+        "Name": "正崴富邦51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "55",
+        "Code": "088912",
+        "Name": "正崴群益51購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "56",
+        "Code": "088913",
+        "Name": "正崴群益54購01",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "57",
+        "Code": "089002",
+        "Name": "正崴元富51購03",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "58",
+        "Code": "2392",
+        "Name": "正崴",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "59",
+        "Code": "3712",
+        "Name": "永崴投控",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      },
+      {
+        "Number": "60",
+        "Code": "6806",
+        "Name": "森崴能源",
+        "TradingHaltDate": "1141113",
+        "TradingHaltTime": "080000",
+        "TradingResumptionDate": "1141114",
+        "TradingResumptionTime": "080000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5687 @@
+{
+  "path": "/mopsfin_t187ap02_O",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公司持股逾 10% 大股東名單",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap02_O",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:38 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:00 GMT",
+      "ETag": "W/\"6921d734-1c193\"",
+      "Content-Disposition": "attachment;filename=mopsfin_t187ap02_O.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4aa14aaa8f00-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1259",
+        "CompanyName": "安心",
+        "大股東名稱": "日商魔術食品服務股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1259",
+        "CompanyName": "安心",
+        "大股東名稱": "光元實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1264",
+        "CompanyName": "德麥",
+        "大股東名稱": "吳文欽"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1268",
+        "CompanyName": "漢來美食",
+        "大股東名稱": "又達興業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyName": "漢田生技",
+        "大股東名稱": "曾士哲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyName": "漢田生技",
+        "大股東名稱": "漢碩投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyName": "漢田生技",
+        "大股東名稱": "漢畿投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyName": "生合",
+        "大股東名稱": "兆檉投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyName": "生合",
+        "大股東名稱": "楊連傳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1336",
+        "CompanyName": "台翰",
+        "大股東名稱": "宣德科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1570",
+        "CompanyName": "力肯",
+        "大股東名稱": "威剛科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1584",
+        "CompanyName": "精剛",
+        "大股東名稱": "榮剛材料科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1586",
+        "CompanyName": "和勤",
+        "大股東名稱": "久陽精密股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1742",
+        "CompanyName": "台蠟",
+        "大股東名稱": "遠進股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1777",
+        "CompanyName": "生泰",
+        "大股東名稱": "生達化學製藥股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1777",
+        "CompanyName": "生泰",
+        "大股東名稱": "百事達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1788",
+        "CompanyName": "杏昌",
+        "大股東名稱": "杏昌投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1796",
+        "CompanyName": "金穎生技",
+        "大股東名稱": "生展生物科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1799",
+        "CompanyName": "易威",
+        "大股東名稱": "中華世紀投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1813",
+        "CompanyName": "寶利徠",
+        "大股東名稱": "寶島光學科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        "大股東名稱": "達泰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2035",
+        "CompanyName": "唐榮公司",
+        "大股東名稱": "經濟部"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2035",
+        "CompanyName": "唐榮公司",
+        "大股東名稱": "臺灣銀行股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2035",
+        "CompanyName": "唐榮公司",
+        "大股東名稱": "燁輝企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2035",
+        "CompanyName": "唐榮公司",
+        "大股東名稱": "聯輝開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2061",
+        "CompanyName": "風青",
+        "大股東名稱": "明泰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2061",
+        "CompanyName": "風青",
+        "大股東名稱": "陳福得"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2063",
+        "CompanyName": "世鎧",
+        "大股東名稱": "杜泰源"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2064",
+        "CompanyName": "晉椿",
+        "大股東名稱": "建新電機有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2065",
+        "CompanyName": "世豐",
+        "大股東名稱": "麗泰股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2066",
+        "CompanyName": "世德",
+        "大股東名稱": "世紀投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2066",
+        "CompanyName": "世德",
+        "大股東名稱": "陳光裕"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2067",
+        "CompanyName": "嘉鋼",
+        "大股東名稱": "維昱股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2070",
+        "CompanyName": "精湛",
+        "大股東名稱": "吳俊男"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2070",
+        "CompanyName": "精湛",
+        "大股東名稱": "洋鎧投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2073",
+        "CompanyName": "雄順",
+        "大股東名稱": "陳啟祥"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2221",
+        "CompanyName": "大甲",
+        "大股東名稱": "黃士（上：山＋下：夆）"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2235",
+        "CompanyName": "謚源",
+        "大股東名稱": "吳碣石"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2235",
+        "CompanyName": "謚源",
+        "大股東名稱": "威竑投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2235",
+        "CompanyName": "謚源",
+        "大股東名稱": "陳桂英"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2235",
+        "CompanyName": "謚源",
+        "大股東名稱": "堤維西交通工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2596",
+        "CompanyName": "綠意",
+        "大股東名稱": "大觀投資顧問股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2596",
+        "CompanyName": "綠意",
+        "大股東名稱": "日埜不動產投資顧問股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2596",
+        "CompanyName": "綠意",
+        "大股東名稱": "海寧投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2640",
+        "CompanyName": "大車隊",
+        "大股東名稱": "林村田"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2640",
+        "CompanyName": "大車隊",
+        "大股東名稱": "萬事興股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2641",
+        "CompanyName": "正德",
+        "大股東名稱": "正展投資顧問股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2643",
+        "CompanyName": "捷迅",
+        "大股東名稱": "李佳慧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2643",
+        "CompanyName": "捷迅",
+        "大股東名稱": "顧城明"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控",
+        "大股東名稱": "金基投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控",
+        "大股東名稱": "長邑投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控",
+        "大股東名稱": "智邑投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2719",
+        "CompanyName": "燦星旅",
+        "大股東名稱": "慶欣欣鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2724",
+        "CompanyName": "藝舍-KY",
+        "大股東名稱": "ＦＵＲＡＭＡ  ＨＯＴＥＬＳ  ＩＮＴＥＲＮＡＴＩＯＮＡＬ  ＭＡＮＡＧＥＭＥＮＴ  ＩＮＣ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2724",
+        "CompanyName": "藝舍-KY",
+        "大股東名稱": "張麗玲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2726",
+        "CompanyName": "雅茗-KY",
+        "大股東名稱": "YUMMY TOWN INTERNATIONAL LTD．(薩摩亞)"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2726",
+        "CompanyName": "雅茗-KY",
+        "大股東名稱": "吳伯超"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2729",
+        "CompanyName": "瓦城",
+        "大股東名稱": "哲泰股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2729",
+        "CompanyName": "瓦城",
+        "大股東名稱": "徐承義"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2732",
+        "CompanyName": "六角",
+        "大股東名稱": "亨泰國際投資控股有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2732",
+        "CompanyName": "六角",
+        "大股東名稱": "寬容投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2734",
+        "CompanyName": "易飛網",
+        "大股東名稱": "金點資產管理有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2736",
+        "CompanyName": "富野",
+        "大股東名稱": "勝達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2736",
+        "CompanyName": "富野",
+        "大股東名稱": "華立時代股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2740",
+        "CompanyName": "天蔥",
+        "大股東名稱": "永軒開發投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2743",
+        "CompanyName": "山富",
+        "大股東名稱": "陳國森"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2743",
+        "CompanyName": "山富",
+        "大股東名稱": "富仲投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2745",
+        "CompanyName": "五福",
+        "大股東名稱": "許順富"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2745",
+        "CompanyName": "五福",
+        "大股東名稱": "陳珮璘"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2751",
+        "CompanyName": "王座",
+        "大股東名稱": "六角國際事業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2752",
+        "CompanyName": "豆府",
+        "大股東名稱": "貝納投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2752",
+        "CompanyName": "豆府",
+        "大股東名稱": "陳莉莉"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2752",
+        "CompanyName": "豆府",
+        "大股東名稱": "緯達國際投資事業有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2754",
+        "CompanyName": "亞洲藏壽司",
+        "大股東名稱": "日商藏壽司股份有限公司(KURA SUSHI,INC.)"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2755",
+        "CompanyName": "揚秦",
+        "大股東名稱": "卓元裕"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2756",
+        "CompanyName": "聯發國際",
+        "大股東名稱": "李淑芬"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2756",
+        "CompanyName": "聯發國際",
+        "大股東名稱": "聯煌事業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2916",
+        "CompanyName": "滿心",
+        "大股東名稱": "日商株式會社ＤＥＳＣＥＮＴＥ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2924",
+        "CompanyName": "宏太-KY",
+        "大股東名稱": "台新國際商業銀行受託保管天使空間有限公司投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2924",
+        "CompanyName": "宏太-KY",
+        "大股東名稱": "台新國際商業銀行受託保管北川有限公司投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2924",
+        "CompanyName": "宏太-KY",
+        "大股東名稱": "台新國際商業銀行受託保管美興控股有限公司投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2926",
+        "CompanyName": "誠品生活",
+        "大股東名稱": "誠品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2937",
+        "CompanyName": "集雅社",
+        "大股東名稱": "集利投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2937",
+        "CompanyName": "集雅社",
+        "大股東名稱": "盧乾三"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2941",
+        "CompanyName": "米斯特",
+        "大股東名稱": "可霖有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2941",
+        "CompanyName": "米斯特",
+        "大股東名稱": "歐堤國際企業有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2947",
+        "CompanyName": "振宇五金",
+        "大股東名稱": "洪國展"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2947",
+        "CompanyName": "振宇五金",
+        "大股東名稱": "曾善"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2948",
+        "CompanyName": "寶陞",
+        "大股東名稱": "竹昇有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2948",
+        "CompanyName": "寶陞",
+        "大股東名稱": "雲杉國際股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2949",
+        "CompanyName": "欣新網",
+        "大股東名稱": "欣臨企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "2949",
+        "CompanyName": "欣新網",
+        "大股東名稱": "新竹物流股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3064",
+        "CompanyName": "泰偉",
+        "大股東名稱": "莊周文"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3064",
+        "CompanyName": "泰偉",
+        "大股東名稱": "楊南平"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3066",
+        "CompanyName": "李洲",
+        "大股東名稱": "李明順"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3067",
+        "CompanyName": "全域",
+        "大股東名稱": "台耀科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3067",
+        "CompanyName": "全域",
+        "大股東名稱": "康健投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3071",
+        "CompanyName": "協禧",
+        "大股東名稱": "康勛股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3071",
+        "CompanyName": "協禧",
+        "大股東名稱": "康達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3071",
+        "CompanyName": "協禧",
+        "大股東名稱": "嘉泰投資開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3083",
+        "CompanyName": "網龍",
+        "大股東名稱": "智冠科技（股）公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3085",
+        "CompanyName": "新零售",
+        "大股東名稱": "百佳圓投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3085",
+        "CompanyName": "新零售",
+        "大股東名稱": "易昇鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3085",
+        "CompanyName": "新零售",
+        "大股東名稱": "特蘭企管顧問有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3085",
+        "CompanyName": "新零售",
+        "大股東名稱": "慶欣欣鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3086",
+        "CompanyName": "華義",
+        "大股東名稱": "GIVEN BUSINESS INC."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3086",
+        "CompanyName": "華義",
+        "大股東名稱": "網銀國際股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3088",
+        "CompanyName": "艾訊",
+        "大股東名稱": "研華股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3093",
+        "CompanyName": "港建*",
+        "大股東名稱": "王氏港建國際（集團）有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3095",
+        "CompanyName": "及成",
+        "大股東名稱": "張正寬"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3095",
+        "CompanyName": "及成",
+        "大股東名稱": "張翠雲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3114",
+        "CompanyName": "好德",
+        "大股東名稱": "陳國鴻"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3115",
+        "CompanyName": "富榮綱",
+        "大股東名稱": "禾琦企業有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3115",
+        "CompanyName": "富榮綱",
+        "大股東名稱": "承育企業管理顧問有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3115",
+        "CompanyName": "富榮綱",
+        "大股東名稱": "采育企業管理顧問有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3128",
+        "CompanyName": "昇銳",
+        "大股東名稱": "江添貴"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3131",
+        "CompanyName": "弘塑",
+        "大股東名稱": "張鴻泰"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3147",
+        "CompanyName": "大綜",
+        "大股東名稱": "怡綜國際投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        "大股東名稱": "CHEERPLAN(HK)LIMITED"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3169",
+        "CompanyName": "亞信",
+        "大股東名稱": "達發科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3171",
+        "CompanyName": "炎洲流通",
+        "大股東名稱": "炎洲股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3171",
+        "CompanyName": "炎洲流通",
+        "大股東名稱": "萬洲化學股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3176",
+        "CompanyName": "基亞",
+        "大股東名稱": "云辰電子開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3178",
+        "CompanyName": "公準",
+        "大股東名稱": "路社投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3188",
+        "CompanyName": "鑫龍騰",
+        "大股東名稱": "天玉投資開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3188",
+        "CompanyName": "鑫龍騰",
+        "大股東名稱": "黃學藤"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3205",
+        "CompanyName": "佰研",
+        "大股東名稱": "楊清宗"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3206",
+        "CompanyName": "志豐",
+        "大股東名稱": "富泰營造股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3217",
+        "CompanyName": "優群",
+        "大股東名稱": "冠澤股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3218",
+        "CompanyName": "大學光",
+        "大股東名稱": "林丕容"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3219",
+        "CompanyName": "倚強科",
+        "大股東名稱": "艾瑞克森資本股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3219",
+        "CompanyName": "倚強科",
+        "大股東名稱": "拉格納資本股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3219",
+        "CompanyName": "倚強科",
+        "大股東名稱": "英楷投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3224",
+        "CompanyName": "三顧",
+        "大股東名稱": "吳振隆"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3226",
+        "CompanyName": "龍鋒",
+        "大股東名稱": "至誠投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3230",
+        "CompanyName": "錦明",
+        "大股東名稱": "大宇紡織股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3232",
+        "CompanyName": "昱捷",
+        "大股東名稱": "石幸兒"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3232",
+        "CompanyName": "昱捷",
+        "大股東名稱": "蔡棟國"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3234",
+        "CompanyName": "光環",
+        "大股東名稱": "台灣光罩股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3265",
+        "CompanyName": "台星科",
+        "大股東名稱": "格星股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3272",
+        "CompanyName": "東碩",
+        "大股東名稱": "曹賜正"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3272",
+        "CompanyName": "東碩",
+        "大股東名稱": "許茲福"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3276",
+        "CompanyName": "宇環",
+        "大股東名稱": "志超科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3284",
+        "CompanyName": "太普高",
+        "大股東名稱": "呂金發"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3284",
+        "CompanyName": "太普高",
+        "大股東名稱": "逸升投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3284",
+        "CompanyName": "太普高",
+        "大股東名稱": "麗升投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3285",
+        "CompanyName": "微端",
+        "大股東名稱": "鴻利投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3287",
+        "CompanyName": "廣寰科",
+        "大股東名稱": "睿丰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3288",
+        "CompanyName": "點晶",
+        "大股東名稱": "黃星輝"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3290",
+        "CompanyName": "東浦",
+        "大股東名稱": "美律實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3294",
+        "CompanyName": "英濟",
+        "大股東名稱": "英範投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3306",
+        "CompanyName": "鼎天",
+        "大股東名稱": "廣達電腦股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3310",
+        "CompanyName": "佳穎",
+        "大股東名稱": "采略投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3313",
+        "CompanyName": "斐成",
+        "大股東名稱": "永捷創新科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3313",
+        "CompanyName": "斐成",
+        "大股東名稱": "張祐銘"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3323",
+        "CompanyName": "加百裕",
+        "大股東名稱": "系統電子工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        "大股東名稱": "林育申"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3332",
+        "CompanyName": "幸康",
+        "大股東名稱": "呂惠清"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3332",
+        "CompanyName": "幸康",
+        "大股東名稱": "周世軒"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3332",
+        "CompanyName": "幸康",
+        "大股東名稱": "周玉庭"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3332",
+        "CompanyName": "幸康",
+        "大股東名稱": "鄭水竹"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3354",
+        "CompanyName": "律勝",
+        "大股東名稱": "同盈投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3354",
+        "CompanyName": "律勝",
+        "大股東名稱": "勇盈投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3354",
+        "CompanyName": "律勝",
+        "大股東名稱": "奕盈投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3357",
+        "CompanyName": "臺慶科",
+        "大股東名稱": "第一商業銀行受託保管西普爾控股（新）私營有限公司投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3360",
+        "CompanyName": "尚立",
+        "大股東名稱": "簡剛民"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3362",
+        "CompanyName": "先進光",
+        "大股東名稱": "大立光電股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3372",
+        "CompanyName": "典範",
+        "大股東名稱": "創見資訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3373",
+        "CompanyName": "熱映",
+        "大股東名稱": "周至元"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3374",
+        "CompanyName": "精材",
+        "大股東名稱": "台灣積體電路製造股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3379",
+        "CompanyName": "彬台",
+        "大股東名稱": "擎邦國際科技工程股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3388",
+        "CompanyName": "崇越電",
+        "大股東名稱": "崇越開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3390",
+        "CompanyName": "旭軟",
+        "大股東名稱": "鉅祥企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3402",
+        "CompanyName": "漢科",
+        "大股東名稱": "漢唐集成股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3426",
+        "CompanyName": "台興",
+        "大股東名稱": "台灣晶技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3430",
+        "CompanyName": "奇鈦科",
+        "大股東名稱": "龍筱芬"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3438",
+        "CompanyName": "類比科",
+        "大股東名稱": "致新科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3465",
+        "CompanyName": "進泰電子",
+        "大股東名稱": "泰弘資產管理股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3465",
+        "CompanyName": "進泰電子",
+        "大股東名稱": "進泰資產管理股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3466",
+        "CompanyName": "德晉",
+        "大股東名稱": "恆盈泰資本投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3467",
+        "CompanyName": "台灣精材",
+        "大股東名稱": "佳龍科技工程股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3467",
+        "CompanyName": "台灣精材",
+        "大股東名稱": "富兆投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3479",
+        "CompanyName": "安勤",
+        "大股東名稱": "仁寶電腦工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "大股東名稱": "正義投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "大股東名稱": "民瑋投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "大股東名稱": "禾潤投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "大股東名稱": "春宇投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "大股東名稱": "達容發投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3492",
+        "CompanyName": "長盛",
+        "大股東名稱": "東盛投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3499",
+        "CompanyName": "環天科",
+        "大股東名稱": "陳賢哲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3511",
+        "CompanyName": "矽瑪",
+        "大股東名稱": "佳世達科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3512",
+        "CompanyName": "皇龍",
+        "大股東名稱": "陳文成"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3512",
+        "CompanyName": "皇龍",
+        "大股東名稱": "陳文宏"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3512",
+        "CompanyName": "皇龍",
+        "大股東名稱": "陳江山"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3516",
+        "CompanyName": "亞帝歐",
+        "大股東名稱": "帝祥投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3516",
+        "CompanyName": "亞帝歐",
+        "大股東名稱": "帝興投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3520",
+        "CompanyName": "華盈",
+        "大股東名稱": "永鼎投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3520",
+        "CompanyName": "華盈",
+        "大股東名稱": "樺泰管理顧問有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3521",
+        "CompanyName": "鴻翊",
+        "大股東名稱": "恆家事業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3523",
+        "CompanyName": "迎輝",
+        "大股東名稱": "佳銘資本實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3523",
+        "CompanyName": "迎輝",
+        "大股東名稱": "鹿林開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3526",
+        "CompanyName": "凡甲",
+        "大股東名稱": "強茂股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3537",
+        "CompanyName": "堡達",
+        "大股東名稱": "陳朝陽"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3540",
+        "CompanyName": "曜越",
+        "大股東名稱": "林培熙"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3551",
+        "CompanyName": "世禾",
+        "大股東名稱": "冠麟投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3555",
+        "CompanyName": "博士旺",
+        "大股東名稱": "兆隆投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3555",
+        "CompanyName": "博士旺",
+        "大股東名稱": "威剛科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3556",
+        "CompanyName": "禾瑞亞",
+        "大股東名稱": "友禾投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3558",
+        "CompanyName": "神準",
+        "大股東名稱": "神腦國際企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3564",
+        "CompanyName": "其陽",
+        "大股東名稱": "友通資訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3564",
+        "CompanyName": "其陽",
+        "大股東名稱": "其鑫股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3570",
+        "CompanyName": "大塚",
+        "大股東名稱": "日商株式會社大塚商會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3577",
+        "CompanyName": "泓格",
+        "大股東名稱": "天行投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3577",
+        "CompanyName": "泓格",
+        "大股東名稱": "陳瑞煜"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3581",
+        "CompanyName": "博磊",
+        "大股東名稱": "李篤誠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3594",
+        "CompanyName": "磐儀",
+        "大股東名稱": "樺成國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3597",
+        "CompanyName": "映興",
+        "大股東名稱": "林宜嫻"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3597",
+        "CompanyName": "映興",
+        "大股東名稱": "進鎰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3597",
+        "CompanyName": "映興",
+        "大股東名稱": "賴柄源"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3609",
+        "CompanyName": "三一東林",
+        "大股東名稱": "東及開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3611",
+        "CompanyName": "鼎翰",
+        "大股東名稱": "台灣半導體股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3615",
+        "CompanyName": "安可",
+        "大股東名稱": "錸德科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3623",
+        "CompanyName": "富晶通",
+        "大股東名稱": "中環股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "大股東名稱": "大陸商廣東風華高新科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3625",
+        "CompanyName": "西勝",
+        "大股東名稱": "黃宗偉"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3628",
+        "CompanyName": "盈正",
+        "大股東名稱": "許文"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3628",
+        "CompanyName": "盈正",
+        "大股東名稱": "漢唐集成股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3629",
+        "CompanyName": "地心引力",
+        "大股東名稱": "柴而德投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3629",
+        "CompanyName": "地心引力",
+        "大股東名稱": "富振投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3629",
+        "CompanyName": "地心引力",
+        "大股東名稱": "富聯資本股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3630",
+        "CompanyName": "新鉅科",
+        "大股東名稱": "英屬開曼群島商丘鈦科技(集團）有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3631",
+        "CompanyName": "晟楠",
+        "大股東名稱": "林朝榮"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3631",
+        "CompanyName": "晟楠",
+        "大股東名稱": "榮志投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3663",
+        "CompanyName": "鑫科",
+        "大股東名稱": "中盈投資開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3664",
+        "CompanyName": "安瑞-KY",
+        "大股東名稱": "Array Holdings for APGFIII Fund LPs"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3664",
+        "CompanyName": "安瑞-KY",
+        "大股東名稱": "超恩股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3666",
+        "CompanyName": "光耀",
+        "大股東名稱": "元德投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3672",
+        "CompanyName": "康聯訊",
+        "大股東名稱": "環隆科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3675",
+        "CompanyName": "德微",
+        "大股東名稱": "達爾科技Ｈｏｌｄｉｎｇｓ  ＵＫ公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3684",
+        "CompanyName": "榮昌",
+        "大股東名稱": "陳家榮"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3684",
+        "CompanyName": "榮昌",
+        "大股東名稱": "詮欣股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3685",
+        "CompanyName": "元創精密",
+        "大股東名稱": "艾伯科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3685",
+        "CompanyName": "元創精密",
+        "大股東名稱": "富亞興業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3687",
+        "CompanyName": "歐買尬",
+        "大股東名稱": "林一泓"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3687",
+        "CompanyName": "歐買尬",
+        "大股東名稱": "睿智恩股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3691",
+        "CompanyName": "碩禾",
+        "大股東名稱": "國碩科技工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3691",
+        "CompanyName": "碩禾",
+        "大股東名稱": "鴻揚創業投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3693",
+        "CompanyName": "營邦",
+        "大股東名稱": "梁順營"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3693",
+        "CompanyName": "營邦",
+        "大股東名稱": "陳皇仁"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3707",
+        "CompanyName": "漢磊",
+        "大股東名稱": "世界先進積體電路股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3709",
+        "CompanyName": "鑫聯大投控",
+        "大股東名稱": "大聯大投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "3713",
+        "CompanyName": "新晶投控",
+        "大股東名稱": "鼎元光電科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4102",
+        "CompanyName": "永日",
+        "大股東名稱": "永信國際投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4107",
+        "CompanyName": "邦特",
+        "大股東名稱": "可耀股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4109",
+        "CompanyName": "加捷生醫",
+        "大股東名稱": "百佳圓投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4113",
+        "CompanyName": "聯上",
+        "大股東名稱": "聯上投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4113",
+        "CompanyName": "聯上",
+        "大股東名稱": "聯景投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4116",
+        "CompanyName": "明基醫",
+        "大股東名稱": "明基電通股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4120",
+        "CompanyName": "友華",
+        "大股東名稱": "和杏實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4120",
+        "CompanyName": "友華",
+        "大股東名稱": "愛斯佳投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4120",
+        "CompanyName": "友華",
+        "大股東名稱": "蔡正弘"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4120",
+        "CompanyName": "友華",
+        "大股東名稱": "誼澤股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4121",
+        "CompanyName": "優盛",
+        "大股東名稱": "劉志平"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4123",
+        "CompanyName": "晟德",
+        "大股東名稱": "歐室食品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4123",
+        "CompanyName": "晟德",
+        "大股東名稱": "儷榮科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4126",
+        "CompanyName": "太醫",
+        "大股東名稱": "可耀股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4127",
+        "CompanyName": "天良",
+        "大股東名稱": "臺北作想股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4130",
+        "CompanyName": "健亞",
+        "大股東名稱": "行政院國家發展基金管理會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4131",
+        "CompanyName": "浩泰",
+        "大股東名稱": "廣泰金屬工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4138",
+        "CompanyName": "曜亞",
+        "大股東名稱": "佳醫健康事業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4139",
+        "CompanyName": "馬光-KY",
+        "大股東名稱": "黃傳勝"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4147",
+        "CompanyName": "中裕",
+        "大股東名稱": "行政院國家發展基金管理會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4153",
+        "CompanyName": "鈺緯",
+        "大股東名稱": "眾福科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4154",
+        "CompanyName": "樂威科-KY",
+        "大股東名稱": "元大商業銀行受託保管璞發一號資本有限公司投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4157",
+        "CompanyName": "太景*-KY",
+        "大股東名稱": "永豐餘投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4157",
+        "CompanyName": "太景*-KY",
+        "大股東名稱": "行政院國家發展基金管理會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4160",
+        "CompanyName": "訊聯基因",
+        "大股東名稱": "訊聯生物科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4162",
+        "CompanyName": "智擎",
+        "大股東名稱": "台灣東洋藥品工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4162",
+        "CompanyName": "智擎",
+        "大股東名稱": "行政院國家發展基金管理會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4166",
+        "CompanyName": "友霖",
+        "大股東名稱": "友華生技醫藥股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4173",
+        "CompanyName": "久裕",
+        "大股東名稱": "佳醫健康事業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4183",
+        "CompanyName": "福永生技",
+        "大股東名稱": "郭鳳琳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4183",
+        "CompanyName": "福永生技",
+        "大股東名稱": "証吉投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4188",
+        "CompanyName": "安克",
+        "大股東名稱": "懷特生技新藥股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4192",
+        "CompanyName": "杏國",
+        "大股東名稱": "杏輝藥品工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4198",
+        "CompanyName": "欣大健康",
+        "大股東名稱": "李沛霖"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4198",
+        "CompanyName": "欣大健康",
+        "大股東名稱": "李典穎"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyName": "環泰",
+        "大股東名稱": "六順實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyName": "環泰",
+        "大股東名稱": "康國鋒"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4303",
+        "CompanyName": "信立",
+        "大股東名稱": "永捷創新科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4402",
+        "CompanyName": "郡都開發",
+        "大股東名稱": "兆天國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4402",
+        "CompanyName": "郡都開發",
+        "大股東名稱": "匯天下投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4406",
+        "CompanyName": "新昕纖",
+        "大股東名稱": "莊王垂貞"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4413",
+        "CompanyName": "飛寶企業",
+        "大股東名稱": "深達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4413",
+        "CompanyName": "飛寶企業",
+        "大股東名稱": "許文姿"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4419",
+        "CompanyName": "皇家美食",
+        "大股東名稱": "易昇鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4420",
+        "CompanyName": "光明",
+        "大股東名稱": "宜進實業（股）公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4430",
+        "CompanyName": "耀億",
+        "大股東名稱": "金璽投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4432",
+        "CompanyName": "銘旺實",
+        "大股東名稱": "源國投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4433",
+        "CompanyName": "興采",
+        "大股東名稱": "陳國欽"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4433",
+        "CompanyName": "興采",
+        "大股東名稱": "賴美惠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4442",
+        "CompanyName": "竣邦-KY",
+        "大股東名稱": "Kao's Holding C0.,Ltd."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4442",
+        "CompanyName": "竣邦-KY",
+        "大股東名稱": "Ｒｉｃｈ  Ｃｌｉｍｅｓ  Ｌｔｄ．"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4502",
+        "CompanyName": "健信",
+        "大股東名稱": "丘世健"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4502",
+        "CompanyName": "健信",
+        "大股東名稱": "華豐橡膠工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4502",
+        "CompanyName": "健信",
+        "大股東名稱": "嶸毅投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4503",
+        "CompanyName": "金雨",
+        "大股東名稱": "興亞營造工程股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4506",
+        "CompanyName": "崇友",
+        "大股東名稱": "長江物產股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4510",
+        "CompanyName": "高鋒",
+        "大股東名稱": "和鑽投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4523",
+        "CompanyName": "永彰",
+        "大股東名稱": "佳峻投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4527",
+        "CompanyName": "方方土霖",
+        "大股東名稱": "東元電機股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4528",
+        "CompanyName": "江興鍛",
+        "大股東名稱": "江木山"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4529",
+        "CompanyName": "淳紳",
+        "大股東名稱": "台新託管金名投資有限公司投資專"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4529",
+        "CompanyName": "淳紳",
+        "大股東名稱": "沈瑋"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4534",
+        "CompanyName": "慶騰",
+        "大股東名稱": "慶璉投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4535",
+        "CompanyName": "至興",
+        "大股東名稱": "全泰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4535",
+        "CompanyName": "至興",
+        "大股東名稱": "全道投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4535",
+        "CompanyName": "至興",
+        "大股東名稱": "全興投資開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "大股東名稱": "天雁投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "大股東名稱": "楊麗雲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "大股東名稱": "謝依樺"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "大股東名稱": "謝宜軒"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "大股東名稱": "謝順民"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4543",
+        "CompanyName": "萬在",
+        "大股東名稱": "同濟國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4549",
+        "CompanyName": "桓達",
+        "大股東名稱": "吳定國"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4550",
+        "CompanyName": "長佳",
+        "大股東名稱": "王才翔"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4550",
+        "CompanyName": "長佳",
+        "大股東名稱": "東寶投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4554",
+        "CompanyName": "橙的",
+        "大股東名稱": "先達汽車產品（香港）有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4554",
+        "CompanyName": "橙的",
+        "大股東名稱": "許欽堯"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4556",
+        "CompanyName": "旭然",
+        "大股東名稱": "兆美投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4556",
+        "CompanyName": "旭然",
+        "大股東名稱": "何兆全"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4561",
+        "CompanyName": "健椿",
+        "大股東名稱": "葉蔡秀華"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4561",
+        "CompanyName": "健椿",
+        "大股東名稱": "葉橫燦"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4563",
+        "CompanyName": "百德",
+        "大股東名稱": "業強科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4568",
+        "CompanyName": "科際精密",
+        "大股東名稱": "科際器材工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4568",
+        "CompanyName": "科際精密",
+        "大股東名稱": "薩摩亞商ＷＩＮＦＯＲＥＶＥＲＧＲＯＵＰＩ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        "大股東名稱": "立港投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        "大股東名稱": "昱港投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        "大股東名稱": "黃立達"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4580",
+        "CompanyName": "捷流閥業",
+        "大股東名稱": "陳宗曉"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4584",
+        "CompanyName": "君帆",
+        "大股東名稱": "胡進財"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4584",
+        "CompanyName": "君帆",
+        "大股東名稱": "湧柏投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4609",
+        "CompanyName": "唐鋒",
+        "大股東名稱": "周文洪"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4702",
+        "CompanyName": "中美實",
+        "大股東名稱": "香港商金鷹國際貿易有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4706",
+        "CompanyName": "大恭",
+        "大股東名稱": "株式會社PLASiST"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4706",
+        "CompanyName": "大恭",
+        "大股東名稱": "喻義投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4706",
+        "CompanyName": "大恭",
+        "大股東名稱": "鄧加惠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4707",
+        "CompanyName": "磐亞",
+        "大股東名稱": "中國人造纖維股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4711",
+        "CompanyName": "永純",
+        "大股東名稱": "林慈環"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4714",
+        "CompanyName": "永捷",
+        "大股東名稱": "上曜建設開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4721",
+        "CompanyName": "美琪瑪",
+        "大股東名稱": "嚴隆財"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4726",
+        "CompanyName": "永昕",
+        "大股東名稱": "JCR Pharmaceuticals Co., Ltd."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4726",
+        "CompanyName": "永昕",
+        "大股東名稱": "晟德大藥廠股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4729",
+        "CompanyName": "熒茂",
+        "大股東名稱": "研華投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4729",
+        "CompanyName": "熒茂",
+        "大股東名稱": "強茂股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4735",
+        "CompanyName": "豪展",
+        "大股東名稱": "莊明輝"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4741",
+        "CompanyName": "泓瀚",
+        "大股東名稱": "呂境"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4741",
+        "CompanyName": "泓瀚",
+        "大股東名稱": "岩玉投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4741",
+        "CompanyName": "泓瀚",
+        "大股東名稱": "霖暘投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4743",
+        "CompanyName": "合一",
+        "大股東名稱": "中天生物科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "大股東名稱": "王瓊芝"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "大股東名稱": "李惇"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4747",
+        "CompanyName": "強生製藥",
+        "大股東名稱": "耀勝電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4754",
+        "CompanyName": "國碳科",
+        "大股東名稱": "立熠投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4760",
+        "CompanyName": "勤凱科技",
+        "大股東名稱": "曾聰乙"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4767",
+        "CompanyName": "誠泰科技",
+        "大股東名稱": "欣派股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4767",
+        "CompanyName": "誠泰科技",
+        "大股東名稱": "穩通投資（股）公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4768",
+        "CompanyName": "晶呈科技",
+        "大股東名稱": "陳亞理"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4772",
+        "CompanyName": "台特化",
+        "大股東名稱": "中美矽晶製品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4804",
+        "CompanyName": "大略-KY",
+        "大股東名稱": "陳偉誌"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4806",
+        "CompanyName": "桂田文創",
+        "大股東名稱": "易昇鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4806",
+        "CompanyName": "桂田文創",
+        "大股東名稱": "榮剛材料科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4806",
+        "CompanyName": "桂田文創",
+        "大股東名稱": "慶欣欣鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4903",
+        "CompanyName": "聯光通",
+        "大股東名稱": "易昇鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4905",
+        "CompanyName": "台聯電",
+        "大股東名稱": "富鼎科技顧問股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4905",
+        "CompanyName": "台聯電",
+        "大股東名稱": "華盛國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4907",
+        "CompanyName": "富宇",
+        "大股東名稱": "兆品投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4907",
+        "CompanyName": "富宇",
+        "大股東名稱": "兆皇投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4911",
+        "CompanyName": "德英",
+        "大股東名稱": "郭國華"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4924",
+        "CompanyName": "欣厚-KY",
+        "大股東名稱": "許添華"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4933",
+        "CompanyName": "友輝",
+        "大股東名稱": "新光合成纖維股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4939",
+        "CompanyName": "亞電",
+        "大股東名稱": "元太科技工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4939",
+        "CompanyName": "亞電",
+        "大股東名稱": "李建輝"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4946",
+        "CompanyName": "辣椒",
+        "大股東名稱": "鄧潤澤"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4950",
+        "CompanyName": "金耘國際",
+        "大股東名稱": "榮剛材料科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4953",
+        "CompanyName": "緯軟",
+        "大股東名稱": "緯創數技投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4974",
+        "CompanyName": "亞泰",
+        "大股東名稱": "亞洲光學股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4979",
+        "CompanyName": "華星光",
+        "大股東名稱": "誼虹科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4987",
+        "CompanyName": "科誠",
+        "大股東名稱": "泓泰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4995",
+        "CompanyName": "晶達",
+        "大股東名稱": "李英珍"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "4995",
+        "CompanyName": "晶達",
+        "大股東名稱": "研揚科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5009",
+        "CompanyName": "榮剛",
+        "大股東名稱": "智冠科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5014",
+        "CompanyName": "建錩",
+        "大股東名稱": "大丘園投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5016",
+        "CompanyName": "松和",
+        "大股東名稱": "林廷芳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5202",
+        "CompanyName": "力新",
+        "大股東名稱": "大立化妝品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5202",
+        "CompanyName": "力新",
+        "大股東名稱": "鑫阿波羅能源股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5205",
+        "CompanyName": "中茂",
+        "大股東名稱": "泓豐投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5205",
+        "CompanyName": "中茂",
+        "大股東名稱": "高雄汽車客運股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5206",
+        "CompanyName": "坤悅",
+        "大股東名稱": "陳丕岳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5209",
+        "CompanyName": "新鼎",
+        "大股東名稱": "中鼎工程股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5210",
+        "CompanyName": "寶碩",
+        "大股東名稱": "富鼎順投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5210",
+        "CompanyName": "寶碩",
+        "大股東名稱": "棋實投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5211",
+        "CompanyName": "蒙恬",
+        "大股東名稱": "雨杰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5212",
+        "CompanyName": "凌網",
+        "大股東名稱": "德商德意志銀行台北分行受託保管亞洲價值基金投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5213",
+        "CompanyName": "亞昕",
+        "大股東名稱": "上億投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5213",
+        "CompanyName": "亞昕",
+        "大股東名稱": "永翊開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5213",
+        "CompanyName": "亞昕",
+        "大股東名稱": "益昕投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5223",
+        "CompanyName": "安力-KY",
+        "大股東名稱": "ＡＮＬＩ  ＩＮＴＥＲＮＡＴＩＯＮＡＬ  ＬＩＭＩＴＥＤ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5227",
+        "CompanyName": "立凱-KY",
+        "大股東名稱": "凱基商銀託管五龍動力投資有限公"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5228",
+        "CompanyName": "鈺鎧",
+        "大股東名稱": "大晟機電股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5236",
+        "CompanyName": "凌陽創新",
+        "大股東名稱": "凌陽科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5245",
+        "CompanyName": "智晶",
+        "大股東名稱": "晶宜科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5251",
+        "CompanyName": "天鉞電",
+        "大股東名稱": "香港商ARGUS HOLDINGS LIMITED"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5274",
+        "CompanyName": "信驊",
+        "大股東名稱": "豐驊投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5276",
+        "CompanyName": "達輝-KY",
+        "大股東名稱": "ＬＩＯＮＧＡＴＥ  ＩＮＶＥＳＴ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5276",
+        "CompanyName": "達輝-KY",
+        "大股東名稱": "ＷＩＮ  ＲＩＤＥ  ＩＮＶＥＳＴ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5278",
+        "CompanyName": "尚凡*",
+        "大股東名稱": "林東慶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5278",
+        "CompanyName": "尚凡*",
+        "大股東名稱": "張家銘"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5287",
+        "CompanyName": "數字",
+        "大股東名稱": "廖世芳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5299",
+        "CompanyName": "杰力",
+        "大股東名稱": "朋程科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5302",
+        "CompanyName": "太欣",
+        "大股東名稱": "和毅股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5309",
+        "CompanyName": "系統電",
+        "大股東名稱": "李益仁"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5310",
+        "CompanyName": "天剛",
+        "大股東名稱": "軒馬科創股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5312",
+        "CompanyName": "寶島科",
+        "大股東名稱": "捷富國際股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        "大股東名稱": "上曜建設開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5321",
+        "CompanyName": "美而快",
+        "大股東名稱": "廖承豪"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5321",
+        "CompanyName": "美而快",
+        "大股東名稱": "藤美資本管理顧問股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5328",
+        "CompanyName": "華容",
+        "大股東名稱": "瑞軒科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        "大股東名稱": "日東紡績株式會社"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5344",
+        "CompanyName": "立衛",
+        "大股東名稱": "威盛電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5345",
+        "CompanyName": "馥鴻",
+        "大股東名稱": "昕投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5345",
+        "CompanyName": "馥鴻",
+        "大股東名稱": "杰爾發有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5347",
+        "CompanyName": "世界",
+        "大股東名稱": "台灣積體電路製造股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5347",
+        "CompanyName": "世界",
+        "大股東名稱": "行政院國家發展基金管理會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5348",
+        "CompanyName": "正能量智能",
+        "大股東名稱": "能率網通股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5353",
+        "CompanyName": "台林",
+        "大股東名稱": "好德科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5364",
+        "CompanyName": "力麗店",
+        "大股東名稱": "力麒建設股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5364",
+        "CompanyName": "力麗店",
+        "大股東名稱": "鑫永發能源股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5371",
+        "CompanyName": "中光電",
+        "大股東名稱": "泰威先進股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        "大股東名稱": "大宇資訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5386",
+        "CompanyName": "青雲",
+        "大股東名稱": "柯聰源"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5392",
+        "CompanyName": "能率",
+        "大股東名稱": "佳能企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5392",
+        "CompanyName": "能率",
+        "大股東名稱": "能率國際股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5398",
+        "CompanyName": "慕康生醫",
+        "大股東名稱": "華豐經銷股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5426",
+        "CompanyName": "振發",
+        "大股東名稱": "蔡宗勳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5432",
+        "CompanyName": "新門",
+        "大股東名稱": "三門科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5432",
+        "CompanyName": "新門",
+        "大股東名稱": "所羅門股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5432",
+        "CompanyName": "新門",
+        "大股東名稱": "摩迪投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5438",
+        "CompanyName": "東友",
+        "大股東名稱": "天達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5438",
+        "CompanyName": "東友",
+        "大股東名稱": "光菱電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5438",
+        "CompanyName": "東友",
+        "大股東名稱": "菱光科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5443",
+        "CompanyName": "均豪",
+        "大股東名稱": "志聖工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5450",
+        "CompanyName": "南良",
+        "大股東名稱": "子良興業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5452",
+        "CompanyName": "佶優",
+        "大股東名稱": "永上投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5455",
+        "CompanyName": "昇益",
+        "大股東名稱": "楊玉全"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5457",
+        "CompanyName": "宣德",
+        "大股東名稱": "香港商聯滔電子有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5464",
+        "CompanyName": "霖宏",
+        "大股東名稱": "張枋霖"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5464",
+        "CompanyName": "霖宏",
+        "大股東名稱": "劉秀雲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5465",
+        "CompanyName": "富驊",
+        "大股東名稱": "偉訓科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5468",
+        "CompanyName": "凱鈺",
+        "大股東名稱": "穎霖投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5468",
+        "CompanyName": "凱鈺",
+        "大股東名稱": "蕭彩雲投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5474",
+        "CompanyName": "聰泰",
+        "大股東名稱": "威聖投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5478",
+        "CompanyName": "智冠",
+        "大股東名稱": "王俊博"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5478",
+        "CompanyName": "智冠",
+        "大股東名稱": "榮剛材料科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5487",
+        "CompanyName": "通泰",
+        "大股東名稱": "福豐盛投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5489",
+        "CompanyName": "彩富",
+        "大股東名稱": "永鉅投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5489",
+        "CompanyName": "彩富",
+        "大股東名稱": "永馳股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5489",
+        "CompanyName": "彩富",
+        "大股東名稱": "陳春生"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5508",
+        "CompanyName": "永信建",
+        "大股東名稱": "永碩投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5511",
+        "CompanyName": "德昌",
+        "大股東名稱": "格正投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5516",
+        "CompanyName": "雙喜",
+        "大股東名稱": "邱宏章"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5516",
+        "CompanyName": "雙喜",
+        "大股東名稱": "雙慶投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5520",
+        "CompanyName": "力泰",
+        "大股東名稱": "吳源泰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5520",
+        "CompanyName": "力泰",
+        "大股東名稱": "富源投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5523",
+        "CompanyName": "豐謙",
+        "大股東名稱": "晨譽投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5523",
+        "CompanyName": "豐謙",
+        "大股東名稱": "頌恩營造股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5529",
+        "CompanyName": "鉅陞",
+        "大股東名稱": "鉅陞投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5530",
+        "CompanyName": "龍巖",
+        "大股東名稱": "福和投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5548",
+        "CompanyName": "安倉",
+        "大股東名稱": "夏耘股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5548",
+        "CompanyName": "安倉",
+        "大股東名稱": "張立雍"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5548",
+        "CompanyName": "安倉",
+        "大股東名稱": "張欣夷"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5603",
+        "CompanyName": "陸海",
+        "大股東名稱": "何英津"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5701",
+        "CompanyName": "劍湖山",
+        "大股東名稱": "和盟流通股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5703",
+        "CompanyName": "亞都麗緻",
+        "大股東名稱": "傲士英投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5704",
+        "CompanyName": "老爺知",
+        "大股東名稱": "林炎煌"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5864",
+        "CompanyName": "致和證",
+        "大股東名稱": "保利都投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5878",
+        "CompanyName": "台名",
+        "大股東名稱": "台灣領航資產投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5902",
+        "CompanyName": "德記",
+        "大股東名稱": "統一企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5903",
+        "CompanyName": "全家",
+        "大股東名稱": "日商全家便利商店股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "5903",
+        "CompanyName": "全家",
+        "大股東名稱": "萬寶開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6020",
+        "CompanyName": "大展證",
+        "大股東名稱": "力新投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6020",
+        "CompanyName": "大展證",
+        "大股東名稱": "巨發投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6020",
+        "CompanyName": "大展證",
+        "大股東名稱": "朱茂隆"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6020",
+        "CompanyName": "大展證",
+        "大股東名稱": "昇威投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6021",
+        "CompanyName": "美好證",
+        "大股東名稱": "美好金融科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6023",
+        "CompanyName": "元大期貨",
+        "大股東名稱": "元大金融控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6101",
+        "CompanyName": "寬魚國際",
+        "大股東名稱": "邱漢中"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6103",
+        "CompanyName": "合邦",
+        "大股東名稱": "多春投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6103",
+        "CompanyName": "合邦",
+        "大股東名稱": "柯拔希"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6111",
+        "CompanyName": "大宇資",
+        "大股東名稱": "俊光"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6113",
+        "CompanyName": "亞矽",
+        "大股東名稱": "蔡伯宜"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6114",
+        "CompanyName": "久威",
+        "大股東名稱": "基澤投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6118",
+        "CompanyName": "建達",
+        "大股東名稱": "弘茂投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6124",
+        "CompanyName": "業強",
+        "大股東名稱": "台北富邦商銀託管海得控股有限公司投資專戶"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6124",
+        "CompanyName": "業強",
+        "大股東名稱": "芳烈投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6124",
+        "CompanyName": "業強",
+        "大股東名稱": "薩摩亞商瑞民有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6125",
+        "CompanyName": "廣運",
+        "大股東名稱": "謝清福"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6130",
+        "CompanyName": "上亞科技",
+        "大股東名稱": "合眾投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6130",
+        "CompanyName": "上亞科技",
+        "大股東名稱": "星寶電子科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6134",
+        "CompanyName": "萬旭",
+        "大股東名稱": "日商朝日通信股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6134",
+        "CompanyName": "萬旭",
+        "大股東名稱": "萬泰科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6138",
+        "CompanyName": "茂達",
+        "大股東名稱": "國巨股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6144",
+        "CompanyName": "得利影",
+        "大股東名稱": "中嘉國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6144",
+        "CompanyName": "得利影",
+        "大股東名稱": "中環股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6144",
+        "CompanyName": "得利影",
+        "大股東名稱": "日商文化便利俱樂部股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6146",
+        "CompanyName": "耕興",
+        "大股東名稱": "友興投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6154",
+        "CompanyName": "順發",
+        "大股東名稱": "佳鴻投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6154",
+        "CompanyName": "順發",
+        "大股東名稱": "宜鴻投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6158",
+        "CompanyName": "禾昌",
+        "大股東名稱": "陳財福"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6161",
+        "CompanyName": "捷波",
+        "大股東名稱": "研揚科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6163",
+        "CompanyName": "華電網",
+        "大股東名稱": "研華投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6167",
+        "CompanyName": "久正",
+        "大股東名稱": "佰鴻工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6169",
+        "CompanyName": "昱泉",
+        "大股東名稱": "大敦投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6170",
+        "CompanyName": "統振",
+        "大股東名稱": "宏碁股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6170",
+        "CompanyName": "統振",
+        "大股東名稱": "鑫來投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6171",
+        "CompanyName": "大城地產",
+        "大股東名稱": "大城建設股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6171",
+        "CompanyName": "大城地產",
+        "大股東名稱": "賴源釗"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        "大股東名稱": "華新科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6174",
+        "CompanyName": "安碁",
+        "大股東名稱": "安聖電子科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6175",
+        "CompanyName": "立敦",
+        "大股東名稱": "立隆電子工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6175",
+        "CompanyName": "立敦",
+        "大股東名稱": "廣東東陽光科技控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6180",
+        "CompanyName": "橘子",
+        "大股東名稱": "劉柏園"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6185",
+        "CompanyName": "幃翔",
+        "大股東名稱": "春田投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6187",
+        "CompanyName": "萬潤",
+        "大股東名稱": "盧鏡來"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6188",
+        "CompanyName": "廣明",
+        "大股東名稱": "廣達電腦股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6195",
+        "CompanyName": "詩肯",
+        "大股東名稱": "英屬維京群島商ＮＯＢＬＥ  ＬＩＮＫ  ＭＡＮＡＧＥＭＥＮＴ  ＬＴＤ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6198",
+        "CompanyName": "瑞築",
+        "大股東名稱": "有旺投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6198",
+        "CompanyName": "瑞築",
+        "大股東名稱": "源通投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6199",
+        "CompanyName": "天品",
+        "大股東名稱": "莊惠真"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6199",
+        "CompanyName": "天品",
+        "大股東名稱": "豪富投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6203",
+        "CompanyName": "海韻電",
+        "大股東名稱": "張正宗"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6203",
+        "CompanyName": "海韻電",
+        "大股東名稱": "魏金花"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6212",
+        "CompanyName": "理銘",
+        "大股東名稱": "楊邴淇"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6218",
+        "CompanyName": "豪勉",
+        "大股東名稱": "彭以豪"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6219",
+        "CompanyName": "富旺",
+        "大股東名稱": "天衛資產管理股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6219",
+        "CompanyName": "富旺",
+        "大股東名稱": "昌運建設開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6219",
+        "CompanyName": "富旺",
+        "大股東名稱": "寶鉅投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6219",
+        "CompanyName": "富旺",
+        "大股東名稱": "寶鑫投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6221",
+        "CompanyName": "晉泰",
+        "大股東名稱": "昇鋒投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6221",
+        "CompanyName": "晉泰",
+        "大股東名稱": "精誠資訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6222",
+        "CompanyName": "立軒",
+        "大股東名稱": "陳銘鴻"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6227",
+        "CompanyName": "茂綸",
+        "大股東名稱": "駿日股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6228",
+        "CompanyName": "全譜",
+        "大股東名稱": "三德觀光大飯店股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6229",
+        "CompanyName": "研通",
+        "大股東名稱": "許劍郎"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6231",
+        "CompanyName": "系微",
+        "大股東名稱": "倍微科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6234",
+        "CompanyName": "高僑",
+        "大股東名稱": "李義隆"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "大股東名稱": "仲達資產管理股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "大股東名稱": "佑湛投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "大股東名稱": "漢青國際股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "大股東名稱": "聚合發資產管理股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "大股東名稱": "豐利富股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6240",
+        "CompanyName": "松崗",
+        "大股東名稱": "有龍建設開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6240",
+        "CompanyName": "松崗",
+        "大股東名稱": "曹來春"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6240",
+        "CompanyName": "松崗",
+        "大股東名稱": "喜旺投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6241",
+        "CompanyName": "易通展",
+        "大股東名稱": "易昇鋼鐵股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6242",
+        "CompanyName": "立康",
+        "大股東名稱": "生春堂製藥工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6242",
+        "CompanyName": "立康",
+        "大股東名稱": "立康生物科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6245",
+        "CompanyName": "立端",
+        "大股東名稱": "台達電子工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6246",
+        "CompanyName": "臺龍",
+        "大股東名稱": "景旺國際有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6246",
+        "CompanyName": "臺龍",
+        "大股東名稱": "黃天然"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6259",
+        "CompanyName": "百徽",
+        "大股東名稱": "兆豐銀受託保管新曄科技有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6259",
+        "CompanyName": "百徽",
+        "大股東名稱": "卓順發"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6263",
+        "CompanyName": "普萊德",
+        "大股東名稱": "普揚投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6264",
+        "CompanyName": "富裔",
+        "大股東名稱": "祝文定"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方方土昶",
+        "大股東名稱": "哲睿投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6270",
+        "CompanyName": "倍微",
+        "大股東名稱": "傅江松"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6275",
+        "CompanyName": "元山",
+        "大股東名稱": "陳建榮"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "大股東名稱": "行達明珠投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "大股東名稱": "利昌明珠投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "大股東名稱": "利達明珠投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "大股東名稱": "知達明珠投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "大股東名稱": "達昌明珠投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6284",
+        "CompanyName": "佳邦",
+        "大股東名稱": "華新科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        "大股東名稱": "呂俊德"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        "大股東名稱": "振曜科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6292",
+        "CompanyName": "迅德",
+        "大股東名稱": "滿穗投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6294",
+        "CompanyName": "智基",
+        "大股東名稱": "林進榮"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6294",
+        "CompanyName": "智基",
+        "大股東名稱": "鴻鑫達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6417",
+        "CompanyName": "韋僑",
+        "大股東名稱": "希華晶體科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6418",
+        "CompanyName": "詠昇",
+        "大股東名稱": "世紀民生科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6418",
+        "CompanyName": "詠昇",
+        "大股東名稱": "黃金錫"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6419",
+        "CompanyName": "京晨科",
+        "大股東名稱": "永律投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6419",
+        "CompanyName": "京晨科",
+        "大股東名稱": "楊文彬"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6425",
+        "CompanyName": "易發",
+        "大股東名稱": "羅文進"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6432",
+        "CompanyName": "今展科",
+        "大股東名稱": "今亞中投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6432",
+        "CompanyName": "今展科",
+        "大股東名稱": "王琴賢"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6435",
+        "CompanyName": "大中",
+        "大股東名稱": "茂達電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6441",
+        "CompanyName": "廣錠",
+        "大股東名稱": "廖良彬"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6441",
+        "CompanyName": "廣錠",
+        "大股東名稱": "廣積科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6461",
+        "CompanyName": "益得",
+        "大股東名稱": "健喬信元醫藥生技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6465",
+        "CompanyName": "威潤",
+        "大股東名稱": "太思科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6465",
+        "CompanyName": "威潤",
+        "大股東名稱": "威剛科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6469",
+        "CompanyName": "大樹",
+        "大股東名稱": "峻韋投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6469",
+        "CompanyName": "大樹",
+        "大股東名稱": "禎翰投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6482",
+        "CompanyName": "弘煜科",
+        "大股東名稱": "弘力數位股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6482",
+        "CompanyName": "弘煜科",
+        "大股東名稱": "宇峻奧汀科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6482",
+        "CompanyName": "弘煜科",
+        "大股東名稱": "洪而立"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6482",
+        "CompanyName": "弘煜科",
+        "大股東名稱": "智冠科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6486",
+        "CompanyName": "互動",
+        "大股東名稱": "仲琦科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6488",
+        "CompanyName": "環球晶",
+        "大股東名稱": "中美矽晶製品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6496",
+        "CompanyName": "科懋",
+        "大股東名稱": "益世華投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6496",
+        "CompanyName": "科懋",
+        "大股東名稱": "陳澤民"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6498",
+        "CompanyName": "久禾光",
+        "大股東名稱": "久正光電股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6498",
+        "CompanyName": "久禾光",
+        "大股東名稱": "佰鴻工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6499",
+        "CompanyName": "益安",
+        "大股東名稱": "美商Ｍｅｄｅｏｎ，Ｉｎｃ．"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6499",
+        "CompanyName": "益安",
+        "大股東名稱": "晟德大藥廠股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6506",
+        "CompanyName": "雙邦",
+        "大股東名稱": "陳阿明"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6508",
+        "CompanyName": "惠光",
+        "大股東名稱": "惠光投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6510",
+        "CompanyName": "精測",
+        "大股東名稱": "中華投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6512",
+        "CompanyName": "啟發電",
+        "大股東名稱": "張鈺欽"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6516",
+        "CompanyName": "勤崴國際",
+        "大股東名稱": "中華電信股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6516",
+        "CompanyName": "勤崴國際",
+        "大股東名稱": "柯應鴻"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6517",
+        "CompanyName": "保勝光學",
+        "大股東名稱": "方幼玲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6523",
+        "CompanyName": "達爾膚",
+        "大股東名稱": "吳奕叡"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6523",
+        "CompanyName": "達爾膚",
+        "大股東名稱": "達爾膚投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6527",
+        "CompanyName": "明達醫",
+        "大股東名稱": "視陽光學股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6535",
+        "CompanyName": "順藥",
+        "大股東名稱": "晟德大藥廠股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6542",
+        "CompanyName": "隆中",
+        "大股東名稱": "英屬維京群島商時富企業有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6542",
+        "CompanyName": "隆中",
+        "大股東名稱": "晨皓投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6542",
+        "CompanyName": "隆中",
+        "大股東名稱": "顧剛維"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6546",
+        "CompanyName": "正基",
+        "大股東名稱": "正文科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗",
+        "大股東名稱": "基亞生物科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6548",
+        "CompanyName": "長科*",
+        "大股東名稱": "長華電材股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6556",
+        "CompanyName": "勝品",
+        "大股東名稱": "佳世達科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6556",
+        "CompanyName": "勝品",
+        "大股東名稱": "詮能投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6556",
+        "CompanyName": "勝品",
+        "大股東名稱": "豪峰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6560",
+        "CompanyName": "欣普羅",
+        "大股東名稱": "安格科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6561",
+        "CompanyName": "是方",
+        "大股東名稱": "中華電信股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6568",
+        "CompanyName": "宏觀",
+        "大股東名稱": "台郡科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6569",
+        "CompanyName": "醫揚",
+        "大股東名稱": "研揚科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6570",
+        "CompanyName": "維田",
+        "大股東名稱": "友通資訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6574",
+        "CompanyName": "霈方",
+        "大股東名稱": "呂美珍"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6574",
+        "CompanyName": "霈方",
+        "大股東名稱": "呂慶盛"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6576",
+        "CompanyName": "逸達",
+        "大股東名稱": "Foresee Pharmaceuticals, Inc."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6577",
+        "CompanyName": "勁豐",
+        "大股東名稱": "豐藝電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6578",
+        "CompanyName": "達邦蛋白",
+        "大股東名稱": "國歡企業有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        "大股東名稱": "合盈投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        "大股東名稱": "俊億投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6588",
+        "CompanyName": "東典光電",
+        "大股東名稱": "生豐資本股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6588",
+        "CompanyName": "東典光電",
+        "大股東名稱": "東南實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6590",
+        "CompanyName": "普鴻",
+        "大股東名稱": "承欣投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6590",
+        "CompanyName": "普鴻",
+        "大股東名稱": "群發投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6596",
+        "CompanyName": "寬宏藝術",
+        "大股東名稱": "駿騰創意行銷股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6597",
+        "CompanyName": "立誠",
+        "大股東名稱": "一詮精密工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6597",
+        "CompanyName": "立誠",
+        "大股東名稱": "九豪精密陶瓷股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6603",
+        "CompanyName": "富強鑫",
+        "大股東名稱": "王伯壎"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6609",
+        "CompanyName": "瀧澤科",
+        "大股東名稱": "株式會社ＴＡＫＩＳＡＷＡ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6612",
+        "CompanyName": "奈米醫材",
+        "大股東名稱": "LOH TRUST HOLDINGS LLC"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6612",
+        "CompanyName": "奈米醫材",
+        "大股東名稱": "樂亦宏"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6613",
+        "CompanyName": "朋億*",
+        "大股東名稱": "聖暉工程科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6615",
+        "CompanyName": "慧智",
+        "大股東名稱": "怡睿投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6615",
+        "CompanyName": "慧智",
+        "大股東名稱": "蘇怡寧"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6617",
+        "CompanyName": "共信-KY",
+        "大股東名稱": "ＬＥＳＴＥＲＪＯＨＮＷＵ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6624",
+        "CompanyName": "萬年清",
+        "大股東名稱": "嬌水投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6629",
+        "CompanyName": "泰金-KY",
+        "大股東名稱": "許大進"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6637",
+        "CompanyName": "醫影",
+        "大股東名稱": "名基投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6640",
+        "CompanyName": "均華",
+        "大股東名稱": "均豪精密工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6642",
+        "CompanyName": "富致",
+        "大股東名稱": "大洋塑膠工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6642",
+        "CompanyName": "富致",
+        "大股東名稱": "百容電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6643",
+        "CompanyName": "M31",
+        "大股東名稱": "陳慧玲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6649",
+        "CompanyName": "台生材",
+        "大股東名稱": "振曜科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6651",
+        "CompanyName": "全宇昕",
+        "大股東名稱": "李徐華"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6654",
+        "CompanyName": "天正國際",
+        "大股東名稱": "久元電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6654",
+        "CompanyName": "天正國際",
+        "大股東名稱": "文正投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6654",
+        "CompanyName": "天正國際",
+        "大股東名稱": "長華電材股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6661",
+        "CompanyName": "威健生技",
+        "大股東名稱": "漢碁股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6662",
+        "CompanyName": "樂斯科",
+        "大股東名稱": "陳振忠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6667",
+        "CompanyName": "信紘科",
+        "大股東名稱": "翊鼎投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6667",
+        "CompanyName": "信紘科",
+        "大股東名稱": "堡鼎投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6667",
+        "CompanyName": "信紘科",
+        "大股東名稱": "湘鼎投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6679",
+        "CompanyName": "鈺太",
+        "大股東名稱": "邱景宏"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6679",
+        "CompanyName": "鈺太",
+        "大股東名稱": "聯發資本股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6680",
+        "CompanyName": "鑫創電子",
+        "大股東名稱": "康利投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6680",
+        "CompanyName": "鑫創電子",
+        "大股東名稱": "凱創國際投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6680",
+        "CompanyName": "鑫創電子",
+        "大股東名稱": "凱鑫國際投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6683",
+        "CompanyName": "雍智科技",
+        "大股東名稱": "李職民"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6684",
+        "CompanyName": "安格",
+        "大股東名稱": "安國國際科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6690",
+        "CompanyName": "安碁資訊",
+        "大股東名稱": "宏碁股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6692",
+        "CompanyName": "進能服",
+        "大股東名稱": "進金生實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6693",
+        "CompanyName": "廣閎科",
+        "大股東名稱": "茂迪股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6697",
+        "CompanyName": "東捷資訊",
+        "大股東名稱": "東元電機股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6697",
+        "CompanyName": "東捷資訊",
+        "大股東名稱": "研華投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6703",
+        "CompanyName": "軒郁",
+        "大股東名稱": "祥辰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6712",
+        "CompanyName": "長聖",
+        "大股東名稱": "安基生醫股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6712",
+        "CompanyName": "長聖",
+        "大股東名稱": "晟德大藥廠股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6721",
+        "CompanyName": "信實",
+        "大股東名稱": "昭美投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6721",
+        "CompanyName": "信實",
+        "大股東名稱": "勝誠有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6728",
+        "CompanyName": "上洋",
+        "大股東名稱": "吳明富"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6728",
+        "CompanyName": "上洋",
+        "大股東名稱": "黃寶卿"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6732",
+        "CompanyName": "昇佳電子",
+        "大股東名稱": "矽創電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6733",
+        "CompanyName": "博晟生醫",
+        "大股東名稱": "晟德大藥廠股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6735",
+        "CompanyName": "美達科技",
+        "大股東名稱": "陳梅開發投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6739",
+        "CompanyName": "竹陞科技",
+        "大股東名稱": "元睿有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6739",
+        "CompanyName": "竹陞科技",
+        "大股東名稱": "方泰又"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6739",
+        "CompanyName": "竹陞科技",
+        "大股東名稱": "漢京有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6741",
+        "CompanyName": "91APP*-KY",
+        "大股東名稱": "NineYi  Capital  Inc."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6741",
+        "CompanyName": "91APP*-KY",
+        "大股東名稱": "N-Team,  Inc."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6747",
+        "CompanyName": "亨泰光",
+        "大股東名稱": "亨泰聯合有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6747",
+        "CompanyName": "亨泰光",
+        "大股東名稱": "吳怡頡"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6751",
+        "CompanyName": "智聯服務",
+        "大股東名稱": "宏碁股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6752",
+        "CompanyName": "叡揚",
+        "大股東名稱": "碩通國際有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6761",
+        "CompanyName": "穩得",
+        "大股東名稱": "高治宏"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6762",
+        "CompanyName": "達亞",
+        "大股東名稱": "台聯電訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6762",
+        "CompanyName": "達亞",
+        "大股東名稱": "許雅雯"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6763",
+        "CompanyName": "綠界科技*",
+        "大股東名稱": "茂為歐買尬數位科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6767",
+        "CompanyName": "台微醫",
+        "大股東名稱": "亞美登健康科技創投有限合夥"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6767",
+        "CompanyName": "台微醫",
+        "大股東名稱": "鐿鈦科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6785",
+        "CompanyName": "昱展新藥",
+        "大股東名稱": "林東和"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6785",
+        "CompanyName": "昱展新藥",
+        "大股東名稱": "劉淑華"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6791",
+        "CompanyName": "虎門科技",
+        "大股東名稱": "力嵐國際投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6791",
+        "CompanyName": "虎門科技",
+        "大股東名稱": "楊力"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6791",
+        "CompanyName": "虎門科技",
+        "大股東名稱": "楊舜如"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6803",
+        "CompanyName": "崑鼎",
+        "大股東名稱": "中鼎工程股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6811",
+        "CompanyName": "宏碁資訊",
+        "大股東名稱": "宏碁智聯網投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6821",
+        "CompanyName": "聯寶",
+        "大股東名稱": "譚明珠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6823",
+        "CompanyName": "濾能",
+        "大股東名稱": "新加坡道益企業私人有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6823",
+        "CompanyName": "濾能",
+        "大股東名稱": "綠網投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6829",
+        "CompanyName": "千附精密",
+        "大股東名稱": "千附實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6840",
+        "CompanyName": "東研信超",
+        "大股東名稱": "婕超股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6840",
+        "CompanyName": "東研信超",
+        "大股東名稱": "劉立國"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6841",
+        "CompanyName": "長佳智能",
+        "大股東名稱": "安基生醫股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6843",
+        "CompanyName": "進典",
+        "大股東名稱": "詠硯投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6844",
+        "CompanyName": "諾貝兒",
+        "大股東名稱": "佳世達科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyName": "綠茵",
+        "大股東名稱": "吳嘉峰"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyName": "綠茵",
+        "大股東名稱": "創達投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyName": "綠茵",
+        "大股東名稱": "創穎投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyName": "綠茵",
+        "大股東名稱": "潤得投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6855",
+        "CompanyName": "數泓科",
+        "大股東名稱": "銳泰精密工具股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6856",
+        "CompanyName": "鑫傳",
+        "大股東名稱": "台灣數位光訊科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6859",
+        "CompanyName": "伯特光",
+        "大股東名稱": "陳柏滄"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6859",
+        "CompanyName": "伯特光",
+        "大股東名稱": "陳柏輯"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6865",
+        "CompanyName": "偉康科技",
+        "大股東名稱": "石壹投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6865",
+        "CompanyName": "偉康科技",
+        "大股東名稱": "泓盛投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6865",
+        "CompanyName": "偉康科技",
+        "大股東名稱": "偉鈞科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6870",
+        "CompanyName": "騰雲",
+        "大股東名稱": "梁基文"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6870",
+        "CompanyName": "騰雲",
+        "大股東名稱": "管家婆科技（股）公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6872",
+        "CompanyName": "浩宇生醫",
+        "大股東名稱": "健亞生物科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6874",
+        "CompanyName": "倍力",
+        "大股東名稱": "威谷股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6874",
+        "CompanyName": "倍力",
+        "大股東名稱": "資通電腦股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6877",
+        "CompanyName": "鏵友益",
+        "大股東名稱": "牧德科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6881",
+        "CompanyName": "潤德",
+        "大股東名稱": "潤弘精密工程事業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6881",
+        "CompanyName": "潤德",
+        "大股東名稱": "潤泰精密材料股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6894",
+        "CompanyName": "衛司特",
+        "大股東名稱": "世源投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6894",
+        "CompanyName": "衛司特",
+        "大股東名稱": "碧豐國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6895",
+        "CompanyName": "宏碩系統",
+        "大股東名稱": "旭暉應用材料股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6899",
+        "CompanyName": "創為精密",
+        "大股東名稱": "建碁股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6899",
+        "CompanyName": "創為精密",
+        "大股東名稱": "華誠國際發展股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6903",
+        "CompanyName": "巨漢",
+        "大股東名稱": "王滄鍊"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6903",
+        "CompanyName": "巨漢",
+        "大股東名稱": "林敬堯"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6904",
+        "CompanyName": "伯鑫",
+        "大股東名稱": "吳昌旻"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6904",
+        "CompanyName": "伯鑫",
+        "大股東名稱": "復盛應用科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6913",
+        "CompanyName": "鴻呈",
+        "大股東名稱": "研華投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6913",
+        "CompanyName": "鴻呈",
+        "大股東名稱": "簡忠正"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6922",
+        "CompanyName": "宸曜",
+        "大股東名稱": "胡正濤"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6922",
+        "CompanyName": "宸曜",
+        "大股東名稱": "倪浩然"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6922",
+        "CompanyName": "宸曜",
+        "大股東名稱": "高明和"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6925",
+        "CompanyName": "意藍",
+        "大股東名稱": "藍科投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6929",
+        "CompanyName": "佑全",
+        "大股東名稱": "生達化學製藥股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6929",
+        "CompanyName": "佑全",
+        "大股東名稱": "優盛醫學科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6953",
+        "CompanyName": "家碩",
+        "大股東名稱": "家登精密工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6967",
+        "CompanyName": "汎瑋材料",
+        "大股東名稱": "瑋股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6967",
+        "CompanyName": "汎瑋材料",
+        "大股東名稱": "達股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6971",
+        "CompanyName": "惠民實業",
+        "大股東名稱": "樂群投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6971",
+        "CompanyName": "惠民實業",
+        "大股東名稱": "樂豐投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6982",
+        "CompanyName": "大井泵浦",
+        "大股東名稱": "油昌投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6996",
+        "CompanyName": "力領科技",
+        "大股東名稱": "矽創電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6997",
+        "CompanyName": "博弘",
+        "大股東名稱": "英屬維京群島商ＡＶＡＬＩＯＮ  ＥＮＴＥＲＰＲＩＳＥＳ  ＬＩＭＩＴＥＤ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "6997",
+        "CompanyName": "博弘",
+        "大股東名稱": "新世紀資通股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7402",
+        "CompanyName": "邑錡",
+        "大股東名稱": "陳世哲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7547",
+        "CompanyName": "碩網",
+        "大股東名稱": "ＩＴＯＣＨＵＴＥＣＨＮＯ－ＳＯＬＵＴＩＯＮＳ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7547",
+        "CompanyName": "碩網",
+        "大股東名稱": "威連科技（股）公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7556",
+        "CompanyName": "意德士科技",
+        "大股東名稱": "毅曄股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7556",
+        "CompanyName": "意德士科技",
+        "大股東名稱": "闕聖哲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7584",
+        "CompanyName": "樂意",
+        "大股東名稱": "三蔥投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7584",
+        "CompanyName": "樂意",
+        "大股東名稱": "梁敏永"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7642",
+        "CompanyName": "昶瑞機電",
+        "大股東名稱": "楊偉成"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7703",
+        "CompanyName": "銳澤",
+        "大股東名稱": "朋億股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7703",
+        "CompanyName": "銳澤",
+        "大股東名稱": "欣群倫投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7704",
+        "CompanyName": "明遠精密",
+        "大股東名稱": "日揚科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7704",
+        "CompanyName": "明遠精密",
+        "大股東名稱": "寇崇善"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7708",
+        "CompanyName": "全家餐飲",
+        "大股東名稱": "全家便利商店股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7709",
+        "CompanyName": "榮田",
+        "大股東名稱": "東台精機股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7709",
+        "CompanyName": "榮田",
+        "大股東名稱": "政股份有公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7709",
+        "CompanyName": "榮田",
+        "大股東名稱": "富映投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7712",
+        "CompanyName": "博盛半導體",
+        "大股東名稱": "孟祥集"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7713",
+        "CompanyName": "威力德生醫",
+        "大股東名稱": "王傑"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7713",
+        "CompanyName": "威力德生醫",
+        "大股東名稱": "佘忠財"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7713",
+        "CompanyName": "威力德生醫",
+        "大股東名稱": "周國忠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7713",
+        "CompanyName": "威力德生醫",
+        "大股東名稱": "陳泓仁"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7714",
+        "CompanyName": "創泓科技",
+        "大股東名稱": "擎睿投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7715",
+        "CompanyName": "裕山",
+        "大股東名稱": "基士德環科股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7716",
+        "CompanyName": "昱臺國際",
+        "大股東名稱": "林興芳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7716",
+        "CompanyName": "昱臺國際",
+        "大股東名稱": "劉枋"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7717",
+        "CompanyName": "萊德光電-KY",
+        "大股東名稱": "環隆科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "大股東名稱": "張宏誠"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "大股東名稱": "張則希"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "大股東名稱": "張則皓"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "大股東名稱": "劉立基"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7723",
+        "CompanyName": "築間",
+        "大股東名稱": "林楷傑"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7728",
+        "CompanyName": "光焱科技",
+        "大股東名稱": "柯歷亞"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7728",
+        "CompanyName": "光焱科技",
+        "大股東名稱": "廖華賢"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7734",
+        "CompanyName": "印能科技",
+        "大股東名稱": "印鋐科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7734",
+        "CompanyName": "印能科技",
+        "大股東名稱": "昌快投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7738",
+        "CompanyName": "東聯互動",
+        "大股東名稱": "吳侑勳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyName": "金利食安",
+        "大股東名稱": "廖日興"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyName": "金利食安",
+        "大股東名稱": "廖儀君"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7747",
+        "CompanyName": "昕奇雲端",
+        "大股東名稱": "上奇科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7751",
+        "CompanyName": "竑騰",
+        "大股東名稱": "王獻儀"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7751",
+        "CompanyName": "竑騰",
+        "大股東名稱": "徐嘉新"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7753",
+        "CompanyName": "星亞",
+        "大股東名稱": "台亞半導體股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7757",
+        "CompanyName": "金色三麥",
+        "大股東名稱": "龍運投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7757",
+        "CompanyName": "金色三麥",
+        "大股東名稱": "薩摩亞商Ｇｏｌｄｅｎ  Ｆｒｉｅｎｄｓ  Ａｌｐｈａ  Ｌｉｍｉｔｅｄ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7782",
+        "CompanyName": "光速火箭",
+        "大股東名稱": "李冠霆"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "7782",
+        "CompanyName": "光速火箭",
+        "大股東名稱": "陳冠愷"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8032",
+        "CompanyName": "光菱",
+        "大股東名稱": "光友股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8032",
+        "CompanyName": "光菱",
+        "大股東名稱": "呂全福"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8032",
+        "CompanyName": "光菱",
+        "大股東名稱": "東友科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8032",
+        "CompanyName": "光菱",
+        "大股東名稱": "菱光科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8040",
+        "CompanyName": "九暘",
+        "大股東名稱": "達發科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8040",
+        "CompanyName": "九暘",
+        "大股東名稱": "聯發科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "大股東名稱": "慶融投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "大股東名稱": "益登科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8044",
+        "CompanyName": "網家",
+        "大股東名稱": "統一企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8044",
+        "CompanyName": "網家",
+        "大股東名稱": "賽特資訊服務股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8047",
+        "CompanyName": "星雲",
+        "大股東名稱": "星際投資開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8047",
+        "CompanyName": "星雲",
+        "大股東名稱": "賴金森"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8050",
+        "CompanyName": "廣積",
+        "大股東名稱": "研揚科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        "大股東名稱": "神盾股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8059",
+        "CompanyName": "凱碩",
+        "大股東名稱": "金寶電子工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8067",
+        "CompanyName": "志旭",
+        "大股東名稱": "陳曜芳"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8068",
+        "CompanyName": "全達",
+        "大股東名稱": "大宇資訊股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        "大股東名稱": "永豐餘投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8071",
+        "CompanyName": "能率網通",
+        "大股東名稱": "能率創新股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8076",
+        "CompanyName": "伍豐",
+        "大股東名稱": "徐明哲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8077",
+        "CompanyName": "洛碁",
+        "大股東名稱": "HIS Hotel Holdings Co.,Ltd."
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8080",
+        "CompanyName": "泰霖",
+        "大股東名稱": "豐盛投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8083",
+        "CompanyName": "瑞穎",
+        "大股東名稱": "陳柏峰"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8083",
+        "CompanyName": "瑞穎",
+        "大股東名稱": "樺峰投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8085",
+        "CompanyName": "福華",
+        "大股東名稱": "大同股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科",
+        "大股東名稱": "中美矽晶製品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        "大股東名稱": "謝吳沛"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8089",
+        "CompanyName": "康全電訊",
+        "大股東名稱": "訊舟科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8092",
+        "CompanyName": "建暐",
+        "大股東名稱": "長豐投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8093",
+        "CompanyName": "保銳",
+        "大股東名稱": "航研投資開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        "大股東名稱": "中國信託商業銀行受託保管必勝益控股股份"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8097",
+        "CompanyName": "常珵",
+        "大股東名稱": "林銜錄"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8099",
+        "CompanyName": "大世科",
+        "大股東名稱": "大同股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8107",
+        "CompanyName": "大億金茂",
+        "大股東名稱": "大緯投資企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8111",
+        "CompanyName": "立碁",
+        "大股東名稱": "童義興"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8121",
+        "CompanyName": "越峰",
+        "大股東名稱": "台灣聚合化學品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8147",
+        "CompanyName": "正淩",
+        "大股東名稱": "牛濟滄"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8147",
+        "CompanyName": "正淩",
+        "大股東名稱": "信邦電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8155",
+        "CompanyName": "博智",
+        "大股東名稱": "仁寶電腦工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8171",
+        "CompanyName": "天宇",
+        "大股東名稱": "盧米埃電影股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8182",
+        "CompanyName": "加高",
+        "大股東名稱": "株式會社大真空"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8183",
+        "CompanyName": "精星",
+        "大股東名稱": "精成科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8227",
+        "CompanyName": "巨有科技",
+        "大股東名稱": "郭麗秋"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8234",
+        "CompanyName": "新漢",
+        "大股東名稱": "林茂昌"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8240",
+        "CompanyName": "華宏",
+        "大股東名稱": "華立企業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8255",
+        "CompanyName": "朋程",
+        "大股東名稱": "中美矽晶製品股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8272",
+        "CompanyName": "全景軟體",
+        "大股東名稱": "緯創數技投資控股股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8277",
+        "CompanyName": "商丞",
+        "大股東名稱": "泰芯股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8279",
+        "CompanyName": "生展",
+        "大股東名稱": "生達化學製藥股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8284",
+        "CompanyName": "三竹",
+        "大股東名稱": "三永投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8284",
+        "CompanyName": "三竹",
+        "大股東名稱": "邱宏哲"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8289",
+        "CompanyName": "泰藝",
+        "大股東名稱": "宋勝泰"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8289",
+        "CompanyName": "泰藝",
+        "大股東名稱": "佳鈺投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8291",
+        "CompanyName": "尚茂",
+        "大股東名稱": "Ｄａｉｔｏ  Ｍｅ  Ｃｏ．，Ｌｔｄ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8342",
+        "CompanyName": "益張",
+        "大股東名稱": "恆聚投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8342",
+        "CompanyName": "益張",
+        "大股東名稱": "益群投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8342",
+        "CompanyName": "益張",
+        "大股東名稱": "鑫銳投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8349",
+        "CompanyName": "恒耀國際",
+        "大股東名稱": "友信投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8349",
+        "CompanyName": "恒耀國際",
+        "大股東名稱": "合健國際投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8354",
+        "CompanyName": "冠好",
+        "大股東名稱": "楊文章"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8390",
+        "CompanyName": "金益鼎",
+        "大股東名稱": "鎰鼎股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8401",
+        "CompanyName": "白紗科",
+        "大股東名稱": "林衍束"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8403",
+        "CompanyName": "盛弘",
+        "大股東名稱": "敏盛醫控股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8409",
+        "CompanyName": "商之器",
+        "大股東名稱": "林俊堯"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8409",
+        "CompanyName": "商之器",
+        "大股東名稱": "盤龍"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8410",
+        "CompanyName": "森田",
+        "大股東名稱": "怡欣投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8410",
+        "CompanyName": "森田",
+        "大股東名稱": "紹瑋投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8410",
+        "CompanyName": "森田",
+        "大股東名稱": "黃展隆"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8410",
+        "CompanyName": "森田",
+        "大股東名稱": "黃樟山"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8415",
+        "CompanyName": "大國鋼",
+        "大股東名稱": "大成不銹鋼工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8416",
+        "CompanyName": "實威",
+        "大股東名稱": "李建興"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8416",
+        "CompanyName": "實威",
+        "大股東名稱": "華源投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8416",
+        "CompanyName": "實威",
+        "大股東名稱": "麗興投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8421",
+        "CompanyName": "旭源",
+        "大股東名稱": "旭耀投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8421",
+        "CompanyName": "旭源",
+        "大股東名稱": "莊雅萍"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8423",
+        "CompanyName": "保綠-KY",
+        "大股東名稱": "陳東興"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8423",
+        "CompanyName": "保綠-KY",
+        "大股東名稱": "輝達投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8424",
+        "CompanyName": "惠普",
+        "大股東名稱": "國產建材實業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8426",
+        "CompanyName": "紅木-KY",
+        "大股東名稱": "鄭莉梅"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8426",
+        "CompanyName": "紅木-KY",
+        "大股東名稱": "蘇聰明"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8432",
+        "CompanyName": "東生華",
+        "大股東名稱": "台灣東洋藥品工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8433",
+        "CompanyName": "弘帆",
+        "大股東名稱": "朱鵬飛"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8433",
+        "CompanyName": "弘帆",
+        "大股東名稱": "普世開發股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8435",
+        "CompanyName": "鉅邁",
+        "大股東名稱": "熒茂光學股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8437",
+        "CompanyName": "大地-KY",
+        "大股東名稱": "程釱坤"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8440",
+        "CompanyName": "綠電",
+        "大股東名稱": "東元電機股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8444",
+        "CompanyName": "綠河-KY",
+        "大股東名稱": "GREEN SOURCE INVESTMENTS LTD綠源投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8446",
+        "CompanyName": "華研",
+        "大股東名稱": "呂世玉"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8446",
+        "CompanyName": "華研",
+        "大股東名稱": "呂燕清"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8446",
+        "CompanyName": "華研",
+        "大股東名稱": "驊訊文創科技股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8455",
+        "CompanyName": "大拓-KY",
+        "大股東名稱": "Ｓａｓａｋｉ，Ｂｅｊｉ"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8472",
+        "CompanyName": "夠麻吉",
+        "大股東名稱": "吳進昌"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8477",
+        "CompanyName": "創業家",
+        "大股東名稱": "森啟股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8905",
+        "CompanyName": "裕國",
+        "大股東名稱": "德霖投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8908",
+        "CompanyName": "欣雄",
+        "大股東名稱": "國軍退除役官兵輔導委員會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8908",
+        "CompanyName": "欣雄",
+        "大股東名稱": "惠普投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8908",
+        "CompanyName": "欣雄",
+        "大股東名稱": "興泰投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8917",
+        "CompanyName": "欣泰",
+        "大股東名稱": "國軍退除役官兵輔導委員會"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8921",
+        "CompanyName": "沈氏",
+        "大股東名稱": "永豐紙業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8923",
+        "CompanyName": "時報",
+        "大股東名稱": "傑克喜亞投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8923",
+        "CompanyName": "時報",
+        "大股東名稱": "德茂興資本股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8927",
+        "CompanyName": "北基",
+        "大股東名稱": "高雄汽車客運股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8928",
+        "CompanyName": "鉅明",
+        "大股東名稱": "元喜投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8928",
+        "CompanyName": "鉅明",
+        "大股東名稱": "元開投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8929",
+        "CompanyName": "富堡",
+        "大股東名稱": "安侯投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8930",
+        "CompanyName": "青鋼",
+        "大股東名稱": "柏森投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8931",
+        "CompanyName": "大汽電",
+        "大股東名稱": "台灣汽電共生股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8931",
+        "CompanyName": "大汽電",
+        "大股東名稱": "正隆股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8933",
+        "CompanyName": "愛地雅",
+        "大股東名稱": "富喬工業股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8933",
+        "CompanyName": "愛地雅",
+        "大股東名稱": "燿華電子股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8935",
+        "CompanyName": "邦泰",
+        "大股東名稱": "林煜"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8937",
+        "CompanyName": "合騏",
+        "大股東名稱": "友屹投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8937",
+        "CompanyName": "合騏",
+        "大股東名稱": "太吉投資有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "8941",
+        "CompanyName": "關中",
+        "大股東名稱": "中道投資股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "9950",
+        "CompanyName": "萬國通",
+        "大股東名稱": "謝明振"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "9951",
+        "CompanyName": "皇田",
+        "大股東名稱": "大億金茂股份有限公司"
+      },
+      {
+        "Date": "1141122",
+        "SecuritiesCompanyCode": "9960",
+        "CompanyName": "邁達康",
+        "大股東名稱": "吳"
+      }
+    ]
+  }
+}

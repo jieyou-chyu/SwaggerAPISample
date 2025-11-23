@@ -1,0 +1,363 @@
+{
+  "path": "/SSOLists",
+  "method": "GET",
+  "operationId": null,
+  "summary": "股票選擇權交易標的",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SSOLists",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:31 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "7316",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:13 GMT",
+      "ETag": "\"1c94-6443695de41dd\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SSOLists.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d504f6e0882cd-TPE"
+    },
+    "body": [
+      {
+        "Contract": "CAO",
+        "UnderlyingStock": "南亞塑膠工業股份有限公司",
+        "StockCode": "1303",
+        "StockName": "南亞",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CBO",
+        "UnderlyingStock": "中國鋼鐵股份有限公司",
+        "StockCode": "2002",
+        "StockName": "中鋼",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CCO",
+        "UnderlyingStock": "聯華電子股份有限公司",
+        "StockCode": "2303",
+        "StockName": "聯電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CDO",
+        "UnderlyingStock": "台灣積體電路製造股份有限公司",
+        "StockCode": "2330",
+        "StockName": "台積電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CEO",
+        "UnderlyingStock": "富邦金融控股股份有限公司",
+        "StockCode": "2881",
+        "StockName": "富邦金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CFO",
+        "UnderlyingStock": "台灣塑膠工業股份有限公司",
+        "StockCode": "1301",
+        "StockName": "台塑",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CGO",
+        "UnderlyingStock": "仁寶電腦工業股份有限公司",
+        "StockCode": "2324",
+        "StockName": "仁寶",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CHO",
+        "UnderlyingStock": "友達光電股份有限公司",
+        "StockCode": "2409",
+        "StockName": "友達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CJO",
+        "UnderlyingStock": "華南金融控股股份有限公司",
+        "StockCode": "2880",
+        "StockName": "華南金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CKO",
+        "UnderlyingStock": "國泰金融控股股份有限公司",
+        "StockCode": "2882",
+        "StockName": "國泰金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CLO",
+        "UnderlyingStock": "兆豐金融控股股份有限公司",
+        "StockCode": "2886",
+        "StockName": "兆豐金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CMO",
+        "UnderlyingStock": "台新新光金融控股股份有限公司",
+        "StockCode": "2887",
+        "StockName": "台新新光金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CNO",
+        "UnderlyingStock": "中國信託金融控股股份有限公司",
+        "StockCode": "2891",
+        "StockName": "中信金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CQO",
+        "UnderlyingStock": "統一企業股份有限公司",
+        "StockCode": "1216",
+        "StockName": "統一",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CRO",
+        "UnderlyingStock": "遠東新世紀股份有限公司",
+        "StockCode": "1402",
+        "StockName": "遠東新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CSO",
+        "UnderlyingStock": "華新麗華股份有限公司",
+        "StockCode": "1605",
+        "StockName": "華新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CZO",
+        "UnderlyingStock": "長榮海運股份有限公司",
+        "StockCode": "2603",
+        "StockName": "長榮",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DCO",
+        "UnderlyingStock": "彰化商業銀行股份有限公司",
+        "StockCode": "2801",
+        "StockName": "彰銀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DEO",
+        "UnderlyingStock": "永豐金融控股股份有限公司",
+        "StockCode": "2890",
+        "StockName": "永豐金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DFO",
+        "UnderlyingStock": "臺灣水泥股份有限公司",
+        "StockCode": "1101",
+        "StockName": "台泥",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DGO",
+        "UnderlyingStock": "台灣化學纖維股份有限公司",
+        "StockCode": "1326",
+        "StockName": "台化",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DHO",
+        "UnderlyingStock": "鴻海精密工業股份有限公司",
+        "StockCode": "2317",
+        "StockName": "鴻海",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DJO",
+        "UnderlyingStock": "華碩電腦股份有限公司",
+        "StockCode": "2357",
+        "StockName": "華碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DKO",
+        "UnderlyingStock": "廣達電腦股份有限公司",
+        "StockCode": "2382",
+        "StockName": "廣達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DLO",
+        "UnderlyingStock": "中華電信股份有限公司",
+        "StockCode": "2412",
+        "StockName": "中華電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DNO",
+        "UnderlyingStock": "玉山金融控股股份有限公司",
+        "StockCode": "2884",
+        "StockName": "玉山金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DOO",
+        "UnderlyingStock": "元大金融控股股份有限公司",
+        "StockCode": "2885",
+        "StockName": "元大金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DPO",
+        "UnderlyingStock": "第一金融控股股份有限公司",
+        "StockCode": "2892",
+        "StockName": "第一金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DQO",
+        "UnderlyingStock": "群創光電股份有限公司",
+        "StockCode": "3481",
+        "StockName": "群創",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DSO",
+        "UnderlyingStock": "宏碁股份有限公司",
+        "StockCode": "2353",
+        "StockName": "宏碁",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DVO",
+        "UnderlyingStock": "聯發科技股份有限公司",
+        "StockCode": "2454",
+        "StockName": "聯發科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DXO",
+        "UnderlyingStock": "緯創資通股份有限公司",
+        "StockCode": "3231",
+        "StockName": "緯創",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GIO",
+        "UnderlyingStock": "微星科技股份有限公司",
+        "StockCode": "2377",
+        "StockName": "微星",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GXO",
+        "UnderlyingStock": "可成科技股份有限公司",
+        "StockCode": "2474",
+        "StockName": "可成",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HCO",
+        "UnderlyingStock": "宏達國際電子股份有限公司",
+        "StockCode": "2498",
+        "StockName": "宏達電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HSO",
+        "UnderlyingStock": "長榮航空股份有限公司",
+        "StockCode": "2618",
+        "StockName": "長榮航",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IJO",
+        "UnderlyingStock": "大立光電股份有限公司",
+        "StockCode": "3008",
+        "StockName": "大立光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IRO",
+        "UnderlyingStock": "欣興電子股份有限公司",
+        "StockCode": "3037",
+        "StockName": "欣興",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LOO",
+        "UnderlyingStock": "合作金庫金融控股股份有限公司",
+        "StockCode": "5880",
+        "StockName": "合庫金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "NYO",
+        "UnderlyingStock": "元大台灣卓越50證券投資信託基金",
+        "StockCode": "0050",
+        "StockName": "元大台灣50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OAO",
+        "UnderlyingStock": "富邦上証180證券投資信託基金",
+        "StockCode": "006205",
+        "StockName": "富邦上証ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OBO",
+        "UnderlyingStock": "元大中國傘型證券投資信託基金之上證50證券投資信託基金",
+        "StockCode": "006206",
+        "StockName": "元大上證50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OJO",
+        "UnderlyingStock": "國泰富時中國A50證券投資信託基金",
+        "StockCode": "00636",
+        "StockName": "國泰中國A50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OKO",
+        "UnderlyingStock": "富邦深証100證券投資信託基金",
+        "StockCode": "00639",
+        "StockName": "富邦深100ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OOO",
+        "UnderlyingStock": "群益深証中小板證券投資信託基金",
+        "StockCode": "00643",
+        "StockName": "群益深証中小ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OZO",
+        "UnderlyingStock": "日月光投資控股股份有限公司",
+        "StockCode": "3711",
+        "StockName": "日月光投控",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QBO",
+        "UnderlyingStock": "富采控股股份有限公司",
+        "StockCode": "3714",
+        "StockName": "富采",
+        "Type": "上市普通股標的證券"
+      }
+    ]
+  }
+}

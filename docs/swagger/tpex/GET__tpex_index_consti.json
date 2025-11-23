@@ -1,0 +1,6913 @@
+{
+  "path": "/tpex_index_consti",
+  "method": "GET",
+  "operationId": null,
+  "summary": "櫃買指數成分股",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_index_consti",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:50 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:06 GMT",
+      "ETag": "W/\"6921d73a-20f7b\"",
+      "Content-Disposition": "attachment;filename=tpex_index_consti.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49745f7fb846-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1240",
+        "CompanyName": "茂生農經",
+        "Capitals": "44232",
+        "ClosePrice": "57.00",
+        "SecuritiesIndustryCode": "農業科技"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1259",
+        "CompanyName": "安心",
+        "Capitals": "32389",
+        "ClosePrice": "62.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1264",
+        "CompanyName": "德麥",
+        "Capitals": "37052",
+        "ClosePrice": "289.00",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1268",
+        "CompanyName": "漢來美食",
+        "Capitals": "42223",
+        "ClosePrice": "156.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1294",
+        "CompanyName": "漢田生技",
+        "Capitals": "31071",
+        "ClosePrice": "74.80",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1295",
+        "CompanyName": "生合",
+        "Capitals": "34474",
+        "ClosePrice": "90.50",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1336",
+        "CompanyName": "台翰",
+        "Capitals": "77614",
+        "ClosePrice": "15.85",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1565",
+        "CompanyName": "精華",
+        "Capitals": "50416",
+        "ClosePrice": "123.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1569",
+        "CompanyName": "濱川",
+        "Capitals": "132547",
+        "ClosePrice": "52.10",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1570",
+        "CompanyName": "力肯",
+        "Capitals": "51500",
+        "ClosePrice": "28.95",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1580",
+        "CompanyName": "新麥",
+        "Capitals": "49339",
+        "ClosePrice": "136.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1584",
+        "CompanyName": "精剛",
+        "Capitals": "232470",
+        "ClosePrice": "20.85",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1586",
+        "CompanyName": "和勤",
+        "Capitals": "106849",
+        "ClosePrice": "26.50",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1591",
+        "CompanyName": "駿吉-KY",
+        "Capitals": "38048",
+        "ClosePrice": "46.55",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1593",
+        "CompanyName": "祺驊",
+        "Capitals": "39784",
+        "ClosePrice": "27.45",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1595",
+        "CompanyName": "川寶",
+        "Capitals": "54199",
+        "ClosePrice": "35.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1599",
+        "CompanyName": "宏佳騰",
+        "Capitals": "74528",
+        "ClosePrice": "27.10",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1742",
+        "CompanyName": "台蠟",
+        "Capitals": "92671",
+        "ClosePrice": "13.65",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1777",
+        "CompanyName": "生泰",
+        "Capitals": "44591",
+        "ClosePrice": "77.10",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1781",
+        "CompanyName": "合世",
+        "Capitals": "47407",
+        "ClosePrice": "11.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1784",
+        "CompanyName": "訊聯",
+        "Capitals": "53121",
+        "ClosePrice": "91.40",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1785",
+        "CompanyName": "光洋科",
+        "Capitals": "596022",
+        "ClosePrice": "56.20",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1788",
+        "CompanyName": "杏昌",
+        "Capitals": "44520",
+        "ClosePrice": "137.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1796",
+        "CompanyName": "金穎生技",
+        "Capitals": "41459",
+        "ClosePrice": "46.15",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1799",
+        "CompanyName": "易威",
+        "Capitals": "124689",
+        "ClosePrice": "32.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1813",
+        "CompanyName": "寶利徠",
+        "Capitals": "46635",
+        "ClosePrice": "13.05",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        "Capitals": "520886",
+        "ClosePrice": "81.90",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2035",
+        "CompanyName": "唐榮",
+        "Capitals": "350000",
+        "ClosePrice": "28.45",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2061",
+        "CompanyName": "風青",
+        "Capitals": "57378",
+        "ClosePrice": "16.95",
+        "SecuritiesIndustryCode": "電器電纜"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2063",
+        "CompanyName": "世鎧",
+        "Capitals": "48101",
+        "ClosePrice": "25.00",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2064",
+        "CompanyName": "晉椿",
+        "Capitals": "69330",
+        "ClosePrice": "11.80",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2065",
+        "CompanyName": "世豐",
+        "Capitals": "63516",
+        "ClosePrice": "29.10",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2066",
+        "CompanyName": "世德",
+        "Capitals": "44449",
+        "ClosePrice": "46.75",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2067",
+        "CompanyName": "嘉鋼",
+        "Capitals": "45138",
+        "ClosePrice": "10.40",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2070",
+        "CompanyName": "精湛",
+        "Capitals": "35782",
+        "ClosePrice": "38.10",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2073",
+        "CompanyName": "雄順",
+        "Capitals": "27500",
+        "ClosePrice": "26.40",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2221",
+        "CompanyName": "大甲",
+        "Capitals": "42325",
+        "ClosePrice": "28.10",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2230",
+        "CompanyName": "泰茂",
+        "Capitals": "68029",
+        "ClosePrice": "95.20",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2235",
+        "CompanyName": "謚源",
+        "Capitals": "35878",
+        "ClosePrice": "33.65",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2596",
+        "CompanyName": "綠意",
+        "Capitals": "100000",
+        "ClosePrice": "29.85",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2640",
+        "CompanyName": "大車隊",
+        "Capitals": "59264",
+        "ClosePrice": "128.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2641",
+        "CompanyName": "正德",
+        "Capitals": "327022",
+        "ClosePrice": "19.50",
+        "SecuritiesIndustryCode": "航運業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2643",
+        "CompanyName": "捷迅",
+        "Capitals": "35000",
+        "ClosePrice": "71.20",
+        "SecuritiesIndustryCode": "航運業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2718",
+        "CompanyName": "全心投控",
+        "Capitals": "87576",
+        "ClosePrice": "55.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2719",
+        "CompanyName": "燦星旅",
+        "Capitals": "69182",
+        "ClosePrice": "30.95",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2724",
+        "CompanyName": "藝舍-KY",
+        "Capitals": "59656",
+        "ClosePrice": "17.70",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2726",
+        "CompanyName": "雅茗-KY",
+        "Capitals": "27922",
+        "ClosePrice": "15.25",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2729",
+        "CompanyName": "瓦城",
+        "Capitals": "43413",
+        "ClosePrice": "176.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2732",
+        "CompanyName": "六角",
+        "Capitals": "46518",
+        "ClosePrice": "68.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2734",
+        "CompanyName": "易飛網",
+        "Capitals": "57259",
+        "ClosePrice": "18.60",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2736",
+        "CompanyName": "富野",
+        "Capitals": "79972",
+        "ClosePrice": "15.25",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2740",
+        "CompanyName": "天蔥",
+        "Capitals": "13952",
+        "ClosePrice": "22.70",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2743",
+        "CompanyName": "山富",
+        "Capitals": "46815",
+        "ClosePrice": "82.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2745",
+        "CompanyName": "五福",
+        "Capitals": "33808",
+        "ClosePrice": "110.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2751",
+        "CompanyName": "王座",
+        "Capitals": "19735",
+        "ClosePrice": "67.10",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2752",
+        "CompanyName": "豆府",
+        "Capitals": "26693",
+        "ClosePrice": "218.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2754",
+        "CompanyName": "亞洲藏壽司",
+        "Capitals": "46867",
+        "ClosePrice": "87.20",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2755",
+        "CompanyName": "揚秦",
+        "Capitals": "36828",
+        "ClosePrice": "118.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2756",
+        "CompanyName": "聯發國際",
+        "Capitals": "24597",
+        "ClosePrice": "85.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2916",
+        "CompanyName": "滿心",
+        "Capitals": "64626",
+        "ClosePrice": "48.85",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2924",
+        "CompanyName": "宏太-KY",
+        "Capitals": "52035",
+        "ClosePrice": "28.70",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2926",
+        "CompanyName": "誠品生活",
+        "Capitals": "47389",
+        "ClosePrice": "40.00",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2937",
+        "CompanyName": "集雅社",
+        "Capitals": "43541",
+        "ClosePrice": "44.80",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2941",
+        "CompanyName": "米斯特",
+        "Capitals": "15390",
+        "ClosePrice": "44.05",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2947",
+        "CompanyName": "振宇五金",
+        "Capitals": "21487",
+        "ClosePrice": "80.00",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2948",
+        "CompanyName": "寶陞",
+        "Capitals": "31000",
+        "ClosePrice": "38.00",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "2949",
+        "CompanyName": "欣新網",
+        "Capitals": "30641",
+        "ClosePrice": "67.70",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3064",
+        "CompanyName": "泰偉",
+        "Capitals": "13011",
+        "ClosePrice": "49.45",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3066",
+        "CompanyName": "李洲",
+        "Capitals": "83070",
+        "ClosePrice": "13.00",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3067",
+        "CompanyName": "全域",
+        "Capitals": "20000",
+        "ClosePrice": "18.40",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3071",
+        "CompanyName": "協禧",
+        "Capitals": "110000",
+        "ClosePrice": "20.30",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3073",
+        "CompanyName": "天方能源",
+        "Capitals": "39511",
+        "ClosePrice": "29.60",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3078",
+        "CompanyName": "僑威",
+        "Capitals": "227391",
+        "ClosePrice": "69.80",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3081",
+        "CompanyName": "聯亞",
+        "Capitals": "92521",
+        "ClosePrice": "415.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3083",
+        "CompanyName": "網龍",
+        "Capitals": "86486",
+        "ClosePrice": "32.00",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3085",
+        "CompanyName": "新零售",
+        "Capitals": "69019",
+        "ClosePrice": "15.30",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3086",
+        "CompanyName": "華義",
+        "Capitals": "27271",
+        "ClosePrice": "225.50",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3088",
+        "CompanyName": "艾訊",
+        "Capitals": "107785",
+        "ClosePrice": "72.20",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3093",
+        "CompanyName": "港建*",
+        "Capitals": "145155",
+        "ClosePrice": "23.75",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3095",
+        "CompanyName": "及成",
+        "Capitals": "10000",
+        "ClosePrice": "26.60",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        "Capitals": "423940",
+        "ClosePrice": "111.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3114",
+        "CompanyName": "好德",
+        "Capitals": "65129",
+        "ClosePrice": "25.90",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3115",
+        "CompanyName": "富榮綱",
+        "Capitals": "57197",
+        "ClosePrice": "11.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3118",
+        "CompanyName": "進階",
+        "Capitals": "32452",
+        "ClosePrice": "33.60",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3122",
+        "CompanyName": "笙泉",
+        "Capitals": "40764",
+        "ClosePrice": "21.20",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3128",
+        "CompanyName": "昇銳",
+        "Capitals": "47317",
+        "ClosePrice": "26.45",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3131",
+        "CompanyName": "弘塑",
+        "Capitals": "29216",
+        "ClosePrice": "1335.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3141",
+        "CompanyName": "晶宏",
+        "Capitals": "75484",
+        "ClosePrice": "39.80",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3147",
+        "CompanyName": "大綜",
+        "Capitals": "43686",
+        "ClosePrice": "173.00",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3152",
+        "CompanyName": "璟德",
+        "Capitals": "69016",
+        "ClosePrice": "106.00",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        "Capitals": "130241",
+        "ClosePrice": "53.80",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3163",
+        "CompanyName": "波若威",
+        "Capitals": "80540",
+        "ClosePrice": "220.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3169",
+        "CompanyName": "亞信",
+        "Capitals": "63106",
+        "ClosePrice": "84.20",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3171",
+        "CompanyName": "炎洲流通",
+        "Capitals": "33118",
+        "ClosePrice": "45.00",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3176",
+        "CompanyName": "基亞",
+        "Capitals": "139306",
+        "ClosePrice": "29.80",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3178",
+        "CompanyName": "公準",
+        "Capitals": "45050",
+        "ClosePrice": "46.75",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3188",
+        "CompanyName": "鑫龍騰",
+        "Capitals": "186309",
+        "ClosePrice": "28.60",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3191",
+        "CompanyName": "雲嘉南",
+        "Capitals": "43597",
+        "ClosePrice": "17.65",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3205",
+        "CompanyName": "佰研",
+        "Capitals": "67545",
+        "ClosePrice": "43.95",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3206",
+        "CompanyName": "志豐",
+        "Capitals": "58916",
+        "ClosePrice": "32.85",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3207",
+        "CompanyName": "耀勝",
+        "Capitals": "66422",
+        "ClosePrice": "63.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3211",
+        "CompanyName": "順達",
+        "Capitals": "153983",
+        "ClosePrice": "261.50",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3213",
+        "CompanyName": "茂訊",
+        "Capitals": "58685",
+        "ClosePrice": "95.30",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3217",
+        "CompanyName": "優群",
+        "Capitals": "90104",
+        "ClosePrice": "163.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3218",
+        "CompanyName": "大學光",
+        "Capitals": "84724",
+        "ClosePrice": "144.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3219",
+        "CompanyName": "倚強科",
+        "Capitals": "71103",
+        "ClosePrice": "51.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3221",
+        "CompanyName": "台嘉碩",
+        "Capitals": "103878",
+        "ClosePrice": "19.75",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3224",
+        "CompanyName": "三顧",
+        "Capitals": "68172",
+        "ClosePrice": "47.00",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3226",
+        "CompanyName": "龍鋒",
+        "Capitals": "64430",
+        "ClosePrice": "47.70",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3227",
+        "CompanyName": "原相",
+        "Capitals": "149948",
+        "ClosePrice": "198.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3228",
+        "CompanyName": "金麗科",
+        "Capitals": "71511",
+        "ClosePrice": "129.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3230",
+        "CompanyName": "錦明",
+        "Capitals": "86010",
+        "ClosePrice": "37.80",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3232",
+        "CompanyName": "昱捷",
+        "Capitals": "46567",
+        "ClosePrice": "24.05",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3234",
+        "CompanyName": "光環",
+        "Capitals": "111474",
+        "ClosePrice": "34.20",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3236",
+        "CompanyName": "千如",
+        "Capitals": "105000",
+        "ClosePrice": "26.75",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3252",
+        "CompanyName": "海灣",
+        "Capitals": "50195",
+        "ClosePrice": "18.15",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3259",
+        "CompanyName": "鑫創",
+        "Capitals": "72965",
+        "ClosePrice": "21.40",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3260",
+        "CompanyName": "威剛",
+        "Capitals": "325785",
+        "ClosePrice": "173.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3264",
+        "CompanyName": "欣銓",
+        "Capitals": "490170",
+        "ClosePrice": "86.20",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3265",
+        "CompanyName": "台星科",
+        "Capitals": "136261",
+        "ClosePrice": "88.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3268",
+        "CompanyName": "海德威",
+        "Capitals": "34720",
+        "ClosePrice": "17.95",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3272",
+        "CompanyName": "東碩",
+        "Capitals": "61176",
+        "ClosePrice": "18.80",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3276",
+        "CompanyName": "宇環",
+        "Capitals": "69712",
+        "ClosePrice": "14.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3284",
+        "CompanyName": "太普高",
+        "Capitals": "108482",
+        "ClosePrice": "20.80",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3285",
+        "CompanyName": "微端",
+        "Capitals": "42735",
+        "ClosePrice": "27.45",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3287",
+        "CompanyName": "廣寰科",
+        "Capitals": "43970",
+        "ClosePrice": "28.65",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3288",
+        "CompanyName": "點晶",
+        "Capitals": "16000",
+        "ClosePrice": "15.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3289",
+        "CompanyName": "宜特",
+        "Capitals": "86450",
+        "ClosePrice": "99.40",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3290",
+        "CompanyName": "東浦",
+        "Capitals": "90215",
+        "ClosePrice": "41.30",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        "Capitals": "281801",
+        "ClosePrice": "757.00",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3294",
+        "CompanyName": "英濟",
+        "Capitals": "132015",
+        "ClosePrice": "36.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        "Capitals": "36049",
+        "ClosePrice": "47.85",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3303",
+        "CompanyName": "岱稜",
+        "Capitals": "94090",
+        "ClosePrice": "44.75",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3306",
+        "CompanyName": "鼎天",
+        "Capitals": "50607",
+        "ClosePrice": "47.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3310",
+        "CompanyName": "佳穎",
+        "Capitals": "74948",
+        "ClosePrice": "63.30",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3313",
+        "CompanyName": "斐成",
+        "Capitals": "221070",
+        "ClosePrice": "13.10",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3317",
+        "CompanyName": "尼克森",
+        "Capitals": "90000",
+        "ClosePrice": "45.25",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3322",
+        "CompanyName": "建舜電",
+        "Capitals": "121582",
+        "ClosePrice": "11.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3323",
+        "CompanyName": "加百裕",
+        "Capitals": "97624",
+        "ClosePrice": "34.30",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        "Capitals": "92762",
+        "ClosePrice": "881.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3325",
+        "CompanyName": "旭品",
+        "Capitals": "90168",
+        "ClosePrice": "16.25",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3332",
+        "CompanyName": "幸康",
+        "Capitals": "48104",
+        "ClosePrice": "56.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3339",
+        "CompanyName": "泰谷",
+        "Capitals": "66568",
+        "ClosePrice": "24.05",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3349",
+        "CompanyName": "寶德",
+        "Capitals": "46071",
+        "ClosePrice": "22.70",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3354",
+        "CompanyName": "律勝",
+        "Capitals": "70112",
+        "ClosePrice": "15.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3357",
+        "CompanyName": "臺慶科",
+        "Capitals": "102034",
+        "ClosePrice": "156.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3360",
+        "CompanyName": "尚立",
+        "Capitals": "76402",
+        "ClosePrice": "11.95",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3362",
+        "CompanyName": "先進光",
+        "Capitals": "142449",
+        "ClosePrice": "87.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3363",
+        "CompanyName": "上詮",
+        "Capitals": "103640",
+        "ClosePrice": "331.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3372",
+        "CompanyName": "典範",
+        "Capitals": "175324",
+        "ClosePrice": "16.90",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3373",
+        "CompanyName": "熱映",
+        "Capitals": "47618",
+        "ClosePrice": "17.70",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3374",
+        "CompanyName": "精材",
+        "Capitals": "271364",
+        "ClosePrice": "130.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3379",
+        "CompanyName": "彬台",
+        "Capitals": "38041",
+        "ClosePrice": "48.45",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3388",
+        "CompanyName": "崇越電",
+        "Capitals": "74062",
+        "ClosePrice": "61.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3390",
+        "CompanyName": "旭軟",
+        "Capitals": "78958",
+        "ClosePrice": "20.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3402",
+        "CompanyName": "漢科",
+        "Capitals": "73047",
+        "ClosePrice": "109.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3426",
+        "CompanyName": "台興",
+        "Capitals": "26400",
+        "ClosePrice": "40.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3430",
+        "CompanyName": "奇鈦科",
+        "Capitals": "33716",
+        "ClosePrice": "55.00",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3434",
+        "CompanyName": "哲固",
+        "Capitals": "35711",
+        "ClosePrice": "31.20",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3438",
+        "CompanyName": "類比科",
+        "Capitals": "47165",
+        "ClosePrice": "43.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3441",
+        "CompanyName": "聯一光",
+        "Capitals": "40039",
+        "ClosePrice": "30.70",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3444",
+        "CompanyName": "利機",
+        "Capitals": "44996",
+        "ClosePrice": "49.85",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3455",
+        "CompanyName": "由田",
+        "Capitals": "59850",
+        "ClosePrice": "83.90",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3465",
+        "CompanyName": "進泰電子",
+        "Capitals": "35329",
+        "ClosePrice": "40.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3466",
+        "CompanyName": "德晉",
+        "Capitals": "77892",
+        "ClosePrice": "40.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3467",
+        "CompanyName": "台灣精材",
+        "Capitals": "31106",
+        "ClosePrice": "37.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3479",
+        "CompanyName": "安勤",
+        "Capitals": "72630",
+        "ClosePrice": "98.70",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3483",
+        "CompanyName": "力致",
+        "Capitals": "99049",
+        "ClosePrice": "87.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3484",
+        "CompanyName": "崧騰",
+        "Capitals": "78828",
+        "ClosePrice": "46.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3489",
+        "CompanyName": "森寶",
+        "Capitals": "90452",
+        "ClosePrice": "19.10",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3490",
+        "CompanyName": "單井",
+        "Capitals": "55006",
+        "ClosePrice": "22.35",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3491",
+        "CompanyName": "昇達科",
+        "Capitals": "66918",
+        "ClosePrice": "449.00",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3492",
+        "CompanyName": "長盛",
+        "Capitals": "35531",
+        "ClosePrice": "24.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3498",
+        "CompanyName": "陽程",
+        "Capitals": "62273",
+        "ClosePrice": "46.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3499",
+        "CompanyName": "環天科",
+        "Capitals": "54970",
+        "ClosePrice": "13.20",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3508",
+        "CompanyName": "位速",
+        "Capitals": "104311",
+        "ClosePrice": "21.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3511",
+        "CompanyName": "矽瑪",
+        "Capitals": "79972",
+        "ClosePrice": "18.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3512",
+        "CompanyName": "皇龍",
+        "Capitals": "113072",
+        "ClosePrice": "20.35",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3516",
+        "CompanyName": "亞帝歐",
+        "Capitals": "59560",
+        "ClosePrice": "19.70",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3520",
+        "CompanyName": "華盈",
+        "Capitals": "68846",
+        "ClosePrice": "17.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3521",
+        "CompanyName": "鴻翊",
+        "Capitals": "128265",
+        "ClosePrice": "11.80",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3522",
+        "CompanyName": "御嵿",
+        "Capitals": "83971",
+        "ClosePrice": "15.95",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3523",
+        "CompanyName": "迎輝",
+        "Capitals": "64257",
+        "ClosePrice": "18.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3526",
+        "CompanyName": "凡甲",
+        "Capitals": "65303",
+        "ClosePrice": "239.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3527",
+        "CompanyName": "聚積",
+        "Capitals": "44445",
+        "ClosePrice": "51.80",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        "Capitals": "74686",
+        "ClosePrice": "1835.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3531",
+        "CompanyName": "先益",
+        "Capitals": "61175",
+        "ClosePrice": "21.10",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3537",
+        "CompanyName": "堡達",
+        "Capitals": "56242",
+        "ClosePrice": "48.55",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3540",
+        "CompanyName": "曜越",
+        "Capitals": "72458",
+        "ClosePrice": "28.65",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3541",
+        "CompanyName": "西柏",
+        "Capitals": "56349",
+        "ClosePrice": "23.55",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3546",
+        "CompanyName": "宇峻",
+        "Capitals": "58427",
+        "ClosePrice": "77.10",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3548",
+        "CompanyName": "兆利",
+        "Capitals": "67744",
+        "ClosePrice": "83.30",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3551",
+        "CompanyName": "世禾",
+        "Capitals": "62274",
+        "ClosePrice": "149.00",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3552",
+        "CompanyName": "同致",
+        "Capitals": "97918",
+        "ClosePrice": "63.20",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3555",
+        "CompanyName": "博士旺",
+        "Capitals": "39998",
+        "ClosePrice": "58.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3556",
+        "CompanyName": "禾瑞亞",
+        "Capitals": "63702",
+        "ClosePrice": "36.95",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3558",
+        "CompanyName": "神準",
+        "Capitals": "59060",
+        "ClosePrice": "129.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3564",
+        "CompanyName": "其陽",
+        "Capitals": "59123",
+        "ClosePrice": "44.70",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3567",
+        "CompanyName": "逸昌",
+        "Capitals": "33954",
+        "ClosePrice": "25.05",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3570",
+        "CompanyName": "大塚",
+        "Capitals": "17097",
+        "ClosePrice": "167.00",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3577",
+        "CompanyName": "泓格",
+        "Capitals": "63965",
+        "ClosePrice": "58.20",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3580",
+        "CompanyName": "友威科",
+        "Capitals": "39470",
+        "ClosePrice": "54.40",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3581",
+        "CompanyName": "博磊",
+        "Capitals": "51006",
+        "ClosePrice": "59.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3587",
+        "CompanyName": "閎康",
+        "Capitals": "67038",
+        "ClosePrice": "180.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3594",
+        "CompanyName": "磐儀",
+        "Capitals": "95948",
+        "ClosePrice": "36.85",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3597",
+        "CompanyName": "映興",
+        "Capitals": "39236",
+        "ClosePrice": "25.65",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3609",
+        "CompanyName": "三一東林",
+        "Capitals": "38419",
+        "ClosePrice": "46.55",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3611",
+        "CompanyName": "鼎翰",
+        "Capitals": "47554",
+        "ClosePrice": "207.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3615",
+        "CompanyName": "安可",
+        "Capitals": "68466",
+        "ClosePrice": "22.60",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3623",
+        "CompanyName": "富晶通",
+        "Capitals": "29185",
+        "ClosePrice": "19.20",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "Capitals": "117340",
+        "ClosePrice": "52.60",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3625",
+        "CompanyName": "西勝",
+        "Capitals": "114246",
+        "ClosePrice": "19.40",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3628",
+        "CompanyName": "盈正",
+        "Capitals": "45000",
+        "ClosePrice": "73.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3629",
+        "CompanyName": "地心引力",
+        "Capitals": "32954",
+        "ClosePrice": "24.50",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3630",
+        "CompanyName": "新鉅科",
+        "Capitals": "204191",
+        "ClosePrice": "26.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3631",
+        "CompanyName": "晟楠",
+        "Capitals": "81820",
+        "ClosePrice": "22.25",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3632",
+        "CompanyName": "研勤",
+        "Capitals": "40889",
+        "ClosePrice": "9.46",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3646",
+        "CompanyName": "艾恩特",
+        "Capitals": "39297",
+        "ClosePrice": "27.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3663",
+        "CompanyName": "鑫科",
+        "Capitals": "108494",
+        "ClosePrice": "40.35",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3664",
+        "CompanyName": "安瑞-KY",
+        "Capitals": "59540",
+        "ClosePrice": "15.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3666",
+        "CompanyName": "光耀",
+        "Capitals": "92924",
+        "ClosePrice": "29.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3672",
+        "CompanyName": "康聯訊",
+        "Capitals": "40790",
+        "ClosePrice": "12.40",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3675",
+        "CompanyName": "德微",
+        "Capitals": "53057",
+        "ClosePrice": "129.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3680",
+        "CompanyName": "家登",
+        "Capitals": "96041",
+        "ClosePrice": "326.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3684",
+        "CompanyName": "榮昌",
+        "Capitals": "30001",
+        "ClosePrice": "46.30",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3685",
+        "CompanyName": "元創精密",
+        "Capitals": "79574",
+        "ClosePrice": "35.55",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3687",
+        "CompanyName": "歐買尬",
+        "Capitals": "30059",
+        "ClosePrice": "76.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3689",
+        "CompanyName": "湧德",
+        "Capitals": "87411",
+        "ClosePrice": "99.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3691",
+        "CompanyName": "碩禾",
+        "Capitals": "91883",
+        "ClosePrice": "66.20",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3693",
+        "CompanyName": "營邦",
+        "Capitals": "42990",
+        "ClosePrice": "292.50",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3707",
+        "CompanyName": "漢磊",
+        "Capitals": "383222",
+        "ClosePrice": "45.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3709",
+        "CompanyName": "鑫聯大投控",
+        "Capitals": "125569",
+        "ClosePrice": "53.10",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3710",
+        "CompanyName": "連展投控",
+        "Capitals": "287250",
+        "ClosePrice": "5.43",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3713",
+        "CompanyName": "新晶投控",
+        "Capitals": "88090",
+        "ClosePrice": "21.10",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4102",
+        "CompanyName": "永日",
+        "Capitals": "42373",
+        "ClosePrice": "20.15",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4105",
+        "CompanyName": "東洋",
+        "Capitals": "248649",
+        "ClosePrice": "78.30",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4107",
+        "CompanyName": "邦特",
+        "Capitals": "69298",
+        "ClosePrice": "124.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4109",
+        "CompanyName": "加捷生醫",
+        "Capitals": "118736",
+        "ClosePrice": "15.95",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4111",
+        "CompanyName": "濟生",
+        "Capitals": "59832",
+        "ClosePrice": "29.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4113",
+        "CompanyName": "聯上",
+        "Capitals": "231138",
+        "ClosePrice": "20.85",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4114",
+        "CompanyName": "健喬",
+        "Capitals": "510175",
+        "ClosePrice": "31.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4116",
+        "CompanyName": "明基醫",
+        "Capitals": "44566",
+        "ClosePrice": "44.45",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4120",
+        "CompanyName": "友華",
+        "Capitals": "86747",
+        "ClosePrice": "44.90",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4121",
+        "CompanyName": "優盛",
+        "Capitals": "85491",
+        "ClosePrice": "15.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4123",
+        "CompanyName": "晟德",
+        "Capitals": "761225",
+        "ClosePrice": "35.90",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4126",
+        "CompanyName": "太醫",
+        "Capitals": "72600",
+        "ClosePrice": "88.40",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4127",
+        "CompanyName": "天良",
+        "Capitals": "45760",
+        "ClosePrice": "30.70",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4128",
+        "CompanyName": "中天",
+        "Capitals": "588170",
+        "ClosePrice": "18.95",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4129",
+        "CompanyName": "聯合",
+        "Capitals": "96436",
+        "ClosePrice": "114.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4130",
+        "CompanyName": "健亞",
+        "Capitals": "114887",
+        "ClosePrice": "22.35",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4131",
+        "CompanyName": "浩泰",
+        "Capitals": "39500",
+        "ClosePrice": "32.35",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4138",
+        "CompanyName": "曜亞",
+        "Capitals": "39930",
+        "ClosePrice": "63.20",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4139",
+        "CompanyName": "馬光-KY",
+        "Capitals": "43809",
+        "ClosePrice": "22.80",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4147",
+        "CompanyName": "中裕",
+        "Capitals": "273202",
+        "ClosePrice": "64.20",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4153",
+        "CompanyName": "鈺緯",
+        "Capitals": "58668",
+        "ClosePrice": "32.10",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4154",
+        "CompanyName": "樂威科-KY",
+        "Capitals": "35000",
+        "ClosePrice": "16.10",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4157",
+        "CompanyName": "太景*-KY",
+        "Capitals": "717841",
+        "ClosePrice": "9.16",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4160",
+        "CompanyName": "訊聯基因",
+        "Capitals": "26690",
+        "ClosePrice": "48.80",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4161",
+        "CompanyName": "聿新科",
+        "Capitals": "59808",
+        "ClosePrice": "25.60",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4162",
+        "CompanyName": "智擎",
+        "Capitals": "145677",
+        "ClosePrice": "69.70",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4163",
+        "CompanyName": "鐿鈦",
+        "Capitals": "49703",
+        "ClosePrice": "98.60",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4166",
+        "CompanyName": "友霖",
+        "Capitals": "243035",
+        "ClosePrice": "23.30",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4167",
+        "CompanyName": "松瑞藥",
+        "Capitals": "310444",
+        "ClosePrice": "17.30",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4168",
+        "CompanyName": "醣聯",
+        "Capitals": "112521",
+        "ClosePrice": "20.80",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4171",
+        "CompanyName": "瑞基",
+        "Capitals": "58457",
+        "ClosePrice": "19.20",
+        "SecuritiesIndustryCode": "農業科技"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4173",
+        "CompanyName": "久裕",
+        "Capitals": "74574",
+        "ClosePrice": "21.10",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4174",
+        "CompanyName": "浩鼎",
+        "Capitals": "263159",
+        "ClosePrice": "28.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4175",
+        "CompanyName": "杏一",
+        "Capitals": "42323",
+        "ClosePrice": "56.10",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4183",
+        "CompanyName": "福永生技",
+        "Capitals": "23800",
+        "ClosePrice": "17.05",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4188",
+        "CompanyName": "安克",
+        "Capitals": "63332",
+        "ClosePrice": "15.45",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4192",
+        "CompanyName": "杏國",
+        "Capitals": "35164",
+        "ClosePrice": "26.45",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4198",
+        "CompanyName": "欣大健康",
+        "Capitals": "24108",
+        "ClosePrice": "37.70",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4205",
+        "CompanyName": "中華食",
+        "Capitals": "97649",
+        "ClosePrice": "82.60",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4207",
+        "CompanyName": "環泰",
+        "Capitals": "198538",
+        "ClosePrice": "19.25",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4303",
+        "CompanyName": "信立",
+        "Capitals": "94605",
+        "ClosePrice": "63.20",
+        "SecuritiesIndustryCode": "塑膠工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4304",
+        "CompanyName": "勝昱",
+        "Capitals": "36038",
+        "ClosePrice": "28.40",
+        "SecuritiesIndustryCode": "塑膠工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4305",
+        "CompanyName": "世坤",
+        "Capitals": "55014",
+        "ClosePrice": "41.65",
+        "SecuritiesIndustryCode": "塑膠工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4401",
+        "CompanyName": "東隆興",
+        "Capitals": "122692",
+        "ClosePrice": "17.45",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4402",
+        "CompanyName": "郡都開發",
+        "Capitals": "67991",
+        "ClosePrice": "17.00",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4406",
+        "CompanyName": "新昕纖",
+        "Capitals": "51912",
+        "ClosePrice": "9.75",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4413",
+        "CompanyName": "飛寶企業",
+        "Capitals": "31314",
+        "ClosePrice": "19.35",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4416",
+        "CompanyName": "三圓",
+        "Capitals": "73586",
+        "ClosePrice": "37.25",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4417",
+        "CompanyName": "金洲",
+        "Capitals": "83971",
+        "ClosePrice": "54.70",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4419",
+        "CompanyName": "皇家美食",
+        "Capitals": "169163",
+        "ClosePrice": "41.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4420",
+        "CompanyName": "光明",
+        "Capitals": "40455",
+        "ClosePrice": "49.70",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4430",
+        "CompanyName": "耀億",
+        "Capitals": "56273",
+        "ClosePrice": "17.75",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4432",
+        "CompanyName": "銘旺實",
+        "Capitals": "50589",
+        "ClosePrice": "16.50",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4433",
+        "CompanyName": "興采",
+        "Capitals": "61299",
+        "ClosePrice": "20.35",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4442",
+        "CompanyName": "竣邦-KY",
+        "Capitals": "30492",
+        "ClosePrice": "58.00",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4502",
+        "CompanyName": "健信",
+        "Capitals": "57469",
+        "ClosePrice": "15.95",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4503",
+        "CompanyName": "金雨",
+        "Capitals": "78313",
+        "ClosePrice": "45.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4506",
+        "CompanyName": "崇友",
+        "Capitals": "177012",
+        "ClosePrice": "120.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4510",
+        "CompanyName": "高鋒",
+        "Capitals": "108963",
+        "ClosePrice": "35.05",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4513",
+        "CompanyName": "福裕",
+        "Capitals": "114361",
+        "ClosePrice": "15.85",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4523",
+        "CompanyName": "永彰",
+        "Capitals": "64949",
+        "ClosePrice": "28.25",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4527",
+        "CompanyName": "方土霖",
+        "Capitals": "76152",
+        "ClosePrice": "38.85",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4528",
+        "CompanyName": "江興鍛",
+        "Capitals": "84165",
+        "ClosePrice": "16.50",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4529",
+        "CompanyName": "淳紳",
+        "Capitals": "84549",
+        "ClosePrice": "3.88",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4530",
+        "CompanyName": "宏易",
+        "Capitals": "69437",
+        "ClosePrice": "11.50",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4533",
+        "CompanyName": "協易機",
+        "Capitals": "158434",
+        "ClosePrice": "19.35",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4534",
+        "CompanyName": "慶騰",
+        "Capitals": "86788",
+        "ClosePrice": "14.10",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4535",
+        "CompanyName": "至興",
+        "Capitals": "75661",
+        "ClosePrice": "28.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4538",
+        "CompanyName": "大詠城",
+        "Capitals": "59419",
+        "ClosePrice": "17.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4541",
+        "CompanyName": "晟田",
+        "Capitals": "67647",
+        "ClosePrice": "39.45",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4542",
+        "CompanyName": "科嶠",
+        "Capitals": "32323",
+        "ClosePrice": "50.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4543",
+        "CompanyName": "萬在",
+        "Capitals": "59772",
+        "ClosePrice": "22.50",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4549",
+        "CompanyName": "桓達",
+        "Capitals": "57002",
+        "ClosePrice": "110.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4550",
+        "CompanyName": "長佳",
+        "Capitals": "37838",
+        "ClosePrice": "24.40",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4554",
+        "CompanyName": "橙的",
+        "Capitals": "26327",
+        "ClosePrice": "28.60",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4556",
+        "CompanyName": "旭然",
+        "Capitals": "42302",
+        "ClosePrice": "24.20",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4558",
+        "CompanyName": "寶緯",
+        "Capitals": "50000",
+        "ClosePrice": "18.85",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4561",
+        "CompanyName": "健椿",
+        "Capitals": "58521",
+        "ClosePrice": "31.85",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4563",
+        "CompanyName": "百德",
+        "Capitals": "54950",
+        "ClosePrice": "43.30",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4568",
+        "CompanyName": "科際精密",
+        "Capitals": "31772",
+        "ClosePrice": "42.95",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        "Capitals": "49137",
+        "ClosePrice": "43.30",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4580",
+        "CompanyName": "捷流閥業",
+        "Capitals": "46803",
+        "ClosePrice": "80.80",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4584",
+        "CompanyName": "君帆",
+        "Capitals": "30002",
+        "ClosePrice": "49.80",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4609",
+        "CompanyName": "唐鋒",
+        "Capitals": "47946",
+        "ClosePrice": "6.75",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4702",
+        "CompanyName": "中美實",
+        "Capitals": "72333",
+        "ClosePrice": "10.10",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4706",
+        "CompanyName": "大恭",
+        "Capitals": "79030",
+        "ClosePrice": "29.50",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4707",
+        "CompanyName": "磐亞",
+        "Capitals": "403715",
+        "ClosePrice": "9.38",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4711",
+        "CompanyName": "永純",
+        "Capitals": "61056",
+        "ClosePrice": "14.65",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4714",
+        "CompanyName": "永捷",
+        "Capitals": "178088",
+        "ClosePrice": "15.60",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4716",
+        "CompanyName": "大立",
+        "Capitals": "94427",
+        "ClosePrice": "15.05",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4721",
+        "CompanyName": "美琪瑪",
+        "Capitals": "74986",
+        "ClosePrice": "64.30",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4726",
+        "CompanyName": "永昕",
+        "Capitals": "207198",
+        "ClosePrice": "31.80",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4728",
+        "CompanyName": "雙美",
+        "Capitals": "54463",
+        "ClosePrice": "391.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4729",
+        "CompanyName": "熒茂",
+        "Capitals": "79226",
+        "ClosePrice": "20.00",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4735",
+        "CompanyName": "豪展",
+        "Capitals": "41568",
+        "ClosePrice": "33.95",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4741",
+        "CompanyName": "泓瀚",
+        "Capitals": "34812",
+        "ClosePrice": "20.65",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4743",
+        "CompanyName": "合一",
+        "Capitals": "479456",
+        "ClosePrice": "57.30",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4744",
+        "CompanyName": "皇將",
+        "Capitals": "55597",
+        "ClosePrice": "26.85",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "Capitals": "77449",
+        "ClosePrice": "21.05",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4747",
+        "CompanyName": "強生",
+        "Capitals": "45380",
+        "ClosePrice": "61.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4749",
+        "CompanyName": "新應材",
+        "Capitals": "92732",
+        "ClosePrice": "737.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4754",
+        "CompanyName": "國碳科",
+        "Capitals": "30283",
+        "ClosePrice": "38.70",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4760",
+        "CompanyName": "勤凱",
+        "Capitals": "32218",
+        "ClosePrice": "172.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4767",
+        "CompanyName": "誠泰科技",
+        "Capitals": "31415",
+        "ClosePrice": "28.10",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4768",
+        "CompanyName": "晶呈科技",
+        "Capitals": "47487",
+        "ClosePrice": "195.50",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4772",
+        "CompanyName": "台特化",
+        "Capitals": "147681",
+        "ClosePrice": "283.50",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4804",
+        "CompanyName": "大略-KY",
+        "Capitals": "60324",
+        "ClosePrice": "7.64",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4806",
+        "CompanyName": "桂田文創",
+        "Capitals": "99947",
+        "ClosePrice": "10.55",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4903",
+        "CompanyName": "聯光通",
+        "Capitals": "105343",
+        "ClosePrice": "30.05",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4905",
+        "CompanyName": "台聯電",
+        "Capitals": "29260",
+        "ClosePrice": "66.30",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4907",
+        "CompanyName": "富宇",
+        "Capitals": "118145",
+        "ClosePrice": "39.40",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4908",
+        "CompanyName": "前鼎",
+        "Capitals": "78216",
+        "ClosePrice": "69.20",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4909",
+        "CompanyName": "新復興",
+        "Capitals": "93356",
+        "ClosePrice": "39.30",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4911",
+        "CompanyName": "德英",
+        "Capitals": "63719",
+        "ClosePrice": "48.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4923",
+        "CompanyName": "力士",
+        "Capitals": "33890",
+        "ClosePrice": "28.05",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4924",
+        "CompanyName": "欣厚-KY",
+        "Capitals": "37164",
+        "ClosePrice": "11.70",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4931",
+        "CompanyName": "新盛力",
+        "Capitals": "65617",
+        "ClosePrice": "119.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4933",
+        "CompanyName": "友輝",
+        "Capitals": "82090",
+        "ClosePrice": "58.10",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4939",
+        "CompanyName": "亞電",
+        "Capitals": "98200",
+        "ClosePrice": "25.50",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4946",
+        "CompanyName": "辣椒",
+        "Capitals": "7810",
+        "ClosePrice": "99.30",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4950",
+        "CompanyName": "金耘國際",
+        "Capitals": "57729",
+        "ClosePrice": "19.70",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4951",
+        "CompanyName": "精拓科",
+        "Capitals": "34148",
+        "ClosePrice": "63.70",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4953",
+        "CompanyName": "緯軟",
+        "Capitals": "73147",
+        "ClosePrice": "120.50",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4966",
+        "CompanyName": "譜瑞-KY",
+        "Capitals": "80057",
+        "ClosePrice": "628.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4971",
+        "CompanyName": "IET-KY",
+        "Capitals": "39985",
+        "ClosePrice": "151.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4972",
+        "CompanyName": "湯石照明",
+        "Capitals": "56888",
+        "ClosePrice": "18.10",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4973",
+        "CompanyName": "廣穎",
+        "Capitals": "65392",
+        "ClosePrice": "33.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4974",
+        "CompanyName": "亞泰",
+        "Capitals": "72500",
+        "ClosePrice": "68.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4979",
+        "CompanyName": "華星光",
+        "Capitals": "140839",
+        "ClosePrice": "192.00",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4987",
+        "CompanyName": "科誠",
+        "Capitals": "31878",
+        "ClosePrice": "68.40",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4991",
+        "CompanyName": "環宇-KY",
+        "Capitals": "113817",
+        "ClosePrice": "150.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4995",
+        "CompanyName": "晶達",
+        "Capitals": "42424",
+        "ClosePrice": "40.95",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5009",
+        "CompanyName": "榮剛",
+        "Capitals": "602471",
+        "ClosePrice": "31.45",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5011",
+        "CompanyName": "久陽",
+        "Capitals": "100673",
+        "ClosePrice": "10.05",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5013",
+        "CompanyName": "強新",
+        "Capitals": "133416",
+        "ClosePrice": "28.55",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5014",
+        "CompanyName": "建錩",
+        "Capitals": "183265",
+        "ClosePrice": "9.99",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5015",
+        "CompanyName": "華祺",
+        "Capitals": "60639",
+        "ClosePrice": "26.40",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5016",
+        "CompanyName": "松和",
+        "Capitals": "49622",
+        "ClosePrice": "24.75",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5201",
+        "CompanyName": "凱衛",
+        "Capitals": "38674",
+        "ClosePrice": "38.60",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5202",
+        "CompanyName": "力新",
+        "Capitals": "89094",
+        "ClosePrice": "15.95",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5205",
+        "CompanyName": "中茂",
+        "Capitals": "13500",
+        "ClosePrice": "30.15",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5206",
+        "CompanyName": "坤悅",
+        "Capitals": "171517",
+        "ClosePrice": "31.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5209",
+        "CompanyName": "新鼎",
+        "Capitals": "28427",
+        "ClosePrice": "162.00",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5210",
+        "CompanyName": "寶碩",
+        "Capitals": "82177",
+        "ClosePrice": "21.15",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5211",
+        "CompanyName": "蒙恬",
+        "Capitals": "32024",
+        "ClosePrice": "24.25",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5212",
+        "CompanyName": "凌網",
+        "Capitals": "34633",
+        "ClosePrice": "50.50",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5213",
+        "CompanyName": "亞昕",
+        "Capitals": "721334",
+        "ClosePrice": "23.40",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5220",
+        "CompanyName": "萬達光電",
+        "Capitals": "39667",
+        "ClosePrice": "17.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5223",
+        "CompanyName": "安力-KY",
+        "Capitals": "44549",
+        "ClosePrice": "26.50",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5227",
+        "CompanyName": "立凱-KY",
+        "Capitals": "68000",
+        "ClosePrice": "27.05",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5228",
+        "CompanyName": "鈺鎧",
+        "Capitals": "38056",
+        "ClosePrice": "18.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5230",
+        "CompanyName": "雷笛克光學",
+        "Capitals": "55976",
+        "ClosePrice": "15.30",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5236",
+        "CompanyName": "凌陽創新",
+        "Capitals": "60004",
+        "ClosePrice": "120.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5245",
+        "CompanyName": "智晶",
+        "Capitals": "45127",
+        "ClosePrice": "20.15",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5251",
+        "CompanyName": "天鉞電",
+        "Capitals": "33733",
+        "ClosePrice": "37.65",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5263",
+        "CompanyName": "智崴",
+        "Capitals": "70558",
+        "ClosePrice": "92.10",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5272",
+        "CompanyName": "笙科",
+        "Capitals": "55276",
+        "ClosePrice": "18.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5274",
+        "CompanyName": "信驊",
+        "Capitals": "37802",
+        "ClosePrice": "6075.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5276",
+        "CompanyName": "達輝-KY",
+        "Capitals": "39500",
+        "ClosePrice": "14.60",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5278",
+        "CompanyName": "尚凡*",
+        "Capitals": "300000",
+        "ClosePrice": "29.30",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5287",
+        "CompanyName": "數字",
+        "Capitals": "60314",
+        "ClosePrice": "171.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        "Capitals": "94142",
+        "ClosePrice": "493.50",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5291",
+        "CompanyName": "邑昇",
+        "Capitals": "39890",
+        "ClosePrice": "26.75",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5299",
+        "CompanyName": "杰力",
+        "Capitals": "50888",
+        "ClosePrice": "69.90",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5301",
+        "CompanyName": "寶得利",
+        "Capitals": "65890",
+        "ClosePrice": "12.30",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5302",
+        "CompanyName": "太欣",
+        "Capitals": "159888",
+        "ClosePrice": "8.65",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5309",
+        "CompanyName": "系統電",
+        "Capitals": "204423",
+        "ClosePrice": "52.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5310",
+        "CompanyName": "天剛",
+        "Capitals": "28943",
+        "ClosePrice": "30.85",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5312",
+        "CompanyName": "寶島科",
+        "Capitals": "60059",
+        "ClosePrice": "95.40",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        "Capitals": "292000",
+        "ClosePrice": "94.80",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5315",
+        "CompanyName": "光聯",
+        "Capitals": "106351",
+        "ClosePrice": "23.80",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5321",
+        "CompanyName": "美而快",
+        "Capitals": "53179",
+        "ClosePrice": "39.05",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5324",
+        "CompanyName": "士開",
+        "Capitals": "226379",
+        "ClosePrice": "10.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5328",
+        "CompanyName": "華容",
+        "Capitals": "172710",
+        "ClosePrice": "21.05",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        "Capitals": "194893",
+        "ClosePrice": "61.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5344",
+        "CompanyName": "立衛",
+        "Capitals": "79447",
+        "ClosePrice": "14.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5345",
+        "CompanyName": "馥鴻",
+        "Capitals": "37795",
+        "ClosePrice": "24.20",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5347",
+        "CompanyName": "世界",
+        "Capitals": "1867392",
+        "ClosePrice": "88.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5348",
+        "CompanyName": "正能量智能",
+        "Capitals": "14775",
+        "ClosePrice": "17.75",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5351",
+        "CompanyName": "鈺創",
+        "Capitals": "325595",
+        "ClosePrice": "39.70",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5353",
+        "CompanyName": "台林",
+        "Capitals": "75500",
+        "ClosePrice": "24.00",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5355",
+        "CompanyName": "佳總",
+        "Capitals": "166122",
+        "ClosePrice": "5.62",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5356",
+        "CompanyName": "協益",
+        "Capitals": "103040",
+        "ClosePrice": "24.75",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5364",
+        "CompanyName": "力麗店",
+        "Capitals": "63849",
+        "ClosePrice": "15.85",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5371",
+        "CompanyName": "中光電",
+        "Capitals": "390981",
+        "ClosePrice": "82.40",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        "Capitals": "244526",
+        "ClosePrice": "23.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5386",
+        "CompanyName": "青雲",
+        "Capitals": "36080",
+        "ClosePrice": "68.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5392",
+        "CompanyName": "能率",
+        "Capitals": "176562",
+        "ClosePrice": "41.65",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5398",
+        "CompanyName": "慕康生醫",
+        "Capitals": "49465",
+        "ClosePrice": "24.10",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5403",
+        "CompanyName": "中菲",
+        "Capitals": "76193",
+        "ClosePrice": "115.50",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5410",
+        "CompanyName": "國眾",
+        "Capitals": "91763",
+        "ClosePrice": "29.50",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5425",
+        "CompanyName": "台半",
+        "Capitals": "263485",
+        "ClosePrice": "57.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5426",
+        "CompanyName": "振發",
+        "Capitals": "143800",
+        "ClosePrice": "19.50",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5432",
+        "CompanyName": "新門",
+        "Capitals": "20687",
+        "ClosePrice": "122.00",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5438",
+        "CompanyName": "東友",
+        "Capitals": "112536",
+        "ClosePrice": "19.80",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5439",
+        "CompanyName": "高技",
+        "Capitals": "92975",
+        "ClosePrice": "296.50",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5443",
+        "CompanyName": "均豪",
+        "Capitals": "164496",
+        "ClosePrice": "78.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5450",
+        "CompanyName": "南良",
+        "Capitals": "122403",
+        "ClosePrice": "13.05",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5452",
+        "CompanyName": "佶優",
+        "Capitals": "148763",
+        "ClosePrice": "20.10",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5455",
+        "CompanyName": "昇益",
+        "Capitals": "65501",
+        "ClosePrice": "28.30",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5457",
+        "CompanyName": "宣德",
+        "Capitals": "174581",
+        "ClosePrice": "39.80",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5460",
+        "CompanyName": "同協",
+        "Capitals": "58778",
+        "ClosePrice": "14.75",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5464",
+        "CompanyName": "霖宏",
+        "Capitals": "71071",
+        "ClosePrice": "26.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5465",
+        "CompanyName": "富驊",
+        "Capitals": "147682",
+        "ClosePrice": "27.95",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5468",
+        "CompanyName": "凱鈺",
+        "Capitals": "58922",
+        "ClosePrice": "18.35",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5474",
+        "CompanyName": "聰泰",
+        "Capitals": "39756",
+        "ClosePrice": "155.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5475",
+        "CompanyName": "德宏",
+        "Capitals": "127127",
+        "ClosePrice": "58.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5478",
+        "CompanyName": "智冠",
+        "Capitals": "156074",
+        "ClosePrice": "94.90",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5481",
+        "CompanyName": "新華",
+        "Capitals": "71402",
+        "ClosePrice": "16.85",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5483",
+        "CompanyName": "中美晶",
+        "Capitals": "641221",
+        "ClosePrice": "98.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5487",
+        "CompanyName": "通泰",
+        "Capitals": "24222",
+        "ClosePrice": "30.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5488",
+        "CompanyName": "松普",
+        "Capitals": "91586",
+        "ClosePrice": "9.18",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5489",
+        "CompanyName": "彩富",
+        "Capitals": "102706",
+        "ClosePrice": "39.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5490",
+        "CompanyName": "同亨",
+        "Capitals": "96152",
+        "ClosePrice": "26.65",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5493",
+        "CompanyName": "三聯",
+        "Capitals": "43689",
+        "ClosePrice": "78.80",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5498",
+        "CompanyName": "凱崴",
+        "Capitals": "193283",
+        "ClosePrice": "24.25",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5508",
+        "CompanyName": "永信建",
+        "Capitals": "217428",
+        "ClosePrice": "73.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5511",
+        "CompanyName": "德昌",
+        "Capitals": "113440",
+        "ClosePrice": "64.70",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5512",
+        "CompanyName": "力麒",
+        "Capitals": "766312",
+        "ClosePrice": "7.79",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5514",
+        "CompanyName": "三豐",
+        "Capitals": "236118",
+        "ClosePrice": "16.30",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5516",
+        "CompanyName": "雙喜",
+        "Capitals": "51545",
+        "ClosePrice": "14.00",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5520",
+        "CompanyName": "力泰",
+        "Capitals": "59975",
+        "ClosePrice": "91.70",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5523",
+        "CompanyName": "豐謙",
+        "Capitals": "155001",
+        "ClosePrice": "29.90",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5529",
+        "CompanyName": "鉅陞",
+        "Capitals": "101837",
+        "ClosePrice": "25.90",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5530",
+        "CompanyName": "龍巖",
+        "Capitals": "420084",
+        "ClosePrice": "46.55",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5536",
+        "CompanyName": "聖暉*",
+        "Capitals": "124080",
+        "ClosePrice": "650.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5543",
+        "CompanyName": "桓鼎-KY",
+        "Capitals": "45483",
+        "ClosePrice": "28.00",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5548",
+        "CompanyName": "安倉",
+        "Capitals": "57852",
+        "ClosePrice": "21.40",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5601",
+        "CompanyName": "台聯櫃",
+        "Capitals": "64800",
+        "ClosePrice": "37.40",
+        "SecuritiesIndustryCode": "航運業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5603",
+        "CompanyName": "陸海",
+        "Capitals": "104876",
+        "ClosePrice": "19.00",
+        "SecuritiesIndustryCode": "航運業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5604",
+        "CompanyName": "中連",
+        "Capitals": "108782",
+        "ClosePrice": "37.55",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5609",
+        "CompanyName": "中菲行",
+        "Capitals": "142884",
+        "ClosePrice": "78.60",
+        "SecuritiesIndustryCode": "航運業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5701",
+        "CompanyName": "劍湖山",
+        "Capitals": "143000",
+        "ClosePrice": "3.89",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5703",
+        "CompanyName": "亞都",
+        "Capitals": "70239",
+        "ClosePrice": "14.80",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5704",
+        "CompanyName": "老爺知",
+        "Capitals": "38861",
+        "ClosePrice": "26.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5864",
+        "CompanyName": "致和證",
+        "Capitals": "454495",
+        "ClosePrice": "14.90",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5878",
+        "CompanyName": "台名",
+        "Capitals": "25024",
+        "ClosePrice": "41.05",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5902",
+        "CompanyName": "德記",
+        "Capitals": "94500",
+        "ClosePrice": "44.45",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5903",
+        "CompanyName": "全家",
+        "Capitals": "223220",
+        "ClosePrice": "190.50",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5904",
+        "CompanyName": "寶雅",
+        "Capitals": "106443",
+        "ClosePrice": "432.00",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5905",
+        "CompanyName": "南仁湖",
+        "Capitals": "281623",
+        "ClosePrice": "8.87",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6015",
+        "CompanyName": "宏遠證",
+        "Capitals": "391581",
+        "ClosePrice": "10.30",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6016",
+        "CompanyName": "康和證",
+        "Capitals": "686595",
+        "ClosePrice": "12.55",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6020",
+        "CompanyName": "大展證",
+        "Capitals": "252353",
+        "ClosePrice": "18.20",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6021",
+        "CompanyName": "美好證",
+        "Capitals": "312515",
+        "ClosePrice": "25.20",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6023",
+        "CompanyName": "元大期",
+        "Capitals": "319976",
+        "ClosePrice": "93.90",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6026",
+        "CompanyName": "福邦證",
+        "Capitals": "396161",
+        "ClosePrice": "11.90",
+        "SecuritiesIndustryCode": "金融業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6101",
+        "CompanyName": "寬魚國際",
+        "Capitals": "114618",
+        "ClosePrice": "37.65",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6103",
+        "CompanyName": "合邦",
+        "Capitals": "13604",
+        "ClosePrice": "36.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6104",
+        "CompanyName": "創惟",
+        "Capitals": "91175",
+        "ClosePrice": "87.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6109",
+        "CompanyName": "亞元",
+        "Capitals": "67825",
+        "ClosePrice": "12.15",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6111",
+        "CompanyName": "大宇資",
+        "Capitals": "109091",
+        "ClosePrice": "45.05",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6113",
+        "CompanyName": "亞矽",
+        "Capitals": "52549",
+        "ClosePrice": "18.45",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6114",
+        "CompanyName": "久威",
+        "Capitals": "43911",
+        "ClosePrice": "28.60",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6118",
+        "CompanyName": "建達",
+        "Capitals": "90889",
+        "ClosePrice": "17.50",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6121",
+        "CompanyName": "新普",
+        "Capitals": "184970",
+        "ClosePrice": "353.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6122",
+        "CompanyName": "擎邦",
+        "Capitals": "78091",
+        "ClosePrice": "43.50",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6123",
+        "CompanyName": "上奇",
+        "Capitals": "62089",
+        "ClosePrice": "50.20",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6124",
+        "CompanyName": "業強",
+        "Capitals": "182479",
+        "ClosePrice": "23.30",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6125",
+        "CompanyName": "廣運",
+        "Capitals": "259011",
+        "ClosePrice": "60.40",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6126",
+        "CompanyName": "信音",
+        "Capitals": "127826",
+        "ClosePrice": "30.05",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6127",
+        "CompanyName": "九豪",
+        "Capitals": "108079",
+        "ClosePrice": "26.85",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6129",
+        "CompanyName": "普誠",
+        "Capitals": "180943",
+        "ClosePrice": "13.35",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6130",
+        "CompanyName": "上亞科技",
+        "Capitals": "44300",
+        "ClosePrice": "37.65",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6134",
+        "CompanyName": "萬旭",
+        "Capitals": "81882",
+        "ClosePrice": "21.25",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6138",
+        "CompanyName": "茂達",
+        "Capitals": "74657",
+        "ClosePrice": "225.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6140",
+        "CompanyName": "訊達",
+        "Capitals": "54897",
+        "ClosePrice": "27.70",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6143",
+        "CompanyName": "振曜",
+        "Capitals": "86058",
+        "ClosePrice": "125.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6144",
+        "CompanyName": "得利影",
+        "Capitals": "38273",
+        "ClosePrice": "19.70",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6146",
+        "CompanyName": "耕興",
+        "Capitals": "101867",
+        "ClosePrice": "158.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6147",
+        "CompanyName": "頎邦",
+        "Capitals": "744633",
+        "ClosePrice": "51.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6148",
+        "CompanyName": "驊宏資",
+        "Capitals": "46603",
+        "ClosePrice": "37.40",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6150",
+        "CompanyName": "撼訊",
+        "Capitals": "48345",
+        "ClosePrice": "62.60",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6151",
+        "CompanyName": "晉倫",
+        "Capitals": "55257",
+        "ClosePrice": "27.45",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6154",
+        "CompanyName": "順發",
+        "Capitals": "80080",
+        "ClosePrice": "13.40",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6156",
+        "CompanyName": "松上",
+        "Capitals": "107875",
+        "ClosePrice": "18.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6158",
+        "CompanyName": "禾昌",
+        "Capitals": "55707",
+        "ClosePrice": "22.15",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6160",
+        "CompanyName": "欣技",
+        "Capitals": "68489",
+        "ClosePrice": "17.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6161",
+        "CompanyName": "捷波",
+        "Capitals": "56237",
+        "ClosePrice": "44.55",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6163",
+        "CompanyName": "華電網",
+        "Capitals": "142030",
+        "ClosePrice": "33.25",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6167",
+        "CompanyName": "久正",
+        "Capitals": "146000",
+        "ClosePrice": "10.90",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6169",
+        "CompanyName": "昱泉",
+        "Capitals": "23394",
+        "ClosePrice": "19.05",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6170",
+        "CompanyName": "統振",
+        "Capitals": "97260",
+        "ClosePrice": "49.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6171",
+        "CompanyName": "大城地產",
+        "Capitals": "100000",
+        "ClosePrice": "27.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        "Capitals": "172000",
+        "ClosePrice": "68.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6174",
+        "CompanyName": "安碁",
+        "Capitals": "50000",
+        "ClosePrice": "22.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6175",
+        "CompanyName": "立敦",
+        "Capitals": "150571",
+        "ClosePrice": "46.75",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6179",
+        "CompanyName": "亞通",
+        "Capitals": "114824",
+        "ClosePrice": "26.85",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6180",
+        "CompanyName": "橘子",
+        "Capitals": "175493",
+        "ClosePrice": "51.80",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6182",
+        "CompanyName": "合晶",
+        "Capitals": "573796",
+        "ClosePrice": "27.05",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6185",
+        "CompanyName": "幃翔",
+        "Capitals": "149867",
+        "ClosePrice": "14.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6186",
+        "CompanyName": "新潤",
+        "Capitals": "194907",
+        "ClosePrice": "55.60",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6187",
+        "CompanyName": "萬潤",
+        "Capitals": "97109",
+        "ClosePrice": "326.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6188",
+        "CompanyName": "廣明",
+        "Capitals": "278358",
+        "ClosePrice": "97.10",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6190",
+        "CompanyName": "萬泰科",
+        "Capitals": "185593",
+        "ClosePrice": "39.60",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6194",
+        "CompanyName": "育富",
+        "Capitals": "48000",
+        "ClosePrice": "35.60",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6195",
+        "CompanyName": "詩肯",
+        "Capitals": "50192",
+        "ClosePrice": "26.20",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6198",
+        "CompanyName": "瑞築",
+        "Capitals": "171400",
+        "ClosePrice": "26.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6199",
+        "CompanyName": "天品",
+        "Capitals": "61760",
+        "ClosePrice": "80.30",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6203",
+        "CompanyName": "海韻電",
+        "Capitals": "82406",
+        "ClosePrice": "82.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6204",
+        "CompanyName": "艾華",
+        "Capitals": "23102",
+        "ClosePrice": "78.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6207",
+        "CompanyName": "雷科",
+        "Capitals": "79679",
+        "ClosePrice": "45.35",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6208",
+        "CompanyName": "日揚",
+        "Capitals": "94462",
+        "ClosePrice": "41.45",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6210",
+        "CompanyName": "慶生",
+        "Capitals": "35048",
+        "ClosePrice": "19.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6212",
+        "CompanyName": "理銘",
+        "Capitals": "102000",
+        "ClosePrice": "39.50",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6217",
+        "CompanyName": "中探針",
+        "Capitals": "117210",
+        "ClosePrice": "46.05",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6218",
+        "CompanyName": "豪勉",
+        "Capitals": "64262",
+        "ClosePrice": "17.85",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6219",
+        "CompanyName": "富旺",
+        "Capitals": "124967",
+        "ClosePrice": "18.90",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6220",
+        "CompanyName": "岳豐",
+        "Capitals": "146462",
+        "ClosePrice": "21.90",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6221",
+        "CompanyName": "晉泰",
+        "Capitals": "168591",
+        "ClosePrice": "31.05",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6222",
+        "CompanyName": "立軒",
+        "Capitals": "70588",
+        "ClosePrice": "19.95",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6223",
+        "CompanyName": "旺矽",
+        "Capitals": "94931",
+        "ClosePrice": "1840.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6227",
+        "CompanyName": "茂綸",
+        "Capitals": "76111",
+        "ClosePrice": "80.70",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6228",
+        "CompanyName": "全譜",
+        "Capitals": "26000",
+        "ClosePrice": "26.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6229",
+        "CompanyName": "研通",
+        "Capitals": "40360",
+        "ClosePrice": "22.20",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6231",
+        "CompanyName": "系微",
+        "Capitals": "45652",
+        "ClosePrice": "201.50",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6233",
+        "CompanyName": "旺玖",
+        "Capitals": "81021",
+        "ClosePrice": "18.05",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6234",
+        "CompanyName": "高僑",
+        "Capitals": "100386",
+        "ClosePrice": "19.90",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "Capitals": "41654",
+        "ClosePrice": "28.00",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6237",
+        "CompanyName": "驊訊",
+        "Capitals": "79645",
+        "ClosePrice": "37.45",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6240",
+        "CompanyName": "松崗",
+        "Capitals": "22867",
+        "ClosePrice": "18.10",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6241",
+        "CompanyName": "易通展",
+        "Capitals": "48700",
+        "ClosePrice": "10.90",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6242",
+        "CompanyName": "立康",
+        "Capitals": "31806",
+        "ClosePrice": "37.55",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6244",
+        "CompanyName": "茂迪",
+        "Capitals": "387041",
+        "ClosePrice": "15.20",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6245",
+        "CompanyName": "立端",
+        "Capitals": "146608",
+        "ClosePrice": "69.70",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6246",
+        "CompanyName": "臺龍",
+        "Capitals": "37851",
+        "ClosePrice": "13.30",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6248",
+        "CompanyName": "沛波",
+        "Capitals": "99956",
+        "ClosePrice": "17.95",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6259",
+        "CompanyName": "百徽",
+        "Capitals": "26766",
+        "ClosePrice": "15.65",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6261",
+        "CompanyName": "久元",
+        "Capitals": "128497",
+        "ClosePrice": "58.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6263",
+        "CompanyName": "普萊德",
+        "Capitals": "62500",
+        "ClosePrice": "126.00",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6264",
+        "CompanyName": "富裔",
+        "Capitals": "136355",
+        "ClosePrice": "7.38",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        "Capitals": "118172",
+        "ClosePrice": "16.25",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6266",
+        "CompanyName": "泰詠",
+        "Capitals": "153871",
+        "ClosePrice": "28.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6270",
+        "CompanyName": "倍微",
+        "Capitals": "72145",
+        "ClosePrice": "20.95",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        "Capitals": "288667",
+        "ClosePrice": "392.50",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6275",
+        "CompanyName": "元山",
+        "Capitals": "79257",
+        "ClosePrice": "42.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6276",
+        "CompanyName": "安鈦克",
+        "Capitals": "22043",
+        "ClosePrice": "34.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6279",
+        "CompanyName": "胡連",
+        "Capitals": "119015",
+        "ClosePrice": "124.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6284",
+        "CompanyName": "佳邦",
+        "Capitals": "148980",
+        "ClosePrice": "80.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6290",
+        "CompanyName": "良維",
+        "Capitals": "161722",
+        "ClosePrice": "175.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        "Capitals": "42000",
+        "ClosePrice": "156.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6292",
+        "CompanyName": "迅德",
+        "Capitals": "46600",
+        "ClosePrice": "40.30",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6294",
+        "CompanyName": "智基",
+        "Capitals": "26047",
+        "ClosePrice": "43.95",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6411",
+        "CompanyName": "晶焱",
+        "Capitals": "99248",
+        "ClosePrice": "77.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6417",
+        "CompanyName": "韋僑",
+        "Capitals": "42274",
+        "ClosePrice": "101.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6418",
+        "CompanyName": "詠昇",
+        "Capitals": "34522",
+        "ClosePrice": "40.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6419",
+        "CompanyName": "京晨科",
+        "Capitals": "13159",
+        "ClosePrice": "51.60",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6425",
+        "CompanyName": "易發",
+        "Capitals": "48602",
+        "ClosePrice": "68.50",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6432",
+        "CompanyName": "今展科",
+        "Capitals": "32241",
+        "ClosePrice": "34.80",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6435",
+        "CompanyName": "大中",
+        "Capitals": "37461",
+        "ClosePrice": "106.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6441",
+        "CompanyName": "廣錠",
+        "Capitals": "53318",
+        "ClosePrice": "22.60",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6461",
+        "CompanyName": "益得",
+        "Capitals": "162919",
+        "ClosePrice": "14.55",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6462",
+        "CompanyName": "神盾",
+        "Capitals": "91250",
+        "ClosePrice": "119.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6465",
+        "CompanyName": "威潤",
+        "Capitals": "51899",
+        "ClosePrice": "15.65",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6469",
+        "CompanyName": "大樹",
+        "Capitals": "149699",
+        "ClosePrice": "101.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6470",
+        "CompanyName": "宇智",
+        "Capitals": "37694",
+        "ClosePrice": "42.30",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6482",
+        "CompanyName": "弘煜科",
+        "Capitals": "28634",
+        "ClosePrice": "39.45",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6485",
+        "CompanyName": "點序",
+        "Capitals": "45248",
+        "ClosePrice": "65.70",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6486",
+        "CompanyName": "互動",
+        "Capitals": "50893",
+        "ClosePrice": "74.40",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6488",
+        "CompanyName": "環球晶",
+        "Capitals": "478113",
+        "ClosePrice": "344.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6492",
+        "CompanyName": "生華科",
+        "Capitals": "89703",
+        "ClosePrice": "40.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6494",
+        "CompanyName": "九齊",
+        "Capitals": "31559",
+        "ClosePrice": "35.65",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6496",
+        "CompanyName": "科懋",
+        "Capitals": "47502",
+        "ClosePrice": "29.20",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6498",
+        "CompanyName": "久禾光",
+        "Capitals": "47164",
+        "ClosePrice": "87.00",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6499",
+        "CompanyName": "益安",
+        "Capitals": "96944",
+        "ClosePrice": "91.60",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6506",
+        "CompanyName": "雙邦",
+        "Capitals": "82360",
+        "ClosePrice": "15.40",
+        "SecuritiesIndustryCode": "紡織纖維"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6508",
+        "CompanyName": "惠光",
+        "Capitals": "86538",
+        "ClosePrice": "23.50",
+        "SecuritiesIndustryCode": "農業科技"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6509",
+        "CompanyName": "聚和",
+        "Capitals": "196543",
+        "ClosePrice": "33.75",
+        "SecuritiesIndustryCode": "化學工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6510",
+        "CompanyName": "精測",
+        "Capitals": "32789",
+        "ClosePrice": "1485.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6512",
+        "CompanyName": "啟發電",
+        "Capitals": "25260",
+        "ClosePrice": "20.95",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6516",
+        "CompanyName": "勤崴國際",
+        "Capitals": "56336",
+        "ClosePrice": "60.20",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6517",
+        "CompanyName": "保勝光學",
+        "Capitals": "30579",
+        "ClosePrice": "54.80",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6523",
+        "CompanyName": "達爾膚",
+        "Capitals": "45047",
+        "ClosePrice": "121.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6527",
+        "CompanyName": "明達醫",
+        "Capitals": "25458",
+        "ClosePrice": "79.90",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6530",
+        "CompanyName": "創威",
+        "Capitals": "33750",
+        "ClosePrice": "52.80",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6532",
+        "CompanyName": "瑞耘",
+        "Capitals": "37445",
+        "ClosePrice": "49.70",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6535",
+        "CompanyName": "順藥",
+        "Capitals": "168816",
+        "ClosePrice": "180.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6538",
+        "CompanyName": "倉和",
+        "Capitals": "38073",
+        "ClosePrice": "62.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6542",
+        "CompanyName": "隆中",
+        "Capitals": "42000",
+        "ClosePrice": "43.50",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6546",
+        "CompanyName": "正基",
+        "Capitals": "66848",
+        "ClosePrice": "58.80",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗",
+        "Capitals": "328749",
+        "ClosePrice": "36.80",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6548",
+        "CompanyName": "長科*",
+        "Capitals": "950488",
+        "ClosePrice": "43.85",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6556",
+        "CompanyName": "勝品",
+        "Capitals": "28750",
+        "ClosePrice": "68.40",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6560",
+        "CompanyName": "欣普羅",
+        "Capitals": "25874",
+        "ClosePrice": "38.95",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6561",
+        "CompanyName": "是方",
+        "Capitals": "77958",
+        "ClosePrice": "350.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6568",
+        "CompanyName": "宏觀",
+        "Capitals": "30832",
+        "ClosePrice": "96.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6569",
+        "CompanyName": "醫揚",
+        "Capitals": "39070",
+        "ClosePrice": "107.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6570",
+        "CompanyName": "維田",
+        "Capitals": "37119",
+        "ClosePrice": "37.30",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6574",
+        "CompanyName": "霈方",
+        "Capitals": "21990",
+        "ClosePrice": "71.70",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6576",
+        "CompanyName": "逸達",
+        "Capitals": "155041",
+        "ClosePrice": "74.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6577",
+        "CompanyName": "勁豐",
+        "Capitals": "60060",
+        "ClosePrice": "68.60",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6578",
+        "CompanyName": "達邦蛋白",
+        "Capitals": "71941",
+        "ClosePrice": "18.90",
+        "SecuritiesIndustryCode": "農業科技"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        "Capitals": "66766",
+        "ClosePrice": "335.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6588",
+        "CompanyName": "東典光電",
+        "Capitals": "34700",
+        "ClosePrice": "27.10",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6590",
+        "CompanyName": "普鴻",
+        "Capitals": "25028",
+        "ClosePrice": "73.30",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6593",
+        "CompanyName": "台灣銘板",
+        "Capitals": "30719",
+        "ClosePrice": "37.90",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6596",
+        "CompanyName": "寬宏藝術",
+        "Capitals": "38000",
+        "ClosePrice": "138.00",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6597",
+        "CompanyName": "立誠",
+        "Capitals": "30042",
+        "ClosePrice": "67.70",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6603",
+        "CompanyName": "富強鑫",
+        "Capitals": "167442",
+        "ClosePrice": "20.10",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6609",
+        "CompanyName": "瀧澤科",
+        "Capitals": "72456",
+        "ClosePrice": "33.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6612",
+        "CompanyName": "奈米醫材",
+        "Capitals": "47514",
+        "ClosePrice": "83.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6613",
+        "CompanyName": "朋億*",
+        "Capitals": "77801",
+        "ClosePrice": "168.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6615",
+        "CompanyName": "慧智",
+        "Capitals": "21593",
+        "ClosePrice": "31.25",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6616",
+        "CompanyName": "特昇-KY",
+        "Capitals": "35478",
+        "ClosePrice": "9.53",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6617",
+        "CompanyName": "共信-KY",
+        "Capitals": "127506",
+        "ClosePrice": "76.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6624",
+        "CompanyName": "萬年清",
+        "Capitals": "20880",
+        "ClosePrice": "36.70",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6629",
+        "CompanyName": "泰金-KY",
+        "Capitals": "38316",
+        "ClosePrice": "129.50",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6637",
+        "CompanyName": "醫影",
+        "Capitals": "26810",
+        "ClosePrice": "78.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6640",
+        "CompanyName": "均華",
+        "Capitals": "28276",
+        "ClosePrice": "524.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6642",
+        "CompanyName": "富致",
+        "Capitals": "37399",
+        "ClosePrice": "53.80",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6643",
+        "CompanyName": "M31",
+        "Capitals": "41798",
+        "ClosePrice": "400.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6649",
+        "CompanyName": "台生材",
+        "Capitals": "42000",
+        "ClosePrice": "47.40",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6651",
+        "CompanyName": "全宇昕",
+        "Capitals": "34601",
+        "ClosePrice": "71.10",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6654",
+        "CompanyName": "天正國際",
+        "Capitals": "36962",
+        "ClosePrice": "80.80",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6661",
+        "CompanyName": "威健生技",
+        "Capitals": "23304",
+        "ClosePrice": "18.90",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6662",
+        "CompanyName": "樂斯科",
+        "Capitals": "25612",
+        "ClosePrice": "31.15",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6664",
+        "CompanyName": "群翊",
+        "Capitals": "60806",
+        "ClosePrice": "250.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6667",
+        "CompanyName": "信紘科",
+        "Capitals": "49278",
+        "ClosePrice": "223.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6679",
+        "CompanyName": "鈺太",
+        "Capitals": "54975",
+        "ClosePrice": "173.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6680",
+        "CompanyName": "鑫創電子",
+        "Capitals": "23871",
+        "ClosePrice": "68.00",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6683",
+        "CompanyName": "雍智科技",
+        "Capitals": "27377",
+        "ClosePrice": "358.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6684",
+        "CompanyName": "安格",
+        "Capitals": "44559",
+        "ClosePrice": "50.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6690",
+        "CompanyName": "安碁資訊",
+        "Capitals": "29999",
+        "ClosePrice": "161.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6692",
+        "CompanyName": "進能服",
+        "Capitals": "58776",
+        "ClosePrice": "30.90",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6693",
+        "CompanyName": "廣閎科",
+        "Capitals": "45720",
+        "ClosePrice": "69.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6697",
+        "CompanyName": "東捷資訊",
+        "Capitals": "27323",
+        "ClosePrice": "48.20",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6703",
+        "CompanyName": "軒郁",
+        "Capitals": "32983",
+        "ClosePrice": "102.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6708",
+        "CompanyName": "天擎",
+        "Capitals": "29008",
+        "ClosePrice": "37.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6712",
+        "CompanyName": "長聖",
+        "Capitals": "87596",
+        "ClosePrice": "165.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6716",
+        "CompanyName": "應廣",
+        "Capitals": "30008",
+        "ClosePrice": "47.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6720",
+        "CompanyName": "久昌",
+        "Capitals": "30081",
+        "ClosePrice": "125.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6721",
+        "CompanyName": "信實",
+        "Capitals": "22500",
+        "ClosePrice": "62.00",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6727",
+        "CompanyName": "亞泰金屬",
+        "Capitals": "26884",
+        "ClosePrice": "146.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6728",
+        "CompanyName": "上洋",
+        "Capitals": "30110",
+        "ClosePrice": "129.00",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6732",
+        "CompanyName": "昇佳電子",
+        "Capitals": "48912",
+        "ClosePrice": "169.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6733",
+        "CompanyName": "博晟生醫",
+        "Capitals": "124356",
+        "ClosePrice": "37.75",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6735",
+        "CompanyName": "美達科技",
+        "Capitals": "46182",
+        "ClosePrice": "55.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6739",
+        "CompanyName": "竹陞科技",
+        "Capitals": "23261",
+        "ClosePrice": "610.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6741",
+        "CompanyName": "91APP*-KY",
+        "Capitals": "120577",
+        "ClosePrice": "71.60",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6747",
+        "CompanyName": "亨泰光",
+        "Capitals": "27200",
+        "ClosePrice": "198.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6751",
+        "CompanyName": "智聯服務",
+        "Capitals": "22200",
+        "ClosePrice": "56.90",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6752",
+        "CompanyName": "叡揚",
+        "Capitals": "37144",
+        "ClosePrice": "115.50",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6761",
+        "CompanyName": "穩得",
+        "Capitals": "34955",
+        "ClosePrice": "116.50",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6762",
+        "CompanyName": "達亞",
+        "Capitals": "35171",
+        "ClosePrice": "195.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6763",
+        "CompanyName": "綠界科技*",
+        "Capitals": "184039",
+        "ClosePrice": "56.20",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6767",
+        "CompanyName": "台微醫",
+        "Capitals": "39183",
+        "ClosePrice": "27.65",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6785",
+        "CompanyName": "昱展新藥",
+        "Capitals": "66800",
+        "ClosePrice": "222.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6788",
+        "CompanyName": "華景電",
+        "Capitals": "38739",
+        "ClosePrice": "209.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6791",
+        "CompanyName": "虎門科技",
+        "Capitals": "20847",
+        "ClosePrice": "101.00",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6803",
+        "CompanyName": "崑鼎",
+        "Capitals": "72654",
+        "ClosePrice": "292.50",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6804",
+        "CompanyName": "明係",
+        "Capitals": "35000",
+        "ClosePrice": "18.45",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6811",
+        "CompanyName": "宏碁資訊",
+        "Capitals": "41449",
+        "ClosePrice": "208.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6821",
+        "CompanyName": "聯寶",
+        "Capitals": "31454",
+        "ClosePrice": "38.95",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6823",
+        "CompanyName": "濾能",
+        "Capitals": "27738",
+        "ClosePrice": "66.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6829",
+        "CompanyName": "千附精密",
+        "Capitals": "59169",
+        "ClosePrice": "104.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6840",
+        "CompanyName": "東研信超",
+        "Capitals": "30313",
+        "ClosePrice": "56.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6841",
+        "CompanyName": "長佳智能",
+        "Capitals": "95198",
+        "ClosePrice": "63.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6843",
+        "CompanyName": "進典",
+        "Capitals": "33304",
+        "ClosePrice": "56.90",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6844",
+        "CompanyName": "諾貝兒",
+        "Capitals": "37428",
+        "ClosePrice": "76.90",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6846",
+        "CompanyName": "綠茵",
+        "Capitals": "27009",
+        "ClosePrice": "74.80",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6855",
+        "CompanyName": "數泓科",
+        "Capitals": "23249",
+        "ClosePrice": "113.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6856",
+        "CompanyName": "鑫傳",
+        "Capitals": "28200",
+        "ClosePrice": "58.60",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6859",
+        "CompanyName": "伯特光",
+        "Capitals": "41588",
+        "ClosePrice": "95.40",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6865",
+        "CompanyName": "偉康科技",
+        "Capitals": "15830",
+        "ClosePrice": "43.60",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6870",
+        "CompanyName": "騰雲",
+        "Capitals": "23348",
+        "ClosePrice": "175.50",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6872",
+        "CompanyName": "浩宇生醫",
+        "Capitals": "70750",
+        "ClosePrice": "19.40",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6874",
+        "CompanyName": "倍力",
+        "Capitals": "22000",
+        "ClosePrice": "73.40",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6875",
+        "CompanyName": "國邑*",
+        "Capitals": "129086",
+        "ClosePrice": "45.35",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6877",
+        "CompanyName": "鏵友益",
+        "Capitals": "46967",
+        "ClosePrice": "80.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6881",
+        "CompanyName": "潤德",
+        "Capitals": "15000",
+        "ClosePrice": "228.50",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6894",
+        "CompanyName": "衛司特",
+        "Capitals": "23800",
+        "ClosePrice": "199.00",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6895",
+        "CompanyName": "宏碩系統",
+        "Capitals": "34100",
+        "ClosePrice": "212.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6899",
+        "CompanyName": "創為精密",
+        "Capitals": "42398",
+        "ClosePrice": "52.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6903",
+        "CompanyName": "巨漢",
+        "Capitals": "66676",
+        "ClosePrice": "170.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6904",
+        "CompanyName": "伯鑫",
+        "Capitals": "18500",
+        "ClosePrice": "122.00",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6913",
+        "CompanyName": "鴻呈",
+        "Capitals": "43848",
+        "ClosePrice": "128.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6922",
+        "CompanyName": "宸曜",
+        "Capitals": "27132",
+        "ClosePrice": "177.50",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6925",
+        "CompanyName": "意藍",
+        "Capitals": "20000",
+        "ClosePrice": "92.80",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6929",
+        "CompanyName": "佑全",
+        "Capitals": "45060",
+        "ClosePrice": "32.00",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6953",
+        "CompanyName": "家碩",
+        "Capitals": "30014",
+        "ClosePrice": "176.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6967",
+        "CompanyName": "汎瑋材料",
+        "Capitals": "24904",
+        "ClosePrice": "58.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6968",
+        "CompanyName": "萬達寵物",
+        "Capitals": "49447",
+        "ClosePrice": "52.80",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6971",
+        "CompanyName": "惠民實業",
+        "Capitals": "38668",
+        "ClosePrice": "31.60",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6982",
+        "CompanyName": "大井泵浦",
+        "Capitals": "40649",
+        "ClosePrice": "60.10",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6996",
+        "CompanyName": "力領科技",
+        "Capitals": "41965",
+        "ClosePrice": "147.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6997",
+        "CompanyName": "博弘",
+        "Capitals": "22100",
+        "ClosePrice": "94.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7402",
+        "CompanyName": "邑錡",
+        "Capitals": "35229",
+        "ClosePrice": "101.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7547",
+        "CompanyName": "碩網",
+        "Capitals": "32779",
+        "ClosePrice": "66.80",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7556",
+        "CompanyName": "意德士",
+        "Capitals": "27319",
+        "ClosePrice": "156.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7584",
+        "CompanyName": "樂意",
+        "Capitals": "16462",
+        "ClosePrice": "39.40",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7642",
+        "CompanyName": "昶瑞機電",
+        "Capitals": "30150",
+        "ClosePrice": "80.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7703",
+        "CompanyName": "銳澤",
+        "Capitals": "34745",
+        "ClosePrice": "186.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7704",
+        "CompanyName": "明遠精密",
+        "Capitals": "33744",
+        "ClosePrice": "42.10",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7708",
+        "CompanyName": "全家餐飲",
+        "Capitals": "25500",
+        "ClosePrice": "98.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7709",
+        "CompanyName": "榮田",
+        "Capitals": "39102",
+        "ClosePrice": "36.85",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7712",
+        "CompanyName": "博盛半導體",
+        "Capitals": "32561",
+        "ClosePrice": "82.70",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7713",
+        "CompanyName": "威力德生醫",
+        "Capitals": "45478",
+        "ClosePrice": "73.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7714",
+        "CompanyName": "創泓科技",
+        "Capitals": "21000",
+        "ClosePrice": "129.50",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7715",
+        "CompanyName": "裕山",
+        "Capitals": "33734",
+        "ClosePrice": "29.05",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7716",
+        "CompanyName": "昱臺國際",
+        "Capitals": "22500",
+        "ClosePrice": "26.50",
+        "SecuritiesIndustryCode": "航運業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7718",
+        "CompanyName": "友鋮",
+        "Capitals": "46356",
+        "ClosePrice": "44.25",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7723",
+        "CompanyName": "築間",
+        "Capitals": "50619",
+        "ClosePrice": "32.20",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7728",
+        "CompanyName": "光焱科技",
+        "Capitals": "13854",
+        "ClosePrice": "312.50",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7734",
+        "CompanyName": "印能科技",
+        "Capitals": "28000",
+        "ClosePrice": "795.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7738",
+        "CompanyName": "東聯互動",
+        "Capitals": "27355",
+        "ClosePrice": "212.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7743",
+        "CompanyName": "金利食安",
+        "Capitals": "36483",
+        "ClosePrice": "23.00",
+        "SecuritiesIndustryCode": "食品工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7747",
+        "CompanyName": "昕奇雲端",
+        "Capitals": "27426",
+        "ClosePrice": "128.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7751",
+        "CompanyName": "竑騰",
+        "Capitals": "26888",
+        "ClosePrice": "423.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7753",
+        "CompanyName": "星亞",
+        "Capitals": "25000",
+        "ClosePrice": "40.65",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7757",
+        "CompanyName": "金色三麥",
+        "Capitals": "24100",
+        "ClosePrice": "119.00",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7782",
+        "CompanyName": "光速火箭",
+        "Capitals": "23213",
+        "ClosePrice": "28.80",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8024",
+        "CompanyName": "佑華",
+        "Capitals": "45160",
+        "ClosePrice": "12.30",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8027",
+        "CompanyName": "鈦昇",
+        "Capitals": "107480",
+        "ClosePrice": "83.70",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8032",
+        "CompanyName": "光菱",
+        "Capitals": "51810",
+        "ClosePrice": "34.60",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8034",
+        "CompanyName": "榮群",
+        "Capitals": "56586",
+        "ClosePrice": "25.25",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8038",
+        "CompanyName": "長園科",
+        "Capitals": "62278",
+        "ClosePrice": "39.10",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8040",
+        "CompanyName": "九暘",
+        "Capitals": "96413",
+        "ClosePrice": "47.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "Capitals": "129462",
+        "ClosePrice": "50.90",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "Capitals": "79907",
+        "ClosePrice": "80.50",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8044",
+        "CompanyName": "網家",
+        "Capitals": "205647",
+        "ClosePrice": "28.90",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8047",
+        "CompanyName": "星雲",
+        "Capitals": "41666",
+        "ClosePrice": "39.95",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8048",
+        "CompanyName": "德勝",
+        "Capitals": "57705",
+        "ClosePrice": "63.10",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8049",
+        "CompanyName": "晶采",
+        "Capitals": "118279",
+        "ClosePrice": "24.85",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8050",
+        "CompanyName": "廣積",
+        "Capitals": "205178",
+        "ClosePrice": "44.45",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        "Capitals": "105772",
+        "ClosePrice": "125.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8059",
+        "CompanyName": "凱碩",
+        "Capitals": "193844",
+        "ClosePrice": "18.75",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8064",
+        "CompanyName": "東捷",
+        "Capitals": "164817",
+        "ClosePrice": "38.90",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8066",
+        "CompanyName": "來思達",
+        "Capitals": "29642",
+        "ClosePrice": "18.85",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8067",
+        "CompanyName": "志旭",
+        "Capitals": "20700",
+        "ClosePrice": "14.50",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8068",
+        "CompanyName": "全達",
+        "Capitals": "80765",
+        "ClosePrice": "17.65",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        "Capitals": "1150879",
+        "ClosePrice": "196.50",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8071",
+        "CompanyName": "能率網通",
+        "Capitals": "60084",
+        "ClosePrice": "16.60",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8074",
+        "CompanyName": "鉅橡",
+        "Capitals": "80974",
+        "ClosePrice": "33.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8076",
+        "CompanyName": "伍豐",
+        "Capitals": "292213",
+        "ClosePrice": "22.40",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8077",
+        "CompanyName": "洛碁",
+        "Capitals": "21945",
+        "ClosePrice": "46.10",
+        "SecuritiesIndustryCode": "觀光餐旅"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8080",
+        "CompanyName": "泰霖",
+        "Capitals": "63163",
+        "ClosePrice": "29.00",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8083",
+        "CompanyName": "瑞穎",
+        "Capitals": "35133",
+        "ClosePrice": "154.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8084",
+        "CompanyName": "巨虹",
+        "Capitals": "69514",
+        "ClosePrice": "49.05",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8085",
+        "CompanyName": "福華",
+        "Capitals": "139983",
+        "ClosePrice": "17.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科",
+        "Capitals": "196516",
+        "ClosePrice": "93.60",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8087",
+        "CompanyName": "麗升能源",
+        "Capitals": "39012",
+        "ClosePrice": "37.55",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        "Capitals": "60921",
+        "ClosePrice": "39.05",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8089",
+        "CompanyName": "康全電訊",
+        "Capitals": "65998",
+        "ClosePrice": "26.50",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8091",
+        "CompanyName": "翔名",
+        "Capitals": "52760",
+        "ClosePrice": "108.50",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8092",
+        "CompanyName": "建暐",
+        "Capitals": "57172",
+        "ClosePrice": "14.15",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8093",
+        "CompanyName": "保銳",
+        "Capitals": "60945",
+        "ClosePrice": "13.60",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        "Capitals": "149343",
+        "ClosePrice": "44.25",
+        "SecuritiesIndustryCode": "電子通路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8097",
+        "CompanyName": "常珵",
+        "Capitals": "63802",
+        "ClosePrice": "58.90",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8099",
+        "CompanyName": "大世科",
+        "Capitals": "100072",
+        "ClosePrice": "71.20",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8107",
+        "CompanyName": "大億金茂",
+        "Capitals": "75000",
+        "ClosePrice": "13.90",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8109",
+        "CompanyName": "博大",
+        "Capitals": "82161",
+        "ClosePrice": "98.40",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8111",
+        "CompanyName": "立碁",
+        "Capitals": "109102",
+        "ClosePrice": "58.80",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8121",
+        "CompanyName": "越峰",
+        "Capitals": "212993",
+        "ClosePrice": "25.25",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8147",
+        "CompanyName": "正淩",
+        "Capitals": "41078",
+        "ClosePrice": "94.60",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8155",
+        "CompanyName": "博智",
+        "Capitals": "55767",
+        "ClosePrice": "153.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8171",
+        "CompanyName": "天宇",
+        "Capitals": "112853",
+        "ClosePrice": "22.15",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8176",
+        "CompanyName": "智捷",
+        "Capitals": "71701",
+        "ClosePrice": "10.25",
+        "SecuritiesIndustryCode": "通信網路業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8182",
+        "CompanyName": "加高",
+        "Capitals": "107041",
+        "ClosePrice": "25.20",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8183",
+        "CompanyName": "精星",
+        "Capitals": "121251",
+        "ClosePrice": "32.00",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8227",
+        "CompanyName": "巨有科技",
+        "Capitals": "39543",
+        "ClosePrice": "137.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8234",
+        "CompanyName": "新漢",
+        "Capitals": "141226",
+        "ClosePrice": "66.60",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8240",
+        "CompanyName": "華宏",
+        "Capitals": "100004",
+        "ClosePrice": "31.10",
+        "SecuritiesIndustryCode": "光電業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8255",
+        "CompanyName": "朋程",
+        "Capitals": "101797",
+        "ClosePrice": "124.00",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8272",
+        "CompanyName": "全景軟體",
+        "Capitals": "18997",
+        "ClosePrice": "79.80",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8277",
+        "CompanyName": "商丞",
+        "Capitals": "91628",
+        "ClosePrice": "10.05",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8279",
+        "CompanyName": "生展",
+        "Capitals": "27100",
+        "ClosePrice": "133.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8284",
+        "CompanyName": "三竹",
+        "Capitals": "46342",
+        "ClosePrice": "61.70",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8289",
+        "CompanyName": "泰藝",
+        "Capitals": "68333",
+        "ClosePrice": "19.55",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        "Capitals": "207973",
+        "ClosePrice": "1065.00",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8342",
+        "CompanyName": "益張",
+        "Capitals": "33536",
+        "ClosePrice": "83.10",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8349",
+        "CompanyName": "恒耀",
+        "Capitals": "208821",
+        "ClosePrice": "44.70",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8354",
+        "CompanyName": "冠好",
+        "Capitals": "78532",
+        "ClosePrice": "15.15",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        "Capitals": "252588",
+        "ClosePrice": "233.00",
+        "SecuritiesIndustryCode": "電子零組件業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8383",
+        "CompanyName": "千附",
+        "Capitals": "113760",
+        "ClosePrice": "38.70",
+        "SecuritiesIndustryCode": "半導體業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8390",
+        "CompanyName": "金益鼎",
+        "Capitals": "96116",
+        "ClosePrice": "78.30",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8401",
+        "CompanyName": "白紗科",
+        "Capitals": "70669",
+        "ClosePrice": "28.30",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8403",
+        "CompanyName": "盛弘",
+        "Capitals": "137640",
+        "ClosePrice": "23.55",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8409",
+        "CompanyName": "商之器",
+        "Capitals": "32000",
+        "ClosePrice": "21.55",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8410",
+        "CompanyName": "森田",
+        "Capitals": "36589",
+        "ClosePrice": "36.25",
+        "SecuritiesIndustryCode": "電腦及週邊設備業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8415",
+        "CompanyName": "大國鋼",
+        "Capitals": "1031500",
+        "ClosePrice": "33.60",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8416",
+        "CompanyName": "實威",
+        "Capitals": "28210",
+        "ClosePrice": "172.00",
+        "SecuritiesIndustryCode": "資訊服務業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8421",
+        "CompanyName": "旭源",
+        "Capitals": "54817",
+        "ClosePrice": "12.55",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8423",
+        "CompanyName": "保綠-KY",
+        "Capitals": "41714",
+        "ClosePrice": "17.40",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8424",
+        "CompanyName": "惠普",
+        "Capitals": "36054",
+        "ClosePrice": "73.00",
+        "SecuritiesIndustryCode": "建材營造"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8426",
+        "CompanyName": "紅木-KY",
+        "Capitals": "50242",
+        "ClosePrice": "27.95",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8431",
+        "CompanyName": "匯鑽科",
+        "Capitals": "44391",
+        "ClosePrice": "42.95",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8432",
+        "CompanyName": "東生華",
+        "Capitals": "38398",
+        "ClosePrice": "52.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8433",
+        "CompanyName": "弘帆",
+        "Capitals": "54506",
+        "ClosePrice": "50.60",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8435",
+        "CompanyName": "鉅邁",
+        "Capitals": "31700",
+        "ClosePrice": "52.00",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8436",
+        "CompanyName": "大江",
+        "Capitals": "117728",
+        "ClosePrice": "113.50",
+        "SecuritiesIndustryCode": "生技醫療"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8437",
+        "CompanyName": "大地-KY",
+        "Capitals": "47014",
+        "ClosePrice": "16.55",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8440",
+        "CompanyName": "綠電",
+        "Capitals": "50255",
+        "ClosePrice": "24.00",
+        "SecuritiesIndustryCode": "綠能環保"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8444",
+        "CompanyName": "綠河-KY",
+        "Capitals": "110466",
+        "ClosePrice": "9.66",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8446",
+        "CompanyName": "華研",
+        "Capitals": "52914",
+        "ClosePrice": "94.50",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8450",
+        "CompanyName": "霹靂",
+        "Capitals": "51309",
+        "ClosePrice": "16.95",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8455",
+        "CompanyName": "大拓-KY",
+        "Capitals": "25219",
+        "ClosePrice": "22.90",
+        "SecuritiesIndustryCode": "其他電子業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8472",
+        "CompanyName": "夠麻吉",
+        "Capitals": "17735",
+        "ClosePrice": "79.00",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8477",
+        "CompanyName": "創業家",
+        "Capitals": "64170",
+        "ClosePrice": "11.40",
+        "SecuritiesIndustryCode": "數位雲端"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8489",
+        "CompanyName": "三貝德",
+        "Capitals": "40298",
+        "ClosePrice": "40.25",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8905",
+        "CompanyName": "裕國",
+        "Capitals": "119440",
+        "ClosePrice": "30.90",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8906",
+        "CompanyName": "花王",
+        "Capitals": "44037",
+        "ClosePrice": "28.65",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8908",
+        "CompanyName": "欣雄",
+        "Capitals": "315332",
+        "ClosePrice": "43.40",
+        "SecuritiesIndustryCode": "油電燃氣業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8916",
+        "CompanyName": "光隆",
+        "Capitals": "151540",
+        "ClosePrice": "49.15",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8917",
+        "CompanyName": "欣泰",
+        "Capitals": "162652",
+        "ClosePrice": "57.90",
+        "SecuritiesIndustryCode": "油電燃氣業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8921",
+        "CompanyName": "沈氏",
+        "Capitals": "46592",
+        "ClosePrice": "16.90",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8923",
+        "CompanyName": "時報",
+        "Capitals": "30375",
+        "ClosePrice": "20.25",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8924",
+        "CompanyName": "大田",
+        "Capitals": "83800",
+        "ClosePrice": "70.80",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8927",
+        "CompanyName": "北基",
+        "Capitals": "432100",
+        "ClosePrice": "23.30",
+        "SecuritiesIndustryCode": "油電燃氣業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8928",
+        "CompanyName": "鉅明",
+        "Capitals": "50854",
+        "ClosePrice": "25.65",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8929",
+        "CompanyName": "富堡",
+        "Capitals": "50580",
+        "ClosePrice": "16.50",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8930",
+        "CompanyName": "青鋼",
+        "Capitals": "81809",
+        "ClosePrice": "30.40",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8931",
+        "CompanyName": "大汽電",
+        "Capitals": "122254",
+        "ClosePrice": "45.30",
+        "SecuritiesIndustryCode": "油電燃氣業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8932",
+        "CompanyName": "智通*",
+        "Capitals": "178981",
+        "ClosePrice": "161.50",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8933",
+        "CompanyName": "愛地雅",
+        "Capitals": "326724",
+        "ClosePrice": "5.73",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8935",
+        "CompanyName": "邦泰",
+        "Capitals": "113495",
+        "ClosePrice": "17.00",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8936",
+        "CompanyName": "國統",
+        "Capitals": "248078",
+        "ClosePrice": "57.70",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8937",
+        "CompanyName": "合騏",
+        "Capitals": "102320",
+        "ClosePrice": "148.50",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8938",
+        "CompanyName": "明安",
+        "Capitals": "156986",
+        "ClosePrice": "66.40",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8941",
+        "CompanyName": "關中",
+        "Capitals": "34972",
+        "ClosePrice": "44.20",
+        "SecuritiesIndustryCode": "居家生活"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8942",
+        "CompanyName": "森鉅",
+        "Capitals": "198842",
+        "ClosePrice": "36.80",
+        "SecuritiesIndustryCode": "其他"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "9949",
+        "CompanyName": "琉園",
+        "Capitals": "44033",
+        "ClosePrice": "20.90",
+        "SecuritiesIndustryCode": "文化創意業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "9950",
+        "CompanyName": "萬國通",
+        "Capitals": "167716",
+        "ClosePrice": "10.45",
+        "SecuritiesIndustryCode": "塑膠工業"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "9951",
+        "CompanyName": "皇田",
+        "Capitals": "74900",
+        "ClosePrice": "56.40",
+        "SecuritiesIndustryCode": "電機機械"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "9960",
+        "CompanyName": "邁達康",
+        "Capitals": "33592",
+        "ClosePrice": "20.80",
+        "SecuritiesIndustryCode": "運動休閒"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "9962",
+        "CompanyName": "有益",
+        "Capitals": "90220",
+        "ClosePrice": "10.15",
+        "SecuritiesIndustryCode": "鋼鐵工業"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2526 @@
+{
+  "path": "/DailyVolumeReportOnCalendarSpreadOrders",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日期貨價差委託成交概況表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/DailyVolumeReportOnCalendarSpreadOrders",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:40:27 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "62050",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:52 GMT",
+      "ETag": "\"f262-6443694a0887a\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=DailyVolumeReportOnCalendarSpreadOrders.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d4d4abf134a1b-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251120",
+        "ProductCode": "BRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "8",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "CCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "38",
+        "MarketVolume(Buy+Sell)": "108",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "35.19"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "CDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "394",
+        "MarketVolume(Buy+Sell)": "2400",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.42"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "F1F",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "110",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.82"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "GDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "50"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "M1F",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "30",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "MTX",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2126",
+        "MarketVolume(Buy+Sell)": "194780",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.09"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "NYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "1082",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.92"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "QFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "662",
+        "MarketVolume(Buy+Sell)": "6754",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "9.8"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "RZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "78",
+        "MarketVolume(Buy+Sell)": "922",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.46"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "SOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "34",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.88"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "SPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "12",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "SRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "70",
+        "MarketVolume(Buy+Sell)": "2352",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.98"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "SXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "130",
+        "MarketVolume(Buy+Sell)": "680",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "19.12"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "TE",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "348",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "TF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "118",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "TGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "14",
+        "MarketVolume(Buy+Sell)": "124",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.29"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "TJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "68",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "TMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1404",
+        "MarketVolume(Buy+Sell)": "175224",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.8"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "TX",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "548",
+        "MarketVolume(Buy+Sell)": "74268",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.74"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "UDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "22",
+        "MarketVolume(Buy+Sell)": "434",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.07"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "UNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "70",
+        "MarketVolume(Buy+Sell)": "1966",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.56"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "XAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "10",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "XBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "XEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "XJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "166",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "ZEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "990",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.2"
+      },
+      {
+        "Date": "20251120",
+        "ProductCode": "ZFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "140",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "BTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1516",
+        "MarketVolume(Buy+Sell)": "18130",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.36"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "404",
+        "MarketVolume(Buy+Sell)": "1268",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "31.86"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2430",
+        "MarketVolume(Buy+Sell)": "4788",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "50.75"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "7040",
+        "MarketVolume(Buy+Sell)": "20730",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "33.96"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CE1",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "78",
+        "MarketVolume(Buy+Sell)": "2314",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.37"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2130",
+        "MarketVolume(Buy+Sell)": "3942",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "54.03"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "154",
+        "MarketVolume(Buy+Sell)": "2948",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.22"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "770",
+        "MarketVolume(Buy+Sell)": "1414",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "54.46"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "18",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "244",
+        "MarketVolume(Buy+Sell)": "1850",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "13.19"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "314",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "490",
+        "MarketVolume(Buy+Sell)": "2020",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "24.26"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "142",
+        "MarketVolume(Buy+Sell)": "716",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "19.83"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "88",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.27"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "80",
+        "MarketVolume(Buy+Sell)": "164",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "48.78"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "3322",
+        "MarketVolume(Buy+Sell)": "8978",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "37"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "156",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "192",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.04"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "124",
+        "MarketVolume(Buy+Sell)": "1398",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.87"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "6242",
+        "MarketVolume(Buy+Sell)": "49000",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "12.74"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "CZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4596",
+        "MarketVolume(Buy+Sell)": "6640",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "69.22"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1578",
+        "MarketVolume(Buy+Sell)": "4282",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "36.85"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "320",
+        "MarketVolume(Buy+Sell)": "1016",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "31.5"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "1576",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "8",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "84",
+        "MarketVolume(Buy+Sell)": "1198",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "7.01"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "26",
+        "MarketVolume(Buy+Sell)": "1104",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.36"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2710",
+        "MarketVolume(Buy+Sell)": "17702",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "15.31"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "284",
+        "MarketVolume(Buy+Sell)": "22308",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.27"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "60",
+        "MarketVolume(Buy+Sell)": "762",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "7.87"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "276",
+        "MarketVolume(Buy+Sell)": "1722",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.03"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "140",
+        "MarketVolume(Buy+Sell)": "408",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "34.31"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "54",
+        "MarketVolume(Buy+Sell)": "486",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.11"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "174",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "64",
+        "MarketVolume(Buy+Sell)": "1998",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.2"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "5466",
+        "MarketVolume(Buy+Sell)": "11404",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "47.93"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "604",
+        "MarketVolume(Buy+Sell)": "2010",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "30.05"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "676",
+        "MarketVolume(Buy+Sell)": "728",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "92.86"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "558",
+        "MarketVolume(Buy+Sell)": "6474",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.62"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "18",
+        "MarketVolume(Buy+Sell)": "68",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "26.47"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "DZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "14",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "E4F",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "616",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "22",
+        "MarketVolume(Buy+Sell)": "114",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "19.3"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "1204",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "114",
+        "MarketVolume(Buy+Sell)": "248",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "45.97"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "86",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "274",
+        "MarketVolume(Buy+Sell)": "4302",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.37"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "78",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "EZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "8",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "F1F",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "190",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.05"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "42",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "20",
+        "MarketVolume(Buy+Sell)": "76",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "26.32"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "592",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "168",
+        "MarketVolume(Buy+Sell)": "338",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "49.7"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "32",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "18",
+        "MarketVolume(Buy+Sell)": "366",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.92"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "274",
+        "MarketVolume(Buy+Sell)": "1468",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "18.66"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "134",
+        "MarketVolume(Buy+Sell)": "3094",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "384",
+        "MarketVolume(Buy+Sell)": "2840",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "13.52"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "116",
+        "MarketVolume(Buy+Sell)": "1426",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.13"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "1250",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.16"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "166",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "52",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "190",
+        "MarketVolume(Buy+Sell)": "330",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "57.58"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "FZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "3860",
+        "MarketVolume(Buy+Sell)": "31078",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "12.42"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "G2F",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "236",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.85"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "200",
+        "MarketVolume(Buy+Sell)": "264",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "75.76"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "264",
+        "MarketVolume(Buy+Sell)": "1130",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "23.36"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "106",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "9.43"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "244",
+        "MarketVolume(Buy+Sell)": "958",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "25.47"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "350",
+        "MarketVolume(Buy+Sell)": "1234",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "28.36"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "12",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "20",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "220",
+        "MarketVolume(Buy+Sell)": "430",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "51.16"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "56",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "230",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "30",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "132",
+        "MarketVolume(Buy+Sell)": "10318",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.28"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "16",
+        "MarketVolume(Buy+Sell)": "1522",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.05"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "114",
+        "MarketVolume(Buy+Sell)": "346",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "32.95"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "40",
+        "MarketVolume(Buy+Sell)": "104",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "38.46"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "144",
+        "MarketVolume(Buy+Sell)": "1474",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "9.77"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "2340",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "GZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "404",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "8",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "2812",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "222",
+        "MarketVolume(Buy+Sell)": "1460",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "15.21"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HH1",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "14",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "12",
+        "MarketVolume(Buy+Sell)": "1326",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.9"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "198",
+        "MarketVolume(Buy+Sell)": "316",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "62.66"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HL1",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "138",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "28",
+        "MarketVolume(Buy+Sell)": "226",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "12.39"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "26",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "610",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "HSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "196",
+        "MarketVolume(Buy+Sell)": "1572",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "12.47"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "88",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.27"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "24",
+        "MarketVolume(Buy+Sell)": "3508",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.68"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "12",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "66.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "658",
+        "MarketVolume(Buy+Sell)": "996",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "66.06"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "212",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1508",
+        "MarketVolume(Buy+Sell)": "3680",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "40.98"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "40",
+        "MarketVolume(Buy+Sell)": "306",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "13.07"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IR1",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "126",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "360",
+        "MarketVolume(Buy+Sell)": "5644",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.38"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ITF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "12",
+        "MarketVolume(Buy+Sell)": "98",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "12.24"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "112",
+        "MarketVolume(Buy+Sell)": "2816",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.98"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "40",
+        "MarketVolume(Buy+Sell)": "1020",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.92"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "IZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "170",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.71"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "532",
+        "MarketVolume(Buy+Sell)": "2518",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "21.13"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "18",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "528",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "194",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.03"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "244",
+        "MarketVolume(Buy+Sell)": "1154",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "21.14"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "170",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "42",
+        "MarketVolume(Buy+Sell)": "62",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "67.74"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "74",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.7"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "JZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "80",
+        "MarketVolume(Buy+Sell)": "130",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "61.54"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "14",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "138",
+        "MarketVolume(Buy+Sell)": "676",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "20.41"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "2112",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.09"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "6",
+        "MarketVolume(Buy+Sell)": "56",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "10.71"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "102",
+        "MarketVolume(Buy+Sell)": "2712",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.76"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "16",
+        "MarketVolume(Buy+Sell)": "140",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.43"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "926",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.86"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "426",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "8",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "76",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "180",
+        "MarketVolume(Buy+Sell)": "752",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "23.94"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1840",
+        "MarketVolume(Buy+Sell)": "28258",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.51"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "KWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "222",
+        "MarketVolume(Buy+Sell)": "1266",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "17.54"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "316",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.63"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "178",
+        "MarketVolume(Buy+Sell)": "232",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "76.72"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "310",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "184",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "132",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.52"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "462",
+        "MarketVolume(Buy+Sell)": "1176",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "39.29"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "492",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "16",
+        "MarketVolume(Buy+Sell)": "2608",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.61"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "196",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.02"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "12",
+        "MarketVolume(Buy+Sell)": "86",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "13.95"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "344",
+        "MarketVolume(Buy+Sell)": "5532",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.22"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "LYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "44",
+        "MarketVolume(Buy+Sell)": "2812",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.56"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "M1F",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "6",
+        "MarketVolume(Buy+Sell)": "946",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.63"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "52",
+        "MarketVolume(Buy+Sell)": "156",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "33.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "408",
+        "MarketVolume(Buy+Sell)": "526",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "77.57"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "136",
+        "MarketVolume(Buy+Sell)": "470",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "28.94"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MTX",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "9382",
+        "MarketVolume(Buy+Sell)": "619942",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.51"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "6",
+        "MarketVolume(Buy+Sell)": "36",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "MYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "18",
+        "MarketVolume(Buy+Sell)": "2002",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.9"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "74",
+        "MarketVolume(Buy+Sell)": "3186",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.32"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "32",
+        "MarketVolume(Buy+Sell)": "1646",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.94"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "46",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.7"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "422",
+        "MarketVolume(Buy+Sell)": "528",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "79.92"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "432",
+        "MarketVolume(Buy+Sell)": "906",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "47.68"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "42",
+        "MarketVolume(Buy+Sell)": "1514",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.77"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "26",
+        "MarketVolume(Buy+Sell)": "1330",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.95"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "22",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "120",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "110",
+        "MarketVolume(Buy+Sell)": "4774",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.3"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "228",
+        "MarketVolume(Buy+Sell)": "1200",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "19"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "NYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "322",
+        "MarketVolume(Buy+Sell)": "8680",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.71"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "66",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "15.15"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ODF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "130",
+        "MarketVolume(Buy+Sell)": "186",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "69.89"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "204",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "88",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "150",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "358",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.79"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "40",
+        "MarketVolume(Buy+Sell)": "864",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.63"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "208",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "28",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "14.29"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "690",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.16"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "34",
+        "MarketVolume(Buy+Sell)": "52",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "65.38"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ORF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2550",
+        "MarketVolume(Buy+Sell)": "2686",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "94.94"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "6",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "33.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "740",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.54"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "14",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "240",
+        "MarketVolume(Buy+Sell)": "5924",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.05"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "58",
+        "MarketVolume(Buy+Sell)": "534",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "10.86"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "28",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "520",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.54"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "OZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "168",
+        "MarketVolume(Buy+Sell)": "5520",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.04"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "88",
+        "MarketVolume(Buy+Sell)": "492",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "17.89"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "392",
+        "MarketVolume(Buy+Sell)": "3140",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "12.48"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "26",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "20",
+        "MarketVolume(Buy+Sell)": "2680",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.75"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "36",
+        "MarketVolume(Buy+Sell)": "334",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "10.78"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "28",
+        "MarketVolume(Buy+Sell)": "52",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "53.85"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "10",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "40",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "124",
+        "MarketVolume(Buy+Sell)": "1248",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "9.94"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "162",
+        "MarketVolume(Buy+Sell)": "6490",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.5"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "246",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.07"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "12",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "24",
+        "MarketVolume(Buy+Sell)": "428",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.61"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "8",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1576",
+        "MarketVolume(Buy+Sell)": "26806",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.88"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "438",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "378",
+        "MarketVolume(Buy+Sell)": "3236",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.68"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "252",
+        "MarketVolume(Buy+Sell)": "2950",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.54"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "564",
+        "MarketVolume(Buy+Sell)": "6414",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.79"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "100",
+        "MarketVolume(Buy+Sell)": "276",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "36.23"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "174",
+        "MarketVolume(Buy+Sell)": "5588",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.11"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "76",
+        "MarketVolume(Buy+Sell)": "134",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "56.72"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "216",
+        "MarketVolume(Buy+Sell)": "2066",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "10.45"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "PZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "18",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "64",
+        "MarketVolume(Buy+Sell)": "1038",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.17"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "134",
+        "MarketVolume(Buy+Sell)": "912",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "14.69"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "162",
+        "MarketVolume(Buy+Sell)": "232",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "69.83"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QE1",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "20",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "154",
+        "MarketVolume(Buy+Sell)": "7542",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.04"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8920",
+        "MarketVolume(Buy+Sell)": "55240",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.15"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "334",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.4"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "12",
+        "MarketVolume(Buy+Sell)": "500",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.4"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "1014",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "22",
+        "MarketVolume(Buy+Sell)": "1328",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.66"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "230",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.74"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "196",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "64",
+        "MarketVolume(Buy+Sell)": "460",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "13.91"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "414",
+        "MarketVolume(Buy+Sell)": "3872",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "10.69"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "314",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.27"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "14",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "24",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "68",
+        "MarketVolume(Buy+Sell)": "1880",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.62"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "282",
+        "MarketVolume(Buy+Sell)": "5494",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.13"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "280",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "524",
+        "MarketVolume(Buy+Sell)": "3108",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.86"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "124",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "582",
+        "MarketVolume(Buy+Sell)": "886",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "65.69"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "3470",
+        "MarketVolume(Buy+Sell)": "8558",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "40.55"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "52",
+        "MarketVolume(Buy+Sell)": "92",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "56.52"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "QZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "978",
+        "MarketVolume(Buy+Sell)": "41500",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.36"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "940",
+        "MarketVolume(Buy+Sell)": "3716",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "25.3"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "130",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "348",
+        "MarketVolume(Buy+Sell)": "652",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "53.37"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "28",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "REF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "136",
+        "MarketVolume(Buy+Sell)": "204",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "66.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "396",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "190",
+        "MarketVolume(Buy+Sell)": "7264",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.62"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "60",
+        "MarketVolume(Buy+Sell)": "200",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "30"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "314",
+        "MarketVolume(Buy+Sell)": "434",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "72.35"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "76",
+        "MarketVolume(Buy+Sell)": "4952",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.53"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "122",
+        "MarketVolume(Buy+Sell)": "152",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "80.26"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "20",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ROF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "136",
+        "MarketVolume(Buy+Sell)": "1542",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.82"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "64",
+        "MarketVolume(Buy+Sell)": "194",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "32.99"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "1130",
+        "MarketVolume(Buy+Sell)": "9952",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.35"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "926",
+        "MarketVolume(Buy+Sell)": "14184",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "6.53"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "RZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "566",
+        "MarketVolume(Buy+Sell)": "3312",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "17.09"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "126",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "7.94"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "14",
+        "MarketVolume(Buy+Sell)": "40",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "35"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "1334",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.3"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "62",
+        "MarketVolume(Buy+Sell)": "1228",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5.05"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "232",
+        "MarketVolume(Buy+Sell)": "7656",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.03"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "558",
+        "MarketVolume(Buy+Sell)": "6852",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "8.14"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "4",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "34",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "62",
+        "MarketVolume(Buy+Sell)": "3628",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.71"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SLF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "644",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.31"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "136",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "346",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.89"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "266",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.5"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SPF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "230",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "18",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SRF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "384",
+        "MarketVolume(Buy+Sell)": "9436",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.07"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SSF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "40",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "5"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "102",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "20",
+        "MarketVolume(Buy+Sell)": "784",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.55"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "44",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.55"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "20",
+        "MarketVolume(Buy+Sell)": "730",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.74"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "86",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.63"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "SZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "214",
+        "MarketVolume(Buy+Sell)": "1166",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "18.35"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "TE",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "8",
+        "MarketVolume(Buy+Sell)": "2682",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.3"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "TF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "1040",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "TGF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "36",
+        "MarketVolume(Buy+Sell)": "784",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.59"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "TJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "690",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "TMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "9852",
+        "MarketVolume(Buy+Sell)": "506460",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.95"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "TX",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "3564",
+        "MarketVolume(Buy+Sell)": "312338",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.14"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "86",
+        "MarketVolume(Buy+Sell)": "344",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "25"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "384",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.52"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "60",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "662",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.6"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "16",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "12",
+        "MarketVolume(Buy+Sell)": "908",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.32"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UHF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "818",
+        "MarketVolume(Buy+Sell)": "7042",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.62"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "52",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "96",
+        "MarketVolume(Buy+Sell)": "198",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "48.48"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UKF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ULF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "362",
+        "MarketVolume(Buy+Sell)": "4582",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "7.9"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UMF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "18",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UNF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "96",
+        "MarketVolume(Buy+Sell)": "5492",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "1.75"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UOF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "144",
+        "MarketVolume(Buy+Sell)": "3234",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "4.45"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UQF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "174",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "URF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "USF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "12",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UTF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "990",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UUF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "248",
+        "MarketVolume(Buy+Sell)": "252",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "98.41"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UVF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "14",
+        "MarketVolume(Buy+Sell)": "58",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "24.14"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UWF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "352",
+        "MarketVolume(Buy+Sell)": "3108",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.33"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UXF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "370",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.54"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UYF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "248",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.81"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "UZF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "56",
+        "MarketVolume(Buy+Sell)": "500",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "11.2"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "VAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "24",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "16.67"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "VBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "2",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "VCF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "10",
+        "MarketVolume(Buy+Sell)": "396",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.53"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "VDF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "18",
+        "MarketVolume(Buy+Sell)": "552",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.26"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "XAF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "12",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "XBF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "0",
+        "MarketVolume(Buy+Sell)": "84",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "XIF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "4",
+        "MarketVolume(Buy+Sell)": "460",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.87"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "XJF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "12",
+        "MarketVolume(Buy+Sell)": "320",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "3.75"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ZEF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "96",
+        "MarketVolume(Buy+Sell)": "4708",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "2.04"
+      },
+      {
+        "Date": "20251121",
+        "ProductCode": "ZFF",
+        "FuturesSpreadTradingVolume(Buy+Sell)": "2",
+        "MarketVolume(Buy+Sell)": "684",
+        "PercentageofFuturesSpreadTradingVolumeinMarket(%)": "0.29"
+      }
+    ]
+  }
+}

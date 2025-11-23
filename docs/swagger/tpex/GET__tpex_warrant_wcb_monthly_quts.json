@@ -1,0 +1,58 @@
+{
+  "path": "/tpex_warrant_wcb_monthly_quts",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃牛熊證收盤行情(不含展延型牛熊證)月報表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_warrant_wcb_monthly_quts",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:06 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:33:45 GMT",
+      "ETag": "W/\"6921d7d9-13e\"",
+      "Content-Disposition": "attachment;filename=tpex_warrant_wcb_monthly_quts.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49d859cd6a87-TPE"
+    },
+    "body": [
+      {
+        "Date": "11411",
+        "Code": "70006C",
+        "Name": "元債20富邦56牛01",
+        "Open": "",
+        "High": "",
+        "Low": "",
+        "Close": "",
+        "Change": "",
+        "TradeVol.": "0",
+        "No.OfTransactions": "0",
+        "TradeValue": "0",
+        "UnderlyingStockCode": "00679B",
+        "UnderlyingStock": "元大美債20年",
+        "UnderlyingStockClosePrice": "27.43",
+        "UnderlyingStock PriceChange": "0.03"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "path": "/InterestRateFuturesMargining",
+  "method": "GET",
+  "operationId": null,
+  "summary": "保證金一覽表-利率類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/InterestRateFuturesMargining",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:32 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "115",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:55 GMT",
+      "ETag": "\"73-64436913cf2dd\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=InterestRateFuturesMargining.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d4bf278524a9e-TPE"
+    },
+    "body": [
+      {
+        "Contract": "GBF",
+        "ClearingMargin": "34000",
+        "MaintenanceMargin": "36000",
+        "InitialMargin": "46000",
+        "Date": "20190911"
+      }
+    ]
+  }
+}

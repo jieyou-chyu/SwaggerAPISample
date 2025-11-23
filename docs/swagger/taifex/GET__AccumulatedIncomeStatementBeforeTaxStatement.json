@@ -1,0 +1,314 @@
+{
+  "path": "/AccumulatedIncomeStatementBeforeTaxStatement",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期貨商稅前累計損益明細表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AccumulatedIncomeStatementBeforeTaxStatement",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:37 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4170",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:11 GMT",
+      "ETag": "\"104a-64436922ee564\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AccumulatedIncomeStatementBeforeTaxStatement.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d4c0fdff14a40-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F021",
+        "Revenue": "2962375639",
+        "Expense": "3697490433",
+        "NetIncome": "-735114794"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F004",
+        "Revenue": "1516328964",
+        "Expense": "2094276222",
+        "NetIncome": "-577947258"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F008",
+        "Revenue": "592624486",
+        "Expense": "855438544",
+        "NetIncome": "-262814058"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F026",
+        "Revenue": "873334397",
+        "Expense": "1087055389",
+        "NetIncome": "-213720992"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F018",
+        "Revenue": "351663912",
+        "Expense": "504697543",
+        "NetIncome": "-153033631"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S779",
+        "Revenue": "-39036991",
+        "Expense": "57035142",
+        "NetIncome": "-96072133"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F005",
+        "Revenue": "245540305",
+        "Expense": "337163261",
+        "NetIncome": "-91622956"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F001",
+        "Revenue": "435559119",
+        "Expense": "501827899",
+        "NetIncome": "-66268780"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S551",
+        "Revenue": "-54475854",
+        "Expense": "4983850",
+        "NetIncome": "-59459704"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S509",
+        "Revenue": "-49116409",
+        "Expense": "8171855",
+        "NetIncome": "-57288264"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S144",
+        "Revenue": "102501135",
+        "Expense": "144969625.3",
+        "NetIncome": "-42468490.3"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F029",
+        "Revenue": "431438313",
+        "Expense": "470325636",
+        "NetIncome": "-38887323"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F040",
+        "Revenue": "248165943",
+        "Expense": "285637563",
+        "NetIncome": "-37471620"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S126",
+        "Revenue": "1596919",
+        "Expense": "29412437",
+        "NetIncome": "-27815518"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F030",
+        "Revenue": "225607893",
+        "Expense": "250524211",
+        "NetIncome": "-24916318"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F014",
+        "Revenue": "319073617",
+        "Expense": "340145722",
+        "NetIncome": "-21072105"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S218",
+        "Revenue": "1777879",
+        "Expense": "12282078",
+        "NetIncome": "-10504199"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "R201",
+        "Revenue": "137355807",
+        "Expense": "147309936",
+        "NetIncome": "-9954129"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S890",
+        "Revenue": "127632646",
+        "Expense": "137194395",
+        "NetIncome": "-9561749"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F039",
+        "Revenue": "129341028",
+        "Expense": "138131467",
+        "NetIncome": "-8790439"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S102",
+        "Revenue": "-4489279",
+        "Expense": "4132303",
+        "NetIncome": "-8621582"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S159",
+        "Revenue": "2010695",
+        "Expense": "7864782",
+        "NetIncome": "-5854087"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S700",
+        "Revenue": "4149141",
+        "Expense": "7539226",
+        "NetIncome": "-3390085"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S960",
+        "Revenue": "0",
+        "Expense": "631",
+        "NetIncome": "-631"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S888",
+        "Revenue": "-400",
+        "Expense": "180",
+        "NetIncome": "-580"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S616",
+        "Revenue": "46613547",
+        "Expense": "43769200",
+        "NetIncome": "2844347"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S526",
+        "Revenue": "18002663",
+        "Expense": "12604596",
+        "NetIncome": "5398067"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S910",
+        "Revenue": "18006962",
+        "Expense": "9306422",
+        "NetIncome": "8700540"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S538",
+        "Revenue": "74623528",
+        "Expense": "55815353",
+        "NetIncome": "18808175"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S920",
+        "Revenue": "53712595",
+        "Expense": "15491187",
+        "NetIncome": "38221408"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S856",
+        "Revenue": "97069651",
+        "Expense": "45999025",
+        "NetIncome": "51070626"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F020",
+        "Revenue": "2158505411",
+        "Expense": "2095781500",
+        "NetIncome": "62723911"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S585",
+        "Revenue": "322274996",
+        "Expense": "253360266",
+        "NetIncome": "68914730"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S844",
+        "Revenue": "174938668",
+        "Expense": "103644878",
+        "NetIncome": "71293790"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S884",
+        "Revenue": "218692301",
+        "Expense": "108189479",
+        "NetIncome": "110502822"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S592",
+        "Revenue": "200904590",
+        "Expense": "80327852",
+        "NetIncome": "120576738"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F002",
+        "Revenue": "1028193446",
+        "Expense": "885903537",
+        "NetIncome": "142289909"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S147",
+        "Revenue": "218177318",
+        "Expense": "72168784",
+        "NetIncome": "146008534"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F034",
+        "Revenue": "2257293641",
+        "Expense": "1519982804",
+        "NetIncome": "737310837"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S980",
+        "Revenue": "1165104785",
+        "Expense": "252318961",
+        "NetIncome": "912785824"
+      }
+    ]
+  }
+}

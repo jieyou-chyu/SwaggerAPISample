@@ -1,0 +1,30 @@
+{
+  "path": "/opendata/t187ap29_B_L",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市公司監察人酬金相關資訊 ",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap29_B_L",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:57 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "4",
+      "Last-Modified": "Sat, 22 Nov 2025 21:26:16 GMT",
+      "Connection": "keep-alive",
+      "ETag": "\"69222a78-4\"",
+      "Content-Disposition": "attachment;filename=t187ap29_B_L.json",
+      "Accept-Ranges": "bytes"
+    },
+    "body": []
+  }
+}

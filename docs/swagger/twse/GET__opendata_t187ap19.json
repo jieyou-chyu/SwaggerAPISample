@@ -1,0 +1,53 @@
+{
+  "path": "/opendata/t187ap19",
+  "method": "GET",
+  "operationId": null,
+  "summary": "電子式交易統計資訊",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap19",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:53 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:25:30 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222a4a-2b0\"",
+      "Content-Disposition": "attachment;filename=t187ap19.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "出表日期": "1141115",
+        "成交月份": "11410",
+        "本月新增戶數": "162078",
+        "本月註銷戶數": "17639",
+        "累計開戶數": "18933893",
+        "本月交易戶數": "4034347",
+        "本月交易人數": "4015502",
+        "委託筆數": "111911641",
+        "委託金額": "22389408661",
+        "成交筆數": "119747380",
+        "成交金額": "17239528683",
+        "平均每筆成交金額": "144",
+        "公司總成交筆數": "138054126",
+        "公司總成交金額": "20582160042",
+        "占公司成交比率(筆數)": "86.74%",
+        "占公司成交比率(金額)": "83.76%",
+        "市場成交總筆數(買賣合計)": "148646496",
+        "市場成交總金額(買賣合計)": "21791380065",
+        "占市場成交比率(筆數)": "80.56%",
+        "占市場成交比率(金額)": "79.11%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "path": "/tpex_daily_trading_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃日成交量值指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_daily_trading_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:35 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:41 GMT",
+      "ETag": "W/\"6921d721-881\"",
+      "Content-Disposition": "attachment;filename=tpex_daily_trading_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4917cdc50734-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TradeVolume": "888804732",
+        "TradeAmount": "115002204300",
+        "NumberOfTransactions": "819520",
+        "TPExIndex": "265.68",
+        "Change": "1.37"
+      },
+      {
+        "Date": "1141104",
+        "TradeVolume": "1038359844",
+        "TradeAmount": "132662768639",
+        "NumberOfTransactions": "989210",
+        "TPExIndex": "261.00",
+        "Change": "-4.68"
+      },
+      {
+        "Date": "1141105",
+        "TradeVolume": "991016681",
+        "TradeAmount": "131283691762",
+        "NumberOfTransactions": "954598",
+        "TPExIndex": "259.11",
+        "Change": "-1.89"
+      },
+      {
+        "Date": "1141106",
+        "TradeVolume": "976822938",
+        "TradeAmount": "130284612570",
+        "NumberOfTransactions": "888660",
+        "TPExIndex": "262.11",
+        "Change": "3.00"
+      },
+      {
+        "Date": "1141107",
+        "TradeVolume": "808313835",
+        "TradeAmount": "106876447536",
+        "NumberOfTransactions": "784978",
+        "TPExIndex": "258.86",
+        "Change": "-3.25"
+      },
+      {
+        "Date": "1141110",
+        "TradeVolume": "920449576",
+        "TradeAmount": "106101096525",
+        "NumberOfTransactions": "822302",
+        "TPExIndex": "257.26",
+        "Change": "-1.60"
+      },
+      {
+        "Date": "1141111",
+        "TradeVolume": "1058008407",
+        "TradeAmount": "126864813293",
+        "NumberOfTransactions": "951161",
+        "TPExIndex": "256.70",
+        "Change": "-0.56"
+      },
+      {
+        "Date": "1141112",
+        "TradeVolume": "1077626367",
+        "TradeAmount": "125959908950",
+        "NumberOfTransactions": "934297",
+        "TPExIndex": "258.82",
+        "Change": "2.12"
+      },
+      {
+        "Date": "1141113",
+        "TradeVolume": "1305374140",
+        "TradeAmount": "156969214048",
+        "NumberOfTransactions": "1080223",
+        "TPExIndex": "260.30",
+        "Change": "1.48"
+      },
+      {
+        "Date": "1141114",
+        "TradeVolume": "985728132",
+        "TradeAmount": "117763968568",
+        "NumberOfTransactions": "920693",
+        "TPExIndex": "256.25",
+        "Change": "-4.05"
+      },
+      {
+        "Date": "1141117",
+        "TradeVolume": "942184908",
+        "TradeAmount": "124836909674",
+        "NumberOfTransactions": "854259",
+        "TPExIndex": "255.96",
+        "Change": "-0.29"
+      },
+      {
+        "Date": "1141118",
+        "TradeVolume": "964407083",
+        "TradeAmount": "128883514222",
+        "NumberOfTransactions": "905342",
+        "TPExIndex": "250.06",
+        "Change": "-5.90"
+      },
+      {
+        "Date": "1141119",
+        "TradeVolume": "846860353",
+        "TradeAmount": "105219645744",
+        "NumberOfTransactions": "759320",
+        "TPExIndex": "246.70",
+        "Change": "-3.36"
+      },
+      {
+        "Date": "1141120",
+        "TradeVolume": "838718543",
+        "TradeAmount": "119275100342",
+        "NumberOfTransactions": "713085",
+        "TPExIndex": "252.95",
+        "Change": "6.25"
+      },
+      {
+        "Date": "1141121",
+        "TradeVolume": "985032584",
+        "TradeAmount": "119886210028",
+        "NumberOfTransactions": "900515",
+        "TPExIndex": "245.97",
+        "Change": "-6.98"
+      }
+    ]
+  }
+}

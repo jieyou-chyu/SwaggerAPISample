@@ -1,0 +1,37 @@
+{
+  "path": "/announcement/notetrans",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場公布注意累計次數異常資訊",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/announcement/notetrans",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:37:06 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "82",
+      "Last-Modified": "Thu, 15 Aug 2024 21:07:55 GMT",
+      "Connection": "keep-alive",
+      "ETag": "\"66be6e2b-52\"",
+      "Content-Disposition": "attachment;filename=notetrans.json",
+      "Accept-Ranges": "bytes"
+    },
+    "body": [
+      {
+        "Number": "0",
+        "Code": "",
+        "Name": "",
+        "RecentlyMetAttentionSecuritiesCriteria": ""
+      }
+    ]
+  }
+}

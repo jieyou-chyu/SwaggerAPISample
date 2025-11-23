@@ -1,0 +1,583 @@
+{
+  "path": "/ContractAdj",
+  "method": "GET",
+  "operationId": null,
+  "summary": "股票期貨/選擇權契約調整一覽事項",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/ContractAdj",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:15 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "11572",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:32 GMT",
+      "ETag": "\"2d34-644369e224de7\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=ContractAdj.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d4b86bc706b78-TPE"
+    },
+    "body": [
+      {
+        "Contact": "MY",
+        "StockName": "精華",
+        "StockId": "1565",
+        "CashDividend(CapitalRepayment)NTD/share": "9.5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250825"
+      },
+      {
+        "Contact": "OM",
+        "StockName": "小型精華",
+        "StockId": "1565",
+        "CashDividend(CapitalRepayment)NTD/share": "9.5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250825"
+      },
+      {
+        "Contact": "LX",
+        "StockName": "國巨",
+        "StockId": "2327",
+        "CashDividend(CapitalRepayment)NTD/share": "0",
+        "StockDividend": "0",
+        "CorporateAction": "變更面額",
+        "AdjustmentDate": "20250825"
+      },
+      {
+        "Contact": "QE",
+        "StockName": "小型國巨",
+        "StockId": "2327",
+        "CashDividend(CapitalRepayment)NTD/share": "0",
+        "StockDividend": "0",
+        "CorporateAction": "變更面額",
+        "AdjustmentDate": "20250825"
+      },
+      {
+        "Contact": "GI",
+        "StockName": "微星",
+        "StockId": "2377",
+        "CashDividend(CapitalRepayment)NTD/share": "5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250825"
+      },
+      {
+        "Contact": "PR",
+        "StockName": "宏捷科",
+        "StockId": "8086",
+        "CashDividend(CapitalRepayment)NTD/share": "1.19",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250827"
+      },
+      {
+        "Contact": "SD",
+        "StockName": "中興電",
+        "StockId": "1513",
+        "CashDividend(CapitalRepayment)NTD/share": "4.6",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "FG",
+        "StockName": "川湖",
+        "StockId": "2059",
+        "CashDividend(CapitalRepayment)NTD/share": "32.2",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "SV",
+        "StockName": "小型川湖",
+        "StockId": "2059",
+        "CashDividend(CapitalRepayment)NTD/share": "32.2",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "PJ",
+        "StockName": "台光電",
+        "StockId": "2383",
+        "CashDividend(CapitalRepayment)NTD/share": "16.5754401",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "SF",
+        "StockName": "小型台光電",
+        "StockId": "2383",
+        "CashDividend(CapitalRepayment)NTD/share": "16.5754401",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "MK",
+        "StockName": "美律",
+        "StockId": "2439",
+        "CashDividend(CapitalRepayment)NTD/share": "7.29005537",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "QT",
+        "StockName": "超豐",
+        "StockId": "2441",
+        "CashDividend(CapitalRepayment)NTD/share": "3",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "PS",
+        "StockName": "神達",
+        "StockId": "3706",
+        "CashDividend(CapitalRepayment)NTD/share": "1",
+        "StockDividend": "0.1",
+        "CorporateAction": "除權、息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "JW",
+        "StockName": "長虹",
+        "StockId": "5534",
+        "CashDividend(CapitalRepayment)NTD/share": "5.5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250828"
+      },
+      {
+        "Contact": "LR",
+        "StockName": "凱基金",
+        "StockId": "2883",
+        "CashDividend(CapitalRepayment)NTD/share": "0",
+        "StockDividend": "0.01000019",
+        "CorporateAction": "除權",
+        "AdjustmentDate": "20250829"
+      },
+      {
+        "Contact": "EZ",
+        "StockName": "台肥",
+        "StockId": "1722",
+        "CashDividend(CapitalRepayment)NTD/share": "2",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250902"
+      },
+      {
+        "Contact": "UM",
+        "StockName": "世芯-KY",
+        "StockId": "3661",
+        "CashDividend(CapitalRepayment)NTD/share": "36.47896285",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250902"
+      },
+      {
+        "Contact": "UO",
+        "StockName": "小型世芯-KY",
+        "StockId": "3661",
+        "CashDividend(CapitalRepayment)NTD/share": "36.47896285",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250902"
+      },
+      {
+        "Contact": "RO",
+        "StockName": "立端",
+        "StockId": "6245",
+        "CashDividend(CapitalRepayment)NTD/share": "4",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250902"
+      },
+      {
+        "Contact": "QQ",
+        "StockName": "僑威",
+        "StockId": "3078",
+        "CashDividend(CapitalRepayment)NTD/share": "4",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250903"
+      },
+      {
+        "Contact": "OH",
+        "StockName": "胡連",
+        "StockId": "6279",
+        "CashDividend(CapitalRepayment)NTD/share": "6",
+        "StockDividend": "0.05",
+        "CorporateAction": "除權、息",
+        "AdjustmentDate": "20250903"
+      },
+      {
+        "Contact": "CU",
+        "StockName": "中環",
+        "StockId": "2323",
+        "CashDividend(CapitalRepayment)NTD/share": "0.3",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250904"
+      },
+      {
+        "Contact": "PD",
+        "StockName": "泰博",
+        "StockId": "4736",
+        "CashDividend(CapitalRepayment)NTD/share": "10",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250904"
+      },
+      {
+        "Contact": "UB",
+        "StockName": "亞翔",
+        "StockId": "6139",
+        "CashDividend(CapitalRepayment)NTD/share": "13.88519149",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250904"
+      },
+      {
+        "Contact": "PM",
+        "StockName": "大江",
+        "StockId": "8436",
+        "CashDividend(CapitalRepayment)NTD/share": "10",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250905"
+      },
+      {
+        "Contact": "SU",
+        "StockName": "元大台灣價值高息ETF",
+        "StockId": "00940",
+        "CashDividend(CapitalRepayment)NTD/share": "0.04",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250909"
+      },
+      {
+        "Contact": "GJ",
+        "StockName": "瑞昱",
+        "StockId": "2379",
+        "CashDividend(CapitalRepayment)NTD/share": "25.5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250910"
+      },
+      {
+        "Contact": "QG",
+        "StockName": "小型瑞昱",
+        "StockId": "2379",
+        "CashDividend(CapitalRepayment)NTD/share": "25.5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250910"
+      },
+      {
+        "Contact": "UK",
+        "StockName": "國泰20年美債ETF",
+        "StockId": "00687B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.3",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250916"
+      },
+      {
+        "Contact": "SQ",
+        "StockName": "中信高評級公司債ETF",
+        "StockId": "00772B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.129",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250916"
+      },
+      {
+        "Contact": "SM",
+        "StockName": "群益台灣精選高息ETF",
+        "StockId": "00919",
+        "CashDividend(CapitalRepayment)NTD/share": "0.54",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250916"
+      },
+      {
+        "Contact": "UJ",
+        "StockName": "群益ESG投等債20+ETF",
+        "StockId": "00937B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.072",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250916"
+      },
+      {
+        "Contact": "CD",
+        "StockName": "台積電",
+        "StockId": "2330",
+        "CashDividend(CapitalRepayment)NTD/share": "5.00001754",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250916"
+      },
+      {
+        "Contact": "QF",
+        "StockName": "小型台積電",
+        "StockId": "2330",
+        "CashDividend(CapitalRepayment)NTD/share": "5.00001754",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250916"
+      },
+      {
+        "Contact": "SN",
+        "StockName": "復華台灣科技優息ETF",
+        "StockId": "00929",
+        "CashDividend(CapitalRepayment)NTD/share": "0.08",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250917"
+      },
+      {
+        "Contact": "UU",
+        "StockName": "台灣虎航",
+        "StockId": "6757",
+        "CashDividend(CapitalRepayment)NTD/share": "6.05",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250918"
+      },
+      {
+        "Contact": "EP",
+        "StockName": "亞德客-KY",
+        "StockId": "1590",
+        "CashDividend(CapitalRepayment)NTD/share": "19.54836001",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250923"
+      },
+      {
+        "Contact": "GW",
+        "StockName": "義隆",
+        "StockId": "2458",
+        "CashDividend(CapitalRepayment)NTD/share": "2.644548",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20250925"
+      },
+      {
+        "Contact": "HL",
+        "StockName": "興富發",
+        "StockId": "2542",
+        "CashDividend(CapitalRepayment)NTD/share": "2",
+        "StockDividend": "0.05",
+        "CorporateAction": "除權、息",
+        "AdjustmentDate": "20250925"
+      },
+      {
+        "Contact": "CE",
+        "StockName": "富邦金",
+        "StockId": "2881",
+        "CashDividend(CapitalRepayment)NTD/share": "0",
+        "StockDividend": "0.025",
+        "CorporateAction": "除權",
+        "AdjustmentDate": "20250925"
+      },
+      {
+        "Contact": "NI",
+        "StockName": "晟德",
+        "StockId": "4123",
+        "CashDividend(CapitalRepayment)NTD/share": "0.76039306",
+        "StockDividend": "0.05069287",
+        "CorporateAction": "除權、息",
+        "AdjustmentDate": "20251003"
+      },
+      {
+        "Contact": "CW",
+        "StockName": "佳世達",
+        "StockId": "2352",
+        "CashDividend(CapitalRepayment)NTD/share": "1.8",
+        "StockDividend": "0",
+        "CorporateAction": "減資退還現金",
+        "AdjustmentDate": "20251007"
+      },
+      {
+        "Contact": "HA",
+        "StockName": "瑞軒",
+        "StockId": "2489",
+        "CashDividend(CapitalRepayment)NTD/share": "1.02941176",
+        "StockDividend": "0",
+        "CorporateAction": "減資退還現金",
+        "AdjustmentDate": "20251007"
+      },
+      {
+        "Contact": "SU",
+        "StockName": "元大台灣價值高息ETF",
+        "StockId": "00940",
+        "CashDividend(CapitalRepayment)NTD/share": "0.04",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251008"
+      },
+      {
+        "Contact": "SQ",
+        "StockName": "中信高評級公司債ETF",
+        "StockId": "00772B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.132",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251020"
+      },
+      {
+        "Contact": "UJ",
+        "StockName": "群益ESG投等債20+ETF",
+        "StockId": "00937B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.072",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251020"
+      },
+      {
+        "Contact": "SN",
+        "StockName": "復華台灣科技優息ETF",
+        "StockId": "00929",
+        "CashDividend(CapitalRepayment)NTD/share": "0.08",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251021"
+      },
+      {
+        "Contact": "PF",
+        "StockName": "元大高股息ETF",
+        "StockId": "0056",
+        "CashDividend(CapitalRepayment)NTD/share": "0.866",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251023"
+      },
+      {
+        "Contact": "SS",
+        "StockName": "小型元大高股息ETF",
+        "StockId": "0056",
+        "CashDividend(CapitalRepayment)NTD/share": "0.866",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251023"
+      },
+      {
+        "Contact": "SI",
+        "StockName": "元大美債1-3ETF",
+        "StockId": "00719B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.29",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251023"
+      },
+      {
+        "Contact": "HA",
+        "StockName": "瑞軒",
+        "StockId": "2489",
+        "CashDividend(CapitalRepayment)NTD/share": "0.5",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251027"
+      },
+      {
+        "Contact": "SU",
+        "StockName": "元大台灣價值高息ETF",
+        "StockId": "00940",
+        "CashDividend(CapitalRepayment)NTD/share": "0.04",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251106"
+      },
+      {
+        "Contact": "HH",
+        "StockName": "中工",
+        "StockId": "2515",
+        "CashDividend(CapitalRepayment)NTD/share": "0",
+        "StockDividend": "0.0503",
+        "CorporateAction": "除權",
+        "AdjustmentDate": "20251110"
+      },
+      {
+        "Contact": "IR",
+        "StockName": "欣興",
+        "StockId": "3037",
+        "CashDividend(CapitalRepayment)NTD/share": "0",
+        "StockDividend": "0",
+        "CorporateAction": "現增",
+        "AdjustmentDate": "20251114"
+      },
+      {
+        "Contact": "SQ",
+        "StockName": "中信高評級公司債ETF",
+        "StockId": "00772B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.132",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251118"
+      },
+      {
+        "Contact": "RI",
+        "StockName": "國泰永續高股息ETF",
+        "StockId": "00878",
+        "CashDividend(CapitalRepayment)NTD/share": "0.4",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251118"
+      },
+      {
+        "Contact": "UJ",
+        "StockName": "群益ESG投等債20+ETF",
+        "StockId": "00937B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.072",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251118"
+      },
+      {
+        "Contact": "SN",
+        "StockName": "復華台灣科技優息ETF",
+        "StockId": "00929",
+        "CashDividend(CapitalRepayment)NTD/share": "0.09",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251119"
+      },
+      {
+        "Contact": "RZ",
+        "StockName": "元大美債20年ETF",
+        "StockId": "00679B",
+        "CashDividend(CapitalRepayment)NTD/share": "0.28",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20251121"
+      },
+      {
+        "Contact": "MA",
+        "StockName": "葡萄王",
+        "StockId": "1707",
+        "CashDividend(CapitalRepayment)NTD/share": "2.2",
+        "StockDividend": "0",
+        "CorporateAction": "除息",
+        "AdjustmentDate": "20260108"
+      }
+    ]
+  }
+}

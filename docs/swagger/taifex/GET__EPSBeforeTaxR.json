@@ -1,0 +1,44 @@
+{
+  "path": "/EPSBeforeTaxR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "複委託期貨商每股稅前盈餘統計表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/EPSBeforeTaxR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:44 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "272",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:03 GMT",
+      "ETag": "\"110-6443698dbba62\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=EPSBeforeTaxR.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50a5ec344a18-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "R201",
+        "FCMName": "美商愛德盟期貨經紀股份有限公司台灣分公司",
+        "NetIncomeBeforeTax": "4001867",
+        "AccumulatedIncomeBeforeTax": "42650317",
+        "Shares": "5000000",
+        "EPS-NetIncomeBeforeTax": "0.8",
+        "EPS-AccumulatedIncomeBeforeTax": "8.53"
+      }
+    ]
+  }
+}

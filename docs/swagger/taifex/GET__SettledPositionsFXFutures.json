@@ -1,0 +1,50 @@
+{
+  "path": "/SettledPositionsFXFutures",
+  "method": "GET",
+  "operationId": null,
+  "summary": "到期契約履約交割-匯率期貨類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SettledPositionsFXFutures",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:00 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "336",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:57 GMT",
+      "ETag": "\"150-644369c17d659\"",
+      "Content-Disposition": "attachment; filename=SettledPositionsFXFutures.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d5103ae968f06-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "美元兌人民幣期貨",
+        "Contract": "RHF",
+        "Long(lot)": "50",
+        "Short(lot)": "50"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "ContractDeliveryMonth": "202511",
+        "ContractName": "小型美元兌人民幣期貨",
+        "Contract": "RTF",
+        "Long(lot)": "26",
+        "Short(lot)": "26"
+      }
+    ]
+  }
+}

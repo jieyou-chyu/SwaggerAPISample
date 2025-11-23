@@ -1,0 +1,68 @@
+{
+  "path": "/tpex_gisa_financing_in_process",
+  "method": "GET",
+  "operationId": null,
+  "summary": "創櫃板辦理中籌資資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_gisa_financing_in_process",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:33 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Tue, 28 Oct 2025 08:03:49 GMT",
+      "ETag": "W/\"690078e5-401\"",
+      "Content-Disposition": "attachment;filename=tpex_gisa_financing_in_process.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4a81fef9ae64-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141028",
+        "SecuritiesCompanyCode": "7670",
+        "CompanyName": "淞康",
+        "現金增資期別": "2025年第1期",
+        "發行新股種類": "普通股",
+        "籌資資金用途": "產品優化/市場行銷/營運資金",
+        "現增總股數": "30000",
+        "每股面額": "10.00",
+        "每股發行價格": "10.00",
+        "籌資金額": "300000",
+        "於創櫃板辦理籌資股數": "30000",
+        "已認購股數": "43000",
+        "認購率": "143.33%",
+        "僅限天使投資人認購": "否",
+        "決定認購人名單方式": "依公司意願",
+        "認購期間": "20250411~20250417",
+        "繳款期間": "20250425~20250502",
+        "委託代收價款行庫": "第一銀行丹&#40175;分行",
+        "股務代理機構": "第一金證券股份有限公司",
+        "是否印製實體股票": "是",
+        "籌資計畫": "https://mopsov.twse.com.tw/serverjava/FileDownLoad?step=9&functionName=loginFotc1&fileName=7670t175sa01A11401Y20250321.pdf&filePath=/home/html/nas/protect/t175/",
+        "點選認購申請": "",
+        "產業類別": "生技醫療",
+        "推薦或出具創新創意意見書單位": "新北市政府",
+        "備註": "第一次認購"
+      }
+    ]
+  }
+}

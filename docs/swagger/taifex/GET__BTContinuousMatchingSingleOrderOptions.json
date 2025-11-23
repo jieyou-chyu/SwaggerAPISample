@@ -1,0 +1,43 @@
+{
+  "path": "/BTContinuousMatchingSingleOrderOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易逐筆撮合之單式委託成交-選擇權商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BTContinuousMatchingSingleOrderOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:32 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "143",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:17 GMT",
+      "ETag": "\"8f-64436961b6a64\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=BTContinuousMatchingSingleOrderOptions.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50561cf48273-TPE"
+    },
+    "body": [
+      {
+        "Date": "20121214",
+        "Contract": "TXO",
+        "ContractMonth(Week)": "201302",
+        "StrikePrice": "7800",
+        "CallPut": "賣權",
+        "TradePrice": "245",
+        "Volume": "500"
+      }
+    ]
+  }
+}

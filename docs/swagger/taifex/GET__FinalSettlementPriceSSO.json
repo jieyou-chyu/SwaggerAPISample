@@ -1,0 +1,370 @@
+{
+  "path": "/FinalSettlementPriceSSO",
+  "method": "GET",
+  "operationId": null,
+  "summary": "最後結算價-股票選擇權",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FinalSettlementPriceSSO",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:47 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "7594",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:13 GMT",
+      "ETag": "\"1daa-644369974f1bd\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=FinalSettlementPriceSSO.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50b63e22826b-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CAO",
+        "ContractName": "南亞選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "53.84"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CBO",
+        "ContractName": "中鋼選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "17.67"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CCO",
+        "ContractName": "聯電選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "44.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CDO",
+        "ContractName": "台積電選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1400.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CEA",
+        "ContractName": "富邦金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "88.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CEO",
+        "ContractName": "富邦金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "88.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CFO",
+        "ContractName": "台塑選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "40.18"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CGO",
+        "ContractName": "仁寶選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.23"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CHO",
+        "ContractName": "友達選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "11.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CJO",
+        "ContractName": "華南金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "28.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CKO",
+        "ContractName": "國泰金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "64.31"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CLO",
+        "ContractName": "兆豐金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "39.03"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CMO",
+        "ContractName": "台新新光金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "18.37"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CNO",
+        "ContractName": "中信金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "42.82"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CQO",
+        "ContractName": "統一選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "75.08"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CRO",
+        "ContractName": "遠東新選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.83"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CSO",
+        "ContractName": "華新選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.04"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "CZO",
+        "ContractName": "長榮選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "179.93"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DCO",
+        "ContractName": "彰銀選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "19.8"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DEO",
+        "ContractName": "永豐金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.41"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DFO",
+        "ContractName": "台泥選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "20.38"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DGO",
+        "ContractName": "台化選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "31.65"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DHO",
+        "ContractName": "鴻海選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "227.72"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DJO",
+        "ContractName": "華碩選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "567.16"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DKO",
+        "ContractName": "廣達選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "267.34"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DLO",
+        "ContractName": "中華電選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "131.11"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DNO",
+        "ContractName": "玉山金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "29.92"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DOO",
+        "ContractName": "元大金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "34.74"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DPO",
+        "ContractName": "第一金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.86"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DQO",
+        "ContractName": "群創選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "12.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DSO",
+        "ContractName": "宏碁選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "27.52"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DVO",
+        "ContractName": "聯發科選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "1159.61"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "DXO",
+        "ContractName": "緯創選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "136.35"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GIO",
+        "ContractName": "微星選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "101.69"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "GXO",
+        "ContractName": "可成選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "207.24"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HCO",
+        "ContractName": "宏達電選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "48.57"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "HSO",
+        "ContractName": "長榮航選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "33.39"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IJO",
+        "ContractName": "大立光選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "2072.31"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "IRO",
+        "ContractName": "欣興選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "160.71"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "LOO",
+        "ContractName": "合庫金選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "23.82"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "NYO",
+        "ContractName": "元大台灣50ETF選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "59.97"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OAO",
+        "ContractName": "富邦上証ETF選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "38.12"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OBO",
+        "ContractName": "元大上證50ETF選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "35.76"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OJO",
+        "ContractName": "國泰中國A50ETF選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "26.33"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OKO",
+        "ContractName": "富邦深100ETF選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "14.54"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OOO",
+        "ContractName": "群益深証中小ETF選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "15.96"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "OZO",
+        "ContractName": "日月光投控選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "207.11"
+      },
+      {
+        "TheFinalSettlementDay": "20251119",
+        "Contract": "QBO",
+        "ContractName": "富采選擇權",
+        "ContractDeliveryMonth": "202511",
+        "TheFinalSettlementPrice": "31.28"
+      }
+    ]
+  }
+}

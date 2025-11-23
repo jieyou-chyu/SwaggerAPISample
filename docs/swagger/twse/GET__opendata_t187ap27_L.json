@@ -1,0 +1,30 @@
+{
+  "path": "/opendata/t187ap27_L",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap27_L",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:37:07 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "4",
+      "Last-Modified": "Sat, 22 Nov 2025 21:28:01 GMT",
+      "Connection": "keep-alive",
+      "ETag": "\"69222ae1-4\"",
+      "Content-Disposition": "attachment;filename=t187ap27_L.json",
+      "Accept-Ranges": "bytes"
+    },
+    "body": []
+  }
+}

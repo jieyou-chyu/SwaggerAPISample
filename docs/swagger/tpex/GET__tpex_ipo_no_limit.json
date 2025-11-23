@@ -1,0 +1,56 @@
+{
+  "path": "/tpex_ipo_no_limit",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃首五日無漲跌幅資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_ipo_no_limit",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:47 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:48 GMT",
+      "ETag": "W/\"6921d7a0-1a4\"",
+      "Content-Disposition": "attachment;filename=tpex_ipo_no_limit.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49625b6c4a63-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141028",
+        "SecuritiesCompanyCode": "7782",
+        "CompanyName": "光速火箭",
+        "StartDateForStabilizationOperation": "1141028",
+        "EndDateForStabilizationOperation": "1141103",
+        "UnderwritingPrice": "32.50",
+        "OverAllotmentShares": "168,000",
+        "TransactionType": "主辦承銷商自營商帳戶",
+        "Underwriter": "5920 元富",
+        "TradingType": "賣",
+        "TradingPrice": "33.25",
+        "TradingVolume": "236",
+        "CurrentDayCumulativeTradingVolume": "236"
+      }
+    ]
+  }
+}

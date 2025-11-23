@@ -1,0 +1,181 @@
+{
+  "path": "/tpex_margin_trading_margin_used",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃融資融券使用率報表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_margin_trading_margin_used",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:32 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:04 GMT",
+      "ETag": "W/\"6921d738-863\"",
+      "Content-Disposition": "attachment;filename=tpex_margin_trading_margin_used.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49042cd1a9c7-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Rank": "1",
+        "SecuritiesCompanyCode": "3252",
+        "CompanyName": "海灣",
+        "UsageRatio": "95.68"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "2",
+        "SecuritiesCompanyCode": "8097",
+        "CompanyName": "常珵",
+        "UsageRatio": "79.41"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "3",
+        "SecuritiesCompanyCode": "4991",
+        "CompanyName": "環宇-KY",
+        "UsageRatio": "72.62"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "4",
+        "SecuritiesCompanyCode": "6877",
+        "CompanyName": "鏵友益",
+        "UsageRatio": "65.05"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "5",
+        "SecuritiesCompanyCode": "1586",
+        "CompanyName": "和勤",
+        "UsageRatio": "64.83"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "6",
+        "SecuritiesCompanyCode": "3290",
+        "CompanyName": "東浦",
+        "UsageRatio": "62.79"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "7",
+        "SecuritiesCompanyCode": "5201",
+        "CompanyName": "凱衛",
+        "UsageRatio": "62.79"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "8",
+        "SecuritiesCompanyCode": "3230",
+        "CompanyName": "錦明",
+        "UsageRatio": "60.79"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "9",
+        "SecuritiesCompanyCode": "3466",
+        "CompanyName": "德晉",
+        "UsageRatio": "60.65"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "10",
+        "SecuritiesCompanyCode": "3516",
+        "CompanyName": "亞帝歐",
+        "UsageRatio": "57.76"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "11",
+        "SecuritiesCompanyCode": "3224",
+        "CompanyName": "三顧",
+        "UsageRatio": "57.61"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "12",
+        "SecuritiesCompanyCode": "6143",
+        "CompanyName": "振曜",
+        "UsageRatio": "57.18"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "13",
+        "SecuritiesCompanyCode": "5902",
+        "CompanyName": "德記",
+        "UsageRatio": "56.21"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "14",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        "UsageRatio": "54.98"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "15",
+        "SecuritiesCompanyCode": "3163",
+        "CompanyName": "波若威",
+        "UsageRatio": "54.54"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "16",
+        "SecuritiesCompanyCode": "5439",
+        "CompanyName": "高技",
+        "UsageRatio": "53.6"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "17",
+        "SecuritiesCompanyCode": "1569",
+        "CompanyName": "濱川",
+        "UsageRatio": "48.89"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "18",
+        "SecuritiesCompanyCode": "4931",
+        "CompanyName": "新盛力",
+        "UsageRatio": "48.75"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "19",
+        "SecuritiesCompanyCode": "6179",
+        "CompanyName": "亞通",
+        "UsageRatio": "47.67"
+      },
+      {
+        "Date": "1141121",
+        "Rank": "20",
+        "SecuritiesCompanyCode": "8111",
+        "CompanyName": "立碁",
+        "UsageRatio": "47.43"
+      }
+    ]
+  }
+}

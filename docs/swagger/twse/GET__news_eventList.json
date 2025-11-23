@@ -1,0 +1,276 @@
+{
+  "path": "/news/eventList",
+  "method": "GET",
+  "operationId": null,
+  "summary": "證交所活動訊息",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/news/eventList",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:25 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:20:03 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222903-2585\"",
+      "Content-Disposition": "attachment;filename=eventList.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "No": "1",
+        "Title": "114年度「證券期貨事業法令遵循人員在職訓練」課程",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69a3d6cf9019a9ff183a30249"
+      },
+      {
+        "No": "2",
+        "Title": "114年度證券商負責人業務座談會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69a3d6cf9019a9f5405500244"
+      },
+      {
+        "No": "3",
+        "Title": "114年度第四季證券承銷商業務宣導會(114.12.19)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69a3d6cf9019a801942960165"
+      },
+      {
+        "No": "4",
+        "Title": "「創新引領未來：多元技術與市場拓展之路」     創新板公司法人說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69a3d6cf9019a762c1181013c"
+      },
+      {
+        "No": "5",
+        "Title": "證券商金融零信任會議（114年11月18日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf151019a2357e3f90400"
+      },
+      {
+        "No": "6",
+        "Title": "114年證券經紀商及自營商高階主管業務宣導會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf151019a0acbbfd403d4"
+      },
+      {
+        "No": "7",
+        "Title": "2025年上市公司辦理法人說明會(11月1日至11月30日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf151019a0a83d1c70395"
+      },
+      {
+        "No": "8",
+        "Title": "114年下半年度證券商從業人員反詐騙宣導座談會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf1510199ff99b2190351"
+      },
+      {
+        "No": "9",
+        "Title": "114年度中南部地區證券承銷商業務宣導會(114.11.20-11.21)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf1510199dcc9e218027c"
+      },
+      {
+        "No": "10",
+        "Title": " 114年度(下半年)證券商從業人員法規及業務宣導課程",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf15101997fe99de70128"
+      },
+      {
+        "No": "11",
+        "Title": "2025年上市公司辦理法人說明會(10月1日至10月31日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf15101997456046100f3"
+      },
+      {
+        "No": "12",
+        "Title": "114年度上市公司業務宣導會(114.10.22~114.11.25)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf15101995af5090300b1"
+      },
+      {
+        "No": "13",
+        "Title": "114年度「證券商從業人員有價證券借貸暨款項借貸」宣導說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6993bf15101995af09b2b00ac"
+      },
+      {
+        "No": "14",
+        "Title": "推動證券商導入金融零信任架構作業說明會（114年9月23日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f019931484be60502"
+      },
+      {
+        "No": "15",
+        "Title": "2025年上市公司辦理法人說明會(9月1日至9月30日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f0198f52a6a5b03de"
+      },
+      {
+        "No": "16",
+        "Title": "114年度第三季證券承銷商業務宣導會(114.09.16)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f0198cb5836bf0344"
+      },
+      {
+        "No": "17",
+        "Title": "權證宣導說明會(114年9月2日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f0198ac57a8a002e5"
+      },
+      {
+        "No": "18",
+        "Title": "推動證券商導入金融零信任架構作業說明會（114年8月26日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f01989c1ed525028f"
+      },
+      {
+        "No": "19",
+        "Title": "114年「印刷電路板(PCB)產業鏈」主題式業績發表會及產業講座（8月18日至8月19日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f019873d9287e01f5"
+      },
+      {
+        "No": "20",
+        "Title": "2025年上市公司辦理法人說明會(8月1日至8月31日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697fc438f01982f900f7600bd"
+      },
+      {
+        "No": "21",
+        "Title": "推動證券商導入金融零信任架構作業說明會（114年7月22日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697769dcf0197e8b6af89019e"
+      },
+      {
+        "No": "22",
+        "Title": "2025年上市公司辦理法人說明會(7月1日至7月31日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d697769dcf01979fcf8dd10096"
+      },
+      {
+        "No": "23",
+        "Title": "「創新引領未來:多元技術與市場拓展之路」創新板公司法人說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69734b5c30197680e2781013c"
+      },
+      {
+        "No": "24",
+        "Title": "推動證券商導入金融零信任架構作業說明會（114年6月24日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69734b5c30197631dfff40122"
+      },
+      {
+        "No": "25",
+        "Title": "114年度證券商從業人員反詐騙宣導座談會(114年6月30日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69734b5c3019742b423fb003f"
+      },
+      {
+        "No": "26",
+        "Title": "114年度第二季證券承銷商業務宣導會(114.6.25)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d696fb094001972fc11ce3008b"
+      },
+      {
+        "No": "27",
+        "Title": "2025年上市公司辦理法人說明會(6月1日至6月30日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d696fb094001972e56fda90063"
+      },
+      {
+        "No": "28",
+        "Title": "114年投資講座（6月10日至12月5日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d696fb094001971a18cfd20044"
+      },
+      {
+        "No": "29",
+        "Title": "114年證券商資安成熟度評估作業說明會（即日起至5月16日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6969512ca0196a4342286001e"
+      },
+      {
+        "No": "30",
+        "Title": "推動證券商導入金融零信任架構作業說明會（114年5月15日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6969512ca01969f296cfa000a"
+      },
+      {
+        "No": "31",
+        "Title": "114年度證券商結算交割、錯帳違約申報及申購競拍業務宣導說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69642659a019679f261e800e3"
+      },
+      {
+        "No": "32",
+        "Title": "114年度(上半年)證券商從業人員法規及業務宣導課程",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69642659a0196603cfec6007d"
+      },
+      {
+        "No": "33",
+        "Title": "2025年上市公司辦理法人說明會(5月1日至5月31日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69642659a01965b5f01d6002e"
+      },
+      {
+        "No": "34",
+        "Title": "114年「Touch Taiwan系列展」(智慧顯示、智慧製造及電子生產製造設備業)」主題式業績發表會（4月16日至4月17日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d695c717e00195d6b4ba8e0033"
+      },
+      {
+        "No": "35",
+        "Title": "114年度證券商內部控制制度標準規範宣導說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d695c717e00195d05fb2560021"
+      },
+      {
+        "No": "36",
+        "Title": "2025年上市公司辦理法人說明會(4月1日至4月30日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d695c717e00195c752c2b90005"
+      },
+      {
+        "No": "37",
+        "Title": "推動證券商導入金融零信任架構作業說明會-概論（114年3月31日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6956a7ba20195a85e86510143"
+      },
+      {
+        "No": "38",
+        "Title": "推動證券商導入金融零信任架構作業問卷說明會（114年3月12日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69517ec0c019544fdea4800bf"
+      },
+      {
+        "No": "39",
+        "Title": "114年度第一季證券承銷商業務宣導會(114.3.13)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69517ec0c019527c2d7620065"
+      },
+      {
+        "No": "40",
+        "Title": "2025年上市公司辦理法人說明會(3月1日至3月31日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69517ec0c01952766085a003b"
+      },
+      {
+        "No": "41",
+        "Title": "「縮短初次上市(櫃)採部分競價拍賣及部分公開申購承銷配售時程」 證券商宣導說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d69517ec0c019526405bca002f"
+      },
+      {
+        "No": "42",
+        "Title": "「開放外資得指定二家以上保管機構作業說明」宣導會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6942a222b0194d928bc2201fe"
+      },
+      {
+        "No": "43",
+        "Title": "2025年上市公司辦理法人說明會(2月1日至2月28日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6942a222b01948c045b3e01a1"
+      },
+      {
+        "No": "44",
+        "Title": "114年1月份創新板公司法人說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6942a222b01942b4810c00017"
+      },
+      {
+        "No": "45",
+        "Title": "114年證券商資通安全會議（即日起至12月31日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6937afbb901939aaa9e6900e0"
+      },
+      {
+        "No": "46",
+        "Title": "「調升交割結算基金證券商機動提撥增繳金額標準」說明會",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6937afbb90193945bd7650085"
+      },
+      {
+        "No": "47",
+        "Title": "推動證券商導入金融零信任架構作業說明會（114年1月03日）",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6937afbb901938f7603b20040"
+      },
+      {
+        "No": "48",
+        "Title": "113年度第四季證券承銷商業務宣導會(113.12.25)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6937afbb901938f391221003b"
+      },
+      {
+        "No": "49",
+        "Title": "2024年上市公司辦理法人說明會(12月1日至12月31日)",
+        "Details": "https://www.twse.com.tw/zh/about/news/event/content.html?8a8216d6933460a40193663c021b0113"
+      }
+    ]
+  }
+}

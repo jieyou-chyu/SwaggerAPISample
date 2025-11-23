@@ -1,0 +1,91 @@
+{
+  "path": "/exchangeReport/TWT85U",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場證券變更交易",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/TWT85U",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:43 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:23:42 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229de-338\"",
+      "Content-Disposition": "attachment;filename=TWT85U.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Code": "1213",
+        "Name": "大飲",
+        "PeriodicCallAuctionTrading": "  "
+      },
+      {
+        "Code": "1538",
+        "Name": "正峰",
+        "PeriodicCallAuctionTrading": "  "
+      },
+      {
+        "Code": "2314",
+        "Name": "台揚",
+        "PeriodicCallAuctionTrading": "**"
+      },
+      {
+        "Code": "2321",
+        "Name": "東訊",
+        "PeriodicCallAuctionTrading": "  "
+      },
+      {
+        "Code": "2380",
+        "Name": "虹光",
+        "PeriodicCallAuctionTrading": "**"
+      },
+      {
+        "Code": "2911",
+        "Name": "麗嬰房",
+        "PeriodicCallAuctionTrading": "**"
+      },
+      {
+        "Code": "3018",
+        "Name": "隆銘綠能",
+        "PeriodicCallAuctionTrading": "**"
+      },
+      {
+        "Code": "3593",
+        "Name": "力銘",
+        "PeriodicCallAuctionTrading": "**"
+      },
+      {
+        "Code": "4943",
+        "Name": "康控-KY",
+        "PeriodicCallAuctionTrading": "**"
+      },
+      {
+        "Code": "6225",
+        "Name": "天瀚",
+        "PeriodicCallAuctionTrading": "  "
+      },
+      {
+        "Code": "8101",
+        "Name": "華冠",
+        "PeriodicCallAuctionTrading": "  "
+      },
+      {
+        "Code": "9110",
+        "Name": "越南控-DR",
+        "PeriodicCallAuctionTrading": "  "
+      }
+    ]
+  }
+}

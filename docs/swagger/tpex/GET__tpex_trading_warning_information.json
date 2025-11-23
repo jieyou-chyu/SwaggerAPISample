@@ -1,0 +1,145 @@
+{
+  "path": "/tpex_trading_warning_information",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公布注意股票資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_trading_warning_information",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:20 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:16 GMT",
+      "ETag": "W/\"6921d708-101e\"",
+      "Content-Disposition": "attachment;filename=tpex_trading_warning_information.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48b98a034a40-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        "TradingInformation": "最近六個營業日(含當日)起迄兩個營業日之最後成交價價差達新臺幣109元(第十一款)",
+        "ClosePrice": "881.00",
+        "PriceEarningRatio": "38.40"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        "TradingInformation": "最近六個營業日(自當日之前一個營業日起)之當日沖銷成交量占總成交量比率達62.94%，當日之前一個營業日當日沖銷成交量占總成交量達73.71%（第十三款)",
+        "ClosePrice": "52.60",
+        "PriceEarningRatio": "32.67"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3710",
+        "CompanyName": "連展投控",
+        "TradingInformation": "最近六個營業日(含當日)累積之最後成交價跌幅達38.02%(第一款)當日之成交量較最近六十個營業日日平均成交量放大7.72倍(第三款)",
+        "ClosePrice": "5.43",
+        "PriceEarningRatio": "N/A"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        "TradingInformation": "最近六個營業日(自當日之前一個營業日起)之當日沖銷成交量占總成交量比率達67.25%，當日之前一個營業日當日沖銷成交量占總成交量達72.49%（第十三款)",
+        "ClosePrice": "43.30",
+        "PriceEarningRatio": "N/A"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        "TradingInformation": "最近六個營業日(自當日之前一個營業日起)之當日沖銷成交量占總成交量比率達61.86%，當日之前一個營業日當日沖銷成交量占總成交量達68.23%（第十三款)",
+        "ClosePrice": "493.50",
+        "PriceEarningRatio": "32.75"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5355",
+        "CompanyName": "佳總",
+        "TradingInformation": "最近六個營業日(含當日)累積之最後成交價跌幅達40.8%(第一款)",
+        "ClosePrice": "5.62",
+        "PriceEarningRatio": "N/A"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6163",
+        "CompanyName": "華電網",
+        "TradingInformation": "最近六個營業日(含當日)之累積週轉率為83.53%，當日週轉率達19.42%(第十款)",
+        "ClosePrice": "33.25",
+        "PriceEarningRatio": "37.36"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "TradingInformation": "最近六個營業日(自當日之前一個營業日起)之當日沖銷成交量占總成交量比率達66.62%，當日之前一個營業日當日沖銷成交量占總成交量達73.29%（第十三款)",
+        "ClosePrice": "50.90",
+        "PriceEarningRatio": "159.06"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "TradingInformation": "最近六個營業日(含當日)累積之最後成交價漲幅達34.27%(第一款)最近六十個營業日(含當日)起迄兩個營業日之最後成交價漲幅達212.01%(第二款)最近九十個營業日(含當日)起迄兩個營業日之最後成交價漲幅達208.53%(第二款)當日週轉率達58.42%(第四款)",
+        "ClosePrice": "80.50",
+        "PriceEarningRatio": "1610.00"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8048",
+        "CompanyName": "德勝",
+        "TradingInformation": "最近六個營業日(含當日)累積之最後成交價漲幅達27.91%，當日之成交量較最近六十個營業日日平均成交量放大20.87倍(第三款)當日週轉率達19.81%(第四款)",
+        "ClosePrice": "63.10",
+        "PriceEarningRatio": "25.76"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        "TradingInformation": "最近六個營業日(自當日之前一個營業日起)之當日沖銷成交量占總成交量比率達65.53%，當日之前一個營業日當日沖銷成交量占總成交量達65.66%（第十三款)",
+        "ClosePrice": "39.05",
+        "PriceEarningRatio": "30.51"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8277",
+        "CompanyName": "商丞",
+        "TradingInformation": "最近六個營業日(含當日)累積之最後成交價跌幅達47.02%(第一款)",
+        "ClosePrice": "10.05",
+        "PriceEarningRatio": "N/A"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        "TradingInformation": "當日本益比為66.76、股價淨值比為8.24且為其所屬產業類別股價淨值比之3.1倍、當日週轉率達27.64%(第六款)",
+        "ClosePrice": "233.00",
+        "PriceEarningRatio": "66.76"
+      }
+    ]
+  }
+}

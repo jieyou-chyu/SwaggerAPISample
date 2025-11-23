@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SwaggerAPI JSON 檢視器</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "PingFang TC", "Microsoft JhengHei", sans-serif; margin: 0; background:#f7f7f8; color:#222; }
+    header { background: #0d6efd; color: #fff; padding: 16px 24px; }
+    header h1 { margin: 0; font-size: 18px; }
+    main { padding: 16px 24px; }
+    .card { background:#fff; border-radius:12px; box-shadow: 0 2px 8px rgba(0,0,0,.06); padding:16px; margin-bottom:16px; }
+    label { display:block; margin:8px 0 4px; font-weight:600; }
+    select, input[type="text"] { width:100%; padding:8px; border:1px solid #ccc; border-radius:8px; }
+    button { background:#0d6efd; color:#fff; border:none; border-radius:8px; padding:8px 12px; margin-right:8px; cursor:pointer; }
+    button.secondary { background:#6c757d; }
+    button:disabled { opacity:.6; cursor:not-allowed; }
+    table { width:100%; border-collapse: collapse; margin-top:12px; }
+    th, td { border:1px solid #e5e5e5; padding:6px 8px; text-align:left; font-size:13px; }
+    th { background:#f0f4ff; }
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap:16px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+    .muted { color:#666; font-size:12px; }
+    .list { max-height:300px; overflow:auto; border:1px solid #eee; border-radius:8px; }
+    .list-item { padding:8px 10px; border-bottom:1px solid #f1f1f1; cursor:pointer; }
+    .list-item:hover { background:#f9fbff; }
+    .list-item.active { background:#e9f2ff; }
+    .toolbar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-top:8px; }
+    .status { margin-top:8px; font-size:12px; color:#333; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SwaggerAPISample JSON 檢視器（TWSE / TPEX / TAIFEX）</h1>
+  </header>
+  <main>
+    <div class="card">
+      <div class="grid">
+        <div>
+          <label>資料來源</label>
+          <select id="source">
+            <option value="twse">TWSE（證交所）</option>
+            <option value="tpex">TPEX（櫃買中心）</option>
+            <option value="taifex">TAIFEX（期交所）</option>
+            <option value="custom">自訂 JSON URL</option>
+          </select>
+          <div id="customUrlBox" style="display:none; margin-top:8px;">
+            <label>自訂 JSON URL（可輸入完整網址或相對路徑）</label>
+            <input id="customUrl" type="text" placeholder="例如：swagger/twse/some_endpoint.json 或 https://example.com/data.json">
+          </div>
+          <div class="toolbar" style="margin-top:8px;">
+            <button id="loadManifestBtn">載入可用清單</button>
+            <span class="muted">清單來源：swagger/&lt;source&gt;/manifest.json 或 summary.json</span>
+          </div>
+          <div id="manifestStatus" class="status"></div>
+          <div id="fileList" class="list" style="display:none; margin-top:8px;"></div>
+        </div>
+        <div>
+          <label>選擇或輸入要檢視的 JSON 檔</label>
+          <input id="jsonPath" type="text" placeholder="例如：swagger/twse/markets_day_all.json">
+          <div class="toolbar">
+            <button id="loadJsonBtn">載入 JSON 並渲染表格</button>
+            <button id="downloadCsvBtn" class="secondary" disabled>下載 CSV</button>
+          </div>
+          <div id="jsonStatus" class="status"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div id="tableContainer">
+        <div class="muted">尚未載入資料。請先選擇來源、載入清單，或直接輸入 JSON 路徑後按「載入 JSON」。</div>
+      </div>
+    </div>
+  </main>
+
+<script>
+const sourceEl = document.getElementById('source');
+const customUrlBox = document.getElementById('customUrlBox');
+const customUrlEl = document.getElementById('customUrl');
+const loadManifestBtn = document.getElementById('loadManifestBtn');
+const manifestStatus = document.getElementById('manifestStatus');
+const fileList = document.getElementById('fileList');
+const jsonPathEl = document.getElementById('jsonPath');
+const loadJsonBtn = document.getElementById('loadJsonBtn');
+const jsonStatus = document.getElementById('jsonStatus');
+const tableContainer = document.getElementById('tableContainer');
+const downloadCsvBtn = document.getElementById('downloadCsvBtn');
+
+sourceEl.addEventListener('change', () => {
+  const src = sourceEl.value;
+  customUrlBox.style.display = src === 'custom' ? 'block' : 'none';
+  manifestStatus.textContent = '';
+  fileList.innerHTML = '';
+  fileList.style.display = 'none';
+  jsonPathEl.value = '';
+  jsonStatus.textContent = '';
+});
+
+loadManifestBtn.addEventListener('click', async () => {
+  const src = sourceEl.value;
+  fileList.innerHTML = '';
+  fileList.style.display = 'none';
+  manifestStatus.textContent = '讀取清單中…';
+  let manifestUrl = '';
+  if (src === 'custom') {
+    manifestStatus.textContent = '自訂模式沒有清單，請直接輸入 JSON URL。';
+    return;
+  } else {
+    manifestUrl = `swagger/${src}/manifest.json`;
+  }
+  try {
+    const res = await fetch(manifestUrl);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const mani = await res.json();
+    const files = Array.isArray(mani?.files) ? mani.files : (Array.isArray(mani) ? mani : []);
+    if (!files.length) {
+      manifestStatus.textContent = '清單為空或格式不符。嘗試使用 summary.json';
+      const sumRes = await fetch('swagger/summary.json');
+      if (sumRes.ok) {
+        const sum = await sumRes.json();
+        manifestStatus.textContent = `summary.json 已載入。請於下方輸入檔名（此來源共有 ${sum?.[src]} 個端點）。`;
+      }
+      return;
+    }
+    manifestStatus.textContent = `載入清單成功，共 ${files.length} 項。點選檔名將自動填入路徑。`;
+    fileList.style.display = 'block';
+    files.forEach(name => {
+      const item = document.createElement('div');
+      item.className = 'list-item';
+      item.textContent = name;
+      item.addEventListener('click', () => {
+        document.querySelectorAll('.list-item').forEach(el => el.classList.remove('active'));
+        item.classList.add('active');
+        jsonPathEl.value = `swagger/${src}/${name}`;
+      });
+      fileList.appendChild(item);
+    });
+  } catch (e) {
+    manifestStatus.textContent = `載入清單失敗：${e.message}`;
+  }
+});
+
+loadJsonBtn.addEventListener('click', async () => {
+  let url = jsonPathEl.value.trim();
+  const src = sourceEl.value;
+  if (!url) {
+    if (src === 'custom') {
+      url = customUrlEl.value.trim();
+    } else {
+      jsonStatus.textContent = '請輸入或從清單選擇一個 JSON 檔案。';
+      return;
+    }
+  }
+  jsonStatus.textContent = '載入 JSON 中…';
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const rows = extractRows(data);
+    if (!rows.length) {
+      jsonStatus.textContent = '未找到可呈現的列資料（Array）。已顯示原始物件的鍵值。';
+      renderObject(data);
+      downloadCsvBtn.disabled = true;
+      return;
+    }
+    renderTable(rows);
+    jsonStatus.textContent = `載入成功，共 ${rows.length} 筆。`;
+    downloadCsvBtn.disabled = false;
+    downloadCsvBtn.onclick = () => downloadCsv(rows, inferFileName(url));
+  } catch (e) {
+    jsonStatus.textContent = `載入失敗：${e.message}`;
+    tableContainer.innerHTML = '<div class="muted">載入失敗。請確認路徑或稍後再試。</div>';
+    downloadCsvBtn.disabled = true;
+  }
+});
+
+function extractRows(obj) {
+  if (Array.isArray(obj)) return obj;
+  const candidates = ['data', 'records', 'payload', 'items', 'result', 'res', 'dataset', 'tables', 'table', 'List', 'Rows'];
+  for (const key of candidates) {
+    const val = obj?.[key];
+    if (Array.isArray(val)) return val;
+    // 有時候 data 在內層，例如 obj.result.data
+    if (val && typeof val === 'object') {
+      const innerCandidates = Object.values(val).find(v => Array.isArray(v));
+      if (Array.isArray(innerCandidates)) return innerCandidates;
+    }
+  }
+  // 若是物件，嘗試將每個鍵值包成一列
+  if (obj && typeof obj === 'object') {
+    return [obj];
+  }
+  return [];
+}
+
+function renderTable(rows) {
+  const cols = Array.from(rows.reduce((set, row) => {
+    Object.keys(row || {}).forEach(k => set.add(k));
+    return set;
+  }, new Set()));
+  const table = document.createElement('table');
+  const thead = document.createElement('thead');
+  const trh = document.createElement('tr');
+  cols.forEach(c => {
+    const th = document.createElement('th');
+    th.textContent = c;
+    trh.appendChild(th);
+  });
+  thead.appendChild(trh);
+  table.appendChild(thead);
+  const tbody = document.createElement('tbody');
+  rows.forEach(r => {
+    const tr = document.createElement('tr');
+    cols.forEach(c => {
+      const td = document.createElement('td');
+      let val = r?.[c];
+      if (val === null || val === undefined) val = '';
+      if (typeof val === 'object') val = JSON.stringify(val);
+      td.textContent = val;
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  tableContainer.innerHTML = '';
+  tableContainer.appendChild(table);
+}
+
+function renderObject(obj) {
+  const rows = Object.entries(obj || {}).map(([k,v]) => ({ key: k, value: typeof v === 'object' ? JSON.stringify(v) : v }));
+  renderTable(rows);
+}
+
+function downloadCsv(rows, filename = 'data.csv') {
+  const cols = Array.from(rows.reduce((set, row) => { Object.keys(row||{}).forEach(k=>set.add(k)); return set; }, new Set()));
+  const esc = v => {
+    if (v === null || v === undefined) return '';
+    v = String(v);
+    if (v.includes('"') || v.includes(',') || v.includes('\n')) {
+      return '"' + v.replaceAll('"', '""') + '"';
+    }
+    return v;
+  };
+  const lines = [];
+  lines.push(cols.join(','));
+  for (const r of rows) {
+    lines.push(cols.map(c => esc(r?.[c])).join(','));
+  }
+  const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8;' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename.endsWith('.csv') ? filename : filename + '.csv';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+}
+
+function inferFileName(url) {
+  try {
+    const u = new URL(url, window.location.href);
+    const parts = u.pathname.split('/').filter(Boolean);
+    return (parts[parts.length-1] || 'data') + '.csv';
+  } catch { return 'data.csv'; }
+}
+</script>
+</body>
+</html>

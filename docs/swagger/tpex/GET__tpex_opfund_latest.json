@@ -1,0 +1,98 @@
+{
+  "path": "/tpex_opfund_latest",
+  "method": "GET",
+  "operationId": null,
+  "summary": "開放式基金當日行情表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_opfund_latest",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:11 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:39 GMT",
+      "ETag": "W/\"6921d71f-43a\"",
+      "Content-Disposition": "attachment;filename=tpex_opfund_latest.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49fbee29825e-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "Time": "163004",
+        "SecurityCode": "T1001Y",
+        "ListedOpenEndedFund": "富邦FB",
+        "PreNAV": "32.69",
+        "EstimatedNAV": "https://www.fubon.com/asset-management/Home/EmergingStockAdvert",
+        "Pre Avg.": "31.35",
+        "B.Price": "30.4",
+        "B.Qty.": "2000",
+        "S.Price": "32",
+        "S.Qty.": "2000",
+        "Highest": "-",
+        "Lowest": "-",
+        "Avg.": "-",
+        "LatestPrice": "-",
+        "Type": "",
+        "Volume": "-"
+      },
+      {
+        "Date": "1141121",
+        "Time": "163004",
+        "SecurityCode": "T1010Y",
+        "ListedOpenEndedFund": "精銳FB",
+        "PreNAV": "56.52",
+        "EstimatedNAV": "https://www.fubon.com/asset-management/Home/EmergingStockAdvert",
+        "Pre Avg.": "55.5",
+        "B.Price": "52.25",
+        "B.Qty.": "2000",
+        "S.Price": "55",
+        "S.Qty.": "2000",
+        "Highest": "54.5",
+        "Lowest": "54.5",
+        "Avg.": "54.5",
+        "LatestPrice": "54.5",
+        "Type": "賣出",
+        "Volume": "2000"
+      },
+      {
+        "Date": "1141121",
+        "Time": "163004",
+        "SecurityCode": "T1012Y",
+        "ListedOpenEndedFund": "科技FB",
+        "PreNAV": "103.94",
+        "EstimatedNAV": "https://www.fubon.com/asset-management/Home/EmergingStockAdvert",
+        "Pre Avg.": "105",
+        "B.Price": "96.9",
+        "B.Qty.": "2000",
+        "S.Price": "102",
+        "S.Qty.": "2000",
+        "Highest": "-",
+        "Lowest": "-",
+        "Avg.": "-",
+        "LatestPrice": "-",
+        "Type": "",
+        "Volume": "-"
+      }
+    ]
+  }
+}

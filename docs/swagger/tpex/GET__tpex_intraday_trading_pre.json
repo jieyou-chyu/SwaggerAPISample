@@ -1,0 +1,193 @@
+{
+  "path": "/tpex_intraday_trading_pre",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃暫停先賣後買當日沖銷交易標的預告表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_intraday_trading_pre",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:38 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:44 GMT",
+      "ETag": "W/\"6921d724-e52\"",
+      "Content-Disposition": "attachment;filename=tpex_intraday_trading_pre.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d492a099a4a8a-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00679B",
+        "CompanyName": "元大美債20年    ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00786B",
+        "CompanyName": "元大10年IG銀行債",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00844B",
+        "CompanyName": "新光15年IG金融債",
+        "FirstDayToSuspendSellThenBuy": "1141117",
+        "DayOfReinstatingSellThenBuy": "1141122",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00867B",
+        "CompanyName": "新光A-BBB電信債 ",
+        "FirstDayToSuspendSellThenBuy": "1141117",
+        "DayOfReinstatingSellThenBuy": "1141122",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00958B",
+        "CompanyName": "永豐ESG銀行債15+",
+        "FirstDayToSuspendSellThenBuy": "1141120",
+        "DayOfReinstatingSellThenBuy": "1141127",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00967B",
+        "CompanyName": "元大優息美債    ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00968B",
+        "CompanyName": "元大優息投等債  ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "00981B",
+        "CompanyName": "第一金優選非投債",
+        "FirstDayToSuspendSellThenBuy": "1141117",
+        "DayOfReinstatingSellThenBuy": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1591",
+        "CompanyName": "駿吉-KY         ",
+        "FirstDayToSuspendSellThenBuy": "1141124",
+        "DayOfReinstatingSellThenBuy": "1141201",
+        "Reason": "臨時會"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬            ",
+        "FirstDayToSuspendSellThenBuy": "1141124",
+        "DayOfReinstatingSellThenBuy": "1141129",
+        "Reason": "現金增資"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "2726",
+        "CompanyName": "雅茗-KY         ",
+        "FirstDayToSuspendSellThenBuy": "1141121",
+        "DayOfReinstatingSellThenBuy": "1141128",
+        "Reason": "現金增資"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "4747",
+        "CompanyName": "強生            ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "臨時會"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "5263",
+        "CompanyName": "智崴            ",
+        "FirstDayToSuspendSellThenBuy": "1141120",
+        "DayOfReinstatingSellThenBuy": "1141127",
+        "Reason": "現金增資"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "5864",
+        "CompanyName": "致和證          ",
+        "FirstDayToSuspendSellThenBuy": "1141124",
+        "DayOfReinstatingSellThenBuy": "1141130",
+        "Reason": "臨時會"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "6111",
+        "CompanyName": "大宇資          ",
+        "FirstDayToSuspendSellThenBuy": "1141117",
+        "DayOfReinstatingSellThenBuy": "1141124",
+        "Reason": "臨時會"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "006201",
+        "CompanyName": "元大富櫃50      ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "分配收益"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "6240",
+        "CompanyName": "松崗            ",
+        "FirstDayToSuspendSellThenBuy": "1141124",
+        "DayOfReinstatingSellThenBuy": "1141130",
+        "Reason": "臨時會"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗        ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "臨時會"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "6823",
+        "CompanyName": "濾能            ",
+        "FirstDayToSuspendSellThenBuy": "1141118",
+        "DayOfReinstatingSellThenBuy": "1141125",
+        "Reason": "臨時會"
+      }
+    ]
+  }
+}

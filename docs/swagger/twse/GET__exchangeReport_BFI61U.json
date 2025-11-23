@@ -1,0 +1,2247 @@
+{
+  "path": "/exchangeReport/BFI61U",
+  "method": "GET",
+  "operationId": null,
+  "summary": "中央登錄公債補息資料表",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/BFI61U",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:34 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:21:46 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"6922296a-9956\"",
+      "Content-Disposition": "attachment;filename=BFI61U.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Code": "A00101",
+        "Name": "100央債甲01",
+        "IssuedDate": "20110105",
+        "StartingDate": "20110105",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A00102",
+        "Name": "100央債甲02",
+        "IssuedDate": "20110113",
+        "StartingDate": "20110113",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A00103",
+        "Name": "100央債甲03",
+        "IssuedDate": "20110214",
+        "StartingDate": "20110214",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A00104",
+        "Name": "100央債甲04",
+        "IssuedDate": "20110222",
+        "StartingDate": "20110222",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A00105",
+        "Name": "100央債甲05",
+        "IssuedDate": "20110317",
+        "StartingDate": "20110317",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A00106",
+        "Name": "100央債甲06",
+        "IssuedDate": "20110720",
+        "StartingDate": "20110720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4644"
+      },
+      {
+        "Code": "A00107",
+        "Name": "100央債甲07",
+        "IssuedDate": "20110802",
+        "StartingDate": "20110802",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1229"
+      },
+      {
+        "Code": "A00108",
+        "Name": "100央債甲08",
+        "IssuedDate": "20110822",
+        "StartingDate": "20110822",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1229"
+      },
+      {
+        "Code": "A00109",
+        "Name": "100央債甲09",
+        "IssuedDate": "20110930",
+        "StartingDate": "20110930",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4153"
+      },
+      {
+        "Code": "A00201",
+        "Name": "100央債乙01",
+        "IssuedDate": "20110526",
+        "StartingDate": "20110526",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A01101",
+        "Name": "101央債甲01",
+        "IssuedDate": "20120106",
+        "StartingDate": "20120106",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7322"
+      },
+      {
+        "Code": "A01102",
+        "Name": "101央債甲02",
+        "IssuedDate": "20120120",
+        "StartingDate": "20120120",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4398"
+      },
+      {
+        "Code": "A01103",
+        "Name": "101央債甲03",
+        "IssuedDate": "20120204",
+        "StartingDate": "20120204",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0491"
+      },
+      {
+        "Code": "A01104",
+        "Name": "101央債甲04",
+        "IssuedDate": "20120213",
+        "StartingDate": "20120213",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7814"
+      },
+      {
+        "Code": "A01105",
+        "Name": "101央債甲05",
+        "IssuedDate": "20120307",
+        "StartingDate": "20120307",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A01106",
+        "Name": "101央債甲06",
+        "IssuedDate": "20120720",
+        "StartingDate": "20120720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A01107",
+        "Name": "101央債甲07",
+        "IssuedDate": "20120810",
+        "StartingDate": "20120810",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A01108",
+        "Name": "101央債甲08",
+        "IssuedDate": "20120824",
+        "StartingDate": "20120824",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A01109",
+        "Name": "101央債甲09",
+        "IssuedDate": "20120924",
+        "StartingDate": "20120924",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A01201",
+        "Name": "101央債乙01",
+        "IssuedDate": "20120316",
+        "StartingDate": "20120316",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A01202",
+        "Name": "101央債乙02",
+        "IssuedDate": "20120524",
+        "StartingDate": "20120524",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A02101",
+        "Name": "102央債甲01",
+        "IssuedDate": "20130109",
+        "StartingDate": "20130109",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A02102",
+        "Name": "102央債甲02",
+        "IssuedDate": "20130115",
+        "StartingDate": "20130115",
+        "CouponRate": "0.875",
+        "DailyAccInterest": "2.3972"
+      },
+      {
+        "Code": "A02103",
+        "Name": "102央債甲03",
+        "IssuedDate": "20130128",
+        "StartingDate": "20130128",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A02104",
+        "Name": "102央債甲04",
+        "IssuedDate": "20130208",
+        "StartingDate": "20130208",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A02105",
+        "Name": "102央債甲05",
+        "IssuedDate": "20130226",
+        "StartingDate": "20130226",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A02106",
+        "Name": "102央債甲06",
+        "IssuedDate": "20130306",
+        "StartingDate": "20130306",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A02107",
+        "Name": "102央債甲07",
+        "IssuedDate": "20130719",
+        "StartingDate": "20130719",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A02108",
+        "Name": "102央債甲08",
+        "IssuedDate": "20130726",
+        "StartingDate": "20130726",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A02109",
+        "Name": "102央債甲09",
+        "IssuedDate": "20130802",
+        "StartingDate": "20130802",
+        "CouponRate": "2.500",
+        "DailyAccInterest": "6.8493"
+      },
+      {
+        "Code": "A02110",
+        "Name": "102央債甲10",
+        "IssuedDate": "20130918",
+        "StartingDate": "20130918",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A02111",
+        "Name": "102央債甲11",
+        "IssuedDate": "20131015",
+        "StartingDate": "20131015",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A02201",
+        "Name": "102央債乙01",
+        "IssuedDate": "20130321",
+        "StartingDate": "20130321",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A03101",
+        "Name": "103央債甲01",
+        "IssuedDate": "20140117",
+        "StartingDate": "20140117",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A03102",
+        "Name": "103央債甲02",
+        "IssuedDate": "20140120",
+        "StartingDate": "20140120",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A03103",
+        "Name": "103央債甲03",
+        "IssuedDate": "20140129",
+        "StartingDate": "20140129",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A03104",
+        "Name": "103央債甲04",
+        "IssuedDate": "20140214",
+        "StartingDate": "20140214",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A03105",
+        "Name": "103央債甲05",
+        "IssuedDate": "20140226",
+        "StartingDate": "20140226",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A03106",
+        "Name": "103央債甲06",
+        "IssuedDate": "20140303",
+        "StartingDate": "20140303",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A03107",
+        "Name": "103央債甲07",
+        "IssuedDate": "20140425",
+        "StartingDate": "20140425",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A03108",
+        "Name": "103央債甲08",
+        "IssuedDate": "20140528",
+        "StartingDate": "20140528",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A03109",
+        "Name": "103央債甲09",
+        "IssuedDate": "20140627",
+        "StartingDate": "20140627",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A03110",
+        "Name": "103央債甲10",
+        "IssuedDate": "20140718",
+        "StartingDate": "20140718",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A03111",
+        "Name": "103央債甲11",
+        "IssuedDate": "20140731",
+        "StartingDate": "20140731",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A03112",
+        "Name": "03央債甲12",
+        "IssuedDate": "20140804",
+        "StartingDate": "20140804",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A03113",
+        "Name": "103央債甲13",
+        "IssuedDate": "20140926",
+        "StartingDate": "20140926",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A03114",
+        "Name": "103央債甲14",
+        "IssuedDate": "20141002",
+        "StartingDate": "20141002",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A03115",
+        "Name": "103央債甲15",
+        "IssuedDate": "20141015",
+        "StartingDate": "20141015",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A03116",
+        "Name": "103央債甲16",
+        "IssuedDate": "20141126",
+        "StartingDate": "20141126",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A04101",
+        "Name": "104央債甲01",
+        "IssuedDate": "20150109",
+        "StartingDate": "20150109",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A04102",
+        "Name": "04央債甲02",
+        "IssuedDate": "20150123",
+        "StartingDate": "20150123",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A04103",
+        "Name": "04央債甲03",
+        "IssuedDate": "20150209",
+        "StartingDate": "20150209",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A04104",
+        "Name": "04央債甲04",
+        "IssuedDate": "20150213",
+        "StartingDate": "20150213",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A04105",
+        "Name": "04央債甲05",
+        "IssuedDate": "20150313",
+        "StartingDate": "20150313",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A04106",
+        "Name": "04央債甲06",
+        "IssuedDate": "20150327",
+        "StartingDate": "20150327",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A04107",
+        "Name": "104央債甲07",
+        "IssuedDate": "20150415",
+        "StartingDate": "20150415",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A04108",
+        "Name": "104央債甲08",
+        "IssuedDate": "20150515",
+        "StartingDate": "20150515",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A04109",
+        "Name": "104央債甲09",
+        "IssuedDate": "20150612",
+        "StartingDate": "20150612",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A04110",
+        "Name": "104央債甲10",
+        "IssuedDate": "20150717",
+        "StartingDate": "20150717",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A04111",
+        "Name": "104央債甲11",
+        "IssuedDate": "20150810",
+        "StartingDate": "20150810",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A04112",
+        "Name": "104央債甲12",
+        "IssuedDate": "20150911",
+        "StartingDate": "20150911",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A04113",
+        "Name": "104央債甲13",
+        "IssuedDate": "20151015",
+        "StartingDate": "20151015",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A04114",
+        "Name": "104央債甲14",
+        "IssuedDate": "20151026",
+        "StartingDate": "20151026",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A05101",
+        "Name": "105央債甲01",
+        "IssuedDate": "20160115",
+        "StartingDate": "20160115",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A05102",
+        "Name": "105央債甲02",
+        "IssuedDate": "20160122",
+        "StartingDate": "20160122",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A05103",
+        "Name": "105央債甲03",
+        "IssuedDate": "20160225",
+        "StartingDate": "20160225",
+        "CouponRate": "0.125",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A05104",
+        "Name": "105央債甲04",
+        "IssuedDate": "20160304",
+        "StartingDate": "20160304",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A05105",
+        "Name": "105央債甲05",
+        "IssuedDate": "20160330",
+        "StartingDate": "20160330",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A05106",
+        "Name": "105央債甲06",
+        "IssuedDate": "20160408",
+        "StartingDate": "20160408",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A05107",
+        "Name": "105央債甲07",
+        "IssuedDate": "20160520",
+        "StartingDate": "20160520",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A05108",
+        "Name": "105央債甲08",
+        "IssuedDate": "20160624",
+        "StartingDate": "20160624",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A05109",
+        "Name": "105央債甲09",
+        "IssuedDate": "20160719",
+        "StartingDate": "20160719",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A05110",
+        "Name": "105央債甲10",
+        "IssuedDate": "20160805",
+        "StartingDate": "20160805",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A05111",
+        "Name": "105央債甲11",
+        "IssuedDate": "20160907",
+        "StartingDate": "20160907",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A05112",
+        "Name": "105央債甲12",
+        "IssuedDate": "20161018",
+        "StartingDate": "20161018",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A05113",
+        "Name": "105央債甲13",
+        "IssuedDate": "20161025",
+        "StartingDate": "20161025",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A05114",
+        "Name": "105央債甲14",
+        "IssuedDate": "20161125",
+        "StartingDate": "20161125",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A06101",
+        "Name": "106央債甲01",
+        "IssuedDate": "20170111",
+        "StartingDate": "20170111",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A06102",
+        "Name": "106央債甲02",
+        "IssuedDate": "20170123",
+        "StartingDate": "20170123",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A06103",
+        "Name": "106央債甲03",
+        "IssuedDate": "20170220",
+        "StartingDate": "20170220",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A06104",
+        "Name": "106央債甲04",
+        "IssuedDate": "20170301",
+        "StartingDate": "20170301",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A06105",
+        "Name": "106央債甲05",
+        "IssuedDate": "20170421",
+        "StartingDate": "20170421",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A06106",
+        "Name": "106央債甲06",
+        "IssuedDate": "20170526",
+        "StartingDate": "20170526",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1370"
+      },
+      {
+        "Code": "A06107",
+        "Name": "106央債甲07",
+        "IssuedDate": "20170727",
+        "StartingDate": "20170727",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A06108",
+        "Name": "106央債甲08",
+        "IssuedDate": "20170818",
+        "StartingDate": "20170818",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A06109",
+        "Name": "106央債甲09",
+        "IssuedDate": "20170920",
+        "StartingDate": "20170920",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A06110",
+        "Name": "106央債甲10",
+        "IssuedDate": "20171018",
+        "StartingDate": "20171018",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A06111",
+        "Name": "106央債甲11",
+        "IssuedDate": "20171124",
+        "StartingDate": "20171124",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A07101",
+        "Name": "107央債甲01",
+        "IssuedDate": "20180112",
+        "StartingDate": "20180112",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A07102",
+        "Name": "107央債甲02",
+        "IssuedDate": "20180208",
+        "StartingDate": "20180208",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A07103",
+        "Name": "107央債甲03",
+        "IssuedDate": "20180313",
+        "StartingDate": "20180313",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A07104",
+        "Name": "107央債甲04",
+        "IssuedDate": "20180518",
+        "StartingDate": "20180518",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1096"
+      },
+      {
+        "Code": "A07105",
+        "Name": "107央債甲05",
+        "IssuedDate": "20180608",
+        "StartingDate": "20180608",
+        "CouponRate": "0.875",
+        "DailyAccInterest": "2.3973"
+      },
+      {
+        "Code": "A07106",
+        "Name": "107央債甲06",
+        "IssuedDate": "20180628",
+        "StartingDate": "20180628",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3699"
+      },
+      {
+        "Code": "A07107",
+        "Name": "107央債甲07",
+        "IssuedDate": "20180720",
+        "StartingDate": "20180720",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A07108",
+        "Name": "107央債甲08",
+        "IssuedDate": "20180921",
+        "StartingDate": "20180921",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A07109",
+        "Name": "107央債甲09",
+        "IssuedDate": "20181017",
+        "StartingDate": "20181017",
+        "CouponRate": "0.875",
+        "DailyAccInterest": "2.3972"
+      },
+      {
+        "Code": "A07110",
+        "Name": "107央債甲10",
+        "IssuedDate": "20181109",
+        "StartingDate": "20181109",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A07111",
+        "Name": "107央債甲11",
+        "IssuedDate": "20181123",
+        "StartingDate": "20181123",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A07112",
+        "Name": "107央債甲12",
+        "IssuedDate": "20181217",
+        "StartingDate": "20181217",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A08101",
+        "Name": "108央債甲01",
+        "IssuedDate": "20190114",
+        "StartingDate": "20190114",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A08102",
+        "Name": "108央債甲02",
+        "IssuedDate": "20190128",
+        "StartingDate": "20190128",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A08103",
+        "Name": "108央債甲03",
+        "IssuedDate": "20190213",
+        "StartingDate": "20190213",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A08104",
+        "Name": "108央債甲04",
+        "IssuedDate": "20190304",
+        "StartingDate": "20190304",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A08105",
+        "Name": "108央債甲05",
+        "IssuedDate": "20190517",
+        "StartingDate": "20190517",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A08106",
+        "Name": "108央債甲06",
+        "IssuedDate": "20190626",
+        "StartingDate": "20190626",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A08107",
+        "Name": "108央債甲07",
+        "IssuedDate": "20190717",
+        "StartingDate": "20190717",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A08108",
+        "Name": "108央債甲08",
+        "IssuedDate": "20190906",
+        "StartingDate": "20190906",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A08109",
+        "Name": "108央債甲09",
+        "IssuedDate": "20191014",
+        "StartingDate": "20191014",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A08110",
+        "Name": "108央債甲10",
+        "IssuedDate": "20191108",
+        "StartingDate": "20191108",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A08111",
+        "Name": "108央債甲11",
+        "IssuedDate": "20191122",
+        "StartingDate": "20191122",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A09101",
+        "Name": "109央債甲01",
+        "IssuedDate": "20200110",
+        "StartingDate": "20200110",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A09102",
+        "Name": "109央債甲02",
+        "IssuedDate": "20200117",
+        "StartingDate": "20200117",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.1780"
+      },
+      {
+        "Code": "A09103",
+        "Name": "109央債甲03",
+        "IssuedDate": "20200221",
+        "StartingDate": "20200221",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A09104",
+        "Name": "109央債甲04",
+        "IssuedDate": "20200309",
+        "StartingDate": "20200309",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A09105",
+        "Name": "109央債甲05",
+        "IssuedDate": "20200512",
+        "StartingDate": "20200512",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A09106",
+        "Name": "109央債甲06",
+        "IssuedDate": "20200611",
+        "StartingDate": "20200611",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A09107",
+        "Name": "109央債甲07",
+        "IssuedDate": "20200717",
+        "StartingDate": "20200717",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A09108",
+        "Name": "109央債甲08",
+        "IssuedDate": "20200918",
+        "StartingDate": "20200918",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A09109",
+        "Name": "109央債甲09",
+        "IssuedDate": "20201014",
+        "StartingDate": "20201014",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A09110",
+        "Name": "109央債甲10",
+        "IssuedDate": "20201113",
+        "StartingDate": "20201113",
+        "CouponRate": "0.125",
+        "DailyAccInterest": "0.3424"
+      },
+      {
+        "Code": "A09111",
+        "Name": "109央債甲11",
+        "IssuedDate": "20201127",
+        "StartingDate": "20201127",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A09112",
+        "Name": "109央債甲12",
+        "IssuedDate": "20201208",
+        "StartingDate": "20201208",
+        "CouponRate": "0.125",
+        "DailyAccInterest": "0.3424"
+      },
+      {
+        "Code": "A09113",
+        "Name": "109央債甲13",
+        "IssuedDate": "20201229",
+        "StartingDate": "20201229",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A10101",
+        "Name": "110央債甲01",
+        "IssuedDate": "20210113",
+        "StartingDate": "20210113",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A10102",
+        "Name": "110央債甲02",
+        "IssuedDate": "20210129",
+        "StartingDate": "20210129",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A10103",
+        "Name": "110央債甲03",
+        "IssuedDate": "20210222",
+        "StartingDate": "20210222",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A10104",
+        "Name": "110央債甲04",
+        "IssuedDate": "20210225",
+        "StartingDate": "20210225",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.9698"
+      },
+      {
+        "Code": "A10105",
+        "Name": "10央債甲05",
+        "IssuedDate": "20210521",
+        "StartingDate": "20210521",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A10106",
+        "Name": "110央債甲06",
+        "IssuedDate": "20210618",
+        "StartingDate": "20210618",
+        "CouponRate": "0.125",
+        "DailyAccInterest": "0.3424"
+      },
+      {
+        "Code": "A10107",
+        "Name": "110央債甲07",
+        "IssuedDate": "20210623",
+        "StartingDate": "20210623",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A10108",
+        "Name": "110央債甲08",
+        "IssuedDate": "20210729",
+        "StartingDate": "20210729",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A10109",
+        "Name": "110央債甲09",
+        "IssuedDate": "20210826",
+        "StartingDate": "20210826",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.7123"
+      },
+      {
+        "Code": "A10110",
+        "Name": "110央債甲10",
+        "IssuedDate": "20210929",
+        "StartingDate": "20210929",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A10111",
+        "Name": "110央債甲11",
+        "IssuedDate": "20211022",
+        "StartingDate": "20211022",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A10112",
+        "Name": "110央債甲12",
+        "IssuedDate": "20211112",
+        "StartingDate": "20211112",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A10113",
+        "Name": "110央債甲13",
+        "IssuedDate": "20211223",
+        "StartingDate": "20211223",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A10201",
+        "Name": "10央債乙01",
+        "IssuedDate": "20210507",
+        "StartingDate": "20210507",
+        "CouponRate": "0.375",
+        "DailyAccInterest": "1.0273"
+      },
+      {
+        "Code": "A10202",
+        "Name": "110央債乙02",
+        "IssuedDate": "20210820",
+        "StartingDate": "20210820",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "1.0219"
+      },
+      {
+        "Code": "A11101",
+        "Name": "111央債甲01",
+        "IssuedDate": "20220118",
+        "StartingDate": "20220118",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A11102",
+        "Name": "111央債甲02",
+        "IssuedDate": "20220218",
+        "StartingDate": "20220218",
+        "CouponRate": "0.625",
+        "DailyAccInterest": "1.7123"
+      },
+      {
+        "Code": "A11103",
+        "Name": "111央債甲03",
+        "IssuedDate": "20220224",
+        "StartingDate": "20220224",
+        "CouponRate": "0.500",
+        "DailyAccInterest": "1.3698"
+      },
+      {
+        "Code": "A11104",
+        "Name": "111央債甲04",
+        "IssuedDate": "20220304",
+        "StartingDate": "20220304",
+        "CouponRate": "0.875",
+        "DailyAccInterest": "2.3972"
+      },
+      {
+        "Code": "A11105",
+        "Name": "111央債甲05",
+        "IssuedDate": "20220520",
+        "StartingDate": "20220520",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A11106",
+        "Name": "111央債甲06",
+        "IssuedDate": "20220623",
+        "StartingDate": "20220623",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A11107",
+        "Name": "111央債甲07",
+        "IssuedDate": "20220630",
+        "StartingDate": "20220630",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A11108",
+        "Name": "111央債甲08",
+        "IssuedDate": "20220923",
+        "StartingDate": "20220923",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A11109",
+        "Name": "111央債甲09",
+        "IssuedDate": "20220930",
+        "StartingDate": "20220930",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A11110",
+        "Name": "111央債甲10",
+        "IssuedDate": "20221017",
+        "StartingDate": "20221017",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A11111",
+        "Name": "111央債甲11",
+        "IssuedDate": "20221111",
+        "StartingDate": "20221111",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5753"
+      },
+      {
+        "Code": "A11201",
+        "Name": "111央債乙01",
+        "IssuedDate": "20220110",
+        "StartingDate": "20220110",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A11202",
+        "Name": "111央債乙02",
+        "IssuedDate": "20220331",
+        "StartingDate": "20220331",
+        "CouponRate": "0.750",
+        "DailyAccInterest": "2.0547"
+      },
+      {
+        "Code": "A12101",
+        "Name": "112央債甲01",
+        "IssuedDate": "20230117",
+        "StartingDate": "20230117",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A12102",
+        "Name": "112央債甲02",
+        "IssuedDate": "20230217",
+        "StartingDate": "20230217",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0820"
+      },
+      {
+        "Code": "A12103",
+        "Name": "112央債甲03",
+        "IssuedDate": "20230223",
+        "StartingDate": "20230223",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A12104",
+        "Name": "112央債甲04",
+        "IssuedDate": "20230303",
+        "StartingDate": "20230303",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A12105",
+        "Name": "112央債甲05",
+        "IssuedDate": "20230512",
+        "StartingDate": "20230512",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A12106",
+        "Name": "112央債甲06",
+        "IssuedDate": "20230526",
+        "StartingDate": "20230526",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A12107",
+        "Name": "112央債甲07",
+        "IssuedDate": "20230609",
+        "StartingDate": "20230609",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A12108",
+        "Name": "112央債甲08",
+        "IssuedDate": "20230915",
+        "StartingDate": "20230915",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A12109",
+        "Name": "112央債甲09",
+        "IssuedDate": "20230922",
+        "StartingDate": "20230922",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A12110",
+        "Name": "112央債甲10",
+        "IssuedDate": "20231005",
+        "StartingDate": "20231005",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A12111",
+        "Name": "112央債甲11",
+        "IssuedDate": "20231122",
+        "StartingDate": "20231122",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A12201",
+        "Name": "112央債乙01",
+        "IssuedDate": "20230110",
+        "StartingDate": "20230110",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A13101",
+        "Name": "113央債甲01",
+        "IssuedDate": "20240105",
+        "StartingDate": "20240105",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A13102",
+        "Name": "113央債甲02",
+        "IssuedDate": "20240118",
+        "StartingDate": "20240118",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7568"
+      },
+      {
+        "Code": "A13103",
+        "Name": "113央債甲03",
+        "IssuedDate": "20240129",
+        "StartingDate": "20240129",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0737"
+      },
+      {
+        "Code": "A13104",
+        "Name": "113央債甲04",
+        "IssuedDate": "20240223",
+        "StartingDate": "20240223",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0737"
+      },
+      {
+        "Code": "A13105",
+        "Name": "113央債甲05",
+        "IssuedDate": "20240425",
+        "StartingDate": "20240425",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A13106",
+        "Name": "113央債甲06",
+        "IssuedDate": "20240524",
+        "StartingDate": "20240524",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A13107",
+        "Name": "113央債甲07",
+        "IssuedDate": "20240621",
+        "StartingDate": "20240621",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A13108",
+        "Name": "113央債甲08",
+        "IssuedDate": "20240913",
+        "StartingDate": "20240913",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A13109",
+        "Name": "113央債甲09",
+        "IssuedDate": "20240925",
+        "StartingDate": "20240925",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1096"
+      },
+      {
+        "Code": "A13110",
+        "Name": "113央債甲10",
+        "IssuedDate": "20241018",
+        "StartingDate": "20241018",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A13111",
+        "Name": "113央債甲11",
+        "IssuedDate": "20241115",
+        "StartingDate": "20241115",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A13201",
+        "Name": "113央債乙01",
+        "IssuedDate": "20240315",
+        "StartingDate": "20240315",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A13202",
+        "Name": "113央債乙02",
+        "IssuedDate": "20240510",
+        "StartingDate": "20240510",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A14101",
+        "Name": "114央債甲01",
+        "IssuedDate": "20250109",
+        "StartingDate": "20250109",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A14102",
+        "Name": "114央債甲02",
+        "IssuedDate": "20250122",
+        "StartingDate": "20250122",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A14103",
+        "Name": "114央債甲03",
+        "IssuedDate": "20250213",
+        "StartingDate": "20250213",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A14104",
+        "Name": "114央債甲04",
+        "IssuedDate": "20250312",
+        "StartingDate": "20250312",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A14105",
+        "Name": "114央債甲05",
+        "IssuedDate": "20250327",
+        "StartingDate": "20250327",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A14106",
+        "Name": "114央債甲06",
+        "IssuedDate": "20250516",
+        "StartingDate": "20250516",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A14107",
+        "Name": "114央債甲07",
+        "IssuedDate": "20250613",
+        "StartingDate": "20250613",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1095"
+      },
+      {
+        "Code": "A14108",
+        "Name": "114央債甲08",
+        "IssuedDate": "20250716",
+        "StartingDate": "20250716",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A14109",
+        "Name": "114央債甲09",
+        "IssuedDate": "20250910",
+        "StartingDate": "20250910",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1096"
+      },
+      {
+        "Code": "A14110",
+        "Name": "114央債甲10",
+        "IssuedDate": "20251017",
+        "StartingDate": "20251017",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A14111",
+        "Name": "114央債甲11",
+        "IssuedDate": "20251114",
+        "StartingDate": "20251114",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A14201",
+        "Name": "114央債乙01",
+        "IssuedDate": "20250120",
+        "StartingDate": "20250120",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A89111",
+        "Name": "89央債甲11",
+        "IssuedDate": "20000811",
+        "StartingDate": "20000811",
+        "CouponRate": "5.125",
+        "DailyAccInterest": "14.0410"
+      },
+      {
+        "Code": "A89112",
+        "Name": "89央債甲12",
+        "IssuedDate": "20000913",
+        "StartingDate": "20000913",
+        "CouponRate": "5.125",
+        "DailyAccInterest": "14.0410"
+      },
+      {
+        "Code": "A89113",
+        "Name": "89央債甲13",
+        "IssuedDate": "20001114",
+        "StartingDate": "20001114",
+        "CouponRate": "5.375",
+        "DailyAccInterest": "14.7260"
+      },
+      {
+        "Code": "A89114",
+        "Name": "89央債甲14",
+        "IssuedDate": "20001215",
+        "StartingDate": "20001215",
+        "CouponRate": "5.125",
+        "DailyAccInterest": "14.0410"
+      },
+      {
+        "Code": "A90101",
+        "Name": "90央債甲01",
+        "IssuedDate": "20010109",
+        "StartingDate": "20010109",
+        "CouponRate": "5.125",
+        "DailyAccInterest": "14.0410"
+      },
+      {
+        "Code": "A90102",
+        "Name": "90央債甲02",
+        "IssuedDate": "20010213",
+        "StartingDate": "20010213",
+        "CouponRate": "5.000",
+        "DailyAccInterest": "13.6986"
+      },
+      {
+        "Code": "A90103",
+        "Name": "90央債甲03",
+        "IssuedDate": "20010306",
+        "StartingDate": "20010306",
+        "CouponRate": "4.625",
+        "DailyAccInterest": "12.6712"
+      },
+      {
+        "Code": "A90104",
+        "Name": "90央債甲04",
+        "IssuedDate": "20010508",
+        "StartingDate": "20010508",
+        "CouponRate": "4.625",
+        "DailyAccInterest": "12.6712"
+      },
+      {
+        "Code": "A90105",
+        "Name": "90央債甲05",
+        "IssuedDate": "20010717",
+        "StartingDate": "20010717",
+        "CouponRate": "3.625",
+        "DailyAccInterest": "9.9315"
+      },
+      {
+        "Code": "A90106",
+        "Name": "90央債甲06",
+        "IssuedDate": "20010807",
+        "StartingDate": "20010807",
+        "CouponRate": "3.750",
+        "DailyAccInterest": "10.2739"
+      },
+      {
+        "Code": "A90107",
+        "Name": "90央債甲07",
+        "IssuedDate": "20011019",
+        "StartingDate": "20011019",
+        "CouponRate": "3.500",
+        "DailyAccInterest": "9.5890"
+      },
+      {
+        "Code": "A90108",
+        "Name": "90央債甲08",
+        "IssuedDate": "20011113",
+        "StartingDate": "20011113",
+        "CouponRate": "3.875",
+        "DailyAccInterest": "10.6164"
+      },
+      {
+        "Code": "A90201",
+        "Name": "90央債乙01",
+        "IssuedDate": "20010911",
+        "StartingDate": "20010911",
+        "CouponRate": "4.000",
+        "DailyAccInterest": "10.9589"
+      },
+      {
+        "Code": "A91101",
+        "Name": "91央債甲01",
+        "IssuedDate": "20020118",
+        "StartingDate": "20020118",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A91102",
+        "Name": "91央債甲02",
+        "IssuedDate": "20020129",
+        "StartingDate": "20020129",
+        "CouponRate": "3.000",
+        "DailyAccInterest": "8.2191"
+      },
+      {
+        "Code": "A91103",
+        "Name": "91央債甲03",
+        "IssuedDate": "20020205",
+        "StartingDate": "20020205",
+        "CouponRate": "4.250",
+        "DailyAccInterest": "11.6438"
+      },
+      {
+        "Code": "A91104",
+        "Name": "91央債甲04",
+        "IssuedDate": "20020308",
+        "StartingDate": "20020308",
+        "CouponRate": "3.625",
+        "DailyAccInterest": "9.9315"
+      },
+      {
+        "Code": "A91105",
+        "Name": "91央債甲05",
+        "IssuedDate": "20020528",
+        "StartingDate": "20020528",
+        "CouponRate": "2.750",
+        "DailyAccInterest": "7.5342"
+      },
+      {
+        "Code": "A91106",
+        "Name": "91央債甲06",
+        "IssuedDate": "20020730",
+        "StartingDate": "20020730",
+        "CouponRate": "2.625",
+        "DailyAccInterest": "7.1917"
+      },
+      {
+        "Code": "A91107",
+        "Name": "91央債甲07",
+        "IssuedDate": "20020816",
+        "StartingDate": "20020816",
+        "CouponRate": "3.750",
+        "DailyAccInterest": "10.2739"
+      },
+      {
+        "Code": "A91108",
+        "Name": "91央債甲08",
+        "IssuedDate": "20020910",
+        "StartingDate": "20020910",
+        "CouponRate": "3.250",
+        "DailyAccInterest": "8.9041"
+      },
+      {
+        "Code": "A91109",
+        "Name": "91央債甲09",
+        "IssuedDate": "20021011",
+        "StartingDate": "20021011",
+        "CouponRate": "2.500",
+        "DailyAccInterest": "6.8493"
+      },
+      {
+        "Code": "A91110",
+        "Name": "91央債甲10",
+        "IssuedDate": "20021119",
+        "StartingDate": "20021119",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A91111",
+        "Name": "91央債甲11",
+        "IssuedDate": "20021217",
+        "StartingDate": "20021217",
+        "CouponRate": "2.500",
+        "DailyAccInterest": "6.8493"
+      },
+      {
+        "Code": "A92101",
+        "Name": "92央債甲01",
+        "IssuedDate": "20030110",
+        "StartingDate": "20030110",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A92102",
+        "Name": "92央債甲02",
+        "IssuedDate": "20030117",
+        "StartingDate": "20030117",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A92103",
+        "Name": "92央債甲03",
+        "IssuedDate": "20030218",
+        "StartingDate": "20030218",
+        "CouponRate": "2.500",
+        "DailyAccInterest": "6.8493"
+      },
+      {
+        "Code": "A92104",
+        "Name": "92央債甲04",
+        "IssuedDate": "20030307",
+        "StartingDate": "20030307",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A92105",
+        "Name": "92央債甲05",
+        "IssuedDate": "20030516",
+        "StartingDate": "20030516",
+        "CouponRate": "1.000",
+        "DailyAccInterest": "2.7397"
+      },
+      {
+        "Code": "A92106",
+        "Name": "92央債甲06",
+        "IssuedDate": "20030715",
+        "StartingDate": "20030715",
+        "CouponRate": "1.500",
+        "DailyAccInterest": "4.1096"
+      },
+      {
+        "Code": "A92107",
+        "Name": "92央債甲07",
+        "IssuedDate": "20030919",
+        "StartingDate": "20030919",
+        "CouponRate": "2.750",
+        "DailyAccInterest": "7.5342"
+      },
+      {
+        "Code": "A92108",
+        "Name": "92央債甲08",
+        "IssuedDate": "20031030",
+        "StartingDate": "20031030",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A92109",
+        "Name": "92央債甲09",
+        "IssuedDate": "20031117",
+        "StartingDate": "20031117",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A92110",
+        "Name": "92央債甲10",
+        "IssuedDate": "20031205",
+        "StartingDate": "20031205",
+        "CouponRate": "2.875",
+        "DailyAccInterest": "7.8767"
+      },
+      {
+        "Code": "A93101",
+        "Name": "93央債甲01",
+        "IssuedDate": "20040109",
+        "StartingDate": "20040109",
+        "CouponRate": "1.250",
+        "DailyAccInterest": "3.4246"
+      },
+      {
+        "Code": "A93102",
+        "Name": "93央債甲02",
+        "IssuedDate": "20040130",
+        "StartingDate": "20040130",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A93103",
+        "Name": "93央債甲03",
+        "IssuedDate": "20040210",
+        "StartingDate": "20040210",
+        "CouponRate": "3.000",
+        "DailyAccInterest": "8.2191"
+      },
+      {
+        "Code": "A93104",
+        "Name": "93央債甲04",
+        "IssuedDate": "20040304",
+        "StartingDate": "20040304",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A93105",
+        "Name": "93央債甲05",
+        "IssuedDate": "20040415",
+        "StartingDate": "20040415",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A93106",
+        "Name": "93央債甲06",
+        "IssuedDate": "20040527",
+        "StartingDate": "20040527",
+        "CouponRate": "3.875",
+        "DailyAccInterest": "10.6164"
+      },
+      {
+        "Code": "A93107",
+        "Name": "93央債甲07",
+        "IssuedDate": "20040722",
+        "StartingDate": "20040722",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A93108",
+        "Name": "93央債甲08",
+        "IssuedDate": "20040915",
+        "StartingDate": "20040915",
+        "CouponRate": "2.625",
+        "DailyAccInterest": "7.1917"
+      },
+      {
+        "Code": "A93109",
+        "Name": "93央債甲09",
+        "IssuedDate": "20041118",
+        "StartingDate": "20041118",
+        "CouponRate": "3.000",
+        "DailyAccInterest": "8.2191"
+      },
+      {
+        "Code": "A94101",
+        "Name": "94央債甲01",
+        "IssuedDate": "20050107",
+        "StartingDate": "20050107",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A94102",
+        "Name": "94央債甲02",
+        "IssuedDate": "20050124",
+        "StartingDate": "20050124",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A94103",
+        "Name": "94央債甲03",
+        "IssuedDate": "20050225",
+        "StartingDate": "20050225",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A94104",
+        "Name": "94央債甲04",
+        "IssuedDate": "20050316",
+        "StartingDate": "20050316",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A94105",
+        "Name": "94央債甲05",
+        "IssuedDate": "20050513",
+        "StartingDate": "20050513",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A94106",
+        "Name": "94央債甲06",
+        "IssuedDate": "20050720",
+        "StartingDate": "20050720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A94107",
+        "Name": "94央債甲07",
+        "IssuedDate": "20050912",
+        "StartingDate": "20050912",
+        "CouponRate": "1.625",
+        "DailyAccInterest": "4.4520"
+      },
+      {
+        "Code": "A94108",
+        "Name": "94央債甲08",
+        "IssuedDate": "20051116",
+        "StartingDate": "20051116",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A95101",
+        "Name": "95央債甲01",
+        "IssuedDate": "20060106",
+        "StartingDate": "20060106",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A95102",
+        "Name": "95央債甲02",
+        "IssuedDate": "20060224",
+        "StartingDate": "20060224",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A95103",
+        "Name": "95央債甲03",
+        "IssuedDate": "20060331",
+        "StartingDate": "20060331",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A95104",
+        "Name": "95央債甲04",
+        "IssuedDate": "20060512",
+        "StartingDate": "20060512",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1370"
+      },
+      {
+        "Code": "A95105",
+        "Name": "95央債甲05",
+        "IssuedDate": "20060720",
+        "StartingDate": "20060720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A95106",
+        "Name": "95央債甲06",
+        "IssuedDate": "20060908",
+        "StartingDate": "20060908",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A95107",
+        "Name": "95央債甲07",
+        "IssuedDate": "20061110",
+        "StartingDate": "20061110",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A96101",
+        "Name": "96央債甲01",
+        "IssuedDate": "20070126",
+        "StartingDate": "20070126",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A96102",
+        "Name": "96央債甲02",
+        "IssuedDate": "20070214",
+        "StartingDate": "20070214",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A96103",
+        "Name": "96央債甲03",
+        "IssuedDate": "20070316",
+        "StartingDate": "20070316",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A96104",
+        "Name": "96央債甲04",
+        "IssuedDate": "20070518",
+        "StartingDate": "20070518",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A96105",
+        "Name": "96央債甲05",
+        "IssuedDate": "20070720",
+        "StartingDate": "20070720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A96106",
+        "Name": "96央債甲06",
+        "IssuedDate": "20070921",
+        "StartingDate": "20070921",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A96107",
+        "Name": "96央債甲07",
+        "IssuedDate": "20071116",
+        "StartingDate": "20071116",
+        "CouponRate": "3.000",
+        "DailyAccInterest": "8.2191"
+      },
+      {
+        "Code": "A96201",
+        "Name": "96央債乙01",
+        "IssuedDate": "20071019",
+        "StartingDate": "20071019",
+        "CouponRate": "2.625",
+        "DailyAccInterest": "7.1917"
+      },
+      {
+        "Code": "A97101",
+        "Name": "97央債甲01",
+        "IssuedDate": "20080116",
+        "StartingDate": "20080116",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A97102",
+        "Name": "97央債甲02",
+        "IssuedDate": "20080214",
+        "StartingDate": "20080214",
+        "CouponRate": "2.500",
+        "DailyAccInterest": "6.8493"
+      },
+      {
+        "Code": "A97103",
+        "Name": "97央債甲03",
+        "IssuedDate": "20080314",
+        "StartingDate": "20080314",
+        "CouponRate": "2.375",
+        "DailyAccInterest": "6.5068"
+      },
+      {
+        "Code": "A97104",
+        "Name": "97央債甲04",
+        "IssuedDate": "20080720",
+        "StartingDate": "20080720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A97105",
+        "Name": "97央債甲05",
+        "IssuedDate": "20080814",
+        "StartingDate": "20080814",
+        "CouponRate": "2.625",
+        "DailyAccInterest": "7.1917"
+      },
+      {
+        "Code": "A97106",
+        "Name": "97央債甲06",
+        "IssuedDate": "20080924",
+        "StartingDate": "20080924",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A98101",
+        "Name": "98央債甲01",
+        "IssuedDate": "20090121",
+        "StartingDate": "20090121",
+        "CouponRate": "0.875",
+        "DailyAccInterest": "2.3972"
+      },
+      {
+        "Code": "A98102",
+        "Name": "98央債甲02",
+        "IssuedDate": "20090216",
+        "StartingDate": "20090216",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A98103",
+        "Name": "98央債甲03",
+        "IssuedDate": "20090305",
+        "StartingDate": "20090305",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A98104",
+        "Name": "98央債甲04",
+        "IssuedDate": "20090720",
+        "StartingDate": "20090720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A98105",
+        "Name": "98央債甲05",
+        "IssuedDate": "20090813",
+        "StartingDate": "20090813",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      },
+      {
+        "Code": "A98106",
+        "Name": "98央債甲06",
+        "IssuedDate": "20090909",
+        "StartingDate": "20090909",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A98107",
+        "Name": "98央債甲07",
+        "IssuedDate": "20091021",
+        "StartingDate": "20091021",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A99101",
+        "Name": "99央債甲01",
+        "IssuedDate": "20100112",
+        "StartingDate": "20100112",
+        "CouponRate": "0.875",
+        "DailyAccInterest": "2.3972"
+      },
+      {
+        "Code": "A99102",
+        "Name": "99央債甲02",
+        "IssuedDate": "20100128",
+        "StartingDate": "20100128",
+        "CouponRate": "2.250",
+        "DailyAccInterest": "6.1643"
+      },
+      {
+        "Code": "A99103",
+        "Name": "99央債甲03",
+        "IssuedDate": "20100210",
+        "StartingDate": "20100210",
+        "CouponRate": "0.250",
+        "DailyAccInterest": "0.6849"
+      },
+      {
+        "Code": "A99104",
+        "Name": "99央債甲04",
+        "IssuedDate": "20100222",
+        "StartingDate": "20100222",
+        "CouponRate": "1.875",
+        "DailyAccInterest": "5.1369"
+      },
+      {
+        "Code": "A99105",
+        "Name": "99央債甲05",
+        "IssuedDate": "20100310",
+        "StartingDate": "20100310",
+        "CouponRate": "1.375",
+        "DailyAccInterest": "3.7671"
+      },
+      {
+        "Code": "A99106",
+        "Name": "99央債甲06",
+        "IssuedDate": "20100720",
+        "StartingDate": "20100720",
+        "CouponRate": "2.000",
+        "DailyAccInterest": "5.4794"
+      },
+      {
+        "Code": "A99107",
+        "Name": "99央債甲07",
+        "IssuedDate": "20100812",
+        "StartingDate": "20100812",
+        "CouponRate": "1.750",
+        "DailyAccInterest": "4.7945"
+      },
+      {
+        "Code": "A99108",
+        "Name": "99央債甲08",
+        "IssuedDate": "20100921",
+        "StartingDate": "20100921",
+        "CouponRate": "1.125",
+        "DailyAccInterest": "3.0821"
+      },
+      {
+        "Code": "A99109",
+        "Name": "99央債甲09",
+        "IssuedDate": "20101228",
+        "StartingDate": "20101228",
+        "CouponRate": "2.125",
+        "DailyAccInterest": "5.8219"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1649 @@
+{
+  "path": "/va05",
+  "method": "GET",
+  "operationId": null,
+  "summary": "個股期貨商品每月平均成交金額(區分股票與ETF)",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va05",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:03 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "30118",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:12 GMT",
+      "ETag": "\"75a6-644369cef2f7c\"",
+      "Content-Disposition": "attachment; filename=va05.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d511bfd370750-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "142567288157"
+      },
+      {
+        "YYYYMM": "202510",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3977950092"
+      },
+      {
+        "YYYYMM": "202509",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "115341460300"
+      },
+      {
+        "YYYYMM": "202509",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2899351579"
+      },
+      {
+        "YYYYMM": "202508",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "90934541169"
+      },
+      {
+        "YYYYMM": "202508",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2789597865"
+      },
+      {
+        "YYYYMM": "202507",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "71939122842"
+      },
+      {
+        "YYYYMM": "202507",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3305881574"
+      },
+      {
+        "YYYYMM": "202506",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "69265918035"
+      },
+      {
+        "YYYYMM": "202506",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4220802104"
+      },
+      {
+        "YYYYMM": "202505",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "73095260603"
+      },
+      {
+        "YYYYMM": "202505",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "5564409304"
+      },
+      {
+        "YYYYMM": "202504",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "66668053149"
+      },
+      {
+        "YYYYMM": "202504",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "7686997360"
+      },
+      {
+        "YYYYMM": "202503",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "73395777557"
+      },
+      {
+        "YYYYMM": "202503",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6404030208"
+      },
+      {
+        "YYYYMM": "202502",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "79347714898"
+      },
+      {
+        "YYYYMM": "202502",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6024707524"
+      },
+      {
+        "YYYYMM": "202501",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "96978598734"
+      },
+      {
+        "YYYYMM": "202501",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6978624051"
+      },
+      {
+        "YYYYMM": "202412",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "76251339806"
+      },
+      {
+        "YYYYMM": "202412",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6028541862"
+      },
+      {
+        "YYYYMM": "202411",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "89742302416"
+      },
+      {
+        "YYYYMM": "202411",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6866671290"
+      },
+      {
+        "YYYYMM": "202410",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "85312661708"
+      },
+      {
+        "YYYYMM": "202410",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "8157796526"
+      },
+      {
+        "YYYYMM": "202409",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "79280028496"
+      },
+      {
+        "YYYYMM": "202409",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6348930671"
+      },
+      {
+        "YYYYMM": "202408",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "93469996501"
+      },
+      {
+        "YYYYMM": "202408",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "6873309818"
+      },
+      {
+        "YYYYMM": "202407",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "118182156535"
+      },
+      {
+        "YYYYMM": "202407",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "5985298159"
+      },
+      {
+        "YYYYMM": "202406",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "120573731254"
+      },
+      {
+        "YYYYMM": "202406",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4776407448"
+      },
+      {
+        "YYYYMM": "202405",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "96989643745"
+      },
+      {
+        "YYYYMM": "202405",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3488238091"
+      },
+      {
+        "YYYYMM": "202404",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "108131042383"
+      },
+      {
+        "YYYYMM": "202404",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4689403850"
+      },
+      {
+        "YYYYMM": "202403",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "114499268879"
+      },
+      {
+        "YYYYMM": "202403",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4731048691"
+      },
+      {
+        "YYYYMM": "202402",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "84533775271"
+      },
+      {
+        "YYYYMM": "202402",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3842600554"
+      },
+      {
+        "YYYYMM": "202401",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "64924368167"
+      },
+      {
+        "YYYYMM": "202401",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2999497709"
+      },
+      {
+        "YYYYMM": "202312",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "55688465904"
+      },
+      {
+        "YYYYMM": "202312",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2745101457"
+      },
+      {
+        "YYYYMM": "202311",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "59504474616"
+      },
+      {
+        "YYYYMM": "202311",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2573716391"
+      },
+      {
+        "YYYYMM": "202310",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "67367070963"
+      },
+      {
+        "YYYYMM": "202310",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2043910935"
+      },
+      {
+        "YYYYMM": "202309",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "63522541172"
+      },
+      {
+        "YYYYMM": "202309",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1522642220"
+      },
+      {
+        "YYYYMM": "202308",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "90906907357"
+      },
+      {
+        "YYYYMM": "202308",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1662204259"
+      },
+      {
+        "YYYYMM": "202307",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "89408154121"
+      },
+      {
+        "YYYYMM": "202307",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1899138034"
+      },
+      {
+        "YYYYMM": "202306",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "56695923674"
+      },
+      {
+        "YYYYMM": "202306",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2150168900"
+      },
+      {
+        "YYYYMM": "202305",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "44270851310"
+      },
+      {
+        "YYYYMM": "202305",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2255105646"
+      },
+      {
+        "YYYYMM": "202304",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "42312118512"
+      },
+      {
+        "YYYYMM": "202304",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2254824100"
+      },
+      {
+        "YYYYMM": "202303",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "43177215500"
+      },
+      {
+        "YYYYMM": "202303",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2374547531"
+      },
+      {
+        "YYYYMM": "202302",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "43982785667"
+      },
+      {
+        "YYYYMM": "202302",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2691349250"
+      },
+      {
+        "YYYYMM": "202301",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "42194019536"
+      },
+      {
+        "YYYYMM": "202301",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3491016246"
+      },
+      {
+        "YYYYMM": "202212",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "39304987910"
+      },
+      {
+        "YYYYMM": "202212",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2754709496"
+      },
+      {
+        "YYYYMM": "202211",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "46317763398"
+      },
+      {
+        "YYYYMM": "202211",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3363330728"
+      },
+      {
+        "YYYYMM": "202210",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "44181817985"
+      },
+      {
+        "YYYYMM": "202210",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3139265690"
+      },
+      {
+        "YYYYMM": "202209",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "40235509126"
+      },
+      {
+        "YYYYMM": "202209",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2927963038"
+      },
+      {
+        "YYYYMM": "202208",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "40042663498"
+      },
+      {
+        "YYYYMM": "202208",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2882838579"
+      },
+      {
+        "YYYYMM": "202207",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "52470929360"
+      },
+      {
+        "YYYYMM": "202207",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3861111205"
+      },
+      {
+        "YYYYMM": "202206",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "53213219419"
+      },
+      {
+        "YYYYMM": "202206",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3115192857"
+      },
+      {
+        "YYYYMM": "202205",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "51752065231"
+      },
+      {
+        "YYYYMM": "202205",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2686755048"
+      },
+      {
+        "YYYYMM": "202204",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "50826857628"
+      },
+      {
+        "YYYYMM": "202204",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2912109500"
+      },
+      {
+        "YYYYMM": "202203",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "58853365094"
+      },
+      {
+        "YYYYMM": "202203",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3064454357"
+      },
+      {
+        "YYYYMM": "202202",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "64930337034"
+      },
+      {
+        "YYYYMM": "202202",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3509216947"
+      },
+      {
+        "YYYYMM": "202201",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "64476581786"
+      },
+      {
+        "YYYYMM": "202201",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3543544984"
+      },
+      {
+        "YYYYMM": "202112",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "54334448281"
+      },
+      {
+        "YYYYMM": "202112",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1998249350"
+      },
+      {
+        "YYYYMM": "202111",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "59725865777"
+      },
+      {
+        "YYYYMM": "202111",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1804997314"
+      },
+      {
+        "YYYYMM": "202110",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "52361685292"
+      },
+      {
+        "YYYYMM": "202110",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2773157745"
+      },
+      {
+        "YYYYMM": "202109",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "55244221691"
+      },
+      {
+        "YYYYMM": "202109",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2723506375"
+      },
+      {
+        "YYYYMM": "202108",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "70518921179"
+      },
+      {
+        "YYYYMM": "202108",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2542778032"
+      },
+      {
+        "YYYYMM": "202107",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "100442360679"
+      },
+      {
+        "YYYYMM": "202107",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2672352837"
+      },
+      {
+        "YYYYMM": "202106",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "75726972417"
+      },
+      {
+        "YYYYMM": "202106",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2957438219"
+      },
+      {
+        "YYYYMM": "202105",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "87093903823"
+      },
+      {
+        "YYYYMM": "202105",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "5018388325"
+      },
+      {
+        "YYYYMM": "202104",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "68252647483"
+      },
+      {
+        "YYYYMM": "202104",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3256612311"
+      },
+      {
+        "YYYYMM": "202103",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "46705620484"
+      },
+      {
+        "YYYYMM": "202103",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3551202743"
+      },
+      {
+        "YYYYMM": "202102",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "61111974726"
+      },
+      {
+        "YYYYMM": "202102",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4674500193"
+      },
+      {
+        "YYYYMM": "202101",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "61131036940"
+      },
+      {
+        "YYYYMM": "202101",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4193768370"
+      },
+      {
+        "YYYYMM": "202012",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "34467780117"
+      },
+      {
+        "YYYYMM": "202012",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3200766459"
+      },
+      {
+        "YYYYMM": "202011",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "29591165841"
+      },
+      {
+        "YYYYMM": "202011",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2828322515"
+      },
+      {
+        "YYYYMM": "202010",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "25809392336"
+      },
+      {
+        "YYYYMM": "202010",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2372904469"
+      },
+      {
+        "YYYYMM": "202009",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "24893338269"
+      },
+      {
+        "YYYYMM": "202009",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2142936778"
+      },
+      {
+        "YYYYMM": "202008",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "30281547825"
+      },
+      {
+        "YYYYMM": "202008",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2138500255"
+      },
+      {
+        "YYYYMM": "202007",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "33144836511"
+      },
+      {
+        "YYYYMM": "202007",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2507294491"
+      },
+      {
+        "YYYYMM": "202006",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "23789044896"
+      },
+      {
+        "YYYYMM": "202006",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1946913035"
+      },
+      {
+        "YYYYMM": "202005",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "20853317590"
+      },
+      {
+        "YYYYMM": "202005",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1664900645"
+      },
+      {
+        "YYYYMM": "202004",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "21598633293"
+      },
+      {
+        "YYYYMM": "202004",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1775750755"
+      },
+      {
+        "YYYYMM": "202003",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "28606318581"
+      },
+      {
+        "YYYYMM": "202003",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2844976757"
+      },
+      {
+        "YYYYMM": "202002",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "29727417133"
+      },
+      {
+        "YYYYMM": "202002",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1789702395"
+      },
+      {
+        "YYYYMM": "202001",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "31385254987"
+      },
+      {
+        "YYYYMM": "202001",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1927047300"
+      },
+      {
+        "YYYYMM": "201912",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "23573877518"
+      },
+      {
+        "YYYYMM": "201912",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1255548691"
+      },
+      {
+        "YYYYMM": "201911",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "22218353455"
+      },
+      {
+        "YYYYMM": "201911",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1362069972"
+      },
+      {
+        "YYYYMM": "201910",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "26724622598"
+      },
+      {
+        "YYYYMM": "201910",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1278656445"
+      },
+      {
+        "YYYYMM": "201909",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "24906218603"
+      },
+      {
+        "YYYYMM": "201909",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1305227311"
+      },
+      {
+        "YYYYMM": "201908",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "22911525782"
+      },
+      {
+        "YYYYMM": "201908",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1348370853"
+      },
+      {
+        "YYYYMM": "201907",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "20619702318"
+      },
+      {
+        "YYYYMM": "201907",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1239990768"
+      },
+      {
+        "YYYYMM": "201906",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "19158363442"
+      },
+      {
+        "YYYYMM": "201906",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1548855248"
+      },
+      {
+        "YYYYMM": "201905",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "22847262591"
+      },
+      {
+        "YYYYMM": "201905",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2149786372"
+      },
+      {
+        "YYYYMM": "201904",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "20420335751"
+      },
+      {
+        "YYYYMM": "201904",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2142606260"
+      },
+      {
+        "YYYYMM": "201903",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "18193335009"
+      },
+      {
+        "YYYYMM": "201903",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2502041445"
+      },
+      {
+        "YYYYMM": "201902",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "19208608769"
+      },
+      {
+        "YYYYMM": "201902",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2535172331"
+      },
+      {
+        "YYYYMM": "201901",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "15156357471"
+      },
+      {
+        "YYYYMM": "201901",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1873138772"
+      },
+      {
+        "YYYYMM": "201812",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "16896628307"
+      },
+      {
+        "YYYYMM": "201812",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1922416138"
+      },
+      {
+        "YYYYMM": "201811",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "20585377344"
+      },
+      {
+        "YYYYMM": "201811",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2246783628"
+      },
+      {
+        "YYYYMM": "201810",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "23940832052"
+      },
+      {
+        "YYYYMM": "201810",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2836449334"
+      },
+      {
+        "YYYYMM": "201809",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "28036539123"
+      },
+      {
+        "YYYYMM": "201809",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1975545648"
+      },
+      {
+        "YYYYMM": "201808",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "26580886941"
+      },
+      {
+        "YYYYMM": "201808",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1900259000"
+      },
+      {
+        "YYYYMM": "201807",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "26488064029"
+      },
+      {
+        "YYYYMM": "201807",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1880642648"
+      },
+      {
+        "YYYYMM": "201806",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "22380437428"
+      },
+      {
+        "YYYYMM": "201806",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1883179170"
+      },
+      {
+        "YYYYMM": "201805",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "18921514596"
+      },
+      {
+        "YYYYMM": "201805",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1745872005"
+      },
+      {
+        "YYYYMM": "201804",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "19557401014"
+      },
+      {
+        "YYYYMM": "201804",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1950715400"
+      },
+      {
+        "YYYYMM": "201803",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "17808485495"
+      },
+      {
+        "YYYYMM": "201803",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1977651109"
+      },
+      {
+        "YYYYMM": "201802",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "18458329521"
+      },
+      {
+        "YYYYMM": "201802",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3430109946"
+      },
+      {
+        "YYYYMM": "201801",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "18227479835"
+      },
+      {
+        "YYYYMM": "201801",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2290402015"
+      },
+      {
+        "YYYYMM": "201712",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "16880139695"
+      },
+      {
+        "YYYYMM": "201712",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1808212138"
+      },
+      {
+        "YYYYMM": "201711",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "19675326795"
+      },
+      {
+        "YYYYMM": "201711",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2119028764"
+      },
+      {
+        "YYYYMM": "201710",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "23636404258"
+      },
+      {
+        "YYYYMM": "201710",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1758209239"
+      },
+      {
+        "YYYYMM": "201709",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "16747267719"
+      },
+      {
+        "YYYYMM": "201709",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1822538723"
+      },
+      {
+        "YYYYMM": "201708",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "14569148077"
+      },
+      {
+        "YYYYMM": "201708",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1801082637"
+      },
+      {
+        "YYYYMM": "201707",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "11992623148"
+      },
+      {
+        "YYYYMM": "201707",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2024942915"
+      },
+      {
+        "YYYYMM": "201706",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "11086876019"
+      },
+      {
+        "YYYYMM": "201706",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1683193931"
+      },
+      {
+        "YYYYMM": "201705",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "9447700222"
+      },
+      {
+        "YYYYMM": "201705",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1582050369"
+      },
+      {
+        "YYYYMM": "201704",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "9792451213"
+      },
+      {
+        "YYYYMM": "201704",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1366507028"
+      },
+      {
+        "YYYYMM": "201703",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "9685376715"
+      },
+      {
+        "YYYYMM": "201703",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1120406441"
+      },
+      {
+        "YYYYMM": "201702",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "10804684983"
+      },
+      {
+        "YYYYMM": "201702",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1309388245"
+      },
+      {
+        "YYYYMM": "201701",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7966245020"
+      },
+      {
+        "YYYYMM": "201701",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1662587450"
+      },
+      {
+        "YYYYMM": "201612",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6252558643"
+      },
+      {
+        "YYYYMM": "201612",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1638250823"
+      },
+      {
+        "YYYYMM": "201611",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7166427816"
+      },
+      {
+        "YYYYMM": "201611",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1743565105"
+      },
+      {
+        "YYYYMM": "201610",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7027216634"
+      },
+      {
+        "YYYYMM": "201610",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1560690537"
+      },
+      {
+        "YYYYMM": "201609",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7671311697"
+      },
+      {
+        "YYYYMM": "201609",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1681677721"
+      },
+      {
+        "YYYYMM": "201608",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6344966614"
+      },
+      {
+        "YYYYMM": "201608",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2311550228"
+      },
+      {
+        "YYYYMM": "201607",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6343614841"
+      },
+      {
+        "YYYYMM": "201607",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1998856815"
+      },
+      {
+        "YYYYMM": "201606",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6555527224"
+      },
+      {
+        "YYYYMM": "201606",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1860318238"
+      },
+      {
+        "YYYYMM": "201605",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6857645830"
+      },
+      {
+        "YYYYMM": "201605",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1893956455"
+      },
+      {
+        "YYYYMM": "201604",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6403279618"
+      },
+      {
+        "YYYYMM": "201604",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2288519400"
+      },
+      {
+        "YYYYMM": "201603",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6652384440"
+      },
+      {
+        "YYYYMM": "201603",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2710687683"
+      },
+      {
+        "YYYYMM": "201602",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "5976128337"
+      },
+      {
+        "YYYYMM": "201602",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2440033031"
+      },
+      {
+        "YYYYMM": "201601",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6685038118"
+      },
+      {
+        "YYYYMM": "201601",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3655115843"
+      },
+      {
+        "YYYYMM": "201512",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "5259521297"
+      },
+      {
+        "YYYYMM": "201512",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2427492735"
+      },
+      {
+        "YYYYMM": "201511",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7214009949"
+      },
+      {
+        "YYYYMM": "201511",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2648362953"
+      },
+      {
+        "YYYYMM": "201510",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6945199705"
+      },
+      {
+        "YYYYMM": "201510",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1942657034"
+      },
+      {
+        "YYYYMM": "201509",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6976257433"
+      },
+      {
+        "YYYYMM": "201509",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3082126640"
+      },
+      {
+        "YYYYMM": "201508",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "9251674097"
+      },
+      {
+        "YYYYMM": "201508",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3736653529"
+      },
+      {
+        "YYYYMM": "201507",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "8759567822"
+      },
+      {
+        "YYYYMM": "201507",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "4552224428"
+      },
+      {
+        "YYYYMM": "201506",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "8066316735"
+      },
+      {
+        "YYYYMM": "201506",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "3968222267"
+      },
+      {
+        "YYYYMM": "201505",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "8572394655"
+      },
+      {
+        "YYYYMM": "201505",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2903246240"
+      },
+      {
+        "YYYYMM": "201504",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "8833431506"
+      },
+      {
+        "YYYYMM": "201504",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "2588116905"
+      },
+      {
+        "YYYYMM": "201503",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7540192456"
+      },
+      {
+        "YYYYMM": "201503",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1626975696"
+      },
+      {
+        "YYYYMM": "201502",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "6296416464"
+      },
+      {
+        "YYYYMM": "201502",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1538061293"
+      },
+      {
+        "YYYYMM": "201501",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7219182151"
+      },
+      {
+        "YYYYMM": "201501",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1901961830"
+      },
+      {
+        "YYYYMM": "201412",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7564999452"
+      },
+      {
+        "YYYYMM": "201412",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "1489041425"
+      },
+      {
+        "YYYYMM": "201411",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "8148566100"
+      },
+      {
+        "YYYYMM": "201411",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "531906465"
+      },
+      {
+        "YYYYMM": "201410",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "8180918051"
+      },
+      {
+        "YYYYMM": "201410",
+        "ContractType": "ETF",
+        "AverageDailyTradingValueForTheMonth": "352752532"
+      },
+      {
+        "YYYYMM": "201409",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7423336078"
+      },
+      {
+        "YYYYMM": "201408",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7899270617"
+      },
+      {
+        "YYYYMM": "201407",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "7847869022"
+      },
+      {
+        "YYYYMM": "201406",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "5853415501"
+      },
+      {
+        "YYYYMM": "201405",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "4542056251"
+      },
+      {
+        "YYYYMM": "201404",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "4527236085"
+      },
+      {
+        "YYYYMM": "201403",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "3436524358"
+      },
+      {
+        "YYYYMM": "201402",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "3717609450"
+      },
+      {
+        "YYYYMM": "201401",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "3744758378"
+      },
+      {
+        "YYYYMM": "201312",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2897341841"
+      },
+      {
+        "YYYYMM": "201311",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2827216778"
+      },
+      {
+        "YYYYMM": "201310",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2760935656"
+      },
+      {
+        "YYYYMM": "201309",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2784312450"
+      },
+      {
+        "YYYYMM": "201308",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "4045219206"
+      },
+      {
+        "YYYYMM": "201307",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "3609045512"
+      },
+      {
+        "YYYYMM": "201306",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2394778998"
+      },
+      {
+        "YYYYMM": "201305",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "3198724263"
+      },
+      {
+        "YYYYMM": "201304",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2341150752"
+      },
+      {
+        "YYYYMM": "201303",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1901305417"
+      },
+      {
+        "YYYYMM": "201302",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1757703503"
+      },
+      {
+        "YYYYMM": "201301",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1984432695"
+      },
+      {
+        "YYYYMM": "201212",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1927869129"
+      },
+      {
+        "YYYYMM": "201211",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1838303839"
+      },
+      {
+        "YYYYMM": "201210",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1695067368"
+      },
+      {
+        "YYYYMM": "201209",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2067927814"
+      },
+      {
+        "YYYYMM": "201208",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2544410541"
+      },
+      {
+        "YYYYMM": "201207",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "2037132129"
+      },
+      {
+        "YYYYMM": "201206",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1088327598"
+      },
+      {
+        "YYYYMM": "201205",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1079610565"
+      },
+      {
+        "YYYYMM": "201204",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1015080754"
+      },
+      {
+        "YYYYMM": "201203",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1022524580"
+      },
+      {
+        "YYYYMM": "201202",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "1174324997"
+      },
+      {
+        "YYYYMM": "201201",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "897012145"
+      },
+      {
+        "YYYYMM": "201112",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "843931866"
+      },
+      {
+        "YYYYMM": "201111",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "733545634"
+      },
+      {
+        "YYYYMM": "201110",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "633452387"
+      },
+      {
+        "YYYYMM": "201109",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "684409902"
+      },
+      {
+        "YYYYMM": "201108",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "751380535"
+      },
+      {
+        "YYYYMM": "201107",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "986335628"
+      },
+      {
+        "YYYYMM": "201106",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "742454782"
+      },
+      {
+        "YYYYMM": "201105",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "674065480"
+      },
+      {
+        "YYYYMM": "201104",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "418894092"
+      },
+      {
+        "YYYYMM": "201103",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "437538624"
+      },
+      {
+        "YYYYMM": "201102",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "518745284"
+      },
+      {
+        "YYYYMM": "201101",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "390332614"
+      },
+      {
+        "YYYYMM": "201012",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "299125568"
+      },
+      {
+        "YYYYMM": "201011",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "307199739"
+      },
+      {
+        "YYYYMM": "201010",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "327715327"
+      },
+      {
+        "YYYYMM": "201009",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "296030431"
+      },
+      {
+        "YYYYMM": "201008",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "303892330"
+      },
+      {
+        "YYYYMM": "201007",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "340481217"
+      },
+      {
+        "YYYYMM": "201006",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "229270958"
+      },
+      {
+        "YYYYMM": "201005",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "317943906"
+      },
+      {
+        "YYYYMM": "201004",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "182111840"
+      },
+      {
+        "YYYYMM": "201003",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "22262654"
+      },
+      {
+        "YYYYMM": "201002",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "29737397"
+      },
+      {
+        "YYYYMM": "201001",
+        "ContractType": "STF",
+        "AverageDailyTradingValueForTheMonth": "18995468"
+      }
+    ]
+  }
+}

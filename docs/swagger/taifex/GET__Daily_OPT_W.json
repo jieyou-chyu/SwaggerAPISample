@@ -1,0 +1,307 @@
+{
+  "path": "/Daily_OPT_W",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期貨商交易量週到期選擇權日報表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/Daily_OPT_W",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:49 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "3950",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:40 GMT",
+      "ETag": "\"f6e-6443693e428c7\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=Daily_OPT_W.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d4c5daaaca35b-TPE"
+    },
+    "body": [
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "Date": "20251121",
+        "Volume": "100",
+        "Ratio": "0.00"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "Date": "20251121",
+        "Volume": "35909",
+        "Ratio": "1.25"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "Date": "20251121",
+        "Volume": "5155",
+        "Ratio": "0.18"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "Date": "20251121",
+        "Volume": "16967",
+        "Ratio": "0.59"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "Date": "20251121",
+        "Volume": "1696",
+        "Ratio": "0.06"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "Date": "20251121",
+        "Volume": "21070",
+        "Ratio": "0.73"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "Date": "20251121",
+        "Volume": "7304",
+        "Ratio": "0.25"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "Date": "20251121",
+        "Volume": "30",
+        "Ratio": "0.00"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "Date": "20251121",
+        "Volume": "19372",
+        "Ratio": "0.67"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "Date": "20251121",
+        "Volume": "7832",
+        "Ratio": "0.27"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "Date": "20251121",
+        "Volume": "11844",
+        "Ratio": "0.41"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "Date": "20251121",
+        "Volume": "44",
+        "Ratio": "0.00"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "Date": "20251121",
+        "Volume": "88749",
+        "Ratio": "3.09"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "Date": "20251121",
+        "Volume": "3131",
+        "Ratio": "0.11"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "Date": "20251121",
+        "Volume": "148922",
+        "Ratio": "5.18"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "Date": "20251121",
+        "Volume": "515406",
+        "Ratio": "17.93"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "Date": "20251121",
+        "Volume": "346",
+        "Ratio": "0.01"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "Date": "20251121",
+        "Volume": "800",
+        "Ratio": "0.03"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "Date": "20251121",
+        "Volume": "922",
+        "Ratio": "0.03"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "Date": "20251121",
+        "Volume": "1681",
+        "Ratio": "0.06"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "Date": "20251121",
+        "Volume": "10512",
+        "Ratio": "0.37"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "Date": "20251121",
+        "Volume": "155524",
+        "Ratio": "5.41"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "Date": "20251121",
+        "Volume": "55454",
+        "Ratio": "1.93"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "Date": "20251121",
+        "Volume": "102937",
+        "Ratio": "3.58"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "Date": "20251121",
+        "Volume": "206",
+        "Ratio": "0.01"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "Date": "20251121",
+        "Volume": "51257",
+        "Ratio": "1.78"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "Date": "20251121",
+        "Volume": "64266",
+        "Ratio": "2.24"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "Date": "20251121",
+        "Volume": "201911",
+        "Ratio": "7.02"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "Date": "20251121",
+        "Volume": "6792",
+        "Ratio": "0.24"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "Date": "20251121",
+        "Volume": "378495",
+        "Ratio": "13.17"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "Date": "20251121",
+        "Volume": "214",
+        "Ratio": "0.01"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "Date": "20251121",
+        "Volume": "108373",
+        "Ratio": "3.77"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "Date": "20251121",
+        "Volume": "41",
+        "Ratio": "0.00"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "Date": "20251121",
+        "Volume": "66013",
+        "Ratio": "2.30"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "Date": "20251121",
+        "Volume": "27105",
+        "Ratio": "0.94"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "Date": "20251121",
+        "Volume": "662671",
+        "Ratio": "23.05"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "Date": "20251121",
+        "Volume": "48321",
+        "Ratio": "1.68"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "Date": "20251121",
+        "Volume": "46467",
+        "Ratio": "1.62"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "Date": "20251121",
+        "Volume": "629",
+        "Ratio": "0.02"
+      }
+    ]
+  }
+}

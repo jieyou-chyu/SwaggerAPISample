@@ -1,0 +1,2995 @@
+{
+  "path": "/TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "個股類全市場部位限制",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:28 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "100368",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:43 GMT",
+      "ETag": "\"18810-6443690855a07\"",
+      "Content-Disposition": "attachment; filename=TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4bdc5ccb8451-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "OK",
+        "NameOfUnderlyingStock": "富邦深100",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8370000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "150903000",
+        "Ratio": "8.26"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF選擇權",
+        "CodeOfUnderlyingStock": "OK",
+        "NameOfUnderlyingStock": "富邦深100",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4100000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "150903000",
+        "Ratio": "8.26"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PQ",
+        "NameOfUnderlyingStock": "金居",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "17634000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "239218000",
+        "Ratio": "7.37"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "OJ",
+        "NameOfUnderlyingStock": "國泰中國A50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3240000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "149325000",
+        "Ratio": "4.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF選擇權",
+        "CodeOfUnderlyingStock": "OJ",
+        "NameOfUnderlyingStock": "國泰中國A50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3160000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "149325000",
+        "Ratio": "4.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "OO",
+        "NameOfUnderlyingStock": "群益深証中小",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "960000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "101073000",
+        "Ratio": "3.74"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF選擇權",
+        "CodeOfUnderlyingStock": "OO",
+        "NameOfUnderlyingStock": "群益深証中小",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2830000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "101073000",
+        "Ratio": "3.74"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NW",
+        "NameOfUnderlyingStock": "群聯",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "5930000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "195778336",
+        "Ratio": "3.61"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "QN",
+        "NameOfUnderlyingStock": "小型群聯",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1154600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "195778336",
+        "Ratio": "3.61"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IP",
+        "NameOfUnderlyingStock": "智原",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "6552000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "247350313",
+        "Ratio": "2.64"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JB",
+        "NameOfUnderlyingStock": "創意",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2324000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "125167125",
+        "Ratio": "2.36"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RW",
+        "NameOfUnderlyingStock": "小型創意",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "635800",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "125167125",
+        "Ratio": "2.36"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃ETF期貨",
+        "CodeOfUnderlyingStock": "RZ",
+        "NameOfUnderlyingStock": "元大美債20年",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "209110000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "8866192000",
+        "Ratio": "2.35"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PT",
+        "NameOfUnderlyingStock": "雙鴻",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1704000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "83193594",
+        "Ratio": "2.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "UL",
+        "NameOfUnderlyingStock": "小型雙鴻",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "194400",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "83193594",
+        "Ratio": "2.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IY",
+        "NameOfUnderlyingStock": "新日興",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3864000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "175843409",
+        "Ratio": "2.19"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JM",
+        "NameOfUnderlyingStock": "健策",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2106000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "130318688",
+        "Ratio": "2.06"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RG",
+        "NameOfUnderlyingStock": "小型健策",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "581900",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "130318688",
+        "Ratio": "2.06"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CY",
+        "NameOfUnderlyingStock": "南亞科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "60882000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3016824117",
+        "Ratio": "2.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "OA",
+        "NameOfUnderlyingStock": "富邦上証",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "9820000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "120939000",
+        "Ratio": "14.82"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF選擇權",
+        "CodeOfUnderlyingStock": "OA",
+        "NameOfUnderlyingStock": "富邦上証",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8110000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "120939000",
+        "Ratio": "14.82"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OV",
+        "NameOfUnderlyingStock": "台燿",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "5126000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "275473387",
+        "Ratio": "1.86"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OT",
+        "NameOfUnderlyingStock": "聯亞",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1480000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "80730495",
+        "Ratio": "1.83"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FZ",
+        "NameOfUnderlyingStock": "華邦電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "69854000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "4272000187",
+        "Ratio": "1.63"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OR",
+        "NameOfUnderlyingStock": "和大",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4084000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "260326513",
+        "Ratio": "1.56"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KW",
+        "NameOfUnderlyingStock": "廣宇",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "7658000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "500100493",
+        "Ratio": "1.53"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IM",
+        "NameOfUnderlyingStock": "亞光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3984000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "266043901",
+        "Ratio": "1.49"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JW",
+        "NameOfUnderlyingStock": "長虹",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3816000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "270625960",
+        "Ratio": "1.41"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PK",
+        "NameOfUnderlyingStock": "信昌電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2192000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "159848000",
+        "Ratio": "1.37"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OX",
+        "NameOfUnderlyingStock": "精測",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "298000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "28829022",
+        "Ratio": "1.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OY",
+        "NameOfUnderlyingStock": "小型精測",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "89600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "28829022",
+        "Ratio": "1.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NM",
+        "NameOfUnderlyingStock": "中光電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4236000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "328666940",
+        "Ratio": "1.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DI",
+        "NameOfUnderlyingStock": "旺宏",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "22872000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1834884334",
+        "Ratio": "1.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "ND",
+        "NameOfUnderlyingStock": "威剛",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3602000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "295988080",
+        "Ratio": "1.21"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RA",
+        "NameOfUnderlyingStock": "奇鋐",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4104000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "373705607",
+        "Ratio": "1.19"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UH",
+        "NameOfUnderlyingStock": "小型奇鋐",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "366500",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "373705607",
+        "Ratio": "1.19"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GY",
+        "NameOfUnderlyingStock": "強茂",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4098000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "354801870",
+        "Ratio": "1.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CZ",
+        "NameOfUnderlyingStock": "長榮",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "22778000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2107885861",
+        "Ratio": "1.09"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CZ",
+        "NameOfUnderlyingStock": "長榮",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "222000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2107885861",
+        "Ratio": "1.09"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "UY",
+        "NameOfUnderlyingStock": "良維",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1684000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "154368685",
+        "Ratio": "1.09"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HC",
+        "NameOfUnderlyingStock": "宏達電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8692000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "806548764",
+        "Ratio": "1.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UB",
+        "NameOfUnderlyingStock": "亞翔",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2082000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "194439655",
+        "Ratio": "1.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FY",
+        "NameOfUnderlyingStock": "台亞",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3760000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "361022846",
+        "Ratio": "1.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "II",
+        "NameOfUnderlyingStock": "晶豪科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2662000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "272972238",
+        "Ratio": "0.97"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GU",
+        "NameOfUnderlyingStock": "全新",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1580000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "167683378",
+        "Ratio": "0.94"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PA",
+        "NameOfUnderlyingStock": "原相",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1284000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "138831126",
+        "Ratio": "0.92"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RU",
+        "NameOfUnderlyingStock": "世紀鋼",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1972000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "217266665",
+        "Ratio": "0.91"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SW",
+        "NameOfUnderlyingStock": "小型世紀鋼",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "20300",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "217266665",
+        "Ratio": "0.91"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GR",
+        "NameOfUnderlyingStock": "京元電子",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "10642000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1187545065",
+        "Ratio": "0.89"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UP",
+        "NameOfUnderlyingStock": "保瑞",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "832000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "111550023",
+        "Ratio": "0.81"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UQ",
+        "NameOfUnderlyingStock": "小型保瑞",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "77240",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "111550023",
+        "Ratio": "0.81"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IX",
+        "NameOfUnderlyingStock": "景碩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3490000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "438904860",
+        "Ratio": "0.79"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PS",
+        "NameOfUnderlyingStock": "神達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "10125000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1284023468",
+        "Ratio": "0.78"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "SY",
+        "NameOfUnderlyingStock": "家登",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "486000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "80689831",
+        "Ratio": "0.73"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "SZ",
+        "NameOfUnderlyingStock": "小型家登",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "103700",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "80689831",
+        "Ratio": "0.73"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PE",
+        "NameOfUnderlyingStock": "台半",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1828000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "247285486",
+        "Ratio": "0.73"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KF",
+        "NameOfUnderlyingStock": "康舒",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "6096000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "828258730",
+        "Ratio": "0.73"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RL",
+        "NameOfUnderlyingStock": "元晶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3614000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "494746285",
+        "Ratio": "0.73"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FF",
+        "NameOfUnderlyingStock": "上銀",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2340000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "332502382",
+        "Ratio": "0.72"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QM",
+        "NameOfUnderlyingStock": "小型上銀",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "62600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "332502382",
+        "Ratio": "0.72"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SK",
+        "NameOfUnderlyingStock": "至上",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3588000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "498301430",
+        "Ratio": "0.72"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QX",
+        "NameOfUnderlyingStock": "萬海",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "18908000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2653199517",
+        "Ratio": "0.71"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KU",
+        "NameOfUnderlyingStock": "台玻",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "17440000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2463059995",
+        "Ratio": "0.7"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "QL",
+        "NameOfUnderlyingStock": "精材",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1810000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "258164316",
+        "Ratio": "0.7"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QZ",
+        "NameOfUnderlyingStock": "力積電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "25722000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3635377681",
+        "Ratio": "0.7"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KB",
+        "NameOfUnderlyingStock": "聯茂",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2112000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "302060300",
+        "Ratio": "0.69"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OW",
+        "NameOfUnderlyingStock": "環球晶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2842000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "460513725",
+        "Ratio": "0.69"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PB",
+        "NameOfUnderlyingStock": "小型環球晶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "377600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "460513725",
+        "Ratio": "0.69"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PJ",
+        "NameOfUnderlyingStock": "台光電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2010000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "342554984",
+        "Ratio": "0.66"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SF",
+        "NameOfUnderlyingStock": "小型台光電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "272800",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "342554984",
+        "Ratio": "0.66"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GH",
+        "NameOfUnderlyingStock": "技嘉",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3518000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "621918797",
+        "Ratio": "0.61"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SL",
+        "NameOfUnderlyingStock": "小型技嘉",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "303400",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "621918797",
+        "Ratio": "0.61"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "NY",
+        "NameOfUnderlyingStock": "元大台灣50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "83480000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "14780500000",
+        "Ratio": "0.6"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF選擇權",
+        "CodeOfUnderlyingStock": "NY",
+        "NameOfUnderlyingStock": "元大台灣50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1810000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "14780500000",
+        "Ratio": "0.6"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "SR",
+        "NameOfUnderlyingStock": "小型元大台灣50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4543000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "14780500000",
+        "Ratio": "0.6"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OD",
+        "NameOfUnderlyingStock": "為升",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "648000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "109785105",
+        "Ratio": "0.59"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HB",
+        "NameOfUnderlyingStock": "華新科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2726000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "467204774",
+        "Ratio": "0.58"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UT",
+        "NameOfUnderlyingStock": "一詮",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1146000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "204677579",
+        "Ratio": "0.55"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RJ",
+        "NameOfUnderlyingStock": "大亞",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4050000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "743965723",
+        "Ratio": "0.54"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FR",
+        "NameOfUnderlyingStock": "台達電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "12968000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2528968185",
+        "Ratio": "0.54"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RV",
+        "NameOfUnderlyingStock": "小型台達電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "773500",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2528968185",
+        "Ratio": "0.54"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QW",
+        "NameOfUnderlyingStock": "威盛",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2918000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "536118077",
+        "Ratio": "0.54"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RK",
+        "NameOfUnderlyingStock": "金像電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2548000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "474019010",
+        "Ratio": "0.53"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DS",
+        "NameOfUnderlyingStock": "宏碁",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "15648000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2967390487",
+        "Ratio": "0.52"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NE",
+        "NameOfUnderlyingStock": "欣銓",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2474000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "472570076",
+        "Ratio": "0.52"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "UV",
+        "NameOfUnderlyingStock": "旺矽",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "160000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "87506857",
+        "Ratio": "0.51"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "UW",
+        "NameOfUnderlyingStock": "小型旺矽",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "293200",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "87506857",
+        "Ratio": "0.51"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NA",
+        "NameOfUnderlyingStock": "穩懋",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1876000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "396890384",
+        "Ratio": "0.5"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "QI",
+        "NameOfUnderlyingStock": "小型穩懋",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "130400",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "396890384",
+        "Ratio": "0.5"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UM",
+        "NameOfUnderlyingStock": "世芯-KY",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "122000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "71351131",
+        "Ratio": "0.5"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UO",
+        "NameOfUnderlyingStock": "小型世芯-KY",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "238900",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "71351131",
+        "Ratio": "0.5"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IR",
+        "NameOfUnderlyingStock": "欣興",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "7272000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1489281062",
+        "Ratio": "0.48"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NO",
+        "NameOfUnderlyingStock": "中美晶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3012000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "616448549",
+        "Ratio": "0.48"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LX",
+        "NameOfUnderlyingStock": "國巨",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8646000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1919438190",
+        "Ratio": "0.47"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QE",
+        "NameOfUnderlyingStock": "小型國巨",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "526400",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1919438190",
+        "Ratio": "0.47"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QV",
+        "NameOfUnderlyingStock": "光罩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "774000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "164639819",
+        "Ratio": "0.47"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KC",
+        "NameOfUnderlyingStock": "力成",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3460000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "732424672",
+        "Ratio": "0.47"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LY",
+        "NameOfUnderlyingStock": "南電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2746000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "623420462",
+        "Ratio": "0.47"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QS",
+        "NameOfUnderlyingStock": "小型南電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "230600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "623420462",
+        "Ratio": "0.47"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LU",
+        "NameOfUnderlyingStock": "臻鼎-KY",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4726000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1020595200",
+        "Ratio": "0.46"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QU",
+        "NameOfUnderlyingStock": "南茂",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2966000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "670171273",
+        "Ratio": "0.44"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GX",
+        "NameOfUnderlyingStock": "可成",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2628000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "601715917",
+        "Ratio": "0.43"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PV",
+        "NameOfUnderlyingStock": "緯穎",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "378000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "173115299",
+        "Ratio": "0.41"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PW",
+        "NameOfUnderlyingStock": "小型緯穎",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "332500",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "173115299",
+        "Ratio": "0.41"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PR",
+        "NameOfUnderlyingStock": "宏捷科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "580000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "138546059",
+        "Ratio": "0.41"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LE",
+        "NameOfUnderlyingStock": "玉晶光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "330000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "102243063",
+        "Ratio": "0.4"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QJ",
+        "NameOfUnderlyingStock": "小型玉晶光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "84500",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "102243063",
+        "Ratio": "0.4"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DA",
+        "NameOfUnderlyingStock": "陽明",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "13302000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3399912717",
+        "Ratio": "0.39"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EM",
+        "NameOfUnderlyingStock": "東元",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8780000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2259477650",
+        "Ratio": "0.38"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DH",
+        "NameOfUnderlyingStock": "鴻海",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "48948000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12962475293",
+        "Ratio": "0.38"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "DH",
+        "NameOfUnderlyingStock": "鴻海",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "598000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12962475293",
+        "Ratio": "0.38"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IT",
+        "NameOfUnderlyingStock": "晶技",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1160000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "297601280",
+        "Ratio": "0.38"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CS",
+        "NameOfUnderlyingStock": "華新",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "15116000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "4191705758",
+        "Ratio": "0.37"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CS",
+        "NameOfUnderlyingStock": "華新",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "396000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "4191705758",
+        "Ratio": "0.37"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DX",
+        "NameOfUnderlyingStock": "緯創",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "11694000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3094626566",
+        "Ratio": "0.37"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "DX",
+        "NameOfUnderlyingStock": "緯創",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "26000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3094626566",
+        "Ratio": "0.37"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KS",
+        "NameOfUnderlyingStock": "聚陽",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "788000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "232583713",
+        "Ratio": "0.36"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SC",
+        "NameOfUnderlyingStock": "小型聚陽",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "61000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "232583713",
+        "Ratio": "0.36"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KI",
+        "NameOfUnderlyingStock": "台虹",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "894000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "243771994",
+        "Ratio": "0.36"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OP",
+        "NameOfUnderlyingStock": "智邦",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1552000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "541366547",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SE",
+        "NameOfUnderlyingStock": "小型智邦",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "309800",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "541366547",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DV",
+        "NameOfUnderlyingStock": "聯發科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4508000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1561585268",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "DV",
+        "NameOfUnderlyingStock": "聯發科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "54000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1561585268",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PU",
+        "NameOfUnderlyingStock": "小型聯發科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "821300",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1561585268",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DW",
+        "NameOfUnderlyingStock": "潤泰全",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3476000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "997793172",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OQ",
+        "NameOfUnderlyingStock": "樺漢",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "448000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "131070641",
+        "Ratio": "0.34"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FT",
+        "NameOfUnderlyingStock": "華通",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3878000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1156620589",
+        "Ratio": "0.33"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "QY",
+        "NameOfUnderlyingStock": "高端疫苗",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "982000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "300351092",
+        "Ratio": "0.32"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FN",
+        "NameOfUnderlyingStock": "裕隆",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3232000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1028443641",
+        "Ratio": "0.31"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PL",
+        "NameOfUnderlyingStock": "合晶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1738000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "553459085",
+        "Ratio": "0.31"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SD",
+        "NameOfUnderlyingStock": "中興電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1378000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "467241704",
+        "Ratio": "0.29"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GV",
+        "NameOfUnderlyingStock": "飛宏",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1100000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "374156416",
+        "Ratio": "0.29"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PH",
+        "NameOfUnderlyingStock": "祥碩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "90000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "67996742",
+        "Ratio": "0.29"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PN",
+        "NameOfUnderlyingStock": "小型祥碩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "107900",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "67996742",
+        "Ratio": "0.29"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SA",
+        "NameOfUnderlyingStock": "美時",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "712000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "249779812",
+        "Ratio": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GI",
+        "NameOfUnderlyingStock": "微星",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2322000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "815117261",
+        "Ratio": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "VC",
+        "NameOfUnderlyingStock": "建準",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "682000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "243469669",
+        "Ratio": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "MK",
+        "NameOfUnderlyingStock": "美律",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "698000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "240695414",
+        "Ratio": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PX",
+        "NameOfUnderlyingStock": "鈊象",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "484000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "268601560",
+        "Ratio": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PY",
+        "NameOfUnderlyingStock": "小型鈊象",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "291100",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "268601560",
+        "Ratio": "0.28"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PI",
+        "NameOfUnderlyingStock": "力旺",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "54000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "67694081",
+        "Ratio": "0.27"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "RS",
+        "NameOfUnderlyingStock": "小型力旺",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "133600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "67694081",
+        "Ratio": "0.27"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EH",
+        "NameOfUnderlyingStock": "東陽",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1538000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "570657075",
+        "Ratio": "0.26"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NJ",
+        "NameOfUnderlyingStock": "榮剛",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1264000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "484697211",
+        "Ratio": "0.26"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LW",
+        "NameOfUnderlyingStock": "儒鴻",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "662000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "261167111",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FG",
+        "NameOfUnderlyingStock": "川湖",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "136000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "86910930",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SV",
+        "NameOfUnderlyingStock": "小型川湖",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "87900",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "86910930",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RC",
+        "NameOfUnderlyingStock": "漢翔",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2354000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "908713379",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QD",
+        "NameOfUnderlyingStock": "台勝科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "932000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "370782974",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RB",
+        "NameOfUnderlyingStock": "中磊",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "716000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "278863470",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KD",
+        "NameOfUnderlyingStock": "同欣電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "502000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "193594786",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LM",
+        "NameOfUnderlyingStock": "美利達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "726000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "285783800",
+        "Ratio": "0.25"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CA",
+        "NameOfUnderlyingStock": "南亞",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "18748000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7782939129",
+        "Ratio": "0.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FS",
+        "NameOfUnderlyingStock": "金寶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3518000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1442396180",
+        "Ratio": "0.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HH",
+        "NameOfUnderlyingStock": "中工",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3217117",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1331939067",
+        "Ratio": "0.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LB",
+        "NameOfUnderlyingStock": "健鼎",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1226000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "507104570",
+        "Ratio": "0.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NV",
+        "NameOfUnderlyingStock": "元太",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2556000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1055357059",
+        "Ratio": "0.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "MV",
+        "NameOfUnderlyingStock": "百和",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "686000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "284763902",
+        "Ratio": "0.24"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CD",
+        "NameOfUnderlyingStock": "台積電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "55068000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "25701680504",
+        "Ratio": "0.23"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CD",
+        "NameOfUnderlyingStock": "台積電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "982000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "25701680504",
+        "Ratio": "0.23"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QF",
+        "NameOfUnderlyingStock": "小型台積電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3890900",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "25701680504",
+        "Ratio": "0.23"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JF",
+        "NameOfUnderlyingStock": "嘉澤",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "122000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "103133691",
+        "Ratio": "0.23"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RF",
+        "NameOfUnderlyingStock": "小型嘉澤",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "120700",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "103133691",
+        "Ratio": "0.23"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GC",
+        "NameOfUnderlyingStock": "鴻準",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3092000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1377142782",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GL",
+        "NameOfUnderlyingStock": "正崴",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1132000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "494293031",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IJ",
+        "NameOfUnderlyingStock": "大立光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "130000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "124659296",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OL",
+        "NameOfUnderlyingStock": "小型大立光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "146800",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "124659296",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IO",
+        "NameOfUnderlyingStock": "聯詠",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1204000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "587091865",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QH",
+        "NameOfUnderlyingStock": "小型聯詠",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "124100",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "587091865",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PZ",
+        "NameOfUnderlyingStock": "信驊",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "20000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "33279685",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "QA",
+        "NameOfUnderlyingStock": "小型信驊",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "53300",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "33279685",
+        "Ratio": "0.22"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EE",
+        "NameOfUnderlyingStock": "國喬",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2228000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1038877328",
+        "Ratio": "0.21"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CX",
+        "NameOfUnderlyingStock": "大同",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4364000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2075551560",
+        "Ratio": "0.21"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HQ",
+        "NameOfUnderlyingStock": "新興",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1232000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "564748861",
+        "Ratio": "0.21"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QC",
+        "NameOfUnderlyingStock": "裕民",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1638000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "761309751",
+        "Ratio": "0.21"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃ETF期貨",
+        "CodeOfUnderlyingStock": "UJ",
+        "NameOfUnderlyingStock": "群益ESG投等債20+",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "36270000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "17663805000",
+        "Ratio": "0.2"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RE",
+        "NameOfUnderlyingStock": "新唐",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "840000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "402165268",
+        "Ratio": "0.2"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CC",
+        "NameOfUnderlyingStock": "聯電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "22260000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12183502358",
+        "Ratio": "0.19"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CC",
+        "NameOfUnderlyingStock": "聯電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "996000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12183502358",
+        "Ratio": "0.19"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KG",
+        "NameOfUnderlyingStock": "啟碁",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "898000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "466503039",
+        "Ratio": "0.19"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FQ",
+        "NameOfUnderlyingStock": "光寶科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4048000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2203492596",
+        "Ratio": "0.18"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LQ",
+        "NameOfUnderlyingStock": "英業達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "6580000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3492765724",
+        "Ratio": "0.18"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OZ",
+        "NameOfUnderlyingStock": "日月光投控",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "7790000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "4267665788",
+        "Ratio": "0.18"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NL",
+        "NameOfUnderlyingStock": "世界",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3286000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1818093197",
+        "Ratio": "0.18"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LI",
+        "NameOfUnderlyingStock": "台郡",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "562000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "296210590",
+        "Ratio": "0.18"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GZ",
+        "NameOfUnderlyingStock": "兆赫",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "536000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "303710719",
+        "Ratio": "0.17"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HI",
+        "NameOfUnderlyingStock": "冠德",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1024000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "587033164",
+        "Ratio": "0.17"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HS",
+        "NameOfUnderlyingStock": "長榮航",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8422000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "5268444335",
+        "Ratio": "0.16"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "HS",
+        "NameOfUnderlyingStock": "長榮航",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "348000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "5268444335",
+        "Ratio": "0.16"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CF",
+        "NameOfUnderlyingStock": "台塑",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "9172000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "6233740781",
+        "Ratio": "0.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CF",
+        "NameOfUnderlyingStock": "台塑",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "488000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "6233740781",
+        "Ratio": "0.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QO",
+        "NameOfUnderlyingStock": "長興",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1716000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1093495482",
+        "Ratio": "0.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FE",
+        "NameOfUnderlyingStock": "大成鋼",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3812000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2513536135",
+        "Ratio": "0.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FV",
+        "NameOfUnderlyingStock": "精英",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "622000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "413782383",
+        "Ratio": "0.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JZ",
+        "NameOfUnderlyingStock": "嘉聯益",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "798000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "522957806",
+        "Ratio": "0.15"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "OB",
+        "NameOfUnderlyingStock": "元大上證50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "50000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "34778000",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EG",
+        "NameOfUnderlyingStock": "中石化",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4872000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3474380087",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DJ",
+        "NameOfUnderlyingStock": "華碩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "928000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "716615118",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QR",
+        "NameOfUnderlyingStock": "小型華碩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "100600",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "716615118",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GO",
+        "NameOfUnderlyingStock": "漢唐",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "182000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "176007976",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UZ",
+        "NameOfUnderlyingStock": "小型漢唐",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "75300",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "176007976",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CH",
+        "NameOfUnderlyingStock": "友達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "10188000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7373070650",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CH",
+        "NameOfUnderlyingStock": "友達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "396000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7373070650",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GW",
+        "NameOfUnderlyingStock": "義隆",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "420000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "283611254",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IZ",
+        "NameOfUnderlyingStock": "明泰",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "778000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "522649970",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OH",
+        "NameOfUnderlyingStock": "胡連",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "162000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "108235736",
+        "Ratio": "0.14"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃ETF期貨",
+        "CodeOfUnderlyingStock": "SI",
+        "NameOfUnderlyingStock": "元大美債1-3",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "720000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "520514000",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "RX",
+        "NameOfUnderlyingStock": "富邦越南",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1150000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "862738000",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "MJ",
+        "NameOfUnderlyingStock": "致茂",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "472000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "406673742",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "VD",
+        "NameOfUnderlyingStock": "小型致茂",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "64800",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "406673742",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DK",
+        "NameOfUnderlyingStock": "廣達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "5224000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3756154068",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IQ",
+        "NameOfUnderlyingStock": "文曄",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1478000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1130135271",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "MQ",
+        "NameOfUnderlyingStock": "矽格",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "630000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "461181325",
+        "Ratio": "0.13"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OS",
+        "NameOfUnderlyingStock": "榮成",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1486000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1167244727",
+        "Ratio": "0.12"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CG",
+        "NameOfUnderlyingStock": "仁寶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "5322000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "4286680385",
+        "Ratio": "0.12"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HA",
+        "NameOfUnderlyingStock": "瑞軒",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "725059",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "581627000",
+        "Ratio": "0.12"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JN",
+        "NameOfUnderlyingStock": "TPK-KY",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "504000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "389063759",
+        "Ratio": "0.12"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UA",
+        "NameOfUnderlyingStock": "士電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "554000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "502634001",
+        "Ratio": "0.11"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UX",
+        "NameOfUnderlyingStock": "華泰",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "632000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "540508296",
+        "Ratio": "0.11"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HO",
+        "NameOfUnderlyingStock": "華固",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "360000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "305651075",
+        "Ratio": "0.11"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DQ",
+        "NameOfUnderlyingStock": "群創",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "8610000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7799471463",
+        "Ratio": "0.11"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "DQ",
+        "NameOfUnderlyingStock": "群創",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "516000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7799471463",
+        "Ratio": "0.11"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JP",
+        "NameOfUnderlyingStock": "大聯大",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1830000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1618624053",
+        "Ratio": "0.11"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FW",
+        "NameOfUnderlyingStock": "友訊",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "614000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "581072096",
+        "Ratio": "0.1"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "RN",
+        "NameOfUnderlyingStock": "合一",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "490000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "461856486",
+        "Ratio": "0.1"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DF",
+        "NameOfUnderlyingStock": "台泥",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "6748000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7356180944",
+        "Ratio": "0.09"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "DF",
+        "NameOfUnderlyingStock": "台泥",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "198000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7356180944",
+        "Ratio": "0.09"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GN",
+        "NameOfUnderlyingStock": "凌陽",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "524000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "542014104",
+        "Ratio": "0.09"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "SN",
+        "NameOfUnderlyingStock": "復華台灣科技優息",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "6260000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7400139000",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FC",
+        "NameOfUnderlyingStock": "中鴻",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1122000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1397646073",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "HL",
+        "NameOfUnderlyingStock": "興富發",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1737300",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2095714133",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DB",
+        "NameOfUnderlyingStock": "華航",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "5028000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "5951923559",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NI",
+        "NameOfUnderlyingStock": "晟德",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "546000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "634789497",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PC",
+        "NameOfUnderlyingStock": "智擎",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "114000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "134062916",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KA",
+        "NameOfUnderlyingStock": "瑞儀",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "364000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "442641263",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "UC",
+        "NameOfUnderlyingStock": "廣明",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "236000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "265158910",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UU",
+        "NameOfUnderlyingStock": "台灣虎航",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "384000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "441930000",
+        "Ratio": "0.08"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "MB",
+        "NameOfUnderlyingStock": "敬鵬",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "270000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "374603622",
+        "Ratio": "0.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LC",
+        "NameOfUnderlyingStock": "台灣大",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2600000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3493974995",
+        "Ratio": "0.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "OE",
+        "NameOfUnderlyingStock": "彩晶",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1822000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2478030169",
+        "Ratio": "0.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KE",
+        "NameOfUnderlyingStock": "台表科",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "210000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "277854353",
+        "Ratio": "0.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KO",
+        "NameOfUnderlyingStock": "宏全",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "214000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "278972879",
+        "Ratio": "0.07"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CM",
+        "NameOfUnderlyingStock": "台新新光金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "15916000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "24647574917",
+        "Ratio": "0.06"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LV",
+        "NameOfUnderlyingStock": "中租-KY",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1064720",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1653639643",
+        "Ratio": "0.06"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KL",
+        "NameOfUnderlyingStock": "寶成",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1922000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2868992031",
+        "Ratio": "0.06"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DG",
+        "NameOfUnderlyingStock": "台化",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3076000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "5729186291",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QK",
+        "NameOfUnderlyingStock": "永豐餘",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "918000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1616537688",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GA",
+        "NameOfUnderlyingStock": "聯強",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "932000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1577670094",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GJ",
+        "NameOfUnderlyingStock": "瑞昱",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "216000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "487941805",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QG",
+        "NameOfUnderlyingStock": "小型瑞昱",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "51800",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "487941805",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QT",
+        "NameOfUnderlyingStock": "超豐",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "294000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "548822544",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SJ",
+        "NameOfUnderlyingStock": "神基",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "304000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "599218370",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NG",
+        "NameOfUnderlyingStock": "碩禾",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "30000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "58386679",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JS",
+        "NameOfUnderlyingStock": "和碩",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1472000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2611402190",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NS",
+        "NameOfUnderlyingStock": "頎邦",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "388000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "712983846",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "RO",
+        "NameOfUnderlyingStock": "立端",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "72000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "136932155",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KK",
+        "NameOfUnderlyingStock": "達方",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "160000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "266800001",
+        "Ratio": "0.05"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "RI",
+        "NameOfUnderlyingStock": "國泰永續高股息",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "9800000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "21372290000",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "MY",
+        "NameOfUnderlyingStock": "精華",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "10000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "45979862",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OM",
+        "NameOfUnderlyingStock": "小型精華",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "10700",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "45979862",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GK",
+        "NameOfUnderlyingStock": "群光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "332000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "703699300",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "GM",
+        "NameOfUnderlyingStock": "億光",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "172000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "425793086",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CK",
+        "NameOfUnderlyingStock": "國泰金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4470000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12821210128",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CK",
+        "NameOfUnderlyingStock": "國泰金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1020000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12821210128",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IH",
+        "NameOfUnderlyingStock": "農林",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "280000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "678942000",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NB",
+        "NameOfUnderlyingStock": "璟德",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "26000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "62942774",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QB",
+        "NameOfUnderlyingStock": "富采",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "300000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "626964956",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "RD",
+        "NameOfUnderlyingStock": "中天",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "274000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "567466992",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NU",
+        "NameOfUnderlyingStock": "網家",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "52000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "118579482",
+        "Ratio": "0.04"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "PF",
+        "NameOfUnderlyingStock": "元大高股息",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4180000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "13991034000",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "SS",
+        "NameOfUnderlyingStock": "小型元大高股息",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "121000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "13991034000",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃ETF期貨",
+        "CodeOfUnderlyingStock": "UK",
+        "NameOfUnderlyingStock": "國泰20年美債",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2470000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "6988417000",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "UR",
+        "NameOfUnderlyingStock": "統一FANG+",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "100000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "358994000",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "US",
+        "NameOfUnderlyingStock": "小型統一FANG+",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "39000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "358994000",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "SU",
+        "NameOfUnderlyingStock": "元大台灣價值高息",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3950000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "10994365000",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CW",
+        "NameOfUnderlyingStock": "佳世達",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "479520",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1538781133",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "QQ",
+        "NameOfUnderlyingStock": "僑威",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "76000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "214191064",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "OU",
+        "NameOfUnderlyingStock": "同致",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "34000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "89301521",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PP",
+        "NameOfUnderlyingStock": "宣德",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "54000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "154549122",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "JX",
+        "NameOfUnderlyingStock": "群益證",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "700000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2113596123",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "PM",
+        "NameOfUnderlyingStock": "大江",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "38000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "101688830",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "KP",
+        "NameOfUnderlyingStock": "潤泰新",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1076000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2690582664",
+        "Ratio": "0.03"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "SG",
+        "NameOfUnderlyingStock": "國泰智能電動車",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "110000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "421884000",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "SM",
+        "NameOfUnderlyingStock": "群益台灣精選高息",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4430000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "18737135000",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市ETF期貨",
+        "CodeOfUnderlyingStock": "RY",
+        "NameOfUnderlyingStock": "群益台ESG低碳50",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "180000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "801923000",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DY",
+        "NameOfUnderlyingStock": "亞泥",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "714000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3433033621",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CQ",
+        "NameOfUnderlyingStock": "統一",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1328000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "5469985421",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EK",
+        "NameOfUnderlyingStock": "南紡",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "388000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1613075918",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "VA",
+        "NameOfUnderlyingStock": "華榮",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "160000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "610499879",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "SB",
+        "NameOfUnderlyingStock": "華紙",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "298000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1067635316",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CB",
+        "NameOfUnderlyingStock": "中鋼",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3750000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "15408860997",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CB",
+        "NameOfUnderlyingStock": "中鋼",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "530000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "15408860997",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FB",
+        "NameOfUnderlyingStock": "東和鋼鐵",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "180000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "704510292",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "FK",
+        "NameOfUnderlyingStock": "正新",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "838000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3155842166",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CU",
+        "NameOfUnderlyingStock": "中環",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "276000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1054148328",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DC",
+        "NameOfUnderlyingStock": "彰銀",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2667000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "11590046253",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "IA",
+        "NameOfUnderlyingStock": "臺企銀",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1943520",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "9547023960",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CE",
+        "NameOfUnderlyingStock": "富邦金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3192950",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "13831364952",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票選擇權",
+        "CodeOfUnderlyingStock": "CE",
+        "NameOfUnderlyingStock": "富邦金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "194000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "13831364952",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UF",
+        "NameOfUnderlyingStock": "台塑化",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2172000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "9358302762",
+        "Ratio": "0.02"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃ETF期貨",
+        "CodeOfUnderlyingStock": "SQ",
+        "NameOfUnderlyingStock": "中信高評級公司債",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "680000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3483790000",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DZ",
+        "NameOfUnderlyingStock": "大成",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "126000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "835103368",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CR",
+        "NameOfUnderlyingStock": "遠東新",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "878000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "5028793227",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "MA",
+        "NameOfUnderlyingStock": "葡萄王",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "14000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "138360307",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EY",
+        "NameOfUnderlyingStock": "中纖",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "262000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1521177022",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "QP",
+        "NameOfUnderlyingStock": "正隆",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "130000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "1040574522",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DL",
+        "NameOfUnderlyingStock": "中華電",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1358000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "7620915486",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LR",
+        "NameOfUnderlyingStock": "凱基金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2244020",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "16685270353",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DN",
+        "NameOfUnderlyingStock": "玉山金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1608020",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "15998000000",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CN",
+        "NameOfUnderlyingStock": "中信金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "3384000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "19392040301",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LT",
+        "NameOfUnderlyingStock": "遠傳",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "354000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "3417074135",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "NQ",
+        "NameOfUnderlyingStock": "新普",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "30000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "172762465",
+        "Ratio": "0.01"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EP",
+        "NameOfUnderlyingStock": "亞德客-KY",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "186739998",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "EZ",
+        "NameOfUnderlyingStock": "台肥",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "26000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "945504000",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "VB",
+        "NameOfUnderlyingStock": "燿華",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "4000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "681393063",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PG",
+        "NameOfUnderlyingStock": "台灣高鐵",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "180000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "2496293058",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CJ",
+        "NameOfUnderlyingStock": "華南金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "468000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "13740965089",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DO",
+        "NameOfUnderlyingStock": "元大金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "634000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "12995523946",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "CL",
+        "NameOfUnderlyingStock": "兆豐金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "434000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "14657378282",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DE",
+        "NameOfUnderlyingStock": "永豐金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "452828",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "14316322275",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "DP",
+        "NameOfUnderlyingStock": "第一金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "56000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "14203468650",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "PD",
+        "NameOfUnderlyingStock": "泰博",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "86981515",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UE",
+        "NameOfUnderlyingStock": "上海商銀",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "166000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "4721563818",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "LO",
+        "NameOfUnderlyingStock": "合庫金",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "100000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "15504936914",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "RP",
+        "NameOfUnderlyingStock": "寶雅",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "97643826",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上櫃股票期貨",
+        "CodeOfUnderlyingStock": "RR",
+        "NameOfUnderlyingStock": "小型寶雅",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1400",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "97643826",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UG",
+        "NameOfUnderlyingStock": "達發",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "2000",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "156450187",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "UI",
+        "NameOfUnderlyingStock": "小型達發",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "9300",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "156450187",
+        "Ratio": "0"
+      },
+      {
+        "Date": "20251121",
+        "TypeOfTheUnderlyingSecurity": "上市股票期貨",
+        "CodeOfUnderlyingStock": "RQ",
+        "NameOfUnderlyingStock": "小型富邦媒",
+        "TotalOpenInterestOfSingleStockFuturesAndEquityOptions": "1365",
+        "NumberOfSharesOutstandingOfUnderlyingStockOrNumberOfUnitsOutstandingOfETF": "251775275",
+        "Ratio": "0"
+      }
+    ]
+  }
+}

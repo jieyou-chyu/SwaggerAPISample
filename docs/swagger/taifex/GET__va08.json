@@ -1,0 +1,1639 @@
+{
+  "path": "/va08",
+  "method": "GET",
+  "operationId": null,
+  "summary": "個股選擇權商品每月平均成交金額(權利金-區分股票與ETF)",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va08",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:05 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "28782",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:18 GMT",
+      "ETag": "\"706e-644369d4b8560\"",
+      "Content-Disposition": "attachment; filename=va08.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d512759ca6a8a-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1968635"
+      },
+      {
+        "YYYYMM": "202510",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "12916620"
+      },
+      {
+        "YYYYMM": "202509",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1632062"
+      },
+      {
+        "YYYYMM": "202509",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "6597259"
+      },
+      {
+        "YYYYMM": "202508",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2561081"
+      },
+      {
+        "YYYYMM": "202508",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "6983204"
+      },
+      {
+        "YYYYMM": "202507",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "578265"
+      },
+      {
+        "YYYYMM": "202507",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "10925363"
+      },
+      {
+        "YYYYMM": "202506",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "372795"
+      },
+      {
+        "YYYYMM": "202506",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "7690888"
+      },
+      {
+        "YYYYMM": "202505",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "757805"
+      },
+      {
+        "YYYYMM": "202505",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "9356157"
+      },
+      {
+        "YYYYMM": "202504",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1220210"
+      },
+      {
+        "YYYYMM": "202504",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "8951555"
+      },
+      {
+        "YYYYMM": "202503",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "860986"
+      },
+      {
+        "YYYYMM": "202503",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "5873598"
+      },
+      {
+        "YYYYMM": "202502",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "720653"
+      },
+      {
+        "YYYYMM": "202502",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4888515"
+      },
+      {
+        "YYYYMM": "202501",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "627647"
+      },
+      {
+        "YYYYMM": "202501",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "6956008"
+      },
+      {
+        "YYYYMM": "202412",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "985105"
+      },
+      {
+        "YYYYMM": "202412",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3369440"
+      },
+      {
+        "YYYYMM": "202411",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1554381"
+      },
+      {
+        "YYYYMM": "202411",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4991911"
+      },
+      {
+        "YYYYMM": "202410",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2539879"
+      },
+      {
+        "YYYYMM": "202410",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4823192"
+      },
+      {
+        "YYYYMM": "202409",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "869655"
+      },
+      {
+        "YYYYMM": "202409",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4419005"
+      },
+      {
+        "YYYYMM": "202408",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1457346"
+      },
+      {
+        "YYYYMM": "202408",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "5111957"
+      },
+      {
+        "YYYYMM": "202407",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1463391"
+      },
+      {
+        "YYYYMM": "202407",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "5193327"
+      },
+      {
+        "YYYYMM": "202406",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1262732"
+      },
+      {
+        "YYYYMM": "202406",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4736413"
+      },
+      {
+        "YYYYMM": "202405",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1084959"
+      },
+      {
+        "YYYYMM": "202405",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3603671"
+      },
+      {
+        "YYYYMM": "202404",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1321310"
+      },
+      {
+        "YYYYMM": "202404",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4078221"
+      },
+      {
+        "YYYYMM": "202403",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "676600"
+      },
+      {
+        "YYYYMM": "202403",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4893435"
+      },
+      {
+        "YYYYMM": "202402",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "951446"
+      },
+      {
+        "YYYYMM": "202402",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3284402"
+      },
+      {
+        "YYYYMM": "202401",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "650759"
+      },
+      {
+        "YYYYMM": "202401",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2798367"
+      },
+      {
+        "YYYYMM": "202312",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "545686"
+      },
+      {
+        "YYYYMM": "202312",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1372939"
+      },
+      {
+        "YYYYMM": "202311",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "613759"
+      },
+      {
+        "YYYYMM": "202311",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1440040"
+      },
+      {
+        "YYYYMM": "202310",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "574685"
+      },
+      {
+        "YYYYMM": "202310",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1597152"
+      },
+      {
+        "YYYYMM": "202309",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "563260"
+      },
+      {
+        "YYYYMM": "202309",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "584048"
+      },
+      {
+        "YYYYMM": "202308",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "684200"
+      },
+      {
+        "YYYYMM": "202308",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "696035"
+      },
+      {
+        "YYYYMM": "202307",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "799515"
+      },
+      {
+        "YYYYMM": "202307",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "761935"
+      },
+      {
+        "YYYYMM": "202306",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "919415"
+      },
+      {
+        "YYYYMM": "202306",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "746028"
+      },
+      {
+        "YYYYMM": "202305",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "540518"
+      },
+      {
+        "YYYYMM": "202305",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "731542"
+      },
+      {
+        "YYYYMM": "202304",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "611253"
+      },
+      {
+        "YYYYMM": "202304",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "710607"
+      },
+      {
+        "YYYYMM": "202303",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "767200"
+      },
+      {
+        "YYYYMM": "202303",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "640338"
+      },
+      {
+        "YYYYMM": "202302",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "910034"
+      },
+      {
+        "YYYYMM": "202302",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1043427"
+      },
+      {
+        "YYYYMM": "202301",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1069016"
+      },
+      {
+        "YYYYMM": "202301",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "790440"
+      },
+      {
+        "YYYYMM": "202212",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1056032"
+      },
+      {
+        "YYYYMM": "202212",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "400946"
+      },
+      {
+        "YYYYMM": "202211",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1341909"
+      },
+      {
+        "YYYYMM": "202211",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1423519"
+      },
+      {
+        "YYYYMM": "202210",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "968220"
+      },
+      {
+        "YYYYMM": "202210",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1126031"
+      },
+      {
+        "YYYYMM": "202209",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "504234"
+      },
+      {
+        "YYYYMM": "202209",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1088159"
+      },
+      {
+        "YYYYMM": "202208",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "721465"
+      },
+      {
+        "YYYYMM": "202208",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "693752"
+      },
+      {
+        "YYYYMM": "202207",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "764391"
+      },
+      {
+        "YYYYMM": "202207",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1575183"
+      },
+      {
+        "YYYYMM": "202206",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1260381"
+      },
+      {
+        "YYYYMM": "202206",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "912259"
+      },
+      {
+        "YYYYMM": "202205",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1115395"
+      },
+      {
+        "YYYYMM": "202205",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "924229"
+      },
+      {
+        "YYYYMM": "202204",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1362279"
+      },
+      {
+        "YYYYMM": "202204",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1205518"
+      },
+      {
+        "YYYYMM": "202203",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1784031"
+      },
+      {
+        "YYYYMM": "202203",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2260479"
+      },
+      {
+        "YYYYMM": "202202",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1552867"
+      },
+      {
+        "YYYYMM": "202202",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2458768"
+      },
+      {
+        "YYYYMM": "202201",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1033322"
+      },
+      {
+        "YYYYMM": "202201",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "5159620"
+      },
+      {
+        "YYYYMM": "202112",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1099755"
+      },
+      {
+        "YYYYMM": "202112",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1417730"
+      },
+      {
+        "YYYYMM": "202111",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1115291"
+      },
+      {
+        "YYYYMM": "202111",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1191396"
+      },
+      {
+        "YYYYMM": "202110",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1153645"
+      },
+      {
+        "YYYYMM": "202110",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1109594"
+      },
+      {
+        "YYYYMM": "202109",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1389955"
+      },
+      {
+        "YYYYMM": "202109",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2080297"
+      },
+      {
+        "YYYYMM": "202108",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1086091"
+      },
+      {
+        "YYYYMM": "202108",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1873181"
+      },
+      {
+        "YYYYMM": "202107",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1273450"
+      },
+      {
+        "YYYYMM": "202107",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1542175"
+      },
+      {
+        "YYYYMM": "202106",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1441567"
+      },
+      {
+        "YYYYMM": "202106",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1602028"
+      },
+      {
+        "YYYYMM": "202105",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1393455"
+      },
+      {
+        "YYYYMM": "202105",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3111138"
+      },
+      {
+        "YYYYMM": "202104",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1222506"
+      },
+      {
+        "YYYYMM": "202104",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4098200"
+      },
+      {
+        "YYYYMM": "202103",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2269276"
+      },
+      {
+        "YYYYMM": "202103",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "5035247"
+      },
+      {
+        "YYYYMM": "202102",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2233077"
+      },
+      {
+        "YYYYMM": "202102",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "11494189"
+      },
+      {
+        "YYYYMM": "202101",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2849495"
+      },
+      {
+        "YYYYMM": "202101",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "7587039"
+      },
+      {
+        "YYYYMM": "202012",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1304305"
+      },
+      {
+        "YYYYMM": "202012",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2353884"
+      },
+      {
+        "YYYYMM": "202011",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1591872"
+      },
+      {
+        "YYYYMM": "202011",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3174822"
+      },
+      {
+        "YYYYMM": "202010",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1330911"
+      },
+      {
+        "YYYYMM": "202010",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2167168"
+      },
+      {
+        "YYYYMM": "202009",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1143014"
+      },
+      {
+        "YYYYMM": "202009",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1554304"
+      },
+      {
+        "YYYYMM": "202008",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2088550"
+      },
+      {
+        "YYYYMM": "202008",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2414077"
+      },
+      {
+        "YYYYMM": "202007",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3209809"
+      },
+      {
+        "YYYYMM": "202007",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4781061"
+      },
+      {
+        "YYYYMM": "202006",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1459310"
+      },
+      {
+        "YYYYMM": "202006",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "857876"
+      },
+      {
+        "YYYYMM": "202005",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1627450"
+      },
+      {
+        "YYYYMM": "202005",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "946806"
+      },
+      {
+        "YYYYMM": "202004",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3698105"
+      },
+      {
+        "YYYYMM": "202004",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1452247"
+      },
+      {
+        "YYYYMM": "202003",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "5024291"
+      },
+      {
+        "YYYYMM": "202003",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2131795"
+      },
+      {
+        "YYYYMM": "202002",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3068590"
+      },
+      {
+        "YYYYMM": "202002",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "916799"
+      },
+      {
+        "YYYYMM": "202001",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2410000"
+      },
+      {
+        "YYYYMM": "202001",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1329415"
+      },
+      {
+        "YYYYMM": "201912",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "941129"
+      },
+      {
+        "YYYYMM": "201912",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "683522"
+      },
+      {
+        "YYYYMM": "201911",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1977238"
+      },
+      {
+        "YYYYMM": "201911",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1774315"
+      },
+      {
+        "YYYYMM": "201910",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1801110"
+      },
+      {
+        "YYYYMM": "201910",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1681772"
+      },
+      {
+        "YYYYMM": "201909",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2002574"
+      },
+      {
+        "YYYYMM": "201909",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1050034"
+      },
+      {
+        "YYYYMM": "201908",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "4557519"
+      },
+      {
+        "YYYYMM": "201908",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1065664"
+      },
+      {
+        "YYYYMM": "201907",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1139028"
+      },
+      {
+        "YYYYMM": "201907",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1763977"
+      },
+      {
+        "YYYYMM": "201906",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1340195"
+      },
+      {
+        "YYYYMM": "201906",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1449536"
+      },
+      {
+        "YYYYMM": "201905",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2102310"
+      },
+      {
+        "YYYYMM": "201905",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1417895"
+      },
+      {
+        "YYYYMM": "201904",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3227100"
+      },
+      {
+        "YYYYMM": "201904",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1663408"
+      },
+      {
+        "YYYYMM": "201903",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2425680"
+      },
+      {
+        "YYYYMM": "201903",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1045974"
+      },
+      {
+        "YYYYMM": "201902",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "5247454"
+      },
+      {
+        "YYYYMM": "201902",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1902200"
+      },
+      {
+        "YYYYMM": "201901",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1742772"
+      },
+      {
+        "YYYYMM": "201901",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2358786"
+      },
+      {
+        "YYYYMM": "201812",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1365276"
+      },
+      {
+        "YYYYMM": "201812",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1586577"
+      },
+      {
+        "YYYYMM": "201811",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1106509"
+      },
+      {
+        "YYYYMM": "201811",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1882626"
+      },
+      {
+        "YYYYMM": "201810",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2477238"
+      },
+      {
+        "YYYYMM": "201810",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3107465"
+      },
+      {
+        "YYYYMM": "201809",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1539684"
+      },
+      {
+        "YYYYMM": "201809",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2182788"
+      },
+      {
+        "YYYYMM": "201808",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1654646"
+      },
+      {
+        "YYYYMM": "201808",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1867185"
+      },
+      {
+        "YYYYMM": "201807",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3228395"
+      },
+      {
+        "YYYYMM": "201807",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2302634"
+      },
+      {
+        "YYYYMM": "201806",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1974930"
+      },
+      {
+        "YYYYMM": "201806",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2007123"
+      },
+      {
+        "YYYYMM": "201805",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2525029"
+      },
+      {
+        "YYYYMM": "201805",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2662909"
+      },
+      {
+        "YYYYMM": "201804",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3168778"
+      },
+      {
+        "YYYYMM": "201804",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2544057"
+      },
+      {
+        "YYYYMM": "201803",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3660023"
+      },
+      {
+        "YYYYMM": "201803",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3399352"
+      },
+      {
+        "YYYYMM": "201802",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "5631931"
+      },
+      {
+        "YYYYMM": "201802",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4267153"
+      },
+      {
+        "YYYYMM": "201801",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2997167"
+      },
+      {
+        "YYYYMM": "201801",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3677165"
+      },
+      {
+        "YYYYMM": "201712",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3191557"
+      },
+      {
+        "YYYYMM": "201712",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2483370"
+      },
+      {
+        "YYYYMM": "201711",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "4135041"
+      },
+      {
+        "YYYYMM": "201711",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2021039"
+      },
+      {
+        "YYYYMM": "201710",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2396711"
+      },
+      {
+        "YYYYMM": "201710",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2566647"
+      },
+      {
+        "YYYYMM": "201709",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "3072546"
+      },
+      {
+        "YYYYMM": "201709",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2353909"
+      },
+      {
+        "YYYYMM": "201708",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2292459"
+      },
+      {
+        "YYYYMM": "201708",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1575560"
+      },
+      {
+        "YYYYMM": "201707",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2609780"
+      },
+      {
+        "YYYYMM": "201707",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1677289"
+      },
+      {
+        "YYYYMM": "201706",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2299122"
+      },
+      {
+        "YYYYMM": "201706",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1489788"
+      },
+      {
+        "YYYYMM": "201705",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2657811"
+      },
+      {
+        "YYYYMM": "201705",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1901776"
+      },
+      {
+        "YYYYMM": "201704",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1976000"
+      },
+      {
+        "YYYYMM": "201704",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2083811"
+      },
+      {
+        "YYYYMM": "201703",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2546182"
+      },
+      {
+        "YYYYMM": "201703",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1682518"
+      },
+      {
+        "YYYYMM": "201702",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2638889"
+      },
+      {
+        "YYYYMM": "201702",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1812764"
+      },
+      {
+        "YYYYMM": "201701",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "2949575"
+      },
+      {
+        "YYYYMM": "201701",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1330775"
+      },
+      {
+        "YYYYMM": "201612",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "4124514"
+      },
+      {
+        "YYYYMM": "201612",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1049468"
+      },
+      {
+        "YYYYMM": "201611",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "4928664"
+      },
+      {
+        "YYYYMM": "201611",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1436158"
+      },
+      {
+        "YYYYMM": "201610",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "7535416"
+      },
+      {
+        "YYYYMM": "201610",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1559119"
+      },
+      {
+        "YYYYMM": "201609",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "10558832"
+      },
+      {
+        "YYYYMM": "201609",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2105059"
+      },
+      {
+        "YYYYMM": "201608",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "10072059"
+      },
+      {
+        "YYYYMM": "201608",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2137108"
+      },
+      {
+        "YYYYMM": "201607",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "9323005"
+      },
+      {
+        "YYYYMM": "201607",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2012528"
+      },
+      {
+        "YYYYMM": "201606",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "12029491"
+      },
+      {
+        "YYYYMM": "201606",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1698251"
+      },
+      {
+        "YYYYMM": "201605",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "7272590"
+      },
+      {
+        "YYYYMM": "201605",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1834391"
+      },
+      {
+        "YYYYMM": "201604",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "13837011"
+      },
+      {
+        "YYYYMM": "201604",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2409555"
+      },
+      {
+        "YYYYMM": "201603",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "5459265"
+      },
+      {
+        "YYYYMM": "201603",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2989734"
+      },
+      {
+        "YYYYMM": "201602",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "6423869"
+      },
+      {
+        "YYYYMM": "201602",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2511953"
+      },
+      {
+        "YYYYMM": "201601",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "7770429"
+      },
+      {
+        "YYYYMM": "201601",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3267803"
+      },
+      {
+        "YYYYMM": "201512",
+        "ContractType": "ETC",
+        "AverageDailyTradingValueForTheMonth": "1235709"
+      },
+      {
+        "YYYYMM": "201512",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1374359"
+      },
+      {
+        "YYYYMM": "201511",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "461974"
+      },
+      {
+        "YYYYMM": "201510",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "432768"
+      },
+      {
+        "YYYYMM": "201509",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "982731"
+      },
+      {
+        "YYYYMM": "201508",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "981379"
+      },
+      {
+        "YYYYMM": "201507",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "660445"
+      },
+      {
+        "YYYYMM": "201506",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "374192"
+      },
+      {
+        "YYYYMM": "201505",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "589255"
+      },
+      {
+        "YYYYMM": "201504",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "734208"
+      },
+      {
+        "YYYYMM": "201503",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "595423"
+      },
+      {
+        "YYYYMM": "201502",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "672671"
+      },
+      {
+        "YYYYMM": "201501",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "454793"
+      },
+      {
+        "YYYYMM": "201412",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "315178"
+      },
+      {
+        "YYYYMM": "201411",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "311732"
+      },
+      {
+        "YYYYMM": "201410",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "638673"
+      },
+      {
+        "YYYYMM": "201409",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "571411"
+      },
+      {
+        "YYYYMM": "201408",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "545515"
+      },
+      {
+        "YYYYMM": "201407",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "601415"
+      },
+      {
+        "YYYYMM": "201406",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "471406"
+      },
+      {
+        "YYYYMM": "201405",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "430779"
+      },
+      {
+        "YYYYMM": "201404",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "278116"
+      },
+      {
+        "YYYYMM": "201403",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "194163"
+      },
+      {
+        "YYYYMM": "201402",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "240111"
+      },
+      {
+        "YYYYMM": "201401",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "283245"
+      },
+      {
+        "YYYYMM": "201312",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "163383"
+      },
+      {
+        "YYYYMM": "201311",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "224138"
+      },
+      {
+        "YYYYMM": "201310",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "177509"
+      },
+      {
+        "YYYYMM": "201309",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "184882"
+      },
+      {
+        "YYYYMM": "201308",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "185123"
+      },
+      {
+        "YYYYMM": "201307",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "246471"
+      },
+      {
+        "YYYYMM": "201306",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "344094"
+      },
+      {
+        "YYYYMM": "201305",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "370110"
+      },
+      {
+        "YYYYMM": "201304",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "389587"
+      },
+      {
+        "YYYYMM": "201303",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "263885"
+      },
+      {
+        "YYYYMM": "201302",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "376529"
+      },
+      {
+        "YYYYMM": "201301",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "390931"
+      },
+      {
+        "YYYYMM": "201212",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "425865"
+      },
+      {
+        "YYYYMM": "201211",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "502867"
+      },
+      {
+        "YYYYMM": "201210",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "705940"
+      },
+      {
+        "YYYYMM": "201209",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "900101"
+      },
+      {
+        "YYYYMM": "201208",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "796981"
+      },
+      {
+        "YYYYMM": "201207",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "740948"
+      },
+      {
+        "YYYYMM": "201206",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "903808"
+      },
+      {
+        "YYYYMM": "201205",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "710205"
+      },
+      {
+        "YYYYMM": "201204",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "560494"
+      },
+      {
+        "YYYYMM": "201203",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "597430"
+      },
+      {
+        "YYYYMM": "201202",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "538576"
+      },
+      {
+        "YYYYMM": "201201",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "535862"
+      },
+      {
+        "YYYYMM": "201112",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "266046"
+      },
+      {
+        "YYYYMM": "201111",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "270196"
+      },
+      {
+        "YYYYMM": "201110",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "194656"
+      },
+      {
+        "YYYYMM": "201109",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "300228"
+      },
+      {
+        "YYYYMM": "201108",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "347176"
+      },
+      {
+        "YYYYMM": "201107",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "296483"
+      },
+      {
+        "YYYYMM": "201106",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "508904"
+      },
+      {
+        "YYYYMM": "201105",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "370295"
+      },
+      {
+        "YYYYMM": "201104",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "402493"
+      },
+      {
+        "YYYYMM": "201103",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "558310"
+      },
+      {
+        "YYYYMM": "201102",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "926395"
+      },
+      {
+        "YYYYMM": "201101",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "462695"
+      },
+      {
+        "YYYYMM": "201012",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "332364"
+      },
+      {
+        "YYYYMM": "201011",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "224541"
+      },
+      {
+        "YYYYMM": "201010",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "378083"
+      },
+      {
+        "YYYYMM": "201009",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "162820"
+      },
+      {
+        "YYYYMM": "201008",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "178620"
+      },
+      {
+        "YYYYMM": "201007",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "235427"
+      },
+      {
+        "YYYYMM": "201006",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "313842"
+      },
+      {
+        "YYYYMM": "201005",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "252148"
+      },
+      {
+        "YYYYMM": "201004",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "146968"
+      },
+      {
+        "YYYYMM": "201003",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "202080"
+      },
+      {
+        "YYYYMM": "201002",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "483886"
+      },
+      {
+        "YYYYMM": "201001",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "752330"
+      },
+      {
+        "YYYYMM": "200912",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "945716"
+      },
+      {
+        "YYYYMM": "200911",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1159915"
+      },
+      {
+        "YYYYMM": "200910",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1301891"
+      },
+      {
+        "YYYYMM": "200909",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "1827946"
+      },
+      {
+        "YYYYMM": "200908",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2023470"
+      },
+      {
+        "YYYYMM": "200907",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2831209"
+      },
+      {
+        "YYYYMM": "200906",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2486821"
+      },
+      {
+        "YYYYMM": "200905",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2944614"
+      },
+      {
+        "YYYYMM": "200904",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "4754857"
+      },
+      {
+        "YYYYMM": "200903",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "2842171"
+      },
+      {
+        "YYYYMM": "200902",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3085687"
+      },
+      {
+        "YYYYMM": "200901",
+        "ContractType": "STC",
+        "AverageDailyTradingValueForTheMonth": "3379558"
+      }
+    ]
+  }
+}

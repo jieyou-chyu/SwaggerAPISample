@@ -1,0 +1,42 @@
+{
+  "path": "/IncomeStatementR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "複委託期貨商稅前累計損益彙總表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/IncomeStatementR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:43 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "228",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:57 GMT",
+      "ETag": "\"e4-64436987fcacf\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=IncomeStatementR.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d509baefa841b-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "R201",
+        "FCMName": "美商愛德盟期貨經紀股份有限公司台灣分公司",
+        "NetIncomeBeforeTaxThisMonth": "4001867",
+        "AccumulatedNetIncomeLastMonth": "38648450",
+        "AccumulatedNetIncome": "42650317"
+      }
+    ]
+  }
+}

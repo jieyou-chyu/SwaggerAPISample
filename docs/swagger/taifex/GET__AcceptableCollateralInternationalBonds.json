@@ -1,0 +1,4810 @@
+{
+  "path": "/AcceptableCollateralInternationalBonds",
+  "method": "GET",
+  "operationId": null,
+  "summary": "有價證券保證金之可抵繳標的-國際債",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AcceptableCollateralInternationalBonds",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:35 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "74705",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:05 GMT",
+      "ETag": "\"123d1-6443691d635f0\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=AcceptableCollateralInternationalBonds.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d4c040c828f00-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00226",
+        "ShortName": "P22CABEI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00558",
+        "ShortName": "P16EIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00559",
+        "ShortName": "P16EIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00805",
+        "ShortName": "P20DB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00806",
+        "ShortName": "P21DB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00807",
+        "ShortName": "P21DB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00808",
+        "ShortName": "P21DB3",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00809",
+        "ShortName": "P21DB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00810",
+        "ShortName": "P21DB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00811",
+        "ShortName": "P21DB6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00812",
+        "ShortName": "P21DB7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00813",
+        "ShortName": "P22DB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00814",
+        "ShortName": "P22DB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00815",
+        "ShortName": "P22DB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00816",
+        "ShortName": "P22DB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00817",
+        "ShortName": "P22DB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00818",
+        "ShortName": "P22DB6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00819",
+        "ShortName": "P24DB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00906",
+        "ShortName": "P16BNP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00908",
+        "ShortName": "P16BNP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00911",
+        "ShortName": "P18BNP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00913",
+        "ShortName": "P19BNP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00914",
+        "ShortName": "P19BNP2",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00915",
+        "ShortName": "P20BNP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00916",
+        "ShortName": "P20BNP2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00917",
+        "ShortName": "P20BNP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00918",
+        "ShortName": "P20BNP4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00919",
+        "ShortName": "P20BNP5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00920",
+        "ShortName": "P20BNP6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00921",
+        "ShortName": "P21BNP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00922",
+        "ShortName": "P21BNP2",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00923",
+        "ShortName": "P21BNP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00924",
+        "ShortName": "P22BNP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F00925",
+        "ShortName": "P22BNP2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01009",
+        "ShortName": "P17KEXIM2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01017",
+        "ShortName": "P19KEXIM3",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01018",
+        "ShortName": "P20KEXIM1",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01019",
+        "ShortName": "P21KEXIM1",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01117",
+        "ShortName": "P17CITI4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01118",
+        "ShortName": "P17CITI5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01119",
+        "ShortName": "P17CITI6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01120",
+        "ShortName": "P17CITI7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01121",
+        "ShortName": "P18CITI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01122",
+        "ShortName": "P18CITI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01123",
+        "ShortName": "P18CITI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01124",
+        "ShortName": "P18CITI4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01125",
+        "ShortName": "P19CITI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01126",
+        "ShortName": "P19CITI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01127",
+        "ShortName": "P19CITI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01128",
+        "ShortName": "P20CITI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01129",
+        "ShortName": "P20CITI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01130",
+        "ShortName": "P20CITI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01131",
+        "ShortName": "P20CITI4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01132",
+        "ShortName": "P20CITI5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01133",
+        "ShortName": "P20CITI6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01134",
+        "ShortName": "P20CITI7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01135",
+        "ShortName": "P20CITI8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01136",
+        "ShortName": "P20CITI9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01137",
+        "ShortName": "P20CITI10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01138",
+        "ShortName": "P20CITI11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01139",
+        "ShortName": "P20CITI12",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01140",
+        "ShortName": "P21CITI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01141",
+        "ShortName": "P21CITI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01142",
+        "ShortName": "P21CITI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01143",
+        "ShortName": "P21CITI4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01144",
+        "ShortName": "P21CITI5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01145",
+        "ShortName": "P21CITI6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01146",
+        "ShortName": "P21CITI7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01147",
+        "ShortName": "P21CITI8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01148",
+        "ShortName": "P22CITI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01149",
+        "ShortName": "P22CITI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01150",
+        "ShortName": "P22CITI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01209",
+        "ShortName": "P18CTBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01210",
+        "ShortName": "P21CTBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F01213",
+        "ShortName": "P22CTBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02223",
+        "ShortName": "P16SG7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02236",
+        "ShortName": "P18SG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02241",
+        "ShortName": "P19SG2",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02248",
+        "ShortName": "P20SG2",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02251",
+        "ShortName": "P20SG5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02252",
+        "ShortName": "P20SG6",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02254",
+        "ShortName": "P20SG8",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02255",
+        "ShortName": "P20SG9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02256",
+        "ShortName": "P21SG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02257",
+        "ShortName": "P21SG2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02258",
+        "ShortName": "P21SG3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02259",
+        "ShortName": "P21SG4",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02260",
+        "ShortName": "P21SG5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02261",
+        "ShortName": "P21SG6",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02262",
+        "ShortName": "P21SG7",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02263",
+        "ShortName": "P21SG8",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02264",
+        "ShortName": "P21SG9",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02265",
+        "ShortName": "P21SG10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02266",
+        "ShortName": "P22SG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02267",
+        "ShortName": "P22SG2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02268",
+        "ShortName": "P22SG3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02270",
+        "ShortName": "P22SG5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02271",
+        "ShortName": "P22SG6",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02272",
+        "ShortName": "P22SG7",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02273",
+        "ShortName": "22SG8",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02275",
+        "ShortName": "22SG10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02276",
+        "ShortName": "22SG11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02278",
+        "ShortName": "P23SG1",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02279",
+        "ShortName": "P23SG2",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02281",
+        "ShortName": "23SG4",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02282",
+        "ShortName": "P23SG5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02284",
+        "ShortName": "P24SG2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02412",
+        "ShortName": "P15DBSG6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02424",
+        "ShortName": "P17DBSG2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02425",
+        "ShortName": "P17DBSG3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02426",
+        "ShortName": "P18DBSG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02502",
+        "ShortName": "P21NBI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02503",
+        "ShortName": "P22NBI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02620",
+        "ShortName": "P17CACIB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02622",
+        "ShortName": "P18CACIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02623",
+        "ShortName": "P18CACIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02630",
+        "ShortName": "P20CACIB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02632",
+        "ShortName": "P20CACIB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02633",
+        "ShortName": "P20CACIB6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02634",
+        "ShortName": "P20CACIB7",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02635",
+        "ShortName": "P21CACIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02636",
+        "ShortName": "P21CACIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02637",
+        "ShortName": "P21CACIB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02638",
+        "ShortName": "P21CACIB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02639",
+        "ShortName": "P21CACIB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02640",
+        "ShortName": "P21CACIB6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02641",
+        "ShortName": "P21CACIB7",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02642",
+        "ShortName": "P21CACIB8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02643",
+        "ShortName": "P22CACIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02644",
+        "ShortName": "P22CACIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02645",
+        "ShortName": "P22CACIB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02646",
+        "ShortName": "P22CACIB4",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02647",
+        "ShortName": "P22CACIB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02648",
+        "ShortName": "P22CACIB6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02649",
+        "ShortName": "P22CACIB7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02650",
+        "ShortName": "P22CACIB8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02652",
+        "ShortName": "P23CACIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02653",
+        "ShortName": "P23CACIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02654",
+        "ShortName": "P23CACIB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02655",
+        "ShortName": "P23CACIB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02657",
+        "ShortName": "P24CACIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02658",
+        "ShortName": "P24CACIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02659",
+        "ShortName": "P24CACIB3",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02660",
+        "ShortName": "24CACIB4",
+        "Currency": "NZD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02661",
+        "ShortName": "P25CACIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02702",
+        "ShortName": "P14MS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02705",
+        "ShortName": "P15MS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02711",
+        "ShortName": "P16MS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02713",
+        "ShortName": "P16MS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02715",
+        "ShortName": "P16MS5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02716",
+        "ShortName": "P16MS6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02723",
+        "ShortName": "P16MS13",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02724",
+        "ShortName": "P16MS14",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02726",
+        "ShortName": "P17MS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02727",
+        "ShortName": "P17MS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02728",
+        "ShortName": "P17MS4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02729",
+        "ShortName": "P17MS5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02730",
+        "ShortName": "P17MS6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02731",
+        "ShortName": "P17MS7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02732",
+        "ShortName": "P17MS8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02733",
+        "ShortName": "P18MS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02734",
+        "ShortName": "P18MS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02735",
+        "ShortName": "P18MS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02802",
+        "ShortName": "P15ESUN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02803",
+        "ShortName": "P15ESUN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02804",
+        "ShortName": "P15ESUN3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02805",
+        "ShortName": "P15ESUN4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02806",
+        "ShortName": "P16ESUN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02807",
+        "ShortName": "P16ESUN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02808",
+        "ShortName": "P16ESUN3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02809",
+        "ShortName": "P16ESUN4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02810",
+        "ShortName": "P16ESUN5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02811",
+        "ShortName": "P17ESUN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02812",
+        "ShortName": "P17ESUN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02813",
+        "ShortName": "P18ESUN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02919",
+        "ShortName": "P17GS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02920",
+        "ShortName": "P17GS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02921",
+        "ShortName": "P17GS4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02922",
+        "ShortName": "P18GS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02923",
+        "ShortName": "P18GS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02924",
+        "ShortName": "P18GS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02926",
+        "ShortName": "P20GS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02927",
+        "ShortName": "P21GS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02928",
+        "ShortName": "P21GS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02929",
+        "ShortName": "P21GS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02930",
+        "ShortName": "P21GS4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02931",
+        "ShortName": "P22GS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F02932",
+        "ShortName": "P22GS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03007",
+        "ShortName": "P15BOCT1D",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03204",
+        "ShortName": "P17BACR2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03205",
+        "ShortName": "P17BACR3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03206",
+        "ShortName": "P18BACR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03207",
+        "ShortName": "P18BACR2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03208",
+        "ShortName": "P18BACR3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03209",
+        "ShortName": "P19BACR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03210",
+        "ShortName": "P19BACR2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03211",
+        "ShortName": "P19BACR3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03216",
+        "ShortName": "P20BACR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03217",
+        "ShortName": "P20BACR2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03218",
+        "ShortName": "P20BACR3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03219",
+        "ShortName": "P20BACR4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03220",
+        "ShortName": "P20BACR5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03221",
+        "ShortName": "P20BACR6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03222",
+        "ShortName": "P21BACR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03224",
+        "ShortName": "P21BACR3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03225",
+        "ShortName": "P21BACR4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03226",
+        "ShortName": "P21BACR5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03227",
+        "ShortName": "P21BACR6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03228",
+        "ShortName": "P21BACR7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03229",
+        "ShortName": "P21BACR8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03230",
+        "ShortName": "P21BACR9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03231",
+        "ShortName": "P22BACR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03232",
+        "ShortName": "P22BACR2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03236",
+        "ShortName": "P22BACR6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03238",
+        "ShortName": "P22BACR8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03306",
+        "ShortName": "P21UBSLN2",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03307",
+        "ShortName": "P21UBSLN3",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03308",
+        "ShortName": "P21UBSLN4",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03309",
+        "ShortName": "P21UBSLN5",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03310",
+        "ShortName": "P21UBSLN6",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03311",
+        "ShortName": "P21UBSLN7",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03312",
+        "ShortName": "P21UBSLN8",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03313",
+        "ShortName": "P21UBSLN9",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03314",
+        "ShortName": "P21UBSLN10",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03315",
+        "ShortName": "P22UBSLN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03317",
+        "ShortName": "P22UBSLN4",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03318",
+        "ShortName": "P22UBSLN5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03320",
+        "ShortName": "P22UBSLN7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03321",
+        "ShortName": "P22UBSLN8",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03322",
+        "ShortName": "P22UBSLN9",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03512",
+        "ShortName": "P17UBSLN3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03513",
+        "ShortName": "P17UBSLN4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03514",
+        "ShortName": "P18UBSLN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03515",
+        "ShortName": "P18UBSLN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03516",
+        "ShortName": "P18UBSLN3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03518",
+        "ShortName": "P20UBSLN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03519",
+        "ShortName": "P21UBSLN1",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03520",
+        "ShortName": "P22UBSLN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03521",
+        "ShortName": "P24UBSLN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03522",
+        "ShortName": "P24UBSLN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03604",
+        "ShortName": "P17VZ2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03605",
+        "ShortName": "P18VZ1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03606",
+        "ShortName": "P19VZ1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03607",
+        "ShortName": "P20VZ1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03608",
+        "ShortName": "P20VZ2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03609",
+        "ShortName": "P22VZ1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03804",
+        "ShortName": "P16UOB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03805",
+        "ShortName": "P16UOB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03806",
+        "ShortName": "P17UOB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03807",
+        "ShortName": "P17UOB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03808",
+        "ShortName": "P21UOB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03911",
+        "ShortName": "P18DBS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03913",
+        "ShortName": "P18DBS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03914",
+        "ShortName": "P18DBS4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03915",
+        "ShortName": "P19DBS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03916",
+        "ShortName": "P19DBS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03917",
+        "ShortName": "P21DBS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03918",
+        "ShortName": "P22DBS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F03919",
+        "ShortName": "P22DBS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04015",
+        "ShortName": "P17JPMC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04016",
+        "ShortName": "P17JPMC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04017",
+        "ShortName": "P17JPMC4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04018",
+        "ShortName": "P18JPMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04019",
+        "ShortName": "P18JPMC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04020",
+        "ShortName": "P18JPMC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04021",
+        "ShortName": "P19JPMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04022",
+        "ShortName": "P19JPMC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04023",
+        "ShortName": "P19JPMC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04024",
+        "ShortName": "P19JPMC4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04025",
+        "ShortName": "P20JPMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04026",
+        "ShortName": "P20JPMC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04027",
+        "ShortName": "P20JPMC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04028",
+        "ShortName": "P20JPMC4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04029",
+        "ShortName": "P20JPMC5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04030",
+        "ShortName": "P20JPMC6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04031",
+        "ShortName": "P20JPMC7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04032",
+        "ShortName": "P20JPMC8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04033",
+        "ShortName": "P21JPMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04034",
+        "ShortName": "P21JPMC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04035",
+        "ShortName": "P21JPMC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04036",
+        "ShortName": "P21JPMC4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04037",
+        "ShortName": "P21JPMC5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04039",
+        "ShortName": "P21JPMC7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04040",
+        "ShortName": "P21JPMC8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04041",
+        "ShortName": "P21JPMC9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04042",
+        "ShortName": "P21JPMC10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04043",
+        "ShortName": "P21JPMC11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04044",
+        "ShortName": "P22JPMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04047",
+        "ShortName": "P22JPMC4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04048",
+        "ShortName": "P22JPMC5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04049",
+        "ShortName": "P22JPMC6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04050",
+        "ShortName": "P23JPMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04101",
+        "ShortName": "P14LLOY1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04102",
+        "ShortName": "P14LLOY2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04104",
+        "ShortName": "P15LLOY2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04106",
+        "ShortName": "P16LLOY1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04107",
+        "ShortName": "P16LLOY2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04108",
+        "ShortName": "P17LLOY1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04201",
+        "ShortName": "14CUB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04202",
+        "ShortName": "14CUB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04205",
+        "ShortName": "P17CUB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04312",
+        "ShortName": "P17NIF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04313",
+        "ShortName": "P17NIF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04314",
+        "ShortName": "P17NIF3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04315",
+        "ShortName": "P17NIF4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04316",
+        "ShortName": "P18NIF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04317",
+        "ShortName": "P19NIF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04318",
+        "ShortName": "P20NIF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04319",
+        "ShortName": "P20NIF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04321",
+        "ShortName": "P21NIF1",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04322",
+        "ShortName": "P21NIF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04323",
+        "ShortName": "P21NIF3",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04404",
+        "ShortName": "P19ATT1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04405",
+        "ShortName": "P20ATT1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04406",
+        "ShortName": "P20ATT2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04606",
+        "ShortName": "P18MEGA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F04607",
+        "ShortName": "P18MEGA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05107",
+        "ShortName": "P18BOT1B",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05206",
+        "ShortName": "P17MBB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05207",
+        "ShortName": "P17MBB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05208",
+        "ShortName": "P18MBB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05212",
+        "ShortName": "P20MBB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05213",
+        "ShortName": "P20MBB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05214",
+        "ShortName": "P20MBB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05215",
+        "ShortName": "P20MBB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05216",
+        "ShortName": "P21MBB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05217",
+        "ShortName": "P21MBB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05218",
+        "ShortName": "P21MBB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05416",
+        "ShortName": "P17NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05417",
+        "ShortName": "P18NATIX1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05418",
+        "ShortName": "P18NATIX2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05419",
+        "ShortName": "P18NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05420",
+        "ShortName": "P18NATIX4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05422",
+        "ShortName": "P18NATIX6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05428",
+        "ShortName": "P20NATIX1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05429",
+        "ShortName": "P20NATIX2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05430",
+        "ShortName": "P20NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05431",
+        "ShortName": "P20NATIX4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05432",
+        "ShortName": "P20NATIX5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05433",
+        "ShortName": "P20NATIX6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05434",
+        "ShortName": "P21NATIX1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05435",
+        "ShortName": "P21NATIX2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05436",
+        "ShortName": "P21NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05437",
+        "ShortName": "P21NATIX4",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05438",
+        "ShortName": "P21NATIX5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05439",
+        "ShortName": "P22NATIX1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05440",
+        "ShortName": "P22NATIX2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05441",
+        "ShortName": "P22NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05442",
+        "ShortName": "P22NATIX4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05444",
+        "ShortName": "P22NATIX6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05445",
+        "ShortName": "P23NATIX1",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05446",
+        "ShortName": "P23NATIX2",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05447",
+        "ShortName": "P23NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05450",
+        "ShortName": "P23NATIX6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05451",
+        "ShortName": "P23NATIX7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05452",
+        "ShortName": "P23NATIX8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05454",
+        "ShortName": "P24NATIX1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05455",
+        "ShortName": "P24NATIX2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05456",
+        "ShortName": "P24NATIX3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05806",
+        "ShortName": "P16RBCLB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05807",
+        "ShortName": "P16RBCLB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05810",
+        "ShortName": "P18RBCLB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05811",
+        "ShortName": "P18RBCLB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05812",
+        "ShortName": "P18RBCLB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05813",
+        "ShortName": "P19RBCLB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05814",
+        "ShortName": "P20RBCLB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05815",
+        "ShortName": "P20RBCLB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05816",
+        "ShortName": "P20RBCLB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05817",
+        "ShortName": "P20RBCLB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05818",
+        "ShortName": "P21RBCLB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05819",
+        "ShortName": "P21RBCLB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05820",
+        "ShortName": "P21RBCLB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05821",
+        "ShortName": "P22RBCLB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05822",
+        "ShortName": "P22RBCLB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05829",
+        "ShortName": "P23RBCLB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05831",
+        "ShortName": "P25RBCLB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F05901",
+        "ShortName": "P15HKT1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06101",
+        "ShortName": "P15HBEU1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06107",
+        "ShortName": "P24HBEU1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06108",
+        "ShortName": "P24HBEU2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06406",
+        "ShortName": "P17TPFB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06407",
+        "ShortName": "P18TPFB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06408",
+        "ShortName": "P18TPFB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06503",
+        "ShortName": "P16MHSC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06504",
+        "ShortName": "P18MHSC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06605",
+        "ShortName": "P19MBL1",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F06607",
+        "ShortName": "P24MBL1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07103",
+        "ShortName": "P21SCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07104",
+        "ShortName": "P22SCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07105",
+        "ShortName": "P22SCB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07106",
+        "ShortName": "P22SCB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07107",
+        "ShortName": "P22SCB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07108",
+        "ShortName": "P22SCB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07109",
+        "ShortName": "P22SCB6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07110",
+        "ShortName": "P23SCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07111",
+        "ShortName": "P23SCB2",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07112",
+        "ShortName": "P24SCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07113",
+        "ShortName": "P24SCB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07114",
+        "ShortName": "P25SCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07502",
+        "ShortName": "P16ISBI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F07703",
+        "ShortName": "P18LBOT1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08005",
+        "ShortName": "P17BAC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08006",
+        "ShortName": "P17BAC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08007",
+        "ShortName": "P17BAC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08008",
+        "ShortName": "P18BAC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08009",
+        "ShortName": "P18BAC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08010",
+        "ShortName": "P19BAC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08011",
+        "ShortName": "P19BAC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08012",
+        "ShortName": "P20BAC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08013",
+        "ShortName": "P20BAC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08101",
+        "ShortName": "P15PCCW1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08201",
+        "ShortName": "P15SMBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08410",
+        "ShortName": "P18NBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08411",
+        "ShortName": "P20NBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08412",
+        "ShortName": "P20NBC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08413",
+        "ShortName": "P20NBC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08414",
+        "ShortName": "P20NBC4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08415",
+        "ShortName": "P20NBC5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08416",
+        "ShortName": "P20NBC6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08417",
+        "ShortName": "P21NBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08418",
+        "ShortName": "P21NBC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08419",
+        "ShortName": "P21NBC3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08420",
+        "ShortName": "P22NBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08421",
+        "ShortName": "P22NBC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08501",
+        "ShortName": "P15RABO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08503",
+        "ShortName": "P16RABO2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08708",
+        "ShortName": "P17BBVA4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08709",
+        "ShortName": "P17BBVA5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08710",
+        "ShortName": "P18BBVA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08711",
+        "ShortName": "P18BBVA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08712",
+        "ShortName": "P20BBVA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08713",
+        "ShortName": "P20BBVA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08714",
+        "ShortName": "P21BBVA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08715",
+        "ShortName": "P21BBVA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08716",
+        "ShortName": "P21BBVA3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08717",
+        "ShortName": "P21BBVA4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08718",
+        "ShortName": "P22BBVA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F08903",
+        "ShortName": "P17INTEL1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09201",
+        "ShortName": "P15MHBK1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09301",
+        "ShortName": "P15EDF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09302",
+        "ShortName": "P16EDF1A",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09303",
+        "ShortName": "P16EDF1B",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09503",
+        "ShortName": "P17HKE1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09601",
+        "ShortName": "P15VOD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09602",
+        "ShortName": "P17VOD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09704",
+        "ShortName": "P18CCF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09802",
+        "ShortName": "P16MUFGB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09803",
+        "ShortName": "P16MUFGB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09806",
+        "ShortName": "P17MUFGB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09807",
+        "ShortName": "P17MUFGB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09808",
+        "ShortName": "P17MUFGB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09809",
+        "ShortName": "P18MUFGB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09810",
+        "ShortName": "P18MUFGB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09811",
+        "ShortName": "P18MUFGB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09812",
+        "ShortName": "P19MUFGB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09813",
+        "ShortName": "P19MUFGB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09814",
+        "ShortName": "P19MUFGB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09815",
+        "ShortName": "P20MUFGB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09816",
+        "ShortName": "P20MUFGB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09817",
+        "ShortName": "P20MUFGB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09818",
+        "ShortName": "P20MUFGB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09819",
+        "ShortName": "P21MUFGB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09820",
+        "ShortName": "P21MUFGB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09821",
+        "ShortName": "P22MUFGB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09822",
+        "ShortName": "P22MUFGB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09906",
+        "ShortName": "P16BNS6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09907",
+        "ShortName": "P17BNS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09908",
+        "ShortName": "P18BNS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09909",
+        "ShortName": "P18BNS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09910",
+        "ShortName": "P18BNS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09911",
+        "ShortName": "P19BNS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09912",
+        "ShortName": "P19BNS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09913",
+        "ShortName": "P20BNS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09914",
+        "ShortName": "P20BNS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09915",
+        "ShortName": "P20BNS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09916",
+        "ShortName": "P20BNS4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09917",
+        "ShortName": "P20BNS5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09918",
+        "ShortName": "P20BNS6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09919",
+        "ShortName": "P20BNS7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09920",
+        "ShortName": "P20BNS8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09921",
+        "ShortName": "P20BNS9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09922",
+        "ShortName": "P20BNS10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09923",
+        "ShortName": "P20BNS11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09924",
+        "ShortName": "P20BNS12",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09925",
+        "ShortName": "P21BNS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09926",
+        "ShortName": "P21BNS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09927",
+        "ShortName": "P21BNS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09928",
+        "ShortName": "P22BNS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09929",
+        "ShortName": "P22BNS2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F09930",
+        "ShortName": "P22BNS3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10004",
+        "ShortName": "P16ABN3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10303",
+        "ShortName": "P17QNBF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10304",
+        "ShortName": "P18QNBF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10311",
+        "ShortName": "P20QNBF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10315",
+        "ShortName": "P20QNBF6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10316",
+        "ShortName": "P20QNBF7",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10318",
+        "ShortName": "P20QNBF9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10319",
+        "ShortName": "P20QNBF10",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10320",
+        "ShortName": "P21QNBF1",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10322",
+        "ShortName": "P21QNBF3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10402",
+        "ShortName": "P20MFC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10603",
+        "ShortName": "P17CIBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10604",
+        "ShortName": "P20CIBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10605",
+        "ShortName": "P20CIBC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10606",
+        "ShortName": "P21CIBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10607",
+        "ShortName": "P22CIBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10705",
+        "ShortName": "P18BMO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10706",
+        "ShortName": "P19BMO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10707",
+        "ShortName": "P19BMO2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10708",
+        "ShortName": "P20BMO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10709",
+        "ShortName": "P20BMO2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10710",
+        "ShortName": "P20BMO3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10711",
+        "ShortName": "P20BMO4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10712",
+        "ShortName": "P21BMO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10713",
+        "ShortName": "P21BMO2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10714",
+        "ShortName": "P21BMO3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10715",
+        "ShortName": "P21BMO4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10716",
+        "ShortName": "P21BMO5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10717",
+        "ShortName": "P21BMO6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10718",
+        "ShortName": "P22BMO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10719",
+        "ShortName": "P22BMO2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10721",
+        "ShortName": "P24BMO1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10805",
+        "ShortName": "P18KBN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10806",
+        "ShortName": "P18KBN2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10901",
+        "ShortName": "P16HSBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10902",
+        "ShortName": "P21HSBC1",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F10903",
+        "ShortName": "P22HSBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11001",
+        "ShortName": "P16SANTA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11002",
+        "ShortName": "P17SANTA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11003",
+        "ShortName": "P19SANTA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11004",
+        "ShortName": "P19SANTA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11005",
+        "ShortName": "P20SANTA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11006",
+        "ShortName": "P20SANTA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11007",
+        "ShortName": "P20SANTA3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11008",
+        "ShortName": "P20SANTA4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11009",
+        "ShortName": "P20SANTA5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11010",
+        "ShortName": "P21SANTA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11011",
+        "ShortName": "P21SANTA2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11012",
+        "ShortName": "P21SANTA3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11013",
+        "ShortName": "P21SANTA4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11303",
+        "ShortName": "P18FAB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11309",
+        "ShortName": "P20FAB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11310",
+        "ShortName": "P20FAB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11311",
+        "ShortName": "P20FAB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11314",
+        "ShortName": "P21FAB1",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11315",
+        "ShortName": "P21FAB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11601",
+        "ShortName": "P17ADCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11603",
+        "ShortName": "P17ADCB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11604",
+        "ShortName": "P17ADCB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11605",
+        "ShortName": "P18ADCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11606",
+        "ShortName": "P19ADCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11609",
+        "ShortName": "P19ADCB4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11610",
+        "ShortName": "P19ADCB5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11611",
+        "ShortName": "P20ADCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11801",
+        "ShortName": "P17SMFG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11802",
+        "ShortName": "P18SMFG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11803",
+        "ShortName": "P20SMFG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11804",
+        "ShortName": "P21SMFG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11805",
+        "ShortName": "P21SMFG2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11806",
+        "ShortName": "P22SMFG1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F11901",
+        "ShortName": "P17CMZB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12101",
+        "ShortName": "P17NRWB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12102",
+        "ShortName": "P18NRWB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12202",
+        "ShortName": "P17NAB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12203",
+        "ShortName": "P18NAB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12301",
+        "ShortName": "P17TEF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12501",
+        "ShortName": "P17BSP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12601",
+        "ShortName": "P17AIA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12802",
+        "ShortName": "P18CFE1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F12803",
+        "ShortName": "P19CFE1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13001",
+        "ShortName": "P17TBB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13002",
+        "ShortName": "P18TBB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13101",
+        "ShortName": "P17WBC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13201",
+        "ShortName": "P17HBFR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13202",
+        "ShortName": "P18HBFR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13203",
+        "ShortName": "P18HBFR2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13204",
+        "ShortName": "P18HBFR3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13205",
+        "ShortName": "P19HBFR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13301",
+        "ShortName": "P18AT1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13401",
+        "ShortName": "P18ENBD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13402",
+        "ShortName": "P19ENBD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13403",
+        "ShortName": "P20ENBD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13404",
+        "ShortName": "P20ENBD2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13406",
+        "ShortName": "P20ENBD4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13407",
+        "ShortName": "P20ENBD5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13411",
+        "ShortName": "P20ENBD9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13412",
+        "ShortName": "P21ENBD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13413",
+        "ShortName": "P21ENBD2",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13414",
+        "ShortName": "P21ENBD3",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13415",
+        "ShortName": "P21ENBD4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13416",
+        "ShortName": "P21ENBD5",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13501",
+        "ShortName": "P18DAIWA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13601",
+        "ShortName": "P18UBSGP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13602",
+        "ShortName": "P18UBSGP2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13603",
+        "ShortName": "P18UBSGP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13604",
+        "ShortName": "P18UBSGP4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13605",
+        "ShortName": "P18UBSGP5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13606",
+        "ShortName": "P19UBSGP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13607",
+        "ShortName": "P19UBSGP2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13608",
+        "ShortName": "P19UBSGP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13609",
+        "ShortName": "P20UBSGP4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13701",
+        "ShortName": "P18MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13702",
+        "ShortName": "P18MSF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13703",
+        "ShortName": "P18MSF3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13704",
+        "ShortName": "P18MSF4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13705",
+        "ShortName": "P18MSF5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13706",
+        "ShortName": "P19MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13714",
+        "ShortName": "P19MSF9",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13715",
+        "ShortName": "P19MSF10",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13717",
+        "ShortName": "P19MSF12",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13718",
+        "ShortName": "P19MSF13",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13719",
+        "ShortName": "P19MSF14",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13720",
+        "ShortName": "P20MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13721",
+        "ShortName": "P20MSF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13722",
+        "ShortName": "P20MSF3",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13723",
+        "ShortName": "P20MSF4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13724",
+        "ShortName": "P20MSF5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13725",
+        "ShortName": "P20MSF6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13727",
+        "ShortName": "P20MSF8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13728",
+        "ShortName": "P20MSF9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13729",
+        "ShortName": "P20MSF10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13730",
+        "ShortName": "P20MSF11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13731",
+        "ShortName": "P20MSF12",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13732",
+        "ShortName": "P20MSF13",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13733",
+        "ShortName": "P20MSF14",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13734",
+        "ShortName": "P21MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13735",
+        "ShortName": "P21MSF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13736",
+        "ShortName": "P21MSF3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13737",
+        "ShortName": "P21MSF4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13738",
+        "ShortName": "P21MSF5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13739",
+        "ShortName": "P21MSF6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13740",
+        "ShortName": "P21MSF7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13741",
+        "ShortName": "P21MSF8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13742",
+        "ShortName": "P21MSF9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13743",
+        "ShortName": "P21MSF10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13744",
+        "ShortName": "P21MSF11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13745",
+        "ShortName": "P21MSF12",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13746",
+        "ShortName": "P21MSF13",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13747",
+        "ShortName": "P21MSF14",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13748",
+        "ShortName": "P21MSF15",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13750",
+        "ShortName": "P21MSF17",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13751",
+        "ShortName": "P21MSF18",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13753",
+        "ShortName": "P21MSF20",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13754",
+        "ShortName": "P21MSF21",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13755",
+        "ShortName": "P21MSF22",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13756",
+        "ShortName": "P22MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13757",
+        "ShortName": "P22MSF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13758",
+        "ShortName": "P22MSF3",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13759",
+        "ShortName": "P22MSF4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13760",
+        "ShortName": "P22MSF5",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13761",
+        "ShortName": "P22MSF6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13768",
+        "ShortName": "P23MSF1",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13769",
+        "ShortName": "P23MSF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13770",
+        "ShortName": "P24MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13771",
+        "ShortName": "P24MSF2",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13772",
+        "ShortName": "P25MSF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13773",
+        "ShortName": "P25MSF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13801",
+        "ShortName": "P18QATAR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13802",
+        "ShortName": "P19QATAR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13803",
+        "ShortName": "P20QATAR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F13901",
+        "ShortName": "P18CDEL1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14101",
+        "ShortName": "P18TSIB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14102",
+        "ShortName": "P18TSIB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14210",
+        "ShortName": "P20CGMHI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14211",
+        "ShortName": "P20CGMHI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14213",
+        "ShortName": "P20CGMHI4",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14215",
+        "ShortName": "P20CGMHI6",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14216",
+        "ShortName": "P20CGMHI7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14217",
+        "ShortName": "P20CGMHI8",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14219",
+        "ShortName": "P20CGMHI10",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14221",
+        "ShortName": "P20CGMHI12",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14223",
+        "ShortName": "P20CGMHI14",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14224",
+        "ShortName": "P21CGMHI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14225",
+        "ShortName": "P21CGMHI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14226",
+        "ShortName": "P21CGMHI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14228",
+        "ShortName": "P21CGMHI5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14229",
+        "ShortName": "P21CGMHI6",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14230",
+        "ShortName": "P21CGMHI7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14231",
+        "ShortName": "P21CGMHI8",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14232",
+        "ShortName": "P21CGMHI9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14233",
+        "ShortName": "P21CGMHI10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14234",
+        "ShortName": "P21CGMHI11",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14235",
+        "ShortName": "P21CGMHI12",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14236",
+        "ShortName": "P21CGMHI13",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14237",
+        "ShortName": "P21CGMHI14",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14238",
+        "ShortName": "P21CGMHI15",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14240",
+        "ShortName": "P22CGMHI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14241",
+        "ShortName": "P22CGMHI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14242",
+        "ShortName": "P22CGMHI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14244",
+        "ShortName": "P22CGMHI5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14250",
+        "ShortName": "P24CGMHI3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14251",
+        "ShortName": "P25CGMHI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14401",
+        "ShortName": "P18SCSB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14612",
+        "ShortName": "P20JPMCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14613",
+        "ShortName": "P20JPMCB2",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14614",
+        "ShortName": "P21JPMCB1",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14615",
+        "ShortName": "P21JPMCB2",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14616",
+        "ShortName": "P21JPMCB3",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14617",
+        "ShortName": "P22JPMCB1",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14618",
+        "ShortName": "P22JPMCB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14621",
+        "ShortName": "P24JPMCB2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14622",
+        "ShortName": "P24JPMCB3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14623",
+        "ShortName": "P25JPMCB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F14901",
+        "ShortName": "P19NWM1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15101",
+        "ShortName": "P19SCPLC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15304",
+        "ShortName": "P21GSFCI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15305",
+        "ShortName": "P21GSFCI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15309",
+        "ShortName": "P21GSFCI6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15310",
+        "ShortName": "P21GSFCI7",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15313",
+        "ShortName": "P21GSFCI10",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15314",
+        "ShortName": "P22GSFCI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15315",
+        "ShortName": "P22GSFCI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15322",
+        "ShortName": "P22GSFCI9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15501",
+        "ShortName": "P19MDGHA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F15502",
+        "ShortName": "P20MDGHA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16001",
+        "ShortName": "P20UBSGP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16002",
+        "ShortName": "P20UBSGP2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16003",
+        "ShortName": "P20UBSGP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16004",
+        "ShortName": "P21UBSGP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16005",
+        "ShortName": "P21UBSGP2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16006",
+        "ShortName": "P21UBSGP3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16007",
+        "ShortName": "P21UBSGP4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16008",
+        "ShortName": "P22UBSGP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16101",
+        "ShortName": "P20BACRH1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16102",
+        "ShortName": "P21BACRH1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16103",
+        "ShortName": "P22BACRH1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16301",
+        "ShortName": "P20ISR1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16403",
+        "ShortName": "P21MGL1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16404",
+        "ShortName": "P21MGL2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16501",
+        "ShortName": "P20SHJ1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16601",
+        "ShortName": "P20ADCBU1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16602",
+        "ShortName": "P21ADCBU1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16603",
+        "ShortName": "P21ADCBU2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16604",
+        "ShortName": "P21ADCBU3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16605",
+        "ShortName": "P22ADCBU1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16606",
+        "ShortName": "P22ADCBU2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16701",
+        "ShortName": "P20SABIC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16801",
+        "ShortName": "P20TSMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16802",
+        "ShortName": "P21TSMC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F16902",
+        "ShortName": "P21PMH1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17002",
+        "ShortName": "P21WORIC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17201",
+        "ShortName": "P21UMS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17301",
+        "ShortName": "P21CHILE1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17401",
+        "ShortName": "P21TAQA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17501",
+        "ShortName": "P21MDGHA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17502",
+        "ShortName": "P22MDGHA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17503",
+        "ShortName": "P23MDGHA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17504",
+        "ShortName": "P24MDGHA1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17601",
+        "ShortName": "P21SHC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17602",
+        "ShortName": "P24SHC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17701",
+        "ShortName": "P21QP1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17801",
+        "ShortName": "P21JTIFS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F17901",
+        "ShortName": "P21BCI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18001",
+        "ShortName": "P21UAE1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18002",
+        "ShortName": "P22UAE1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18101",
+        "ShortName": "P21SCOCH1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18201",
+        "ShortName": "P22BASAN1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18301",
+        "ShortName": "P22SBILD1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18401",
+        "ShortName": "P22NEECH1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18501",
+        "ShortName": "P22WFC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18502",
+        "ShortName": "P22WFC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18503",
+        "ShortName": "P23WFC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18702",
+        "ShortName": "P22JPCFC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18703",
+        "ShortName": "P23JPCFC1",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18704",
+        "ShortName": "P23JPCFC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18706",
+        "ShortName": "P23JPCFC4",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18707",
+        "ShortName": "P23JPCFC5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18708",
+        "ShortName": "P23JPCFC6",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18711",
+        "ShortName": "P24JPCFC1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18712",
+        "ShortName": "P24JPCFC2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18713",
+        "ShortName": "P25JPCFC1",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18801",
+        "ShortName": "P23GRSPL1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18902",
+        "ShortName": "P23MLBV2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18904",
+        "ShortName": "P23MLBV4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18905",
+        "ShortName": "P23MLBV5",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18907",
+        "ShortName": "P23MLBV7",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18909",
+        "ShortName": "P23MLBV9",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18910",
+        "ShortName": "P23MLBV10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18913",
+        "ShortName": "P24MLBV1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18915",
+        "ShortName": "P24MLBV3",
+        "Currency": "ZAR"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18916",
+        "ShortName": "P24MLBV4",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18917",
+        "ShortName": "P24MLBV5",
+        "Currency": "CNY"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18922",
+        "ShortName": "P24MLBV10",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18923",
+        "ShortName": "P25MLBV1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18925",
+        "ShortName": "P25MLBV3",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18927",
+        "ShortName": "P25MLBV5",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F18928",
+        "ShortName": "P25MLBV6",
+        "Currency": "AUD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19001",
+        "ShortName": "P23CATLI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19002",
+        "ShortName": "P23CATLI2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19003",
+        "ShortName": "P24CATLI1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19201",
+        "ShortName": "P24WFF1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19202",
+        "ShortName": "P24WFF2",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19601",
+        "ShortName": "P25MRAS1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19801",
+        "ShortName": "P25ING1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F19901",
+        "ShortName": "P25ARB1",
+        "Currency": "USD"
+      },
+      {
+        "Date": "20251124",
+        "InternationalBondCode": "F20201",
+        "ShortName": "P25TWNLI1",
+        "Currency": "USD"
+      }
+    ]
+  }
+}

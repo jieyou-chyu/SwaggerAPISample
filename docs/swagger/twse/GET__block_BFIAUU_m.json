@@ -1,0 +1,185 @@
+{
+  "path": "/block/BFIAUU_m",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場鉅額交易月成交量值統計",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/block/BFIAUU_m",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:41 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:23:26 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229ce-a91\"",
+      "Content-Disposition": "attachment;filename=BFIAUU_m.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Month": "11401",
+        "Class": "逐筆交易",
+        "TradeVolume": "96700000",
+        "MarketSharePer": "0.04",
+        "TradeValue": "2292650000.0000"
+      },
+      {
+        "Month": "11401",
+        "Class": "配對交易",
+        "TradeVolume": "186169323",
+        "MarketSharePer": "0.89",
+        "TradeValue": "47313361551.0400"
+      },
+      {
+        "Month": "11402",
+        "Class": "逐筆交易",
+        "TradeVolume": "10752000",
+        "MarketSharePer": "0.01",
+        "TradeValue": "513649240.0000"
+      },
+      {
+        "Month": "11402",
+        "Class": "配對交易",
+        "TradeVolume": "385421753",
+        "MarketSharePer": "1.09",
+        "TradeValue": "82022713655.4100"
+      },
+      {
+        "Month": "11403",
+        "Class": "逐筆交易",
+        "TradeVolume": "6836000",
+        "MarketSharePer": "0.00",
+        "TradeValue": "300608000.0000"
+      },
+      {
+        "Month": "11403",
+        "Class": "配對交易",
+        "TradeVolume": "365757703",
+        "MarketSharePer": "1.15",
+        "TradeValue": "82136736306.2700"
+      },
+      {
+        "Month": "11404",
+        "Class": "逐筆交易",
+        "TradeVolume": "42631466",
+        "MarketSharePer": "0.01",
+        "TradeValue": "311914708.0000"
+      },
+      {
+        "Month": "11404",
+        "Class": "配對交易",
+        "TradeVolume": "353238439",
+        "MarketSharePer": "1.16",
+        "TradeValue": "71609684124.9800"
+      },
+      {
+        "Month": "11405",
+        "Class": "逐筆交易",
+        "TradeVolume": "15543000",
+        "MarketSharePer": "0.01",
+        "TradeValue": "693144700.0000"
+      },
+      {
+        "Month": "11405",
+        "Class": "配對交易",
+        "TradeVolume": "621717201",
+        "MarketSharePer": "1.63",
+        "TradeValue": "109169336859.6600"
+      },
+      {
+        "Month": "11406",
+        "Class": "逐筆交易",
+        "TradeVolume": "89264000",
+        "MarketSharePer": "0.04",
+        "TradeValue": "2760244200.0000"
+      },
+      {
+        "Month": "11406",
+        "Class": "配對交易",
+        "TradeVolume": "824450504",
+        "MarketSharePer": "1.22",
+        "TradeValue": "94836604039.8800"
+      },
+      {
+        "Month": "11407",
+        "Class": "逐筆交易",
+        "TradeVolume": "35857577",
+        "MarketSharePer": "0.02",
+        "TradeValue": "1284567072.2000"
+      },
+      {
+        "Month": "11407",
+        "Class": "配對交易",
+        "TradeVolume": "1533490578",
+        "MarketSharePer": "1.30",
+        "TradeValue": "103308081488.3000"
+      },
+      {
+        "Month": "11408",
+        "Class": "逐筆交易",
+        "TradeVolume": "34354000",
+        "MarketSharePer": "0.02",
+        "TradeValue": "1711547650.0000"
+      },
+      {
+        "Month": "11408",
+        "Class": "配對交易",
+        "TradeVolume": "408378448",
+        "MarketSharePer": "0.90",
+        "TradeValue": "84843717004.3500"
+      },
+      {
+        "Month": "11409",
+        "Class": "逐筆交易",
+        "TradeVolume": "36508000",
+        "MarketSharePer": "0.01",
+        "TradeValue": "1146421300.0000"
+      },
+      {
+        "Month": "11409",
+        "Class": "配對交易",
+        "TradeVolume": "509110670",
+        "MarketSharePer": "0.79",
+        "TradeValue": "80862019850.5800"
+      },
+      {
+        "Month": "11410",
+        "Class": "逐筆交易",
+        "TradeVolume": "12965000",
+        "MarketSharePer": "0.00",
+        "TradeValue": "312384000.0000"
+      },
+      {
+        "Month": "11410",
+        "Class": "配對交易",
+        "TradeVolume": "384910187",
+        "MarketSharePer": "0.84",
+        "TradeValue": "91453468348.1000"
+      },
+      {
+        "Month": "11411",
+        "Class": "逐筆交易",
+        "TradeVolume": "35656016",
+        "MarketSharePer": "0.01",
+        "TradeValue": "1119644165.3500"
+      },
+      {
+        "Month": "11411",
+        "Class": "配對交易",
+        "TradeVolume": "169021098",
+        "MarketSharePer": "0.72",
+        "TradeValue": "62444569485.3900"
+      }
+    ]
+  }
+}

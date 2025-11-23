@@ -1,0 +1,106 @@
+{
+  "path": "/indicesReport/TAI50I",
+  "method": "GET",
+  "operationId": null,
+  "summary": "臺灣 50 指數歷史資料",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/indicesReport/TAI50I",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:37 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:32 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222998-4fd\"",
+      "Content-Disposition": "attachment;filename=TAI50I.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "Taiwan50Index": "25453.85",
+        "Taiwan50TotalReturnIndex": "57992.92"
+      },
+      {
+        "Date": "1141104",
+        "Taiwan50Index": "25333.98",
+        "Taiwan50TotalReturnIndex": "57719.81"
+      },
+      {
+        "Date": "1141105",
+        "Taiwan50Index": "24822.44",
+        "Taiwan50TotalReturnIndex": "56554.34"
+      },
+      {
+        "Date": "1141106",
+        "Taiwan50Index": "24912.68",
+        "Taiwan50TotalReturnIndex": "56759.93"
+      },
+      {
+        "Date": "1141107",
+        "Taiwan50Index": "24704.92",
+        "Taiwan50TotalReturnIndex": "56286.58"
+      },
+      {
+        "Date": "1141110",
+        "Taiwan50Index": "24930.60",
+        "Taiwan50TotalReturnIndex": "56800.77"
+      },
+      {
+        "Date": "1141111",
+        "Taiwan50Index": "24824.65",
+        "Taiwan50TotalReturnIndex": "56559.37"
+      },
+      {
+        "Date": "1141112",
+        "Taiwan50Index": "24939.08",
+        "Taiwan50TotalReturnIndex": "56820.08"
+      },
+      {
+        "Date": "1141113",
+        "Taiwan50Index": "24797.50",
+        "Taiwan50TotalReturnIndex": "56497.52"
+      },
+      {
+        "Date": "1141114",
+        "Taiwan50Index": "24322.26",
+        "Taiwan50TotalReturnIndex": "55414.76"
+      },
+      {
+        "Date": "1141117",
+        "Taiwan50Index": "24427.08",
+        "Taiwan50TotalReturnIndex": "55653.57"
+      },
+      {
+        "Date": "1141118",
+        "Taiwan50Index": "23792.67",
+        "Taiwan50TotalReturnIndex": "54208.15"
+      },
+      {
+        "Date": "1141119",
+        "Taiwan50Index": "23634.77",
+        "Taiwan50TotalReturnIndex": "53848.41"
+      },
+      {
+        "Date": "1141120",
+        "Taiwan50Index": "24485.46",
+        "Taiwan50TotalReturnIndex": "55786.58"
+      },
+      {
+        "Date": "1141121",
+        "Taiwan50Index": "23498.23",
+        "Taiwan50TotalReturnIndex": "53537.32"
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "path": "/tpex_intraday_trading_statistics",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票現股當沖交易統計資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_intraday_trading_statistics",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:25 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:24 GMT",
+      "ETag": "W/\"6921d710-ef3\"",
+      "Content-Disposition": "attachment;filename=tpex_intraday_trading_statistics.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48d95f418265-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "DayTradingVolume": "445112000",
+        "DayTradingVolumeOfTheMarket": "17.35%",
+        "DayTradingValueOfBuys": "53042402540",
+        "DayTradingValueOfBuyOfTheMarket": "41.08%",
+        "DayTradingValueOfSells": "53161257250",
+        "DayTradingValueOfSellsOfTheMarket": "41.17%"
+      },
+      {
+        "Date": "1141104",
+        "DayTradingVolume": "532363000",
+        "DayTradingVolumeOfTheMarket": "21.13%",
+        "DayTradingValueOfBuys": "62511657100",
+        "DayTradingValueOfBuyOfTheMarket": "42.65%",
+        "DayTradingValueOfSells": "62611244390",
+        "DayTradingValueOfSellsOfTheMarket": "42.72%"
+      },
+      {
+        "Date": "1141105",
+        "DayTradingVolume": "561669000",
+        "DayTradingVolumeOfTheMarket": "24.35%",
+        "DayTradingValueOfBuys": "69667658560",
+        "DayTradingValueOfBuyOfTheMarket": "49.13%",
+        "DayTradingValueOfSells": "70000237070",
+        "DayTradingValueOfSellsOfTheMarket": "49.36%"
+      },
+      {
+        "Date": "1141106",
+        "DayTradingVolume": "553415000",
+        "DayTradingVolumeOfTheMarket": "25.66%",
+        "DayTradingValueOfBuys": "68021315990",
+        "DayTradingValueOfBuyOfTheMarket": "49.12%",
+        "DayTradingValueOfSells": "68150135030",
+        "DayTradingValueOfSellsOfTheMarket": "49.21%"
+      },
+      {
+        "Date": "1141107",
+        "DayTradingVolume": "404252000",
+        "DayTradingVolumeOfTheMarket": "22.49%",
+        "DayTradingValueOfBuys": "52493906950",
+        "DayTradingValueOfBuyOfTheMarket": "46.35%",
+        "DayTradingValueOfSells": "52573159590",
+        "DayTradingValueOfSellsOfTheMarket": "46.42%"
+      },
+      {
+        "Date": "1141110",
+        "DayTradingVolume": "458005000",
+        "DayTradingVolumeOfTheMarket": "23.54%",
+        "DayTradingValueOfBuys": "49367544370",
+        "DayTradingValueOfBuyOfTheMarket": "43.53%",
+        "DayTradingValueOfSells": "49494128760",
+        "DayTradingValueOfSellsOfTheMarket": "43.64%"
+      },
+      {
+        "Date": "1141111",
+        "DayTradingVolume": "503410000",
+        "DayTradingVolumeOfTheMarket": "24.50%",
+        "DayTradingValueOfBuys": "59272704320",
+        "DayTradingValueOfBuyOfTheMarket": "44.63%",
+        "DayTradingValueOfSells": "59450024780",
+        "DayTradingValueOfSellsOfTheMarket": "44.77%"
+      },
+      {
+        "Date": "1141112",
+        "DayTradingVolume": "554070000",
+        "DayTradingVolumeOfTheMarket": "25.22%",
+        "DayTradingValueOfBuys": "61212872090",
+        "DayTradingValueOfBuyOfTheMarket": "45.80%",
+        "DayTradingValueOfSells": "61424113600",
+        "DayTradingValueOfSellsOfTheMarket": "45.96%"
+      },
+      {
+        "Date": "1141113",
+        "DayTradingVolume": "692895000",
+        "DayTradingVolumeOfTheMarket": "28.42%",
+        "DayTradingValueOfBuys": "83701505810",
+        "DayTradingValueOfBuyOfTheMarket": "51.17%",
+        "DayTradingValueOfSells": "83998577400",
+        "DayTradingValueOfSellsOfTheMarket": "51.35%"
+      },
+      {
+        "Date": "1141114",
+        "DayTradingVolume": "511123000",
+        "DayTradingVolumeOfTheMarket": "25.08%",
+        "DayTradingValueOfBuys": "58950661830",
+        "DayTradingValueOfBuyOfTheMarket": "47.40%",
+        "DayTradingValueOfSells": "59079511420",
+        "DayTradingValueOfSellsOfTheMarket": "47.51%"
+      },
+      {
+        "Date": "1141117",
+        "DayTradingVolume": "542223000",
+        "DayTradingVolumeOfTheMarket": "24.93%",
+        "DayTradingValueOfBuys": "65012639110",
+        "DayTradingValueOfBuyOfTheMarket": "47.73%",
+        "DayTradingValueOfSells": "65126847430",
+        "DayTradingValueOfSellsOfTheMarket": "47.81%"
+      },
+      {
+        "Date": "1141118",
+        "DayTradingVolume": "483996000",
+        "DayTradingVolumeOfTheMarket": "22.59%",
+        "DayTradingValueOfBuys": "61152361820",
+        "DayTradingValueOfBuyOfTheMarket": "44.33%",
+        "DayTradingValueOfSells": "61267437080",
+        "DayTradingValueOfSellsOfTheMarket": "44.41%"
+      },
+      {
+        "Date": "1141119",
+        "DayTradingVolume": "475113000",
+        "DayTradingVolumeOfTheMarket": "28.16%",
+        "DayTradingValueOfBuys": "52842292640",
+        "DayTradingValueOfBuyOfTheMarket": "47.56%",
+        "DayTradingValueOfSells": "52938807910",
+        "DayTradingValueOfSellsOfTheMarket": "47.64%"
+      },
+      {
+        "Date": "1141120",
+        "DayTradingVolume": "445570000",
+        "DayTradingVolumeOfTheMarket": "26.70%",
+        "DayTradingValueOfBuys": "62261967890",
+        "DayTradingValueOfBuyOfTheMarket": "49.84%",
+        "DayTradingValueOfSells": "62433515440",
+        "DayTradingValueOfSellsOfTheMarket": "49.97%"
+      },
+      {
+        "Date": "1141121",
+        "DayTradingVolume": "543110000",
+        "DayTradingVolumeOfTheMarket": "26.18%",
+        "DayTradingValueOfBuys": "60802660580",
+        "DayTradingValueOfBuyOfTheMarket": "47.26%",
+        "DayTradingValueOfSells": "60921372720",
+        "DayTradingValueOfSellsOfTheMarket": "47.36%"
+      }
+    ]
+  }
+}

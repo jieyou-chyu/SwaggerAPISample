@@ -1,0 +1,2498 @@
+{
+  "path": "/tpex_esb_capitals_rank",
+  "method": "GET",
+  "operationId": null,
+  "summary": "興櫃公司資本額排名",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_esb_capitals_rank",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:48 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:32:56 GMT",
+      "ETag": "W/\"6921d7a8-954c\"",
+      "Content-Disposition": "attachment;filename=tpex_esb_capitals_rank.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49677bd44a2e-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141122",
+        "Rank": "1",
+        "SecuritiesCompanyCode": "9957",
+        "CompanyName": "燁聯",
+        "Capital": "26204.136"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "2",
+        "SecuritiesCompanyCode": "5859",
+        "CompanyName": "遠壽",
+        "Capital": "13553.996"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "3",
+        "SecuritiesCompanyCode": "6434",
+        "CompanyName": "達輝光電",
+        "Capital": "4636.02"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "4",
+        "SecuritiesCompanyCode": "1480",
+        "CompanyName": "東盟開發",
+        "Capital": "4160.852"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "5",
+        "SecuritiesCompanyCode": "6987",
+        "CompanyName": "寶晶能源*",
+        "Capital": "3740.193"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "6",
+        "SecuritiesCompanyCode": "6946",
+        "CompanyName": "三地能源",
+        "Capital": "3238"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "7",
+        "SecuritiesCompanyCode": "5863",
+        "CompanyName": "瑞興銀",
+        "Capital": "3202.022"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "8",
+        "SecuritiesCompanyCode": "7798",
+        "CompanyName": "將捷",
+        "Capital": "3082.086"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "9",
+        "SecuritiesCompanyCode": "8329",
+        "CompanyName": "台視",
+        "Capital": "2805.781"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "10",
+        "SecuritiesCompanyCode": "6586",
+        "CompanyName": "醣基",
+        "Capital": "2140.105"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "11",
+        "SecuritiesCompanyCode": "6920",
+        "CompanyName": "恆勁科技",
+        "Capital": "2072.19"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "12",
+        "SecuritiesCompanyCode": "6891",
+        "CompanyName": "樂迦再生",
+        "Capital": "2000.21"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "13",
+        "SecuritiesCompanyCode": "7752",
+        "CompanyName": "世紀樺欣",
+        "Capital": "2000"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "14",
+        "SecuritiesCompanyCode": "7855",
+        "CompanyName": "和運租車",
+        "Capital": "1925.279"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "15",
+        "SecuritiesCompanyCode": "2072",
+        "CompanyName": "世紀風電",
+        "Capital": "1700"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "16",
+        "SecuritiesCompanyCode": "7777",
+        "CompanyName": "能率亞洲",
+        "Capital": "1675"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "17",
+        "SecuritiesCompanyCode": "4132",
+        "CompanyName": "國鼎",
+        "Capital": "1622.27"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "18",
+        "SecuritiesCompanyCode": "7769",
+        "CompanyName": "鴻勁",
+        "Capital": "1616"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "19",
+        "SecuritiesCompanyCode": "6620",
+        "CompanyName": "漢達",
+        "Capital": "1583.101"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "20",
+        "SecuritiesCompanyCode": "6027",
+        "CompanyName": "德信",
+        "Capital": "1557.2"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "21",
+        "SecuritiesCompanyCode": "7812",
+        "CompanyName": "稜研科技*",
+        "Capital": "1503.818"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "22",
+        "SecuritiesCompanyCode": "7818",
+        "CompanyName": "溢泰實業",
+        "Capital": "1499.46"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "23",
+        "SecuritiesCompanyCode": "6676",
+        "CompanyName": "祥翊",
+        "Capital": "1488.37"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "24",
+        "SecuritiesCompanyCode": "4150",
+        "CompanyName": "優你康",
+        "Capital": "1472.177"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "25",
+        "SecuritiesCompanyCode": "4194",
+        "CompanyName": "禾生技",
+        "Capital": "1459.744"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "26",
+        "SecuritiesCompanyCode": "7566",
+        "CompanyName": "亞果遊艇",
+        "Capital": "1397.727"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "27",
+        "SecuritiesCompanyCode": "6682",
+        "CompanyName": "華旭先進",
+        "Capital": "1371.149"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "28",
+        "SecuritiesCompanyCode": "6652",
+        "CompanyName": "雅祥生醫",
+        "Capital": "1370"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "29",
+        "SecuritiesCompanyCode": "8359",
+        "CompanyName": "錢櫃",
+        "Capital": "1365"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "30",
+        "SecuritiesCompanyCode": "2237",
+        "CompanyName": "華德動能",
+        "Capital": "1207.989"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "31",
+        "SecuritiesCompanyCode": "6555",
+        "CompanyName": "榮炭",
+        "Capital": "1192.298"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "32",
+        "SecuritiesCompanyCode": "3585",
+        "CompanyName": "聯致",
+        "Capital": "1116.786"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "33",
+        "SecuritiesCompanyCode": "6580",
+        "CompanyName": "台睿",
+        "Capital": "1106.899"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "34",
+        "SecuritiesCompanyCode": "7821",
+        "CompanyName": "神數",
+        "Capital": "1094.133"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "35",
+        "SecuritiesCompanyCode": "6610",
+        "CompanyName": "安成生技",
+        "Capital": "1076.294"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "36",
+        "SecuritiesCompanyCode": "4172",
+        "CompanyName": "因華",
+        "Capital": "1075.755"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "37",
+        "SecuritiesCompanyCode": "2252",
+        "CompanyName": "為昇科",
+        "Capital": "1066.175"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "38",
+        "SecuritiesCompanyCode": "6618",
+        "CompanyName": "永虹先進",
+        "Capital": "1048.16"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "39",
+        "SecuritiesCompanyCode": "6572",
+        "CompanyName": "博錸",
+        "Capital": "1036.495"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "40",
+        "SecuritiesCompanyCode": "7590",
+        "CompanyName": "怡和國際",
+        "Capital": "1023.793"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "41",
+        "SecuritiesCompanyCode": "7507",
+        "CompanyName": "環拓科技",
+        "Capital": "1021"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "42",
+        "SecuritiesCompanyCode": "1260",
+        "CompanyName": "富味鄉",
+        "Capital": "1020.982"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "43",
+        "SecuritiesCompanyCode": "7850",
+        "CompanyName": "寶泰生醫",
+        "Capital": "976.588"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "44",
+        "SecuritiesCompanyCode": "6775",
+        "CompanyName": "穎台科技",
+        "Capital": "975"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "45",
+        "SecuritiesCompanyCode": "1780",
+        "CompanyName": "立弘",
+        "Capital": "960.241"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "46",
+        "SecuritiesCompanyCode": "7867",
+        "CompanyName": "特力屋",
+        "Capital": "960"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "47",
+        "SecuritiesCompanyCode": "6704",
+        "CompanyName": "國璽幹細胞",
+        "Capital": "959.493"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "48",
+        "SecuritiesCompanyCode": "6947",
+        "CompanyName": "台鎔科技",
+        "Capital": "943.333"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "49",
+        "SecuritiesCompanyCode": "7754",
+        "CompanyName": "安基生技",
+        "Capital": "940.641"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "50",
+        "SecuritiesCompanyCode": "4186",
+        "CompanyName": "尖端醫",
+        "Capital": "900"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "51",
+        "SecuritiesCompanyCode": "7803",
+        "CompanyName": "雲象科技",
+        "Capital": "888.589"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "52",
+        "SecuritiesCompanyCode": "4724",
+        "CompanyName": "宣捷幹細胞",
+        "Capital": "885.77"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "53",
+        "SecuritiesCompanyCode": "3616",
+        "CompanyName": "泓辰",
+        "Capital": "861.396"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "54",
+        "SecuritiesCompanyCode": "6826",
+        "CompanyName": "和淞",
+        "Capital": "855.4"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "55",
+        "SecuritiesCompanyCode": "6945",
+        "CompanyName": "圓祥生技",
+        "Capital": "851.134"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "56",
+        "SecuritiesCompanyCode": "6892",
+        "CompanyName": "台寶生醫",
+        "Capital": "846.05"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "57",
+        "SecuritiesCompanyCode": "2644",
+        "CompanyName": "中信造船",
+        "Capital": "829.516"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "58",
+        "SecuritiesCompanyCode": "6696",
+        "CompanyName": "仁新",
+        "Capital": "827.25"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "59",
+        "SecuritiesCompanyCode": "6839",
+        "CompanyName": "開陽能源",
+        "Capital": "820.198"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "60",
+        "SecuritiesCompanyCode": "6787",
+        "CompanyName": "晶瑞光",
+        "Capital": "809.7"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "61",
+        "SecuritiesCompanyCode": "3184",
+        "CompanyName": "微邦",
+        "Capital": "802.745"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "62",
+        "SecuritiesCompanyCode": "6549",
+        "CompanyName": "景凱",
+        "Capital": "801.22"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "63",
+        "SecuritiesCompanyCode": "4537",
+        "CompanyName": "旭東",
+        "Capital": "788.4"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "64",
+        "SecuritiesCompanyCode": "6722",
+        "CompanyName": "輝創",
+        "Capital": "780"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "65",
+        "SecuritiesCompanyCode": "6808",
+        "CompanyName": "三鼎生技",
+        "Capital": "778.4"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "66",
+        "SecuritiesCompanyCode": "4738",
+        "CompanyName": "大同精化",
+        "Capital": "775.96"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "67",
+        "SecuritiesCompanyCode": "6793",
+        "CompanyName": "天力離岸",
+        "Capital": "756"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "68",
+        "SecuritiesCompanyCode": "6407",
+        "CompanyName": "相互",
+        "Capital": "751.305"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "69",
+        "SecuritiesCompanyCode": "3097",
+        "CompanyName": "拍檔",
+        "Capital": "750.856"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "70",
+        "SecuritiesCompanyCode": "6940",
+        "CompanyName": "格斯科技*",
+        "Capital": "749.203"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "71",
+        "SecuritiesCompanyCode": "6614",
+        "CompanyName": "資拓宏宇",
+        "Capital": "729.355"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "72",
+        "SecuritiesCompanyCode": "4773",
+        "CompanyName": "高福",
+        "Capital": "727.089"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "73",
+        "SecuritiesCompanyCode": "6272",
+        "CompanyName": "驊陞",
+        "Capital": "726.64"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "74",
+        "SecuritiesCompanyCode": "6878",
+        "CompanyName": "歐付寶",
+        "Capital": "726.408"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "75",
+        "SecuritiesCompanyCode": "4195",
+        "CompanyName": "基米",
+        "Capital": "724.481"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "76",
+        "SecuritiesCompanyCode": "6564",
+        "CompanyName": "安特羅",
+        "Capital": "721.34"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "77",
+        "SecuritiesCompanyCode": "6634",
+        "CompanyName": "欣耀",
+        "Capital": "713.173"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "78",
+        "SecuritiesCompanyCode": "6883",
+        "CompanyName": "微電能源",
+        "Capital": "711.012"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "79",
+        "SecuritiesCompanyCode": "6035",
+        "CompanyName": "悠遊卡",
+        "Capital": "709.445"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "80",
+        "SecuritiesCompanyCode": "7795",
+        "CompanyName": "長廣",
+        "Capital": "708.285"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "81",
+        "SecuritiesCompanyCode": "7759",
+        "CompanyName": "視航生醫",
+        "Capital": "700.682"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "82",
+        "SecuritiesCompanyCode": "7808",
+        "CompanyName": "訊聯智藥",
+        "Capital": "700"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "83",
+        "SecuritiesCompanyCode": "2071",
+        "CompanyName": "震南鐵",
+        "Capital": "690.46"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "84",
+        "SecuritiesCompanyCode": "8058",
+        "CompanyName": "耐特",
+        "Capital": "688"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "85",
+        "SecuritiesCompanyCode": "4582",
+        "CompanyName": "聚恆",
+        "Capital": "666"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "86",
+        "SecuritiesCompanyCode": "7742",
+        "CompanyName": "天弘化",
+        "Capital": "663.75"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "87",
+        "SecuritiesCompanyCode": "6483",
+        "CompanyName": "原創生醫",
+        "Capital": "663.746"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "88",
+        "SecuritiesCompanyCode": "6876",
+        "CompanyName": "朗齊生醫*",
+        "Capital": "661.88"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "89",
+        "SecuritiesCompanyCode": "4925",
+        "CompanyName": "智微",
+        "Capital": "661.413"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "90",
+        "SecuritiesCompanyCode": "7702",
+        "CompanyName": "前端風電",
+        "Capital": "660"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "91",
+        "SecuritiesCompanyCode": "6827",
+        "CompanyName": "巨生醫",
+        "Capital": "647.209"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "92",
+        "SecuritiesCompanyCode": "7710",
+        "CompanyName": "東擎科技",
+        "Capital": "639.596"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "93",
+        "SecuritiesCompanyCode": "8119",
+        "CompanyName": "公信",
+        "Capital": "636.616"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "94",
+        "SecuritiesCompanyCode": "5271",
+        "CompanyName": "紘通",
+        "Capital": "634.724"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "95",
+        "SecuritiesCompanyCode": "6990",
+        "CompanyName": "華鉬",
+        "Capital": "630.563"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "96",
+        "SecuritiesCompanyCode": "7861",
+        "CompanyName": "貝爾威勒",
+        "Capital": "630"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "97",
+        "SecuritiesCompanyCode": "7783",
+        "CompanyName": "佳運",
+        "Capital": "624.448"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "98",
+        "SecuritiesCompanyCode": "4565",
+        "CompanyName": "宏偉",
+        "Capital": "617.4"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "99",
+        "SecuritiesCompanyCode": "6748",
+        "CompanyName": "亞果生醫",
+        "Capital": "612.182"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "100",
+        "SecuritiesCompanyCode": "2255",
+        "CompanyName": "凱銳光電",
+        "Capital": "609.325"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "101",
+        "SecuritiesCompanyCode": "4117",
+        "CompanyName": "普生",
+        "Capital": "608.245"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "102",
+        "SecuritiesCompanyCode": "1271",
+        "CompanyName": "晨暉生技",
+        "Capital": "603.891"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "103",
+        "SecuritiesCompanyCode": "4544",
+        "CompanyName": "春日",
+        "Capital": "602.9"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "104",
+        "SecuritiesCompanyCode": "7578",
+        "CompanyName": "利百景",
+        "Capital": "600.734"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "105",
+        "SecuritiesCompanyCode": "6737",
+        "CompanyName": "秀育",
+        "Capital": "600.504"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "106",
+        "SecuritiesCompanyCode": "7763",
+        "CompanyName": "崇舜",
+        "Capital": "600.143"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "107",
+        "SecuritiesCompanyCode": "7764",
+        "CompanyName": "聖州",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "108",
+        "SecuritiesCompanyCode": "7768",
+        "CompanyName": "頌勝科技",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "109",
+        "SecuritiesCompanyCode": "6831",
+        "CompanyName": "邁科",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "110",
+        "SecuritiesCompanyCode": "4115",
+        "CompanyName": "善德生技",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "111",
+        "SecuritiesCompanyCode": "4559",
+        "CompanyName": "久裕興",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "112",
+        "SecuritiesCompanyCode": "1623",
+        "CompanyName": "大東電",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "113",
+        "SecuritiesCompanyCode": "2942",
+        "CompanyName": "京站",
+        "Capital": "600"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "114",
+        "SecuritiesCompanyCode": "6709",
+        "CompanyName": "昱厚生技",
+        "Capital": "593.8"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "115",
+        "SecuritiesCompanyCode": "4169",
+        "CompanyName": "泰宗",
+        "Capital": "590.486"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "116",
+        "SecuritiesCompanyCode": "6707",
+        "CompanyName": "富基電通",
+        "Capital": "590.027"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "117",
+        "SecuritiesCompanyCode": "7832",
+        "CompanyName": "智新生技*",
+        "Capital": "580"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "118",
+        "SecuritiesCompanyCode": "6639",
+        "CompanyName": "源大環能",
+        "Capital": "576.45"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "119",
+        "SecuritiesCompanyCode": "7729",
+        "CompanyName": "仲恩生醫",
+        "Capital": "562.411"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "120",
+        "SecuritiesCompanyCode": "6677",
+        "CompanyName": "瑩碩生技",
+        "Capital": "558.71"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "121",
+        "SecuritiesCompanyCode": "6543",
+        "CompanyName": "普惠醫工",
+        "Capital": "558.547"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "122",
+        "SecuritiesCompanyCode": "3659",
+        "CompanyName": "百辰",
+        "Capital": "541.238"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "123",
+        "SecuritiesCompanyCode": "8345",
+        "CompanyName": "超秦",
+        "Capital": "520"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "124",
+        "SecuritiesCompanyCode": "7762",
+        "CompanyName": "吉晟生",
+        "Capital": "516.328"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "125",
+        "SecuritiesCompanyCode": "6467",
+        "CompanyName": "泰合",
+        "Capital": "514.281"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "126",
+        "SecuritiesCompanyCode": "4590",
+        "CompanyName": "富田",
+        "Capital": "511.741"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "127",
+        "SecuritiesCompanyCode": "5262",
+        "CompanyName": "立達",
+        "Capital": "506.986"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "128",
+        "SecuritiesCompanyCode": "7595",
+        "CompanyName": "世基生醫",
+        "Capital": "504.65"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "129",
+        "SecuritiesCompanyCode": "6648",
+        "CompanyName": "斯其大",
+        "Capital": "500"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "130",
+        "SecuritiesCompanyCode": "6833",
+        "CompanyName": "太康精密",
+        "Capital": "499.77"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "131",
+        "SecuritiesCompanyCode": "6926",
+        "CompanyName": "聖安生醫",
+        "Capital": "498"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "132",
+        "SecuritiesCompanyCode": "7689",
+        "CompanyName": "大鵬科CLMX",
+        "Capital": "496.287"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "133",
+        "SecuritiesCompanyCode": "6810",
+        "CompanyName": "新穎生醫",
+        "Capital": "494.485"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "134",
+        "SecuritiesCompanyCode": "4732",
+        "CompanyName": "彥臣",
+        "Capital": "493.765"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "135",
+        "SecuritiesCompanyCode": "7776",
+        "CompanyName": "奧孟亞",
+        "Capital": "491.015"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "136",
+        "SecuritiesCompanyCode": "7760",
+        "CompanyName": "享溫馨",
+        "Capital": "488"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "137",
+        "SecuritiesCompanyCode": "7725",
+        "CompanyName": "列特博",
+        "Capital": "483.266"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "138",
+        "SecuritiesCompanyCode": "6595",
+        "CompanyName": "光禹國際",
+        "Capital": "468.079"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "139",
+        "SecuritiesCompanyCode": "7836",
+        "CompanyName": "智生活",
+        "Capital": "467.5"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "140",
+        "SecuritiesCompanyCode": "6474",
+        "CompanyName": "華豫寧",
+        "Capital": "466.762"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "141",
+        "SecuritiesCompanyCode": "7857",
+        "CompanyName": "合水先進",
+        "Capital": "460.24"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "142",
+        "SecuritiesCompanyCode": "6986",
+        "CompanyName": "和迅",
+        "Capital": "460"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "143",
+        "SecuritiesCompanyCode": "7707",
+        "CompanyName": "益芯科",
+        "Capital": "457"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "144",
+        "SecuritiesCompanyCode": "6917",
+        "CompanyName": "竟天",
+        "Capital": "453.72"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "145",
+        "SecuritiesCompanyCode": "6665",
+        "CompanyName": "康聯生醫",
+        "Capital": "453.501"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "146",
+        "SecuritiesCompanyCode": "4980",
+        "CompanyName": "佐臻",
+        "Capital": "452.041"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "147",
+        "SecuritiesCompanyCode": "4570",
+        "CompanyName": "傑生",
+        "Capital": "440"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "148",
+        "SecuritiesCompanyCode": "4170",
+        "CompanyName": "鑫品生醫",
+        "Capital": "437.714"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "149",
+        "SecuritiesCompanyCode": "7427",
+        "CompanyName": "華上生醫",
+        "Capital": "436.437"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "150",
+        "SecuritiesCompanyCode": "6750",
+        "CompanyName": "泰創工程",
+        "Capital": "432.07"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "151",
+        "SecuritiesCompanyCode": "7833",
+        "CompanyName": "綠岩能源",
+        "Capital": "430.11"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "152",
+        "SecuritiesCompanyCode": "7792",
+        "CompanyName": "安葆",
+        "Capital": "426.72"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "153",
+        "SecuritiesCompanyCode": "7853",
+        "CompanyName": "政美應用",
+        "Capital": "419.25"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "154",
+        "SecuritiesCompanyCode": "6814",
+        "CompanyName": "路迦生醫",
+        "Capital": "418.744"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "155",
+        "SecuritiesCompanyCode": "4573",
+        "CompanyName": "高明鐵",
+        "Capital": "416.966"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "156",
+        "SecuritiesCompanyCode": "7822",
+        "CompanyName": "倍利科",
+        "Capital": "415.608"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "157",
+        "SecuritiesCompanyCode": "1343",
+        "CompanyName": "旭東環保",
+        "Capital": "405.139"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "158",
+        "SecuritiesCompanyCode": "7419",
+        "CompanyName": "達勝",
+        "Capital": "400"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "159",
+        "SecuritiesCompanyCode": "7814",
+        "CompanyName": "海昌生技",
+        "Capital": "400"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "160",
+        "SecuritiesCompanyCode": "7862",
+        "CompanyName": "聚泰",
+        "Capital": "400"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "161",
+        "SecuritiesCompanyCode": "5547",
+        "CompanyName": "久舜",
+        "Capital": "399.6"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "162",
+        "SecuritiesCompanyCode": "7773",
+        "CompanyName": "富禾生醫",
+        "Capital": "399.112"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "163",
+        "SecuritiesCompanyCode": "6755",
+        "CompanyName": "連鋐科技",
+        "Capital": "398.232"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "164",
+        "SecuritiesCompanyCode": "6815",
+        "CompanyName": "晶鑽生醫",
+        "Capital": "397.056"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "165",
+        "SecuritiesCompanyCode": "6973",
+        "CompanyName": "永立榮",
+        "Capital": "395.5"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "166",
+        "SecuritiesCompanyCode": "2256",
+        "CompanyName": "歐特明",
+        "Capital": "390.734"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "167",
+        "SecuritiesCompanyCode": "6604",
+        "CompanyName": "儒億",
+        "Capital": "387.31"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "168",
+        "SecuritiesCompanyCode": "7866",
+        "CompanyName": "丹立",
+        "Capital": "386.712"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "169",
+        "SecuritiesCompanyCode": "4575",
+        "CompanyName": "銓寶",
+        "Capital": "386.685"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "170",
+        "SecuritiesCompanyCode": "6764",
+        "CompanyName": "亞洲教育",
+        "Capital": "382.035"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "171",
+        "SecuritiesCompanyCode": "6927",
+        "CompanyName": "聯合聚晶",
+        "Capital": "381.679"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "172",
+        "SecuritiesCompanyCode": "5297",
+        "CompanyName": "廣化",
+        "Capital": "371.525"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "173",
+        "SecuritiesCompanyCode": "7854",
+        "CompanyName": "佐茂",
+        "Capital": "370.335"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "174",
+        "SecuritiesCompanyCode": "6403",
+        "CompanyName": "群登",
+        "Capital": "366.355"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "175",
+        "SecuritiesCompanyCode": "6935",
+        "CompanyName": "王子製藥",
+        "Capital": "366.05"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "176",
+        "SecuritiesCompanyCode": "4431",
+        "CompanyName": "敏成健康",
+        "Capital": "365.356"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "177",
+        "SecuritiesCompanyCode": "7530",
+        "CompanyName": "鋒魁科技",
+        "Capital": "365"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "178",
+        "SecuritiesCompanyCode": "7828",
+        "CompanyName": "創新服務",
+        "Capital": "362.799"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "179",
+        "SecuritiesCompanyCode": "8999",
+        "CompanyName": "台灣積層",
+        "Capital": "360"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "180",
+        "SecuritiesCompanyCode": "8458",
+        "CompanyName": "影一",
+        "Capital": "358.5"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "181",
+        "SecuritiesCompanyCode": "6621",
+        "CompanyName": "華宇藥",
+        "Capital": "355.01"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "182",
+        "SecuritiesCompanyCode": "6622",
+        "CompanyName": "百聿數碼",
+        "Capital": "354.619"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "183",
+        "SecuritiesCompanyCode": "7724",
+        "CompanyName": "諾亞克",
+        "Capital": "353.808"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "184",
+        "SecuritiesCompanyCode": "6915",
+        "CompanyName": "美強光",
+        "Capital": "353"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "185",
+        "SecuritiesCompanyCode": "6867",
+        "CompanyName": "坦德科技",
+        "Capital": "350"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "186",
+        "SecuritiesCompanyCode": "6908",
+        "CompanyName": "宏碁遊戲",
+        "Capital": "350"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "187",
+        "SecuritiesCompanyCode": "6939",
+        "CompanyName": "啟弘生技",
+        "Capital": "349.392"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "188",
+        "SecuritiesCompanyCode": "6849",
+        "CompanyName": "奇鼎科技",
+        "Capital": "349.183"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "189",
+        "SecuritiesCompanyCode": "7846",
+        "CompanyName": "德揚",
+        "Capital": "344.117"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "190",
+        "SecuritiesCompanyCode": "7820",
+        "CompanyName": "立盈",
+        "Capital": "343.481"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "191",
+        "SecuritiesCompanyCode": "6959",
+        "CompanyName": "兆捷科技",
+        "Capital": "343.174"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "192",
+        "SecuritiesCompanyCode": "5246",
+        "CompanyName": "勵威",
+        "Capital": "343.169"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "193",
+        "SecuritiesCompanyCode": "3595",
+        "CompanyName": "山太士",
+        "Capital": "342.993"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "194",
+        "SecuritiesCompanyCode": "3485",
+        "CompanyName": "敘豐",
+        "Capital": "341.919"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "195",
+        "SecuritiesCompanyCode": "3633",
+        "CompanyName": "云光",
+        "Capital": "340.236"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "196",
+        "SecuritiesCompanyCode": "7840",
+        "CompanyName": "祥圃",
+        "Capital": "340"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "197",
+        "SecuritiesCompanyCode": "6819",
+        "CompanyName": "眾智",
+        "Capital": "339.737"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "198",
+        "SecuritiesCompanyCode": "4546",
+        "CompanyName": "長亨",
+        "Capital": "337.75"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "199",
+        "SecuritiesCompanyCode": "6738",
+        "CompanyName": "鼎恒",
+        "Capital": "337.249"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "200",
+        "SecuritiesCompanyCode": "7843",
+        "CompanyName": "英柏得",
+        "Capital": "334.4"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "201",
+        "SecuritiesCompanyCode": "7785",
+        "CompanyName": "北祥科服",
+        "Capital": "333.394"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "202",
+        "SecuritiesCompanyCode": "6518",
+        "CompanyName": "康科特",
+        "Capital": "333.333"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "203",
+        "SecuritiesCompanyCode": "1594",
+        "CompanyName": "日高",
+        "Capital": "332.2"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "204",
+        "SecuritiesCompanyCode": "6850",
+        "CompanyName": "光鼎生技",
+        "Capital": "330.887"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "205",
+        "SecuritiesCompanyCode": "4553",
+        "CompanyName": "盛復",
+        "Capital": "330.2"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "206",
+        "SecuritiesCompanyCode": "4587",
+        "CompanyName": "寶元數控",
+        "Capital": "330"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "207",
+        "SecuritiesCompanyCode": "6725",
+        "CompanyName": "矽科宏晟",
+        "Capital": "330"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "208",
+        "SecuritiesCompanyCode": "7815",
+        "CompanyName": "新特",
+        "Capital": "329.756"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "209",
+        "SecuritiesCompanyCode": "6934",
+        "CompanyName": "心誠鎂",
+        "Capital": "327.168"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "210",
+        "SecuritiesCompanyCode": "6864",
+        "CompanyName": "元樟生技",
+        "Capital": "325.065"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "211",
+        "SecuritiesCompanyCode": "4765",
+        "CompanyName": "磐采",
+        "Capital": "321.335"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "212",
+        "SecuritiesCompanyCode": "6730",
+        "CompanyName": "常廣",
+        "Capital": "320.802"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "213",
+        "SecuritiesCompanyCode": "7860",
+        "CompanyName": "得生製藥",
+        "Capital": "320"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "214",
+        "SecuritiesCompanyCode": "6886",
+        "CompanyName": "遠東生技",
+        "Capital": "317.83"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "215",
+        "SecuritiesCompanyCode": "6650",
+        "CompanyName": "帝圖",
+        "Capital": "310.901"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "216",
+        "SecuritiesCompanyCode": "6797",
+        "CompanyName": "圓點奈米",
+        "Capital": "307.322"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "217",
+        "SecuritiesCompanyCode": "6734",
+        "CompanyName": "安盛生",
+        "Capital": "306.232"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "218",
+        "SecuritiesCompanyCode": "6812",
+        "CompanyName": "梭特",
+        "Capital": "306.143"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "219",
+        "SecuritiesCompanyCode": "7811",
+        "CompanyName": "民盛",
+        "Capital": "303.77"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "220",
+        "SecuritiesCompanyCode": "7805",
+        "CompanyName": "威聯通",
+        "Capital": "303.051"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "221",
+        "SecuritiesCompanyCode": "4197",
+        "CompanyName": "暐世",
+        "Capital": "301.809"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "222",
+        "SecuritiesCompanyCode": "7561",
+        "CompanyName": "光晟生技",
+        "Capital": "300.853"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "223",
+        "SecuritiesCompanyCode": "7575",
+        "CompanyName": "安美得",
+        "Capital": "300"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "224",
+        "SecuritiesCompanyCode": "6980",
+        "CompanyName": "鐳洋科技",
+        "Capital": "300"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "225",
+        "SecuritiesCompanyCode": "6638",
+        "CompanyName": "沅聖",
+        "Capital": "300"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "226",
+        "SecuritiesCompanyCode": "7863",
+        "CompanyName": "中科物流",
+        "Capital": "300"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "227",
+        "SecuritiesCompanyCode": "7848",
+        "CompanyName": "騏億鑫",
+        "Capital": "298"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "228",
+        "SecuritiesCompanyCode": "7737",
+        "CompanyName": "凱鈿",
+        "Capital": "294.214"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "229",
+        "SecuritiesCompanyCode": "7816",
+        "CompanyName": "來穎",
+        "Capital": "292.262"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "230",
+        "SecuritiesCompanyCode": "7847",
+        "CompanyName": "豊漁",
+        "Capital": "290"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "231",
+        "SecuritiesCompanyCode": "7744",
+        "CompanyName": "崴寶",
+        "Capital": "287"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "232",
+        "SecuritiesCompanyCode": "7781",
+        "CompanyName": "昕力資*",
+        "Capital": "286.94"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "233",
+        "SecuritiesCompanyCode": "6898",
+        "CompanyName": "程曦資訊",
+        "Capital": "280.161"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "234",
+        "SecuritiesCompanyCode": "6723",
+        "CompanyName": "傑智環境",
+        "Capital": "279.31"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "235",
+        "SecuritiesCompanyCode": "6825",
+        "CompanyName": "和暢科技",
+        "Capital": "276.514"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "236",
+        "SecuritiesCompanyCode": "6858",
+        "CompanyName": "愛比科技",
+        "Capital": "272.205"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "237",
+        "SecuritiesCompanyCode": "7770",
+        "CompanyName": "君曜",
+        "Capital": "271.721"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "238",
+        "SecuritiesCompanyCode": "6565",
+        "CompanyName": "物聯",
+        "Capital": "271.589"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "239",
+        "SecuritiesCompanyCode": "6910",
+        "CompanyName": "德鴻",
+        "Capital": "269.3"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "240",
+        "SecuritiesCompanyCode": "7824",
+        "CompanyName": "智寶",
+        "Capital": "268.371"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "241",
+        "SecuritiesCompanyCode": "5240",
+        "CompanyName": "建騰",
+        "Capital": "265.817"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "242",
+        "SecuritiesCompanyCode": "7767",
+        "CompanyName": "仁大資訊",
+        "Capital": "265.8"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "243",
+        "SecuritiesCompanyCode": "6879",
+        "CompanyName": "大江基因",
+        "Capital": "264.585"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "244",
+        "SecuritiesCompanyCode": "3678",
+        "CompanyName": "聯享",
+        "Capital": "264.22"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "245",
+        "SecuritiesCompanyCode": "6832",
+        "CompanyName": "金鼎科",
+        "Capital": "264.107"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "246",
+        "SecuritiesCompanyCode": "6673",
+        "CompanyName": "和詮",
+        "Capital": "263.516"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "247",
+        "SecuritiesCompanyCode": "6536",
+        "CompanyName": "碩豐",
+        "Capital": "263.24"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "248",
+        "SecuritiesCompanyCode": "4589",
+        "CompanyName": "碩陽電機",
+        "Capital": "257.306"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "249",
+        "SecuritiesCompanyCode": "7856",
+        "CompanyName": "漢測",
+        "Capital": "256.77"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "250",
+        "SecuritiesCompanyCode": "8298",
+        "CompanyName": "威睿",
+        "Capital": "256.32"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "251",
+        "SecuritiesCompanyCode": "7455",
+        "CompanyName": "樺緯物聯",
+        "Capital": "255"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "252",
+        "SecuritiesCompanyCode": "2249",
+        "CompanyName": "湧盛",
+        "Capital": "254.859"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "253",
+        "SecuritiesCompanyCode": "6818",
+        "CompanyName": "連騰",
+        "Capital": "254.65"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "254",
+        "SecuritiesCompanyCode": "6786",
+        "CompanyName": "芯測",
+        "Capital": "254.17"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "255",
+        "SecuritiesCompanyCode": "5267",
+        "CompanyName": "龍翩",
+        "Capital": "253"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "256",
+        "SecuritiesCompanyCode": "2940",
+        "CompanyName": "歐都納",
+        "Capital": "251.843"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "257",
+        "SecuritiesCompanyCode": "6729",
+        "CompanyName": "機光科技",
+        "Capital": "251.613"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "258",
+        "SecuritiesCompanyCode": "6868",
+        "CompanyName": "采威國際",
+        "Capital": "250.434"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "259",
+        "SecuritiesCompanyCode": "7794",
+        "CompanyName": "宏碁智新",
+        "Capital": "250"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "260",
+        "SecuritiesCompanyCode": "3603",
+        "CompanyName": "建祥國際",
+        "Capital": "248.443"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "261",
+        "SecuritiesCompanyCode": "2733",
+        "CompanyName": "維格餅家",
+        "Capital": "245.984"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "262",
+        "SecuritiesCompanyCode": "5248",
+        "CompanyName": "景傳",
+        "Capital": "245"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "263",
+        "SecuritiesCompanyCode": "7583",
+        "CompanyName": "國際海洋",
+        "Capital": "243.612"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "264",
+        "SecuritiesCompanyCode": "6539",
+        "CompanyName": "麗彤",
+        "Capital": "243.494"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "265",
+        "SecuritiesCompanyCode": "6995",
+        "CompanyName": "野獸國",
+        "Capital": "243.311"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "266",
+        "SecuritiesCompanyCode": "6563",
+        "CompanyName": "映智",
+        "Capital": "242.428"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "267",
+        "SecuritiesCompanyCode": "7841",
+        "CompanyName": "經貿聯網",
+        "Capital": "242.004"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "268",
+        "SecuritiesCompanyCode": "7772",
+        "CompanyName": "耀穎",
+        "Capital": "240.786"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "269",
+        "SecuritiesCompanyCode": "6493",
+        "CompanyName": "雷虎生",
+        "Capital": "240.5"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "270",
+        "SecuritiesCompanyCode": "7761",
+        "CompanyName": "三大未來",
+        "Capital": "239"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "271",
+        "SecuritiesCompanyCode": "7806",
+        "CompanyName": "精華生醫",
+        "Capital": "238.6"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "272",
+        "SecuritiesCompanyCode": "6961",
+        "CompanyName": "旅天下",
+        "Capital": "236.34"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "273",
+        "SecuritiesCompanyCode": "6882",
+        "CompanyName": "甲尚",
+        "Capital": "231.991"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "274",
+        "SecuritiesCompanyCode": "6559",
+        "CompanyName": "研晶",
+        "Capital": "231.887"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "275",
+        "SecuritiesCompanyCode": "6842",
+        "CompanyName": "一元素",
+        "Capital": "230"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "276",
+        "SecuritiesCompanyCode": "7796",
+        "CompanyName": "擷發科",
+        "Capital": "229.63"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "277",
+        "SecuritiesCompanyCode": "6972",
+        "CompanyName": "博瑞達應材",
+        "Capital": "229.347"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "278",
+        "SecuritiesCompanyCode": "3117",
+        "CompanyName": "年程",
+        "Capital": "228"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "279",
+        "SecuritiesCompanyCode": "5254",
+        "CompanyName": "欣訊科技",
+        "Capital": "226.068"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "280",
+        "SecuritiesCompanyCode": "2741",
+        "CompanyName": "老四川",
+        "Capital": "225.882"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "281",
+        "SecuritiesCompanyCode": "3473",
+        "CompanyName": "智通聯網",
+        "Capital": "225.115"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "282",
+        "SecuritiesCompanyCode": "7837",
+        "CompanyName": "啟新生",
+        "Capital": "223.623"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "283",
+        "SecuritiesCompanyCode": "7825",
+        "CompanyName": "和亞智慧",
+        "Capital": "223.171"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "284",
+        "SecuritiesCompanyCode": "7562",
+        "CompanyName": "博來科技",
+        "Capital": "223.146"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "285",
+        "SecuritiesCompanyCode": "7797",
+        "CompanyName": "Q Burger",
+        "Capital": "222.45"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "286",
+        "SecuritiesCompanyCode": "7858",
+        "CompanyName": "芝普",
+        "Capital": "222.37"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "287",
+        "SecuritiesCompanyCode": "6820",
+        "CompanyName": "連訊",
+        "Capital": "221.57"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "288",
+        "SecuritiesCompanyCode": "6999",
+        "CompanyName": "瀚醫生技",
+        "Capital": "220.151"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "289",
+        "SecuritiesCompanyCode": "7443",
+        "CompanyName": "凡事康",
+        "Capital": "220"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "290",
+        "SecuritiesCompanyCode": "6911",
+        "CompanyName": "群運",
+        "Capital": "220"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "291",
+        "SecuritiesCompanyCode": "6028",
+        "CompanyName": "公勝保經",
+        "Capital": "220"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "292",
+        "SecuritiesCompanyCode": "7819",
+        "CompanyName": "精誠金融",
+        "Capital": "219.635"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "293",
+        "SecuritiesCompanyCode": "8102",
+        "CompanyName": "傑霖科技",
+        "Capital": "213.614"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "294",
+        "SecuritiesCompanyCode": "7607",
+        "CompanyName": "通用幹細胞*",
+        "Capital": "212.448"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "295",
+        "SecuritiesCompanyCode": "7756",
+        "CompanyName": "多那之",
+        "Capital": "210.65"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "296",
+        "SecuritiesCompanyCode": "6599",
+        "CompanyName": "普達系統",
+        "Capital": "210"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "297",
+        "SecuritiesCompanyCode": "1269",
+        "CompanyName": "乾杯",
+        "Capital": "209.113"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "298",
+        "SecuritiesCompanyCode": "2758",
+        "CompanyName": "路易莎咖啡",
+        "Capital": "204.861"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "299",
+        "SecuritiesCompanyCode": "7789",
+        "CompanyName": "開展",
+        "Capital": "204.036"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "300",
+        "SecuritiesCompanyCode": "7726",
+        "CompanyName": "暄達",
+        "Capital": "203.04"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "301",
+        "SecuritiesCompanyCode": "2938",
+        "CompanyName": "床的世界",
+        "Capital": "201.4"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "302",
+        "SecuritiesCompanyCode": "6473",
+        "CompanyName": "美賣*",
+        "Capital": "200"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "303",
+        "SecuritiesCompanyCode": "7719",
+        "CompanyName": "碳基",
+        "Capital": "200"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "304",
+        "SecuritiesCompanyCode": "7868",
+        "CompanyName": "聖育",
+        "Capital": "196.396"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "305",
+        "SecuritiesCompanyCode": "6798",
+        "CompanyName": "展逸",
+        "Capital": "195.724"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "306",
+        "SecuritiesCompanyCode": "7516",
+        "CompanyName": "清淨海",
+        "Capital": "193.089"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "307",
+        "SecuritiesCompanyCode": "7813",
+        "CompanyName": "宇辰系統",
+        "Capital": "186.864"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "308",
+        "SecuritiesCompanyCode": "7558",
+        "CompanyName": "群利科技",
+        "Capital": "186.208"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "309",
+        "SecuritiesCompanyCode": "6784",
+        "CompanyName": "天凱科技",
+        "Capital": "184.46"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "310",
+        "SecuritiesCompanyCode": "7865",
+        "CompanyName": "金聯成",
+        "Capital": "184.24"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "311",
+        "SecuritiesCompanyCode": "6817",
+        "CompanyName": "溫士頓",
+        "Capital": "184.17"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "312",
+        "SecuritiesCompanyCode": "7801",
+        "CompanyName": "華芸科技",
+        "Capital": "183"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "313",
+        "SecuritiesCompanyCode": "6705",
+        "CompanyName": "振躍精密",
+        "Capital": "180.047"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "314",
+        "SecuritiesCompanyCode": "7810",
+        "CompanyName": "捷創科技",
+        "Capital": "180"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "315",
+        "SecuritiesCompanyCode": "6428",
+        "CompanyName": "台灣淘米",
+        "Capital": "176.825"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "316",
+        "SecuritiesCompanyCode": "7790",
+        "CompanyName": "思必瑞特",
+        "Capital": "174.949"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "317",
+        "SecuritiesCompanyCode": "1293",
+        "CompanyName": "利統",
+        "Capital": "170.941"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "318",
+        "SecuritiesCompanyCode": "2761",
+        "CompanyName": "橘焱胡同",
+        "Capital": "165.975"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "319",
+        "SecuritiesCompanyCode": "7834",
+        "CompanyName": "來毅數位",
+        "Capital": "164.784"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "320",
+        "SecuritiesCompanyCode": "6780",
+        "CompanyName": "學習王",
+        "Capital": "164.697"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "321",
+        "SecuritiesCompanyCode": "6884",
+        "CompanyName": "海柏特",
+        "Capital": "162.1"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "322",
+        "SecuritiesCompanyCode": "2245",
+        "CompanyName": "詠勝昌*",
+        "Capital": "162"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "323",
+        "SecuritiesCompanyCode": "7779",
+        "CompanyName": "鍇睿國際",
+        "Capital": "161.05"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "324",
+        "SecuritiesCompanyCode": "7758",
+        "CompanyName": "睿騰能源",
+        "Capital": "161"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "325",
+        "SecuritiesCompanyCode": "6963",
+        "CompanyName": "品元",
+        "Capital": "159.72"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "326",
+        "SecuritiesCompanyCode": "6583",
+        "CompanyName": "友松",
+        "Capital": "159.47"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "327",
+        "SecuritiesCompanyCode": "6983",
+        "CompanyName": "華洋精機",
+        "Capital": "159"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "328",
+        "SecuritiesCompanyCode": "6984",
+        "CompanyName": "ACpay",
+        "Capital": "156.294"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "329",
+        "SecuritiesCompanyCode": "6744",
+        "CompanyName": "豐技生技",
+        "Capital": "154"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "330",
+        "SecuritiesCompanyCode": "6857",
+        "CompanyName": "宏碁智醫",
+        "Capital": "152.26"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "331",
+        "SecuritiesCompanyCode": "7842",
+        "CompanyName": "天能綠電",
+        "Capital": "149.88"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "332",
+        "SecuritiesCompanyCode": "7748",
+        "CompanyName": "鑫囍創業",
+        "Capital": "145"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "333",
+        "SecuritiesCompanyCode": "6912",
+        "CompanyName": "益鈞環科*",
+        "Capital": "144"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "334",
+        "SecuritiesCompanyCode": "6848",
+        "CompanyName": "拉法醫",
+        "Capital": "142.732"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "335",
+        "SecuritiesCompanyCode": "6847",
+        "CompanyName": "普瑞博",
+        "Capital": "142.3"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "336",
+        "SecuritiesCompanyCode": "6977",
+        "CompanyName": "聯純",
+        "Capital": "140"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "337",
+        "SecuritiesCompanyCode": "6758",
+        "CompanyName": "冠亞",
+        "Capital": "134.71"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "338",
+        "SecuritiesCompanyCode": "7831",
+        "CompanyName": "捷博",
+        "Capital": "134.012"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "339",
+        "SecuritiesCompanyCode": "7839",
+        "CompanyName": "達人網",
+        "Capital": "133.16"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "340",
+        "SecuritiesCompanyCode": "2760",
+        "CompanyName": "巨宇翔",
+        "Capital": "130"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "341",
+        "SecuritiesCompanyCode": "8098",
+        "CompanyName": "慶康科技",
+        "Capital": "126.531"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "342",
+        "SecuritiesCompanyCode": "7731",
+        "CompanyName": "火星生技*",
+        "Capital": "126.495"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "343",
+        "SecuritiesCompanyCode": "6938",
+        "CompanyName": "藍新資訊",
+        "Capital": "125.65"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "344",
+        "SecuritiesCompanyCode": "6816",
+        "CompanyName": "捷智商訊",
+        "Capital": "121.8"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "345",
+        "SecuritiesCompanyCode": "7551",
+        "CompanyName": "知識科技",
+        "Capital": "121"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "346",
+        "SecuritiesCompanyCode": "6979",
+        "CompanyName": "勝釩",
+        "Capital": "120"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "347",
+        "SecuritiesCompanyCode": "7826",
+        "CompanyName": "極風雲創",
+        "Capital": "120"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "348",
+        "SecuritiesCompanyCode": "7849",
+        "CompanyName": "旭誼",
+        "Capital": "118.923"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "349",
+        "SecuritiesCompanyCode": "6932",
+        "CompanyName": "水星生醫*",
+        "Capital": "105.496"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "350",
+        "SecuritiesCompanyCode": "7706",
+        "CompanyName": "宏碁創達",
+        "Capital": "100"
+      },
+      {
+        "Date": "1141122",
+        "Rank": "351",
+        "SecuritiesCompanyCode": "7875",
+        "CompanyName": "安圖斯",
+        "Capital": "83.73"
+      }
+    ]
+  }
+}

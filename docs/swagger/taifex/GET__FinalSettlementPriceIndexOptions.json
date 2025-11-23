@@ -1,0 +1,41 @@
+{
+  "path": "/FinalSettlementPriceIndexOptions",
+  "method": "GET",
+  "operationId": null,
+  "summary": "最後結算價-股價指數類（指數選擇權）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FinalSettlementPriceIndexOptions",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:48 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "157",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:17 GMT",
+      "ETag": "\"9d-6443699b238f8\"",
+      "Content-Disposition": "attachment; filename=FinalSettlementPriceIndexOptions.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50bcb978809e-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20251121",
+        "Contract": "TXO",
+        "ContractName": "臺指選擇權",
+        "ContractDeliveryMonth": "202511F3",
+        "TheFinalSettlementPrice": "26503"
+      }
+    ]
+  }
+}

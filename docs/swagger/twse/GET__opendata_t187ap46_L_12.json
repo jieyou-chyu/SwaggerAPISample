@@ -1,0 +1,38 @@
+{
+  "path": "/opendata/t187ap46_L_12",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市公司企業ESG資訊揭露彙總資料-食品安全",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap46_L_12",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:15 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Last-Modified": "Fri, 22 Dec 2023 03:18:33 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"65850009-3ee\"",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Content-Security-Policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "camera=(),microphone=(),geolocation=(),sync-xhr=*,gyroscope=()",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, api_key, Authorization",
+      "Content-Encoding": "gzip"
+    },
+    "body": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta name=\"keywords\" content=\"\" />\n<meta name=\"description\" content=\"\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title></title>\n\n<style>\n\tbody{\n\t\tdisplay: flex;\n\t\talign-items: center;\n\t\tjustify-content: center;\n\t\theight: 100vh;\n\t\tmargin: 0;\n\t}\n\n\timg{max-width: 100%;}\n\t\n</style>\n\n<!--支援IE9以下 依序為 html5shiv css3選擇器 media Bootsrap3-->\n<!--[if lt IE 9]>\n    <script type=\"text/javascript\" src=\"js/support_ie/ie8tag.js\"></script>\n\t<script src=\"js/support_ie/html5shiv.js\"></script>\n\t<script src=\"js/support_ie/ie9.js\"></script>\n\t<script src=\"js/support_ie/mediaqueries.js\"></script>\n\t<script src=\"js/support_ie/respond.min.js\"></script>\n<![endif]-->\n</head>\n<body>\n\n<img src=\"404.png\" alt=\"\" />\n\t\n\n\n</body>\n</html>\n"
+  }
+}

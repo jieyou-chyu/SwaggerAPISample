@@ -1,0 +1,211 @@
+{
+  "path": "/ETFReport/ETFRank",
+  "method": "GET",
+  "operationId": null,
+  "summary": "定期定額前十名交易戶數證券統計",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/ETFReport/ETFRank",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:21 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:30:46 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222b86-fd7\"",
+      "Content-Disposition": "attachment;filename=ETFRank.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "No": "1",
+        "STOCKsSecurityCode": "2330",
+        "STOCKsName": "台積電",
+        "STOCKsNumberofTradingAccounts": "134300",
+        "ETFsSecurityCode": "0050",
+        "ETFsName": "元大台灣50",
+        "ETFsNumberofTradingAccounts": "600123"
+      },
+      {
+        "No": "2",
+        "STOCKsSecurityCode": "2884",
+        "STOCKsName": "玉山金",
+        "STOCKsNumberofTradingAccounts": "30014",
+        "ETFsSecurityCode": "00878",
+        "ETFsName": "國泰永續高股息",
+        "ETFsNumberofTradingAccounts": "282657"
+      },
+      {
+        "No": "3",
+        "STOCKsSecurityCode": "2886",
+        "STOCKsName": "兆豐金",
+        "STOCKsNumberofTradingAccounts": "29457",
+        "ETFsSecurityCode": "0056",
+        "ETFsName": "元大高股息",
+        "ETFsNumberofTradingAccounts": "275977"
+      },
+      {
+        "No": "4",
+        "STOCKsSecurityCode": "2317",
+        "STOCKsName": "鴻海",
+        "STOCKsNumberofTradingAccounts": "21201",
+        "ETFsSecurityCode": "006208",
+        "ETFsName": "富邦台50",
+        "ETFsNumberofTradingAccounts": "243638"
+      },
+      {
+        "No": "5",
+        "STOCKsSecurityCode": "2891",
+        "STOCKsName": "中信金",
+        "STOCKsNumberofTradingAccounts": "18917",
+        "ETFsSecurityCode": "00919",
+        "ETFsName": "群益台灣精選高息",
+        "ETFsNumberofTradingAccounts": "130261"
+      },
+      {
+        "No": "6",
+        "STOCKsSecurityCode": "2412",
+        "STOCKsName": "中華電",
+        "STOCKsNumberofTradingAccounts": "17219",
+        "ETFsSecurityCode": "00713",
+        "ETFsName": "元大台灣高息低波",
+        "ETFsNumberofTradingAccounts": "91195"
+      },
+      {
+        "No": "7",
+        "STOCKsSecurityCode": "2892",
+        "STOCKsName": "第一金",
+        "STOCKsNumberofTradingAccounts": "15462",
+        "ETFsSecurityCode": "00881",
+        "ETFsName": "國泰台灣科技龍頭",
+        "ETFsNumberofTradingAccounts": "34822"
+      },
+      {
+        "No": "8",
+        "STOCKsSecurityCode": "2881",
+        "STOCKsName": "富邦金",
+        "STOCKsNumberofTradingAccounts": "14890",
+        "ETFsSecurityCode": "00692",
+        "ETFsName": "富邦公司治理",
+        "ETFsNumberofTradingAccounts": "29969"
+      },
+      {
+        "No": "9",
+        "STOCKsSecurityCode": "5880",
+        "STOCKsName": "合庫金",
+        "STOCKsNumberofTradingAccounts": "12660",
+        "ETFsSecurityCode": "00757",
+        "ETFsName": "統一FANG+",
+        "ETFsNumberofTradingAccounts": "29511"
+      },
+      {
+        "No": "10",
+        "STOCKsSecurityCode": "2885",
+        "STOCKsName": "元大金",
+        "STOCKsNumberofTradingAccounts": "11498",
+        "ETFsSecurityCode": "00929",
+        "ETFsName": "復華台灣科技優息",
+        "ETFsNumberofTradingAccounts": "28304"
+      },
+      {
+        "No": "11",
+        "STOCKsSecurityCode": "2890",
+        "STOCKsName": "永豐金",
+        "STOCKsNumberofTradingAccounts": "10700",
+        "ETFsSecurityCode": "00646",
+        "ETFsName": "元大S&P500",
+        "ETFsNumberofTradingAccounts": "26204"
+      },
+      {
+        "No": "12",
+        "STOCKsSecurityCode": "2308",
+        "STOCKsName": "台達電",
+        "STOCKsNumberofTradingAccounts": "10237",
+        "ETFsSecurityCode": "00850",
+        "ETFsName": "元大臺灣ESG永續",
+        "ETFsNumberofTradingAccounts": "23039"
+      },
+      {
+        "No": "13",
+        "STOCKsSecurityCode": "2454",
+        "STOCKsName": "聯發科",
+        "STOCKsNumberofTradingAccounts": "10022",
+        "ETFsSecurityCode": "00922",
+        "ETFsName": "國泰台灣領袖50",
+        "ETFsNumberofTradingAccounts": "23030"
+      },
+      {
+        "No": "14",
+        "STOCKsSecurityCode": "2887",
+        "STOCKsName": "台新新光金",
+        "STOCKsNumberofTradingAccounts": "9819",
+        "ETFsSecurityCode": "00662",
+        "ETFsName": "富邦NASDAQ",
+        "ETFsNumberofTradingAccounts": "19334"
+      },
+      {
+        "No": "15",
+        "STOCKsSecurityCode": "2882",
+        "STOCKsName": "國泰金",
+        "STOCKsNumberofTradingAccounts": "8584",
+        "ETFsSecurityCode": "00981A",
+        "ETFsName": "主動統一台股增長",
+        "ETFsNumberofTradingAccounts": "16649"
+      },
+      {
+        "No": "16",
+        "STOCKsSecurityCode": "2603",
+        "STOCKsName": "長榮",
+        "STOCKsNumberofTradingAccounts": "6545",
+        "ETFsSecurityCode": "00830",
+        "ETFsName": "國泰費城半導體",
+        "ETFsNumberofTradingAccounts": "15501"
+      },
+      {
+        "No": "17",
+        "STOCKsSecurityCode": "2880",
+        "STOCKsName": "華南金",
+        "STOCKsNumberofTradingAccounts": "5156",
+        "ETFsSecurityCode": "00924",
+        "ETFsName": "復華S&P500成長",
+        "ETFsNumberofTradingAccounts": "14560"
+      },
+      {
+        "No": "18",
+        "STOCKsSecurityCode": "1216",
+        "STOCKsName": "統一",
+        "STOCKsNumberofTradingAccounts": "4894",
+        "ETFsSecurityCode": "00923",
+        "ETFsName": "群益台ESG低碳50",
+        "ETFsNumberofTradingAccounts": "12364"
+      },
+      {
+        "No": "19",
+        "STOCKsSecurityCode": "1101",
+        "STOCKsName": "台泥",
+        "STOCKsNumberofTradingAccounts": "4739",
+        "ETFsSecurityCode": "0052",
+        "ETFsName": "富邦科技",
+        "ETFsNumberofTradingAccounts": "12092"
+      },
+      {
+        "No": "20",
+        "STOCKsSecurityCode": "2834",
+        "STOCKsName": "臺企銀",
+        "STOCKsNumberofTradingAccounts": "4696",
+        "ETFsSecurityCode": "00940",
+        "ETFsName": "元大台灣價值高息",
+        "ETFsNumberofTradingAccounts": "12037"
+      }
+    ]
+  }
+}

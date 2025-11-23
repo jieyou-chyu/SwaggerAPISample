@@ -1,0 +1,581 @@
+{
+  "path": "/tpex_daily_trading_summary_odd",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃鉅額交易日成交量值統計",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_daily_trading_summary_odd",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:42 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:48 GMT",
+      "ETag": "W/\"6921d728-29a4\"",
+      "Content-Disposition": "attachment;filename=tpex_daily_trading_summary_odd.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49454c158469-TPE"
+    },
+    "body": [
+      {
+        "TradingDate": "1141103",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141103",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141103",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141103",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "9",
+        "NumberOfSharesTraded": "425339000",
+        "MarketShare": "16.58",
+        "TradeValue": "6611594200",
+        "Market Share": "5.11"
+      },
+      {
+        "TradingDate": "1141104",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141104",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141104",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141104",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "10",
+        "NumberOfSharesTraded": "324766000",
+        "MarketShare": "12.88",
+        "TradeValue": "6033787340",
+        "Market Share": "4.11"
+      },
+      {
+        "TradingDate": "1141105",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141105",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141105",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141105",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "5",
+        "NumberOfSharesTraded": "133957000",
+        "MarketShare": "5.80",
+        "TradeValue": "2085057600",
+        "Market Share": "1.47"
+      },
+      {
+        "TradingDate": "1141106",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141106",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141106",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "12000000",
+        "MarketShare": "0.55",
+        "TradeValue": "448600000",
+        "Market Share": "0.32"
+      },
+      {
+        "TradingDate": "1141106",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "3300000",
+        "MarketShare": "0.15",
+        "TradeValue": "144840000",
+        "Market Share": "0.10"
+      },
+      {
+        "TradingDate": "1141107",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141107",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141107",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141107",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "1125000",
+        "MarketShare": "0.06",
+        "TradeValue": "33750000",
+        "Market Share": "0.02"
+      },
+      {
+        "TradingDate": "1141110",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141110",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141110",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141110",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "3",
+        "NumberOfSharesTraded": "3439000",
+        "MarketShare": "0.17",
+        "TradeValue": "202482750",
+        "Market Share": "0.17"
+      },
+      {
+        "TradingDate": "1141111",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141111",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "145",
+        "NumberOfSharesTraded": "2772000",
+        "MarketShare": "0.13",
+        "TradeValue": "66082500",
+        "Market Share": "0.04"
+      },
+      {
+        "TradingDate": "1141111",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141111",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "1162000",
+        "MarketShare": "0.05",
+        "TradeValue": "25815100",
+        "Market Share": "0.01"
+      },
+      {
+        "TradingDate": "1141112",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141112",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "124",
+        "NumberOfSharesTraded": "2277240",
+        "MarketShare": "0.10",
+        "TradeValue": "66848771",
+        "Market Share": "0.05"
+      },
+      {
+        "TradingDate": "1141112",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141112",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "1",
+        "NumberOfSharesTraded": "579000",
+        "MarketShare": "0.02",
+        "TradeValue": "106680750",
+        "Market Share": "0.07"
+      },
+      {
+        "TradingDate": "1141113",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141113",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141113",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141113",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "4",
+        "NumberOfSharesTraded": "485000",
+        "MarketShare": "0.01",
+        "TradeValue": "86072738",
+        "Market Share": "0.05"
+      },
+      {
+        "TradingDate": "1141114",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141114",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141114",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141114",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "1",
+        "NumberOfSharesTraded": "294000",
+        "MarketShare": "0.01",
+        "TradeValue": "52920000",
+        "Market Share": "0.04"
+      },
+      {
+        "TradingDate": "1141117",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141117",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141117",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141117",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "3",
+        "NumberOfSharesTraded": "456000",
+        "MarketShare": "0.02",
+        "TradeValue": "79132046",
+        "Market Share": "0.05"
+      },
+      {
+        "TradingDate": "1141118",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141118",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141118",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141118",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "2",
+        "NumberOfSharesTraded": "3300000",
+        "MarketShare": "0.15",
+        "TradeValue": "144060000",
+        "Market Share": "0.10"
+      },
+      {
+        "TradingDate": "1141119",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141119",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141119",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "1",
+        "NumberOfSharesTraded": "1000000",
+        "MarketShare": "0.05",
+        "TradeValue": "37000000",
+        "Market Share": "0.03"
+      },
+      {
+        "TradingDate": "1141119",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "1",
+        "NumberOfSharesTraded": "64000",
+        "MarketShare": "0.00",
+        "TradeValue": "25879680",
+        "Market Share": "0.02"
+      },
+      {
+        "TradingDate": "1141120",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141120",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "6",
+        "NumberOfSharesTraded": "5480000",
+        "MarketShare": "0.32",
+        "TradeValue": "82943900",
+        "Market Share": "0.06"
+      },
+      {
+        "TradingDate": "1141120",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141120",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "3",
+        "NumberOfSharesTraded": "2806000",
+        "MarketShare": "0.16",
+        "TradeValue": "226097800",
+        "Market Share": "0.18"
+      },
+      {
+        "TradingDate": "1141121",
+        "Type": "逐筆交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141121",
+        "Type": "配對交易-組合型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141121",
+        "Type": "逐筆交易-單一型",
+        "NumberOfTransactions": "0",
+        "NumberOfSharesTraded": "0",
+        "MarketShare": "0.00",
+        "TradeValue": "0",
+        "Market Share": "0.00"
+      },
+      {
+        "TradingDate": "1141121",
+        "Type": "配對交易-單一型",
+        "NumberOfTransactions": "1",
+        "NumberOfSharesTraded": "500000",
+        "MarketShare": "0.02",
+        "TradeValue": "5150000",
+        "Market Share": "0.00"
+      }
+    ]
+  }
+}

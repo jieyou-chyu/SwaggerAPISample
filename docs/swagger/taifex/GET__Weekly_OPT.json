@@ -1,0 +1,6658 @@
+{
+  "path": "/Weekly_OPT",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期貨商交易量週報表－選擇權",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/Weekly_OPT",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:44 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "103701",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:24 GMT",
+      "ETag": "\"19515-6443692ed487e\"",
+      "Content-Disposition": "attachment; filename=Weekly_OPT.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4c3edab30744-TPE"
+    },
+    "body": [
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "364"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "3366"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "2022751"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "4223"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "857"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "338"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "344"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "4101"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1897959"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "4820"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "424"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "2678"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "843"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "4239"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "2437845"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "4789"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "805"
+      },
+      {
+        "FCMCode": "F034999",
+        "FCMName": "澳帝華期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "352"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "19"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "1942670"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "27"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "21"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "30"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1776696"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "212"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "10"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "201"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "1885372"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "104"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004000",
+        "FCMName": "凱基期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "27"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "1052705"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "53"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "19"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "24"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "20"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1206676"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "131"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "15"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "35"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "22"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "1460251"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "132"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "16"
+      },
+      {
+        "FCMCode": "F021000",
+        "FCMName": "元大期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "19"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "581387"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "34"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "9"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "6"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "72"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "549944"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "63"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "3"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "8"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "21"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "690085"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "37"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F020000",
+        "FCMName": "群益期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "593951"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "280"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "83"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "530314"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "231"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "71"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "14"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "62"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "605482"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "224"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "77"
+      },
+      {
+        "FCMCode": "F002000",
+        "FCMName": "永豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "14"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "13"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "285"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "484663"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "1188"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "184"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "292"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "316395"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "1863"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "100"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "184"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "536954"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "1787"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "163"
+      },
+      {
+        "FCMCode": "S890999",
+        "FCMName": "法銀巴黎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "352332"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "252"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "9"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "13"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "9"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "346793"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "689"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "5"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "72"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "411364"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "570"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "10"
+      },
+      {
+        "FCMCode": "F026000",
+        "FCMName": "富邦期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "31"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "175"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "349294"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "38"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "9"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "216"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "324771"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "38"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "3"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "20"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "368"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "372946"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "55"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F008000",
+        "FCMName": "統一期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "63"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "304"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "2745"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "350357"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "3009"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "602"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "201"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "205"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "3474"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "301659"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "2010"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "380"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "2484"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "772"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "3395"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "327751"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "2524"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "698"
+      },
+      {
+        "FCMCode": "S980999",
+        "FCMName": "元大證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "87"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "223450"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "84"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "503"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "21"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "9"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "199639"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "81"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "304"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "49"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "250285"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "159"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "500"
+      },
+      {
+        "FCMCode": "F018000",
+        "FCMName": "元富期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "31"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "108"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "224360"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "34"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "70"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "208400"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "24"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "3"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "22"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "124"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "233703"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "55"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F029000",
+        "FCMName": "康和期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "174587"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "28"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "8"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "33"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "173208"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "33"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "16"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "229630"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "44"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "13"
+      },
+      {
+        "FCMCode": "F001000",
+        "FCMName": "國泰期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "6"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "13"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "172948"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "34"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "10"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "31"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "43"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "175728"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "78"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "3"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "18"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "141"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "211179"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "179"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F014000",
+        "FCMName": "華南期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "161190"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "22"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "155645"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "7"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "189019"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "106"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F005000",
+        "FCMName": "國票期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "148767"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "34"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "26"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "141555"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "50"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "80"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "177958"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "60"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F040000",
+        "FCMName": "台新期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "16"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "12"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "94824"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "67"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "6"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "24"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "24"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "102478"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "176"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "10"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "25"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "8"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "32"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "127913"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "119"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F039000",
+        "FCMName": "大昌期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "12"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "16"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "83215"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "146"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "3"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "16"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "6"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "70946"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "375"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "11"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "104357"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "236"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F030000",
+        "FCMName": "兆豐期貨",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "106"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "58483"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "69985"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "21"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "79917"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884000",
+        "FCMName": "玉山證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "48119"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "53379"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "5"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "48071"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S856000",
+        "FCMName": "新光證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "43"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "477"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "47695"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "1003"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "58"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "10"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "453"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "49488"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "1640"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "61"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "41"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "465"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "44061"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "1328"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "141"
+      },
+      {
+        "FCMCode": "F020999",
+        "FCMName": "群益期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "36755"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "32769"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "60764"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S779999",
+        "FCMName": "國票證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "41101"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "37"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "37098"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "76"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "44677"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "21"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S538000",
+        "FCMName": "第一金證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "26367"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "4"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "11249"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "349"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "41983"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "19"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S592999",
+        "FCMName": "元富證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "25794"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "21011"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "26759"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616000",
+        "FCMName": "中國信託證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "14422"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "15266"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "24211"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S844000",
+        "FCMName": "摩根大通證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "18679"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "14705"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "13766"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S144000",
+        "FCMName": "美林證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "14280"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "182"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "11482"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "128"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "8"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "11014"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "82"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126000",
+        "FCMName": "宏遠證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "6376"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "7074"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "8369"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S585999",
+        "FCMName": "統一證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "3980"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "5634"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "6153"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S526000",
+        "FCMName": "美好證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "3068"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "2935"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "9530"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S147000",
+        "FCMName": "台灣摩根士丹利證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "3800"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "2714"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "4564"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S509999",
+        "FCMName": "華南永昌證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "5036"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "3372"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "1474"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F008999",
+        "FCMName": "統一期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "2970"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "2214"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "2221"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S910999",
+        "FCMName": "群益金鼎證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "1460"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1440"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "2030"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218999",
+        "FCMName": "亞東證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "946"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1175"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "2404"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F021999",
+        "FCMName": "元大期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "513"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "8"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1259"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "176"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "13"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "1668"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "76"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "11"
+      },
+      {
+        "FCMCode": "S551999",
+        "FCMName": "永豐金證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "1146"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "1260"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "1108"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S218000",
+        "FCMName": "亞東證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "527"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "472"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "751"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S126999",
+        "FCMName": "宏遠證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "733"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "642"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "356"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F026999",
+        "FCMName": "富邦期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "781"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "289"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "611"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "1"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S960999",
+        "FCMName": "富邦證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "262"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "519"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "534"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S920999",
+        "FCMName": "凱基證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "816"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "414"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "F004999",
+        "FCMName": "凱基期貨自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "725"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S884999",
+        "FCMName": "玉山證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "116"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "69"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "18"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "274"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "12"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S616999",
+        "FCMName": "中國信託證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "341"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S159000",
+        "FCMName": "花旗環球國際證券",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TXO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251103",
+        "ToDate": "20251107",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TXO",
+        "Volume": "38"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251110",
+        "ToDate": "20251114",
+        "Contract": "TGO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TEO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TFO",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TXO",
+        "Volume": "2"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "STC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "ETC",
+        "Volume": "0"
+      },
+      {
+        "FCMCode": "S700999",
+        "FCMName": "兆豐證券自營",
+        "FromDate": "20251117",
+        "ToDate": "20251121",
+        "Contract": "TGO",
+        "Volume": "0"
+      }
+    ]
+  }
+}

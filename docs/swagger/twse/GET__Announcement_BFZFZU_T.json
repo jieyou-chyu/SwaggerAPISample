@@ -1,0 +1,37 @@
+{
+  "path": "/Announcement/BFZFZU_T",
+  "method": "GET",
+  "operationId": null,
+  "summary": "投資理財節目異常推介個股",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/Announcement/BFZFZU_T",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:34 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "55",
+      "Last-Modified": "Sat, 22 Nov 2025 21:21:56 GMT",
+      "Connection": "keep-alive",
+      "ETag": "\"69222974-37\"",
+      "Content-Disposition": "attachment;filename=BFZFZU_T.json",
+      "Accept-Ranges": "bytes"
+    },
+    "body": [
+      {
+        "Number": "0",
+        "Code": "",
+        "Name": "",
+        "Date": "1141121"
+      }
+    ]
+  }
+}

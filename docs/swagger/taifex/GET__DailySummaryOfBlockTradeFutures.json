@@ -1,0 +1,40 @@
+{
+  "path": "/DailySummaryOfBlockTradeFutures",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易成交量統計-期貨商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/DailySummaryOfBlockTradeFutures",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:33 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "82",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:23 GMT",
+      "ETag": "\"52-644369676d0e6\"",
+      "Content-Disposition": "attachment; filename=DailySummaryOfBlockTradeFutures.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50615858d4e1-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251120",
+        "ProductCategory": "STF",
+        "Volume": "1094",
+        "MarketShare%": "0.2"
+      }
+    ]
+  }
+}

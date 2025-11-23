@@ -1,0 +1,195 @@
+{
+  "path": "/CCP_CMLists",
+  "method": "GET",
+  "operationId": null,
+  "summary": "店頭集中結算會員名冊",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/CCP_CMLists",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:12 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "2963",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:42 GMT",
+      "ETag": "\"b93-644369ebb90f1\"",
+      "Content-Disposition": "attachment; filename=CCP_CMLists.json",
+      "CF-Cache-Status": "HIT",
+      "Age": "3333",
+      "CF-RAY": "9a2d4b77af534a6d-TPE"
+    },
+    "body": [
+      {
+        "FCMName": "台北富邦商業銀行股份有限公司",
+        "Type": "一般",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "中國信託商業銀行股份有限公司",
+        "Type": "一般",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "永豐金證券股份有限公司",
+        "Type": "一般",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "元大商業銀行股份有限公司",
+        "Type": "一般",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "國泰世華商業銀行股份有限公司",
+        "Type": "一般",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "彰化商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "永豐商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "臺灣銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "合作金庫商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "臺灣新光商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "玉山商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "第一商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "台新國際商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "兆豐國際商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "法商東方匯理銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "法商法國巴黎銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "富邦綜合證券股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "華南商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "渣打國際商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "凱基商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "臺灣中小企業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "美商美國銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "法商法國興業銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "滙豐(台灣)商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "德商德意志銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "澳商澳盛銀行集團股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "美商摩根大通銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "日商瑞穗銀行股份有限公司台北分公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "荷商安智銀行股份有限公司台北分行",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "花旗(台灣)商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "安泰商業銀行股份有限公司",
+        "Type": "個別",
+        "Date": "20251121"
+      },
+      {
+        "FCMName": "中國輸出入銀行",
+        "Type": "個別",
+        "Date": "20251121"
+      }
+    ]
+  }
+}

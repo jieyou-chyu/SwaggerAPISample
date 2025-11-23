@@ -1,0 +1,49 @@
+{
+  "path": "/opendata/t187ap25_L",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap25_L",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:37:06 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:27:56 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222adc-44a\"",
+      "Content-Disposition": "attachment;filename=t187ap25_L.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "出表日期": "1141122",
+        "序號": "1",
+        "年度": "114",
+        "季別": "2",
+        "公司代號": "3308",
+        "公司名稱": "聯德",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "出表日期": "1141122",
+        "序號": "2",
+        "年度": "114",
+        "季別": "1",
+        "公司代號": "3308",
+        "公司名稱": "聯德",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      }
+    ]
+  }
+}

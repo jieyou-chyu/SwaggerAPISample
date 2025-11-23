@@ -1,0 +1,42 @@
+{
+  "path": "/BTDailyTradeInformationFutures",
+  "method": "GET",
+  "operationId": null,
+  "summary": "鉅額交易各商品成交資訊-期貨商品",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/BTDailyTradeInformationFutures",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:32 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "128",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:19 GMT",
+      "ETag": "\"80-644369639fea8\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=BTDailyTradeInformationFutures.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d5059c9b76b72-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251120",
+        "Contract": "QFF",
+        "ContractMonth(Week)": "202512",
+        "Volume": "1094",
+        "HighestPrice": "1455",
+        "LowestPrice": "1455"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "path": "/exchangeReport/TWT88U",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市個股首五日無漲跌幅",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/TWT88U",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:34 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:21:51 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"6922296f-116\"",
+      "Content-Disposition": "attachment;filename=TWT88U.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "SecurCode": "7786",
+        "SecurName": "東方風能",
+        "1stTradingDate": "1141118",
+        "5thTradingDate": "1141124",
+        "PriceUnderwritten": "168.00",
+        "OverAllotmentShares": "100",
+        "Code": "11",
+        "Name": "永豐金",
+        "BuySell": "B",
+        "TradingPrice": "159.00",
+        "TradingVolume": "100",
+        "AccTradingVolume": "100"
+      }
+    ]
+  }
+}

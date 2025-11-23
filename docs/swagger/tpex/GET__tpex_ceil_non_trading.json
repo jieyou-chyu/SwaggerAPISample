@@ -1,0 +1,173 @@
+{
+  "path": "/tpex_ceil_non_trading",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃漲跌停未成交資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_ceil_non_trading",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:34 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:41 GMT",
+      "ETag": "W/\"6921d721-a86\"",
+      "Content-Disposition": "attachment;filename=tpex_ceil_non_trading.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49148e00a367-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        "ClosingPrice": "1065.00",
+        "Change": "-115.00",
+        "Tot.Trans.Vol.": "1879",
+        "Trans.Vol.AtUp-limitPr.": "1663",
+        "OrderVol.AtUp-limitPr.": "5338",
+        "Difference": "3675"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8277",
+        "CompanyName": "商丞",
+        "ClosingPrice": "10.05",
+        "Change": "-1.10",
+        "Tot.Trans.Vol.": "283",
+        "Trans.Vol.AtUp-limitPr.": "278",
+        "OrderVol.AtUp-limitPr.": "3674",
+        "Difference": "3396"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科",
+        "ClosingPrice": "93.60",
+        "Change": "-10.40",
+        "Tot.Trans.Vol.": "6899",
+        "Trans.Vol.AtUp-limitPr.": "1462",
+        "OrderVol.AtUp-limitPr.": "1594",
+        "Difference": "132"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        "ClosingPrice": "80.50",
+        "Change": "7.30",
+        "Tot.Trans.Vol.": "46689",
+        "Trans.Vol.AtUp-limitPr.": "6408",
+        "OrderVol.AtUp-limitPr.": "44179",
+        "Difference": "37771"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        "ClosingPrice": "50.90",
+        "Change": "4.55",
+        "Tot.Trans.Vol.": "27774",
+        "Trans.Vol.AtUp-limitPr.": "4710",
+        "OrderVol.AtUp-limitPr.": "10908",
+        "Difference": "6198"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        "ClosingPrice": "156.50",
+        "Change": "14.00",
+        "Tot.Trans.Vol.": "617",
+        "Trans.Vol.AtUp-limitPr.": "350",
+        "OrderVol.AtUp-limitPr.": "2162",
+        "Difference": "1812"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        "ClosingPrice": "16.25",
+        "Change": "-1.80",
+        "Tot.Trans.Vol.": "3126",
+        "Trans.Vol.AtUp-limitPr.": "1193",
+        "OrderVol.AtUp-limitPr.": "2093",
+        "Difference": "900"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        "ClosingPrice": "21.05",
+        "Change": "1.90",
+        "Tot.Trans.Vol.": "996",
+        "Trans.Vol.AtUp-limitPr.": "380",
+        "OrderVol.AtUp-limitPr.": "1596",
+        "Difference": "1216"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4442",
+        "CompanyName": "竣邦-KY",
+        "ClosingPrice": "58.00",
+        "Change": "-6.40",
+        "Tot.Trans.Vol.": "549",
+        "Trans.Vol.AtUp-limitPr.": "115",
+        "OrderVol.AtUp-limitPr.": "185",
+        "Difference": "70"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3709",
+        "CompanyName": "鑫聯大投控",
+        "ClosingPrice": "53.10",
+        "Change": "-5.90",
+        "Tot.Trans.Vol.": "5559",
+        "Trans.Vol.AtUp-limitPr.": "2041",
+        "OrderVol.AtUp-limitPr.": "1743",
+        "Difference": "-298"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3349",
+        "CompanyName": "寶德",
+        "ClosingPrice": "22.70",
+        "Change": "2.05",
+        "Tot.Trans.Vol.": "805",
+        "Trans.Vol.AtUp-limitPr.": "368",
+        "OrderVol.AtUp-limitPr.": "295",
+        "Difference": "-73"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        "ClosingPrice": "47.85",
+        "Change": "4.35",
+        "Tot.Trans.Vol.": "2412",
+        "Trans.Vol.AtUp-limitPr.": "1532",
+        "OrderVol.AtUp-limitPr.": "1288",
+        "Difference": "-244"
+      }
+    ]
+  }
+}

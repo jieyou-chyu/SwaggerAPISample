@@ -1,0 +1,112 @@
+{
+  "path": "/AcceptableCollateralLogStock",
+  "method": "GET",
+  "operationId": null,
+  "summary": "有價證券保證金之可抵繳標的增刪紀錄",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AcceptableCollateralLogStock",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:01 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "1063",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:02 GMT",
+      "ETag": "\"427-644369c559351\"",
+      "Content-Disposition": "attachment; filename=AcceptableCollateralLogStock.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d510afaf44a67-TPE"
+    },
+    "body": [
+      {
+        "Date": "20250801",
+        "StockId": "6290",
+        "StockName": "良維",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20250801",
+        "StockId": "2329",
+        "StockName": "華泰",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20250814",
+        "StockId": "2327",
+        "StockName": "國巨",
+        "New/Delete": "刪除"
+      },
+      {
+        "Date": "20250825",
+        "StockId": "2327",
+        "StockName": "國巨",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20250922",
+        "StockId": "6446",
+        "StockName": "藥華藥",
+        "New/Delete": "刪除"
+      },
+      {
+        "Date": "20250922",
+        "StockId": "6919",
+        "StockName": "康霈*",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20250925",
+        "StockId": "2352",
+        "StockName": "佳世達",
+        "New/Delete": "刪除"
+      },
+      {
+        "Date": "20250925",
+        "StockId": "2489",
+        "StockName": "瑞軒",
+        "New/Delete": "刪除"
+      },
+      {
+        "Date": "20251007",
+        "StockId": "2489",
+        "StockName": "瑞軒",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20251007",
+        "StockId": "2352",
+        "StockName": "佳世達",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20251103",
+        "StockId": "2421",
+        "StockName": "建準",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20251103",
+        "StockId": "2367",
+        "StockName": "燿華",
+        "New/Delete": "新增"
+      },
+      {
+        "Date": "20251103",
+        "StockId": "1608",
+        "StockName": "華榮",
+        "New/Delete": "新增"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2741 @@
+{
+  "path": "/tpex_active_broker_volume",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票熱門股證券商進出排行",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_active_broker_volume",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:25 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:24 GMT",
+      "ETag": "W/\"6921d710-f681\"",
+      "Content-Disposition": "attachment;filename=tpex_active_broker_volume.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48dbca5d4a36-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "23355",
+        "TotalSellShares": "20395"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "12724",
+        "TotalSellShares": "13957"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "9062",
+        "TotalSellShares": "10259"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "7795",
+        "TotalSellShares": "7314"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "7603",
+        "TotalSellShares": "6818"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "4139",
+        "TotalSellShares": "9433"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "5568",
+        "TotalSellShares": "6801"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "4865",
+        "TotalSellShares": "3923"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "3193",
+        "TotalSellShares": "4486"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "1",
+        "SecuritiesCompanyCodeAndCompanyName": "富喬(1815)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "3675",
+        "TotalSellShares": "3136"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "13427",
+        "TotalSellShares": "13194"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "7905",
+        "TotalSellShares": "8670"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "5810",
+        "TotalSellShares": "5646"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "4462",
+        "TotalSellShares": "5915"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "4159",
+        "TotalSellShares": "3859"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "3938",
+        "TotalSellShares": "3777"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "1908",
+        "TotalSellShares": "4544"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "3301",
+        "TotalSellShares": "1880"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "2017",
+        "TotalSellShares": "1912"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "2",
+        "SecuritiesCompanyCodeAndCompanyName": "金居(8358)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "2083",
+        "TotalSellShares": "1694"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "15520",
+        "TotalSellShares": "15087"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "7129",
+        "TotalSellShares": "7359"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "5010",
+        "TotalSellShares": "4789"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "4924",
+        "TotalSellShares": "4829"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "4362",
+        "TotalSellShares": "4295"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "3469",
+        "TotalSellShares": "3542"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "2923",
+        "TotalSellShares": "2812"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "2722",
+        "TotalSellShares": "2686"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "2385",
+        "TotalSellShares": "2443"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "3",
+        "SecuritiesCompanyCodeAndCompanyName": "信昌電(6173)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "1996",
+        "TotalSellShares": "2021"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "12511",
+        "TotalSellShares": "10779"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "3048",
+        "TotalSellShares": "6406"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "4111",
+        "TotalSellShares": "3241"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "3246",
+        "TotalSellShares": "3871"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "3813",
+        "TotalSellShares": "2604"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "2407",
+        "TotalSellShares": "3910"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "1567",
+        "TotalSellShares": "1878"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "國票",
+        "TotalPurchaseShares": "2305",
+        "TotalSellShares": "869"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "1625",
+        "TotalSellShares": "1221"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "4",
+        "SecuritiesCompanyCodeAndCompanyName": "蜜望實(8043)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "1294",
+        "TotalSellShares": "1466"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "4133",
+        "TotalSellShares": "5469"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "2694",
+        "TotalSellShares": "3815"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "摩根大通",
+        "TotalPurchaseShares": "5134",
+        "TotalSellShares": "714"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "1964",
+        "TotalSellShares": "2338"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "摩根士丹利",
+        "TotalPurchaseShares": "2019",
+        "TotalSellShares": "2124"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "1652",
+        "TotalSellShares": "1444"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1180",
+        "TotalSellShares": "1408"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "1301",
+        "TotalSellShares": "1245"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "1046",
+        "TotalSellShares": "1310"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "5",
+        "SecuritiesCompanyCodeAndCompanyName": "元太(8069)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "1055",
+        "TotalSellShares": "1269"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "6059",
+        "TotalSellShares": "6166"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "3285",
+        "TotalSellShares": "2977"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1934",
+        "TotalSellShares": "1894"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "1670",
+        "TotalSellShares": "1832"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "1509",
+        "TotalSellShares": "1440"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "1548",
+        "TotalSellShares": "1344"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "1152",
+        "TotalSellShares": "1102"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "1060",
+        "TotalSellShares": "1140"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "1062",
+        "TotalSellShares": "1046"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "6",
+        "SecuritiesCompanyCodeAndCompanyName": "光頡(3624)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "946",
+        "TotalSellShares": "1027"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "5645",
+        "TotalSellShares": "6078"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "3877",
+        "TotalSellShares": "2967"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "2782",
+        "TotalSellShares": "2803"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "1513",
+        "TotalSellShares": "1816"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "1534",
+        "TotalSellShares": "1482"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "1218",
+        "TotalSellShares": "1478"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "924",
+        "TotalSellShares": "1593"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "1646",
+        "TotalSellShares": "575"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "新光",
+        "TotalPurchaseShares": "668",
+        "TotalSellShares": "851"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "7",
+        "SecuritiesCompanyCodeAndCompanyName": "金山電(8042)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "658",
+        "TotalSellShares": "764"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "5815",
+        "TotalSellShares": "5855"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "2860",
+        "TotalSellShares": "2953"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "2125",
+        "TotalSellShares": "2501"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "1944",
+        "TotalSellShares": "1977"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "1496",
+        "TotalSellShares": "1454"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "1263",
+        "TotalSellShares": "1176"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "1044",
+        "TotalSellShares": "1023"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "1132",
+        "TotalSellShares": "931"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "952",
+        "TotalSellShares": "1082"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "8",
+        "SecuritiesCompanyCodeAndCompanyName": "華電網(6163)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "1047",
+        "TotalSellShares": "620"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "2487",
+        "TotalSellShares": "3707"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "2300",
+        "TotalSellShares": "1634"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "1731",
+        "TotalSellShares": "1400"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "2010",
+        "TotalSellShares": "873"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "707",
+        "TotalSellShares": "1821"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "747",
+        "TotalSellShares": "1498"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "940",
+        "TotalSellShares": "679"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "611",
+        "TotalSellShares": "879"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "974",
+        "TotalSellShares": "247"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "9",
+        "SecuritiesCompanyCodeAndCompanyName": "威剛(3260)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "539",
+        "TotalSellShares": "542"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "2696",
+        "TotalSellShares": "2499"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1595",
+        "TotalSellShares": "1922"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1429",
+        "TotalSellShares": "1396"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "1202",
+        "TotalSellShares": "901"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "1019",
+        "TotalSellShares": "841"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "899",
+        "TotalSellShares": "903"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "925",
+        "TotalSellShares": "812"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "369",
+        "TotalSellShares": "972"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "603",
+        "TotalSellShares": "697"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "10",
+        "SecuritiesCompanyCodeAndCompanyName": "台半(5425)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "581",
+        "TotalSellShares": "582"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "3964",
+        "TotalSellShares": "2272"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1391",
+        "TotalSellShares": "2008"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "540",
+        "TotalSellShares": "1616"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1165",
+        "TotalSellShares": "885"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "959",
+        "TotalSellShares": "704"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "425",
+        "TotalSellShares": "1162"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "807",
+        "TotalSellShares": "710"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "788",
+        "TotalSellShares": "691"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "461",
+        "TotalSellShares": "557"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "11",
+        "SecuritiesCompanyCodeAndCompanyName": "台燿(6274)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "523",
+        "TotalSellShares": "408"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "3614",
+        "TotalSellShares": "2798"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1537",
+        "TotalSellShares": "1634"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1309",
+        "TotalSellShares": "1077"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "848",
+        "TotalSellShares": "760"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "687",
+        "TotalSellShares": "626"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "673",
+        "TotalSellShares": "560"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "384",
+        "TotalSellShares": "784"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "465",
+        "TotalSellShares": "651"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "505",
+        "TotalSellShares": "467"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "12",
+        "SecuritiesCompanyCodeAndCompanyName": "凱崴(5498)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "445",
+        "TotalSellShares": "510"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "2600",
+        "TotalSellShares": "2970"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "2068",
+        "TotalSellShares": "1400"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1064",
+        "TotalSellShares": "1132"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "697",
+        "TotalSellShares": "1011"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "803",
+        "TotalSellShares": "877"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "691",
+        "TotalSellShares": "818"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "830",
+        "TotalSellShares": "489"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "699",
+        "TotalSellShares": "584"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "604",
+        "TotalSellShares": "635"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "13",
+        "SecuritiesCompanyCodeAndCompanyName": "華容(5328)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "594",
+        "TotalSellShares": "432"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "3036",
+        "TotalSellShares": "3002"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1654",
+        "TotalSellShares": "1913"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1117",
+        "TotalSellShares": "1249"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "777",
+        "TotalSellShares": "712"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "755",
+        "TotalSellShares": "687"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "655",
+        "TotalSellShares": "576"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "551",
+        "TotalSellShares": "468"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "439",
+        "TotalSellShares": "377"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "371",
+        "TotalSellShares": "439"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "14",
+        "SecuritiesCompanyCodeAndCompanyName": "達航科技(4577)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "370",
+        "TotalSellShares": "362"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "2356",
+        "TotalSellShares": "2675"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1532",
+        "TotalSellShares": "1538"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1162",
+        "TotalSellShares": "868"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "707",
+        "TotalSellShares": "636"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "594",
+        "TotalSellShares": "570"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "564",
+        "TotalSellShares": "589"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "501",
+        "TotalSellShares": "533"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "353",
+        "TotalSellShares": "462"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "新光",
+        "TotalPurchaseShares": "337",
+        "TotalSellShares": "442"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "15",
+        "SecuritiesCompanyCodeAndCompanyName": "德勝(8048)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "362",
+        "TotalSellShares": "326"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1642",
+        "TotalSellShares": "1394"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "1008",
+        "TotalSellShares": "1338"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1344",
+        "TotalSellShares": "983"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "808",
+        "TotalSellShares": "1347"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "881",
+        "TotalSellShares": "446"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "166",
+        "TotalSellShares": "955"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "507",
+        "TotalSellShares": "608"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "686",
+        "TotalSellShares": "386"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "862",
+        "TotalSellShares": "199"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "16",
+        "SecuritiesCompanyCodeAndCompanyName": "世紀*(5314)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "427",
+        "TotalSellShares": "448"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "2463",
+        "TotalSellShares": "2515"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1026",
+        "TotalSellShares": "1250"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "922",
+        "TotalSellShares": "707"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "689",
+        "TotalSellShares": "609"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "608",
+        "TotalSellShares": "550"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "460",
+        "TotalSellShares": "538"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "412",
+        "TotalSellShares": "475"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "410",
+        "TotalSellShares": "457"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "398",
+        "TotalSellShares": "451"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "17",
+        "SecuritiesCompanyCodeAndCompanyName": "千如(3236)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "386",
+        "TotalSellShares": "350"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "2047",
+        "TotalSellShares": "1695"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "924",
+        "TotalSellShares": "920"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "730",
+        "TotalSellShares": "929"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "973",
+        "TotalSellShares": "684"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "449",
+        "TotalSellShares": "593"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "472",
+        "TotalSellShares": "543"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "411",
+        "TotalSellShares": "496"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "554",
+        "TotalSellShares": "320"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "442",
+        "TotalSellShares": "349"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "18",
+        "SecuritiesCompanyCodeAndCompanyName": "鈺創(5351)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "摩根大通",
+        "TotalPurchaseShares": "423",
+        "TotalSellShares": "257"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "752",
+        "TotalSellShares": "1742"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1768",
+        "TotalSellShares": "642"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "845",
+        "TotalSellShares": "1201"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "港商野村",
+        "TotalPurchaseShares": "892",
+        "TotalSellShares": "407"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "232",
+        "TotalSellShares": "1038"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "926",
+        "TotalSellShares": "242"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "美林證券",
+        "TotalPurchaseShares": "39",
+        "TotalSellShares": "1057"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "814",
+        "TotalSellShares": "202"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "摩根士丹利",
+        "TotalPurchaseShares": "1",
+        "TotalSellShares": "687"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "19",
+        "SecuritiesCompanyCodeAndCompanyName": "欣銓(3264)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "摩根大通",
+        "TotalPurchaseShares": "51",
+        "TotalSellShares": "485"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1589",
+        "TotalSellShares": "1615"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1276",
+        "TotalSellShares": "1521"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "733",
+        "TotalSellShares": "1166"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "653",
+        "TotalSellShares": "383"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "534",
+        "TotalSellShares": "367"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "531",
+        "TotalSellShares": "324"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "253",
+        "TotalSellShares": "557"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "335",
+        "TotalSellShares": "267"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "331",
+        "TotalSellShares": "240"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "20",
+        "SecuritiesCompanyCodeAndCompanyName": "榮群(8034)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "163",
+        "TotalSellShares": "278"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1549",
+        "TotalSellShares": "1354"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "1091",
+        "TotalSellShares": "1288"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "499",
+        "TotalSellShares": "573"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "426",
+        "TotalSellShares": "617"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "539",
+        "TotalSellShares": "425"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "463",
+        "TotalSellShares": "468"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "498",
+        "TotalSellShares": "426"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "412",
+        "TotalSellShares": "251"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "統一",
+        "TotalPurchaseShares": "422",
+        "TotalSellShares": "233"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "21",
+        "SecuritiesCompanyCodeAndCompanyName": "華星光(4979)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "美林證券",
+        "TotalPurchaseShares": "14",
+        "TotalSellShares": "634"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1253",
+        "TotalSellShares": "1387"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "984",
+        "TotalSellShares": "1046"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "492",
+        "TotalSellShares": "462"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "514",
+        "TotalSellShares": "431"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "354",
+        "TotalSellShares": "583"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "523",
+        "TotalSellShares": "266"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "442",
+        "TotalSellShares": "266"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "280",
+        "TotalSellShares": "421"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "玉山證券",
+        "TotalPurchaseShares": "289",
+        "TotalSellShares": "331"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "22",
+        "SecuritiesCompanyCodeAndCompanyName": "立碁(8111)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "231",
+        "TotalSellShares": "292"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1815",
+        "TotalSellShares": "837"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "562",
+        "TotalSellShares": "1354"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "752",
+        "TotalSellShares": "383"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "100",
+        "TotalSellShares": "1027"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "395",
+        "TotalSellShares": "522"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "435",
+        "TotalSellShares": "261"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "318",
+        "TotalSellShares": "229"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "229",
+        "TotalSellShares": "202"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "0",
+        "TotalSellShares": "427"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "23",
+        "SecuritiesCompanyCodeAndCompanyName": "正德(2641)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "新光",
+        "TotalPurchaseShares": "252",
+        "TotalSellShares": "112"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1208",
+        "TotalSellShares": "1464"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "950",
+        "TotalSellShares": "866"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "1196",
+        "TotalSellShares": "459"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "美林證券",
+        "TotalPurchaseShares": "332",
+        "TotalSellShares": "590"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "378",
+        "TotalSellShares": "335"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "中國信託證",
+        "TotalPurchaseShares": "59",
+        "TotalSellShares": "610"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "583",
+        "TotalSellShares": "64"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "152",
+        "TotalSellShares": "435"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "343",
+        "TotalSellShares": "187"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "24",
+        "SecuritiesCompanyCodeAndCompanyName": "穩懋(3105)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "204",
+        "TotalSellShares": "325"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1114",
+        "TotalSellShares": "1502"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "906",
+        "TotalSellShares": "1438"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "摩根士丹利",
+        "TotalPurchaseShares": "79",
+        "TotalSellShares": "1256"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "花旗環球",
+        "TotalPurchaseShares": "0",
+        "TotalSellShares": "775"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "483",
+        "TotalSellShares": "53"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "389",
+        "TotalSellShares": "145"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "美林證券",
+        "TotalPurchaseShares": "245",
+        "TotalSellShares": "234"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "294",
+        "TotalSellShares": "129"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "320",
+        "TotalSellShares": "76"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "25",
+        "SecuritiesCompanyCodeAndCompanyName": "宏捷科(8086)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "198",
+        "TotalSellShares": "189"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1086",
+        "TotalSellShares": "1599"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "982",
+        "TotalSellShares": "799"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "382",
+        "TotalSellShares": "521"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "706",
+        "TotalSellShares": "59"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "238",
+        "TotalSellShares": "526"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "241",
+        "TotalSellShares": "518"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "580",
+        "TotalSellShares": "131"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "197",
+        "TotalSellShares": "277"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "121",
+        "TotalSellShares": "321"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "26",
+        "SecuritiesCompanyCodeAndCompanyName": "長科*(6548)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "摩根大通",
+        "TotalPurchaseShares": "432",
+        "TotalSellShares": "2"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1015",
+        "TotalSellShares": "1024"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "389",
+        "TotalSellShares": "750"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "大昌",
+        "TotalPurchaseShares": "915",
+        "TotalSellShares": "155"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "486",
+        "TotalSellShares": "536"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "313",
+        "TotalSellShares": "532"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "679",
+        "TotalSellShares": "140"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "538",
+        "TotalSellShares": "264"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "第一金證券",
+        "TotalPurchaseShares": "373",
+        "TotalSellShares": "318"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "251",
+        "TotalSellShares": "309"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "27",
+        "SecuritiesCompanyCodeAndCompanyName": "連展投控(3710)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "合庫",
+        "TotalPurchaseShares": "308",
+        "TotalSellShares": "200"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "334",
+        "TotalSellShares": "1056"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "743",
+        "TotalSellShares": "615"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "美林證券",
+        "TotalPurchaseShares": "768",
+        "TotalSellShares": "543"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "765",
+        "TotalSellShares": "407"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "335",
+        "TotalSellShares": "772"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "港商野村",
+        "TotalPurchaseShares": "405",
+        "TotalSellShares": "675"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "摩根士丹利",
+        "TotalPurchaseShares": "681",
+        "TotalSellShares": "295"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "摩根大通",
+        "TotalPurchaseShares": "325",
+        "TotalSellShares": "544"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "210",
+        "TotalSellShares": "366"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "28",
+        "SecuritiesCompanyCodeAndCompanyName": "世界(5347)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "花旗環球",
+        "TotalPurchaseShares": "149",
+        "TotalSellShares": "247"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1367",
+        "TotalSellShares": "1098"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "421",
+        "TotalSellShares": "599"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "266",
+        "TotalSellShares": "605"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "293",
+        "TotalSellShares": "560"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "555",
+        "TotalSellShares": "278"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "元富",
+        "TotalPurchaseShares": "198",
+        "TotalSellShares": "365"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "291",
+        "TotalSellShares": "260"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "兆豐",
+        "TotalPurchaseShares": "342",
+        "TotalSellShares": "165"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "268",
+        "TotalSellShares": "168"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "29",
+        "SecuritiesCompanyCodeAndCompanyName": "波若威(3163)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "74",
+        "TotalSellShares": "331"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "1",
+        "SecuritiesFirmsCode": "元大",
+        "TotalPurchaseShares": "1122",
+        "TotalSellShares": "807"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "2",
+        "SecuritiesFirmsCode": "凱基",
+        "TotalPurchaseShares": "610",
+        "TotalSellShares": "783"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "3",
+        "SecuritiesFirmsCode": "富邦",
+        "TotalPurchaseShares": "566",
+        "TotalSellShares": "501"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "4",
+        "SecuritiesFirmsCode": "永豐金",
+        "TotalPurchaseShares": "540",
+        "TotalSellShares": "465"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "5",
+        "SecuritiesFirmsCode": "美商高盛亞",
+        "TotalPurchaseShares": "176",
+        "TotalSellShares": "588"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "6",
+        "SecuritiesFirmsCode": "星洲瑞銀",
+        "TotalPurchaseShares": "227",
+        "TotalSellShares": "476"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "7",
+        "SecuritiesFirmsCode": "群益",
+        "TotalPurchaseShares": "303",
+        "TotalSellShares": "215"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "8",
+        "SecuritiesFirmsCode": "國泰綜合",
+        "TotalPurchaseShares": "268",
+        "TotalSellShares": "214"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "9",
+        "SecuritiesFirmsCode": "華南永昌",
+        "TotalPurchaseShares": "273",
+        "TotalSellShares": "177"
+      },
+      {
+        "Date": "20251121",
+        "StockRanking": "30",
+        "SecuritiesCompanyCodeAndCompanyName": "高技(5439)",
+        "SecuritiesFirmsRanking": "10",
+        "SecuritiesFirmsCode": "台新",
+        "TotalPurchaseShares": "277",
+        "TotalSellShares": "111"
+      }
+    ]
+  }
+}

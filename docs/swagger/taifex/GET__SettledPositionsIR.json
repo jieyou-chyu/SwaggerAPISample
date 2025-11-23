@@ -1,0 +1,42 @@
+{
+  "path": "/SettledPositionsIR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "到期契約履約交割-利率類",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SettledPositionsIR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:53 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "160",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:33 GMT",
+      "ETag": "\"a0-644369aa79a6f\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=SettledPositionsIR.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d50da8ea64a63-TPE"
+    },
+    "body": [
+      {
+        "TheFinalSettlementDay": "20190911",
+        "ContractDeliveryMonth": "201909",
+        "ContractName": "十年期公債期貨",
+        "Contract": "GBF",
+        "Long(lot)": "0",
+        "Short(lot)": "0"
+      }
+    ]
+  }
+}

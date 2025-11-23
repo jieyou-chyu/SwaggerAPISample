@@ -1,0 +1,154 @@
+{
+  "path": "/SSFRefferedOpeningPriceAh",
+  "method": "GET",
+  "operationId": null,
+  "summary": "股票期貨調整開盤參考價(盤後交易時段)",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SSFRefferedOpeningPriceAh",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:13 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "2334",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:36 GMT",
+      "ETag": "\"91e-644369e5fa163\"",
+      "Content-Disposition": "attachment; filename=SSFRefferedOpeningPriceAh.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4b7f1bea4a5a-TPE"
+    },
+    "body": [
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "台積電期貨",
+        "TickerSymbol": "CDF",
+        "DeliveryMonth": "202509",
+        "ReferredOpeningPrice": "1255"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "台積電期貨",
+        "TickerSymbol": "CDF",
+        "DeliveryMonth": "202510",
+        "ReferredOpeningPrice": "1255"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "台積電期貨",
+        "TickerSymbol": "CDF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "1255"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "台積電期貨",
+        "TickerSymbol": "CDF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "1260"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "台積電期貨",
+        "TickerSymbol": "CDF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "1260"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "小型台積電期貨",
+        "TickerSymbol": "QFF",
+        "DeliveryMonth": "202509",
+        "ReferredOpeningPrice": "1255"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "小型台積電期貨",
+        "TickerSymbol": "QFF",
+        "DeliveryMonth": "202510",
+        "ReferredOpeningPrice": "1255"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "小型台積電期貨",
+        "TickerSymbol": "QFF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "1255"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "小型台積電期貨",
+        "TickerSymbol": "QFF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "1260"
+      },
+      {
+        "Date": "20250916",
+        "StockCode": "2330",
+        "ContractName": "小型台積電期貨",
+        "TickerSymbol": "QFF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "1260"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202512",
+        "ReferredOpeningPrice": "27.28"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202601",
+        "ReferredOpeningPrice": "27.28"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202603",
+        "ReferredOpeningPrice": "27.4"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202606",
+        "ReferredOpeningPrice": "27.53"
+      },
+      {
+        "Date": "20251121",
+        "StockCode": "00679B",
+        "ContractName": "元大美債20年ETF期貨",
+        "TickerSymbol": "RZF",
+        "DeliveryMonth": "202609",
+        "ReferredOpeningPrice": "27.65"
+      }
+    ]
+  }
+}

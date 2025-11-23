@@ -1,0 +1,45 @@
+{
+  "path": "/opendata/t187ap13_L",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上市公司每日內部人持股轉讓事前申報表-持股未轉讓日報表",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/opendata/t187ap13_L",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:55 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:25:54 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222a62-195\"",
+      "Content-Disposition": "attachment;filename=t187ap13_L.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "出表日期": "1141121",
+        "公司代號": "",
+        "公司名稱": "",
+        "申報人身分": "",
+        "姓名": "",
+        "未轉讓股數-自有持股": "",
+        "未轉讓股數-保留運用決定權信託股數": "",
+        "目前持股-自有持股": "",
+        "目前持股-保留運用決定權信託股數": "",
+        "原申報預定轉讓股數-自有持股": "",
+        "原申報預定轉讓股數-保留運用決定權信託股數": "",
+        "未轉讓理由": ""
+      }
+    ]
+  }
+}

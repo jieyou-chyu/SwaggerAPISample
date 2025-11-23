@@ -1,0 +1,242 @@
+{
+  "path": "/AnnualTradingSSF",
+  "method": "GET",
+  "operationId": null,
+  "summary": "商品年成交量統計-股票類（股票期貨）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/AnnualTradingSSF",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:55 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "3810",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:39:43 GMT",
+      "ETag": "\"ee2-644369b412856\"",
+      "Content-Disposition": "attachment; filename=AnnualTradingSSF.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50e9dd3ba9cb-TPE"
+    },
+    "body": [
+      {
+        "YYYY": "2010",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "724375",
+        "NumberOfTradingDays": "236",
+        "AvgDailyTradingVolume": "3069"
+      },
+      {
+        "YYYY": "2011",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "2471605",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "10006"
+      },
+      {
+        "YYYY": "2012",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "4670750",
+        "NumberOfTradingDays": "250",
+        "AvgDailyTradingVolume": "18683"
+      },
+      {
+        "YYYY": "2013",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "5448554",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "22149"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "183440",
+        "NumberOfTradingDays": "63",
+        "AvgDailyTradingVolume": "2912"
+      },
+      {
+        "YYYY": "2014",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "9325030",
+        "NumberOfTradingDays": "248",
+        "AvgDailyTradingVolume": "37601"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "2129871",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "8729"
+      },
+      {
+        "YYYY": "2015",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "12189434",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "49957"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "1748371",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "7165"
+      },
+      {
+        "YYYY": "2016",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "9954514",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "40797"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "1224271",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "4977"
+      },
+      {
+        "YYYY": "2017",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "18763068",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "76273"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "1520673",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "6157"
+      },
+      {
+        "YYYY": "2018",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "22812494",
+        "NumberOfTradingDays": "247",
+        "AvgDailyTradingVolume": "92358"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "1064343",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "4398"
+      },
+      {
+        "YYYY": "2019",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "19788425",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "81770"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "915305",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "3736"
+      },
+      {
+        "YYYY": "2020",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "25837101",
+        "NumberOfTradingDays": "245",
+        "AvgDailyTradingVolume": "105458"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "731619",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "2998"
+      },
+      {
+        "YYYY": "2021",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "74994818",
+        "NumberOfTradingDays": "244",
+        "AvgDailyTradingVolume": "307356"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "768109",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "3122"
+      },
+      {
+        "YYYY": "2022",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "53956009",
+        "NumberOfTradingDays": "246",
+        "AvgDailyTradingVolume": "219333"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "588138",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "2461"
+      },
+      {
+        "YYYY": "2023",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "51638295",
+        "NumberOfTradingDays": "239",
+        "AvgDailyTradingVolume": "216060"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "ETF",
+        "ContractName": "ETF期貨",
+        "TotalVolume": "2088113",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "8629"
+      },
+      {
+        "YYYY": "2024",
+        "Contract": "STF",
+        "ContractName": "股票期貨",
+        "TotalVolume": "66057655",
+        "NumberOfTradingDays": "242",
+        "AvgDailyTradingVolume": "272966"
+      }
+    ]
+  }
+}

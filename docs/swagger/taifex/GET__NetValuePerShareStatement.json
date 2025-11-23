@@ -1,0 +1,314 @@
+{
+  "path": "/NetValuePerShareStatement",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期貨商每股淨值明細表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/NetValuePerShareStatement",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:36 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4227",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:37:09 GMT",
+      "ETag": "\"1083-6443692135e78\"",
+      "Content-Disposition": "attachment; filename=NetValuePerShareStatement.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d4c0c28a6808c-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S960",
+        "NetValue": "387063584",
+        "Shares": "56000",
+        "NetValuePerShare": "6.91"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S509",
+        "NetValue": "436594143",
+        "Shares": "60000",
+        "NetValuePerShare": "7.28"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S159",
+        "NetValue": "240937934",
+        "Shares": "30000",
+        "NetValuePerShare": "8.03"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S700",
+        "NetValue": "407997590",
+        "Shares": "50000",
+        "NetValuePerShare": "8.16"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S779",
+        "NetValue": "835560500",
+        "Shares": "100000",
+        "NetValuePerShare": "8.36"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S890",
+        "NetValue": "335829306",
+        "Shares": "40000",
+        "NetValuePerShare": "8.4"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S102",
+        "NetValue": "337761246",
+        "Shares": "40000",
+        "NetValuePerShare": "8.44"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S218",
+        "NetValue": "595698408",
+        "Shares": "61500",
+        "NetValuePerShare": "9.69"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S126",
+        "NetValue": "806460323",
+        "Shares": "82100",
+        "NetValuePerShare": "9.82"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S910",
+        "NetValue": "1411548595",
+        "Shares": "140000",
+        "NetValuePerShare": "10.08"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S888",
+        "NetValue": "1125918028",
+        "Shares": "110000",
+        "NetValuePerShare": "10.24"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S616",
+        "NetValue": "820088857",
+        "Shares": "80000",
+        "NetValuePerShare": "10.25"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S551",
+        "NetValue": "2097362578",
+        "Shares": "200000",
+        "NetValuePerShare": "10.49"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S538",
+        "NetValue": "855766861",
+        "Shares": "81500",
+        "NetValuePerShare": "10.5"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S592",
+        "NetValue": "1098554072",
+        "Shares": "100000",
+        "NetValuePerShare": "10.99"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F040",
+        "NetValue": "907340503",
+        "Shares": "81800",
+        "NetValuePerShare": "11.09"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S920",
+        "NetValue": "3335101727",
+        "Shares": "275000",
+        "NetValuePerShare": "12.13"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S526",
+        "NetValue": "352106345",
+        "Shares": "28000",
+        "NetValuePerShare": "12.58"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F005",
+        "NetValue": "1562177343",
+        "Shares": "119917",
+        "NetValuePerShare": "13.03"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S147",
+        "NetValue": "4551804462",
+        "Shares": "332800",
+        "NetValuePerShare": "13.68"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S144",
+        "NetValue": "4189128553.7",
+        "Shares": "300000",
+        "NetValuePerShare": "13.96"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S585",
+        "NetValue": "3226330785",
+        "Shares": "230000",
+        "NetValuePerShare": "14.03"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F039",
+        "NetValue": "424310820",
+        "Shares": "30000",
+        "NetValuePerShare": "14.14"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S884",
+        "NetValue": "1345301042",
+        "Shares": "93500",
+        "NetValuePerShare": "14.39"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S844",
+        "NetValue": "5364661727",
+        "Shares": "333730",
+        "NetValuePerShare": "16.07"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F026",
+        "NetValue": "4723079940",
+        "Shares": "260000",
+        "NetValuePerShare": "18.17"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F029",
+        "NetValue": "1532557399",
+        "Shares": "81500",
+        "NetValuePerShare": "18.8"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S856",
+        "NetValue": "831111698",
+        "Shares": "42000",
+        "NetValuePerShare": "19.79"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F018",
+        "NetValue": "1566233011",
+        "Shares": "70000",
+        "NetValuePerShare": "22.37"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F030",
+        "NetValue": "946462298",
+        "Shares": "40000",
+        "NetValuePerShare": "23.66"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F002",
+        "NetValue": "5603227788",
+        "Shares": "207525",
+        "NetValuePerShare": "27"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F014",
+        "NetValue": "1226276398",
+        "Shares": "43500",
+        "NetValuePerShare": "28.19"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F004",
+        "NetValue": "5124407214",
+        "Shares": "179763",
+        "NetValuePerShare": "28.51"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F001",
+        "NetValue": "2687308034",
+        "Shares": "81960",
+        "NetValuePerShare": "32.79"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F034",
+        "NetValue": "2663660920",
+        "Shares": "80000",
+        "NetValuePerShare": "33.3"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "R201",
+        "NetValue": "175113516",
+        "Shares": "5000",
+        "NetValuePerShare": "35.02"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "S980",
+        "NetValue": "11066275192",
+        "Shares": "295000",
+        "NetValuePerShare": "37.51"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F020",
+        "NetValue": "10175248022",
+        "Shares": "249938",
+        "NetValuePerShare": "40.71"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F008",
+        "NetValue": "3878818110",
+        "Shares": "77120",
+        "NetValuePerShare": "50.3"
+      },
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "F021",
+        "NetValue": "19137698869",
+        "Shares": "319976",
+        "NetValuePerShare": "59.81"
+      }
+    ]
+  }
+}

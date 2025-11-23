@@ -1,0 +1,58 @@
+{
+  "path": "/tpex_warrant_wxy_monthly_quts",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃展延型牛熊證收盤行情月報表",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_warrant_wxy_monthly_quts",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:07 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:34:21 GMT",
+      "ETag": "W/\"6921d7fd-148\"",
+      "Content-Disposition": "attachment;filename=tpex_warrant_wxy_monthly_quts.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49e01852a339-TPE"
+    },
+    "body": [
+      {
+        "Date": "10903",
+        "Code": "70005X",
+        "Name": "精華元大66展02",
+        "Open": "6.75",
+        "High": "7",
+        "Low": "3.4",
+        "Close": "3.4",
+        "Change": "-3.95",
+        "TradeVol.": "92000",
+        "No.OfTransactions": "32",
+        "TradeValue": "462030",
+        "UnderlyingStockCode": "1565",
+        "UnderlyingStock": "精華",
+        "UnderlyingStockClosePrice": "311",
+        "UnderlyingStock PriceChange": "-84.0"
+      }
+    ]
+  }
+}

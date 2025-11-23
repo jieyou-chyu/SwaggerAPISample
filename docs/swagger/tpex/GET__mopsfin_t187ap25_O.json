@@ -1,0 +1,167 @@
+{
+  "path": "/mopsfin_t187ap25_O",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公司經營權及營業範圍異(變)動專區-營業範圍重大變更公司",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap25_O",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:32 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:33:16 GMT",
+      "ETag": "W/\"6921d7bc-1754\"",
+      "Content-Disposition": "attachment;filename=mopsfin_t187ap25_O.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d4a7f1fbda9a7-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141122",
+        "序號": "1",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "2924",
+        "CompanyName": "宏太-KY",
+        "營業範圍重大變更說明": "●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "2",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "3067",
+        "CompanyName": "全域",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "3",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "3115",
+        "CompanyName": "富榮綱",
+        "營業範圍重大變更說明": "●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "4",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "3310",
+        "CompanyName": "佳穎",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "5",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "3609",
+        "CompanyName": "三一東林",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "6",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "4131",
+        "CompanyName": "浩泰",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "7",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "4903",
+        "CompanyName": "聯光通",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "8",
+        "年度": "114",
+        "季別": "2",
+        "SecuritiesCompanyCode": "5468",
+        "CompanyName": "凱鈺",
+        "營業範圍重大變更說明": "●取得供營建用不動產、在建或已完工之營建個案，或非原經營業務之不動產、廠房及設備金額，占期末資產負債表日總資產百分之三十以上者。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "9",
+        "年度": "114",
+        "季別": "1",
+        "SecuritiesCompanyCode": "3067",
+        "CompanyName": "全域",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "10",
+        "年度": "114",
+        "季別": "1",
+        "SecuritiesCompanyCode": "3115",
+        "CompanyName": "富榮綱",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "11",
+        "年度": "114",
+        "季別": "1",
+        "SecuritiesCompanyCode": "3310",
+        "CompanyName": "佳穎",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "12",
+        "年度": "114",
+        "季別": "1",
+        "SecuritiesCompanyCode": "4131",
+        "CompanyName": "浩泰",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n●將上一會計年度占營業收入達百分之五十以上之經營業務變更，導致本期來自該業務之營業收入占本期營業收入低於百分之二十。\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "13",
+        "年度": "114",
+        "季別": "1",
+        "SecuritiesCompanyCode": "4903",
+        "CompanyName": "聯光通",
+        "營業範圍重大變更說明": "●新增主要經營業務（係指該等業務產生之營業收入占上市公司營業收入百分之二十以上）且本期來自該等增加業務之營業收入合計占本期營業收入達百分之五十以上\n"
+      },
+      {
+        "Date": "1141122",
+        "序號": "14",
+        "年度": "114",
+        "季別": "1",
+        "SecuritiesCompanyCode": "5468",
+        "CompanyName": "凱鈺",
+        "營業範圍重大變更說明": "●取得供營建用不動產、在建或已完工之營建個案，或非原經營業務之不動產、廠房及設備金額，占期末資產負債表日總資產百分之三十以上者。\n"
+      }
+    ]
+  }
+}

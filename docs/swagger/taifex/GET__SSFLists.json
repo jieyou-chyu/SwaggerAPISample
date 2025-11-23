@@ -1,0 +1,2197 @@
+{
+  "path": "/SSFLists",
+  "method": "GET",
+  "operationId": null,
+  "summary": "股票期貨交易標的",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/SSFLists",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:30 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "47338",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:11 GMT",
+      "ETag": "\"b8ea-6443695beede3\"",
+      "Content-Disposition": "attachment; filename=SSFLists.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d504b4dd6a9bf-TPE"
+    },
+    "body": [
+      {
+        "Contract": "CAF",
+        "UnderlyingStock": "南亞塑膠工業股份有限公司",
+        "StockCode": "1303",
+        "StockName": "南亞",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CBF",
+        "UnderlyingStock": "中國鋼鐵股份有限公司",
+        "StockCode": "2002",
+        "StockName": "中鋼",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CCF",
+        "UnderlyingStock": "聯華電子股份有限公司",
+        "StockCode": "2303",
+        "StockName": "聯電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CDF",
+        "UnderlyingStock": "台灣積體電路製造股份有限公司",
+        "StockCode": "2330",
+        "StockName": "台積電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CEF",
+        "UnderlyingStock": "富邦金融控股股份有限公司",
+        "StockCode": "2881",
+        "StockName": "富邦金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CFF",
+        "UnderlyingStock": "台灣塑膠工業股份有限公司",
+        "StockCode": "1301",
+        "StockName": "台塑",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CGF",
+        "UnderlyingStock": "仁寶電腦工業股份有限公司",
+        "StockCode": "2324",
+        "StockName": "仁寶",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CHF",
+        "UnderlyingStock": "友達光電股份有限公司",
+        "StockCode": "2409",
+        "StockName": "友達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CJF",
+        "UnderlyingStock": "華南金融控股股份有限公司",
+        "StockCode": "2880",
+        "StockName": "華南金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CKF",
+        "UnderlyingStock": "國泰金融控股股份有限公司",
+        "StockCode": "2882",
+        "StockName": "國泰金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CLF",
+        "UnderlyingStock": "兆豐金融控股股份有限公司",
+        "StockCode": "2886",
+        "StockName": "兆豐金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CMF",
+        "UnderlyingStock": "台新新光金融控股股份有限公司",
+        "StockCode": "2887",
+        "StockName": "台新新光金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CNF",
+        "UnderlyingStock": "中國信託金融控股股份有限公司",
+        "StockCode": "2891",
+        "StockName": "中信金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CQF",
+        "UnderlyingStock": "統一企業股份有限公司",
+        "StockCode": "1216",
+        "StockName": "統一",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CRF",
+        "UnderlyingStock": "遠東新世紀股份有限公司",
+        "StockCode": "1402",
+        "StockName": "遠東新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CSF",
+        "UnderlyingStock": "華新麗華股份有限公司",
+        "StockCode": "1605",
+        "StockName": "華新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CUF",
+        "UnderlyingStock": "中環股份有限公司",
+        "StockCode": "2323",
+        "StockName": "中環",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CWF",
+        "UnderlyingStock": "佳世達科技股份有限公司",
+        "StockCode": "2352",
+        "StockName": "佳世達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CXF",
+        "UnderlyingStock": "大同股份有限公司",
+        "StockCode": "2371",
+        "StockName": "大同",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CYF",
+        "UnderlyingStock": "南亞科技股份有限公司",
+        "StockCode": "2408",
+        "StockName": "南亞科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "CZF",
+        "UnderlyingStock": "長榮海運股份有限公司",
+        "StockCode": "2603",
+        "StockName": "長榮",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DAF",
+        "UnderlyingStock": "陽明海運股份有限公司",
+        "StockCode": "2609",
+        "StockName": "陽明",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DBF",
+        "UnderlyingStock": "中華航空股份有限公司",
+        "StockCode": "2610",
+        "StockName": "華航",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DCF",
+        "UnderlyingStock": "彰化商業銀行股份有限公司",
+        "StockCode": "2801",
+        "StockName": "彰銀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DEF",
+        "UnderlyingStock": "永豐金融控股股份有限公司",
+        "StockCode": "2890",
+        "StockName": "永豐金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DFF",
+        "UnderlyingStock": "臺灣水泥股份有限公司",
+        "StockCode": "1101",
+        "StockName": "台泥",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DGF",
+        "UnderlyingStock": "台灣化學纖維股份有限公司",
+        "StockCode": "1326",
+        "StockName": "台化",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DHF",
+        "UnderlyingStock": "鴻海精密工業股份有限公司",
+        "StockCode": "2317",
+        "StockName": "鴻海",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DIF",
+        "UnderlyingStock": "旺宏電子股份有限公司",
+        "StockCode": "2337",
+        "StockName": "旺宏",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DJF",
+        "UnderlyingStock": "華碩電腦股份有限公司",
+        "StockCode": "2357",
+        "StockName": "華碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DKF",
+        "UnderlyingStock": "廣達電腦股份有限公司",
+        "StockCode": "2382",
+        "StockName": "廣達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DLF",
+        "UnderlyingStock": "中華電信股份有限公司",
+        "StockCode": "2412",
+        "StockName": "中華電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DNF",
+        "UnderlyingStock": "玉山金融控股股份有限公司",
+        "StockCode": "2884",
+        "StockName": "玉山金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DOF",
+        "UnderlyingStock": "元大金融控股股份有限公司",
+        "StockCode": "2885",
+        "StockName": "元大金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DPF",
+        "UnderlyingStock": "第一金融控股股份有限公司",
+        "StockCode": "2892",
+        "StockName": "第一金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DQF",
+        "UnderlyingStock": "群創光電股份有限公司",
+        "StockCode": "3481",
+        "StockName": "群創",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DSF",
+        "UnderlyingStock": "宏碁股份有限公司",
+        "StockCode": "2353",
+        "StockName": "宏碁",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DVF",
+        "UnderlyingStock": "聯發科技股份有限公司",
+        "StockCode": "2454",
+        "StockName": "聯發科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DWF",
+        "UnderlyingStock": "潤泰全球股份有限公司",
+        "StockCode": "2915",
+        "StockName": "潤泰全",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DXF",
+        "UnderlyingStock": "緯創資通股份有限公司",
+        "StockCode": "3231",
+        "StockName": "緯創",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DYF",
+        "UnderlyingStock": "亞洲水泥股份有限公司",
+        "StockCode": "1102",
+        "StockName": "亞泥",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "DZF",
+        "UnderlyingStock": "大成長城企業股份有限公司",
+        "StockCode": "1210",
+        "StockName": "大成",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EEF",
+        "UnderlyingStock": "國喬石油化學股份有限公司",
+        "StockCode": "1312",
+        "StockName": "國喬",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EGF",
+        "UnderlyingStock": "中國石油化學工業開發股份有限公司",
+        "StockCode": "1314",
+        "StockName": "中石化",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EHF",
+        "UnderlyingStock": "東陽實業廠股份有限公司",
+        "StockCode": "1319",
+        "StockName": "東陽",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EKF",
+        "UnderlyingStock": "臺南紡織股份有限公司",
+        "StockCode": "1440",
+        "StockName": "南紡",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EMF",
+        "UnderlyingStock": "東元電機股份有限公司",
+        "StockCode": "1504",
+        "StockName": "東元",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EPF",
+        "UnderlyingStock": "亞德客國際集團",
+        "StockCode": "1590",
+        "StockName": "亞德客-KY",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EYF",
+        "UnderlyingStock": "中國人造纖維股份有限公司",
+        "StockCode": "1718",
+        "StockName": "中纖",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "EZF",
+        "UnderlyingStock": "台灣肥料股份有限公司",
+        "StockCode": "1722",
+        "StockName": "台肥",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FBF",
+        "UnderlyingStock": "東和鋼鐵企業股份有限公司",
+        "StockCode": "2006",
+        "StockName": "東和鋼鐵",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FCF",
+        "UnderlyingStock": "中鴻鋼鐵股份有限公司",
+        "StockCode": "2014",
+        "StockName": "中鴻",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FEF",
+        "UnderlyingStock": "大成不銹鋼工業股份有限公司",
+        "StockCode": "2027",
+        "StockName": "大成鋼",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FFF",
+        "UnderlyingStock": "上銀科技股份有限公司",
+        "StockCode": "2049",
+        "StockName": "上銀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FGF",
+        "UnderlyingStock": "川湖科技股份有限公司",
+        "StockCode": "2059",
+        "StockName": "川湖",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FKF",
+        "UnderlyingStock": "正新橡膠工業股份有限公司",
+        "StockCode": "2105",
+        "StockName": "正新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FNF",
+        "UnderlyingStock": "裕隆汽車製造股份有限公司",
+        "StockCode": "2201",
+        "StockName": "裕隆",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FQF",
+        "UnderlyingStock": "光寶科技股份有限公司",
+        "StockCode": "2301",
+        "StockName": "光寶科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FRF",
+        "UnderlyingStock": "台達電子工業股份有限公司",
+        "StockCode": "2308",
+        "StockName": "台達電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FSF",
+        "UnderlyingStock": "金寶電子工業股份有限公司",
+        "StockCode": "2312",
+        "StockName": "金寶",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FTF",
+        "UnderlyingStock": "華通電腦股份有限公司",
+        "StockCode": "2313",
+        "StockName": "華通",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FVF",
+        "UnderlyingStock": "精英電腦股份有限公司",
+        "StockCode": "2331",
+        "StockName": "精英",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FWF",
+        "UnderlyingStock": "友訊科技股份有限公司",
+        "StockCode": "2332",
+        "StockName": "友訊",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FYF",
+        "UnderlyingStock": "台亞半導體股份有限公司",
+        "StockCode": "2340",
+        "StockName": "台亞",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "FZF",
+        "UnderlyingStock": "華邦電子股份有限公司",
+        "StockCode": "2344",
+        "StockName": "華邦電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GAF",
+        "UnderlyingStock": "聯強國際股份有限公司",
+        "StockCode": "2347",
+        "StockName": "聯強",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GCF",
+        "UnderlyingStock": "鴻準精密工業股份有限公司",
+        "StockCode": "2354",
+        "StockName": "鴻準",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GHF",
+        "UnderlyingStock": "技嘉科技股份有限公司",
+        "StockCode": "2376",
+        "StockName": "技嘉",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GIF",
+        "UnderlyingStock": "微星科技股份有限公司",
+        "StockCode": "2377",
+        "StockName": "微星",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GJF",
+        "UnderlyingStock": "瑞昱半導體股份有限公司",
+        "StockCode": "2379",
+        "StockName": "瑞昱",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GKF",
+        "UnderlyingStock": "群光電子股份有限公司",
+        "StockCode": "2385",
+        "StockName": "群光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GLF",
+        "UnderlyingStock": "正崴精密工業股份有限公司",
+        "StockCode": "2392",
+        "StockName": "正崴",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GMF",
+        "UnderlyingStock": "億光電子工業股份有限公司",
+        "StockCode": "2393",
+        "StockName": "億光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GNF",
+        "UnderlyingStock": "凌陽科技股份有限公司",
+        "StockCode": "2401",
+        "StockName": "凌陽",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GOF",
+        "UnderlyingStock": "漢唐集成股份有限公司",
+        "StockCode": "2404",
+        "StockName": "漢唐",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GRF",
+        "UnderlyingStock": "京元電子股份有限公司",
+        "StockCode": "2449",
+        "StockName": "京元電子",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GUF",
+        "UnderlyingStock": "全新光電科技股份有限公司",
+        "StockCode": "2455",
+        "StockName": "全新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GVF",
+        "UnderlyingStock": "飛宏科技股份有限公司",
+        "StockCode": "2457",
+        "StockName": "飛宏",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GWF",
+        "UnderlyingStock": "義隆電子股份有限公司",
+        "StockCode": "2458",
+        "StockName": "義隆",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GXF",
+        "UnderlyingStock": "可成科技股份有限公司",
+        "StockCode": "2474",
+        "StockName": "可成",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GYF",
+        "UnderlyingStock": "強茂股份有限公司",
+        "StockCode": "2481",
+        "StockName": "強茂",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "GZF",
+        "UnderlyingStock": "兆赫電子股份有限公司",
+        "StockCode": "2485",
+        "StockName": "兆赫",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HAF",
+        "UnderlyingStock": "瑞軒科技股份有限公司",
+        "StockCode": "2489",
+        "StockName": "瑞軒",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HBF",
+        "UnderlyingStock": "華新科技股份有限公司",
+        "StockCode": "2492",
+        "StockName": "華新科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HCF",
+        "UnderlyingStock": "宏達國際電子股份有限公司",
+        "StockCode": "2498",
+        "StockName": "宏達電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HHF",
+        "UnderlyingStock": "中華工程股份有限公司",
+        "StockCode": "2515",
+        "StockName": "中工",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HIF",
+        "UnderlyingStock": "冠德建設股份有限公司",
+        "StockCode": "2520",
+        "StockName": "冠德",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HLF",
+        "UnderlyingStock": "興富發建設股份有限公司",
+        "StockCode": "2542",
+        "StockName": "興富發",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HOF",
+        "UnderlyingStock": "華固建設股份有限公司",
+        "StockCode": "2548",
+        "StockName": "華固",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HQF",
+        "UnderlyingStock": "新興航運股份有限公司",
+        "StockCode": "2605",
+        "StockName": "新興",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "HSF",
+        "UnderlyingStock": "長榮航空股份有限公司",
+        "StockCode": "2618",
+        "StockName": "長榮航",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IAF",
+        "UnderlyingStock": "臺灣中小企業銀行股份有限公司",
+        "StockCode": "2834",
+        "StockName": "臺企銀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IHF",
+        "UnderlyingStock": "台灣農林股份有限公司",
+        "StockCode": "2913",
+        "StockName": "農林",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IIF",
+        "UnderlyingStock": "晶豪科技股份有限公司",
+        "StockCode": "3006",
+        "StockName": "晶豪科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IJF",
+        "UnderlyingStock": "大立光電股份有限公司",
+        "StockCode": "3008",
+        "StockName": "大立光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IMF",
+        "UnderlyingStock": "亞洲光學股份有限公司",
+        "StockCode": "3019",
+        "StockName": "亞光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IOF",
+        "UnderlyingStock": "聯詠科技股份有限公司",
+        "StockCode": "3034",
+        "StockName": "聯詠",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IPF",
+        "UnderlyingStock": "智原科技股份有限公司",
+        "StockCode": "3035",
+        "StockName": "智原",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IQF",
+        "UnderlyingStock": "文曄科技股份有限公司",
+        "StockCode": "3036",
+        "StockName": "文曄",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IRF",
+        "UnderlyingStock": "欣興電子股份有限公司",
+        "StockCode": "3037",
+        "StockName": "欣興",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "ITF",
+        "UnderlyingStock": "台灣晶技股份有限公司",
+        "StockCode": "3042",
+        "StockName": "晶技",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IXF",
+        "UnderlyingStock": "景碩科技股份有限公司",
+        "StockCode": "3189",
+        "StockName": "景碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IYF",
+        "UnderlyingStock": "新日興股份有限公司",
+        "StockCode": "3376",
+        "StockName": "新日興",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "IZF",
+        "UnderlyingStock": "明泰科技股份有限公司",
+        "StockCode": "3380",
+        "StockName": "明泰",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JBF",
+        "UnderlyingStock": "創意電子股份有限公司",
+        "StockCode": "3443",
+        "StockName": "創意",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JFF",
+        "UnderlyingStock": "嘉澤端子工業股份有限公司",
+        "StockCode": "3533",
+        "StockName": "嘉澤",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JMF",
+        "UnderlyingStock": "健策精密工業股份有限公司",
+        "StockCode": "3653",
+        "StockName": "健策",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JNF",
+        "UnderlyingStock": "TPK Holding Co.， Ltd.",
+        "StockCode": "3673",
+        "StockName": "TPK-KY",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JPF",
+        "UnderlyingStock": "大聯大控股股份有限公司",
+        "StockCode": "3702",
+        "StockName": "大聯大",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JSF",
+        "UnderlyingStock": "和碩聯合科技股份有限公司",
+        "StockCode": "4938",
+        "StockName": "和碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JWF",
+        "UnderlyingStock": "長虹建設股份有限公司",
+        "StockCode": "5534",
+        "StockName": "長虹",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JXF",
+        "UnderlyingStock": "群益金鼎證券股份有限公司",
+        "StockCode": "6005",
+        "StockName": "群益證",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "JZF",
+        "UnderlyingStock": "嘉聯益科技股份有限公司",
+        "StockCode": "6153",
+        "StockName": "嘉聯益",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KAF",
+        "UnderlyingStock": "瑞儀光電股份有限公司",
+        "StockCode": "6176",
+        "StockName": "瑞儀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KBF",
+        "UnderlyingStock": "聯茂電子股份有限公司",
+        "StockCode": "6213",
+        "StockName": "聯茂",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KCF",
+        "UnderlyingStock": "力成科技股份有限公司",
+        "StockCode": "6239",
+        "StockName": "力成",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KDF",
+        "UnderlyingStock": "同欣電子工業股份有限公司",
+        "StockCode": "6271",
+        "StockName": "同欣電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KEF",
+        "UnderlyingStock": "台灣表面黏著科技股份有限公司",
+        "StockCode": "6278",
+        "StockName": "台表科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KFF",
+        "UnderlyingStock": "康舒科技股份有限公司",
+        "StockCode": "6282",
+        "StockName": "康舒",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KGF",
+        "UnderlyingStock": "啟碁科技股份有限公司",
+        "StockCode": "6285",
+        "StockName": "啟碁",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KIF",
+        "UnderlyingStock": "台虹科技股份有限公司",
+        "StockCode": "8039",
+        "StockName": "台虹",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KKF",
+        "UnderlyingStock": "達方電子股份有限公司",
+        "StockCode": "8163",
+        "StockName": "達方",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KLF",
+        "UnderlyingStock": "寶成工業股份有限公司",
+        "StockCode": "9904",
+        "StockName": "寶成",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KOF",
+        "UnderlyingStock": "宏全國際股份有限公司",
+        "StockCode": "9939",
+        "StockName": "宏全",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KPF",
+        "UnderlyingStock": "潤泰創新國際股份有限公司",
+        "StockCode": "9945",
+        "StockName": "潤泰新",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KSF",
+        "UnderlyingStock": "聚陽實業股份有限公司",
+        "StockCode": "1477",
+        "StockName": "聚陽",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KUF",
+        "UnderlyingStock": "台灣玻璃工業股份有限公司",
+        "StockCode": "1802",
+        "StockName": "台玻",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "KWF",
+        "UnderlyingStock": "廣宇科技股份有限公司",
+        "StockCode": "2328",
+        "StockName": "廣宇",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LBF",
+        "UnderlyingStock": "健鼎科技股份有限公司",
+        "StockCode": "3044",
+        "StockName": "健鼎",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LCF",
+        "UnderlyingStock": "台灣大哥大股份有限公司",
+        "StockCode": "3045",
+        "StockName": "台灣大",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LEF",
+        "UnderlyingStock": "玉晶光電股份有限公司",
+        "StockCode": "3406",
+        "StockName": "玉晶光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LIF",
+        "UnderlyingStock": "台郡科技股份有限公司",
+        "StockCode": "6269",
+        "StockName": "台郡",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LMF",
+        "UnderlyingStock": "美利達工業股份有限公司",
+        "StockCode": "9914",
+        "StockName": "美利達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LOF",
+        "UnderlyingStock": "合作金庫金融控股股份有限公司",
+        "StockCode": "5880",
+        "StockName": "合庫金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LQF",
+        "UnderlyingStock": "英業達股份有限公司",
+        "StockCode": "2356",
+        "StockName": "英業達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LRF",
+        "UnderlyingStock": "凱基金融控股股份有限公司",
+        "StockCode": "2883",
+        "StockName": "凱基金",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LTF",
+        "UnderlyingStock": "遠傳電信股份有限公司",
+        "StockCode": "4904",
+        "StockName": "遠傳",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LUF",
+        "UnderlyingStock": "臻鼎科技控股股份有限公司",
+        "StockCode": "4958",
+        "StockName": "臻鼎-KY",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LVF",
+        "UnderlyingStock": "中租控股股份有限公司",
+        "StockCode": "5871",
+        "StockName": "中租-KY",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LWF",
+        "UnderlyingStock": "儒鴻企業股份有限公司",
+        "StockCode": "1476",
+        "StockName": "儒鴻",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LXF",
+        "UnderlyingStock": "國巨股份有限公司",
+        "StockCode": "2327",
+        "StockName": "國巨*",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "LYF",
+        "UnderlyingStock": "南亞電路板股份有限公司",
+        "StockCode": "8046",
+        "StockName": "南電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MAF",
+        "UnderlyingStock": "葡萄王生技股份有限公司",
+        "StockCode": "1707",
+        "StockName": "葡萄王",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MBF",
+        "UnderlyingStock": "敬鵬工業股份有限公司",
+        "StockCode": "2355",
+        "StockName": "敬鵬",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MJF",
+        "UnderlyingStock": "致茂電子股份有限公司",
+        "StockCode": "2360",
+        "StockName": "致茂",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MKF",
+        "UnderlyingStock": "美律實業股份有限公司",
+        "StockCode": "2439",
+        "StockName": "美律",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MQF",
+        "UnderlyingStock": "矽格股份有限公司",
+        "StockCode": "6257",
+        "StockName": "矽格",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MVF",
+        "UnderlyingStock": "台灣百和工業股份有限公司",
+        "StockCode": "9938",
+        "StockName": "百和",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "MYF",
+        "UnderlyingStock": "精華光學股份有限公司",
+        "StockCode": "1565",
+        "StockName": "精華",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NAF",
+        "UnderlyingStock": "穩懋半導體股份有限公司",
+        "StockCode": "3105",
+        "StockName": "穩懋",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NBF",
+        "UnderlyingStock": "璟德電子工業股份有限公司",
+        "StockCode": "3152",
+        "StockName": "璟德",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NDF",
+        "UnderlyingStock": "威剛科技股份有限公司",
+        "StockCode": "3260",
+        "StockName": "威剛",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NEF",
+        "UnderlyingStock": "欣銓科技股份有限公司",
+        "StockCode": "3264",
+        "StockName": "欣銓",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NGF",
+        "UnderlyingStock": "碩禾電子材料股份有限公司",
+        "StockCode": "3691",
+        "StockName": "碩禾",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NIF",
+        "UnderlyingStock": "晟德大藥廠股份有限公司",
+        "StockCode": "4123",
+        "StockName": "晟德",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NJF",
+        "UnderlyingStock": "榮剛材料科技股份有限公司",
+        "StockCode": "5009",
+        "StockName": "榮剛",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NLF",
+        "UnderlyingStock": "世界先進積體電路股份有限公司",
+        "StockCode": "5347",
+        "StockName": "世界",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NMF",
+        "UnderlyingStock": "中強光電股份有限公司",
+        "StockCode": "5371",
+        "StockName": "中光電",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NOF",
+        "UnderlyingStock": "中美矽晶製品股份有限公司",
+        "StockCode": "5483",
+        "StockName": "中美晶",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NQF",
+        "UnderlyingStock": "新普科技股份有限公司",
+        "StockCode": "6121",
+        "StockName": "新普",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NSF",
+        "UnderlyingStock": "頎邦科技股份有限公司",
+        "StockCode": "6147",
+        "StockName": "頎邦",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NUF",
+        "UnderlyingStock": "網路家庭國際資訊股份有限公司",
+        "StockCode": "8044",
+        "StockName": "網家",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NVF",
+        "UnderlyingStock": "元太科技工業股份有限公司",
+        "StockCode": "8069",
+        "StockName": "元太",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NWF",
+        "UnderlyingStock": "群聯電子股份有限公司",
+        "StockCode": "8299",
+        "StockName": "群聯",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "NYF",
+        "UnderlyingStock": "元大台灣卓越50證券投資信託基金",
+        "StockCode": "0050",
+        "StockName": "元大台灣50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OAF",
+        "UnderlyingStock": "富邦上証180證券投資信託基金",
+        "StockCode": "006205",
+        "StockName": "富邦上証ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OBF",
+        "UnderlyingStock": "元大中國傘型證券投資信託基金之上證50證券投資信託基金",
+        "StockCode": "006206",
+        "StockName": "元大上證50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "ODF",
+        "UnderlyingStock": "為升電裝工業股份有限公司",
+        "StockCode": "2231",
+        "StockName": "為升",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "OEF",
+        "UnderlyingStock": "瀚宇彩晶股份有限公司",
+        "StockCode": "6116",
+        "StockName": "彩晶",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "OHF",
+        "UnderlyingStock": "胡連精密股份有限公司",
+        "StockCode": "6279",
+        "StockName": "胡連",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OJF",
+        "UnderlyingStock": "國泰富時中國A50證券投資信託基金",
+        "StockCode": "00636",
+        "StockName": "國泰中國A50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OKF",
+        "UnderlyingStock": "富邦深証100證券投資信託基金",
+        "StockCode": "00639",
+        "StockName": "富邦深100ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OLF",
+        "UnderlyingStock": "大立光電股份有限公司",
+        "StockCode": "3008",
+        "StockName": "大立光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "OMF",
+        "UnderlyingStock": "精華光學股份有限公司",
+        "StockCode": "1565",
+        "StockName": "精華",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OOF",
+        "UnderlyingStock": "群益深証中小板證券投資信託基金",
+        "StockCode": "00643",
+        "StockName": "群益深証中小ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "OPF",
+        "UnderlyingStock": "智邦科技股份有限公司",
+        "StockCode": "2345",
+        "StockName": "智邦",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "OQF",
+        "UnderlyingStock": "樺漢科技股份有限公司",
+        "StockCode": "6414",
+        "StockName": "樺漢",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "ORF",
+        "UnderlyingStock": "和大工業股份有限公司",
+        "StockCode": "1536",
+        "StockName": "和大",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "OSF",
+        "UnderlyingStock": "榮成紙業股份有限公司",
+        "StockCode": "1909",
+        "StockName": "榮成",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "OTF",
+        "UnderlyingStock": "聯亞光電工業股份有限公司",
+        "StockCode": "3081",
+        "StockName": "聯亞",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OUF",
+        "UnderlyingStock": "同致電子企業股份有限公司",
+        "StockCode": "3552",
+        "StockName": "同致",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OVF",
+        "UnderlyingStock": "台燿科技股份有限公司",
+        "StockCode": "6274",
+        "StockName": "台燿",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OWF",
+        "UnderlyingStock": "環球晶圓股份有限公司",
+        "StockCode": "6488",
+        "StockName": "環球晶",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OXF",
+        "UnderlyingStock": "中華精測科技股份有限公司",
+        "StockCode": "6510",
+        "StockName": "精測",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OYF",
+        "UnderlyingStock": "中華精測科技股份有限公司",
+        "StockCode": "6510",
+        "StockName": "精測",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "OZF",
+        "UnderlyingStock": "日月光投資控股股份有限公司",
+        "StockCode": "3711",
+        "StockName": "日月光投控",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PAF",
+        "UnderlyingStock": "原相科技股份有限公司",
+        "StockCode": "3227",
+        "StockName": "原相",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PBF",
+        "UnderlyingStock": "環球晶圓股份有限公司",
+        "StockCode": "6488",
+        "StockName": "環球晶",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PCF",
+        "UnderlyingStock": "智擎生技製藥股份有限公司",
+        "StockCode": "4162",
+        "StockName": "智擎",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PDF",
+        "UnderlyingStock": "泰博科技股份有限公司",
+        "StockCode": "4736",
+        "StockName": "泰博",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PEF",
+        "UnderlyingStock": "台灣半導體股份有限公司",
+        "StockCode": "5425",
+        "StockName": "台半",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PFF",
+        "UnderlyingStock": "元大台灣高股息證券投資信託基金",
+        "StockCode": "0056",
+        "StockName": "元大高股息ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "PGF",
+        "UnderlyingStock": "台灣高速鐵路股份有限公司",
+        "StockCode": "2633",
+        "StockName": "台灣高鐵",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PHF",
+        "UnderlyingStock": "祥碩科技股份有限公司",
+        "StockCode": "5269",
+        "StockName": "祥碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PIF",
+        "UnderlyingStock": "力旺電子股份有限公司",
+        "StockCode": "3529",
+        "StockName": "力旺",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PJF",
+        "UnderlyingStock": "台光電子材料股份有限公司",
+        "StockCode": "2383",
+        "StockName": "台光電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PKF",
+        "UnderlyingStock": "信昌電子陶瓷股份有限公司",
+        "StockCode": "6173",
+        "StockName": "信昌電",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PLF",
+        "UnderlyingStock": "合晶科技股份有限公司",
+        "StockCode": "6182",
+        "StockName": "合晶",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PMF",
+        "UnderlyingStock": "大江生醫股份有限公司",
+        "StockCode": "8436",
+        "StockName": "大江",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PNF",
+        "UnderlyingStock": "祥碩科技股份有限公司",
+        "StockCode": "5269",
+        "StockName": "祥碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PPF",
+        "UnderlyingStock": "宣德科技股份有限公司",
+        "StockCode": "5457",
+        "StockName": "宣德",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PQF",
+        "UnderlyingStock": "金居開發股份有限公司",
+        "StockCode": "8358",
+        "StockName": "金居",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PRF",
+        "UnderlyingStock": "宏捷科技股份有限公司",
+        "StockCode": "8086",
+        "StockName": "宏捷科",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PSF",
+        "UnderlyingStock": "神達控股股份有限公司",
+        "StockCode": "3706",
+        "StockName": "神達",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PTF",
+        "UnderlyingStock": "雙鴻科技股份有限公司",
+        "StockCode": "3324",
+        "StockName": "雙鴻",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PUF",
+        "UnderlyingStock": "聯發科技股份有限公司",
+        "StockCode": "2454",
+        "StockName": "聯發科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PVF",
+        "UnderlyingStock": "緯穎科技服務股份有限公司",
+        "StockCode": "6669",
+        "StockName": "緯穎",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PWF",
+        "UnderlyingStock": "緯穎科技服務股份有限公司",
+        "StockCode": "6669",
+        "StockName": "緯穎",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "PXF",
+        "UnderlyingStock": "鈊象電子股份有限公司",
+        "StockCode": "3293",
+        "StockName": "鈊象",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PYF",
+        "UnderlyingStock": "鈊象電子股份有限公司",
+        "StockCode": "3293",
+        "StockName": "鈊象",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "PZF",
+        "UnderlyingStock": "信驊科技股份有限公司",
+        "StockCode": "5274",
+        "StockName": "信驊",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QAF",
+        "UnderlyingStock": "信驊科技股份有限公司",
+        "StockCode": "5274",
+        "StockName": "信驊",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QBF",
+        "UnderlyingStock": "富采控股股份有限公司",
+        "StockCode": "3714",
+        "StockName": "富采",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QCF",
+        "UnderlyingStock": "裕民航運股份有限公司",
+        "StockCode": "2606",
+        "StockName": "裕民",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QDF",
+        "UnderlyingStock": "台塑勝高科技股份有限公司",
+        "StockCode": "3532",
+        "StockName": "台勝科",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QEF",
+        "UnderlyingStock": "國巨股份有限公司",
+        "StockCode": "2327",
+        "StockName": "國巨*",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QFF",
+        "UnderlyingStock": "台灣積體電路製造股份有限公司",
+        "StockCode": "2330",
+        "StockName": "台積電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QGF",
+        "UnderlyingStock": "瑞昱半導體股份有限公司",
+        "StockCode": "2379",
+        "StockName": "瑞昱",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QHF",
+        "UnderlyingStock": "聯詠科技股份有限公司",
+        "StockCode": "3034",
+        "StockName": "聯詠",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QIF",
+        "UnderlyingStock": "穩懋半導體股份有限公司",
+        "StockCode": "3105",
+        "StockName": "穩懋",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QJF",
+        "UnderlyingStock": "玉晶光電股份有限公司",
+        "StockCode": "3406",
+        "StockName": "玉晶光",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QKF",
+        "UnderlyingStock": "永豐餘投資控股股份有限公司",
+        "StockCode": "1907",
+        "StockName": "永豐餘",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QLF",
+        "UnderlyingStock": "精材科技股份有限公司",
+        "StockCode": "3374",
+        "StockName": "精材",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QMF",
+        "UnderlyingStock": "上銀科技股份有限公司",
+        "StockCode": "2049",
+        "StockName": "上銀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QNF",
+        "UnderlyingStock": "群聯電子股份有限公司",
+        "StockCode": "8299",
+        "StockName": "群聯",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QOF",
+        "UnderlyingStock": "長興材料工業股份有限公司",
+        "StockCode": "1717",
+        "StockName": "長興",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QPF",
+        "UnderlyingStock": "正隆股份有限公司",
+        "StockCode": "1904",
+        "StockName": "正隆",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QQF",
+        "UnderlyingStock": "僑威科技股份有限公司",
+        "StockCode": "3078",
+        "StockName": "僑威",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QRF",
+        "UnderlyingStock": "華碩電腦股份有限公司",
+        "StockCode": "2357",
+        "StockName": "華碩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QSF",
+        "UnderlyingStock": "南亞電路板股份有限公司",
+        "StockCode": "8046",
+        "StockName": "南電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QTF",
+        "UnderlyingStock": "超豐電子股份有限公司",
+        "StockCode": "2441",
+        "StockName": "超豐",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QUF",
+        "UnderlyingStock": "南茂科技股份有限公司",
+        "StockCode": "8150",
+        "StockName": "南茂",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QVF",
+        "UnderlyingStock": "台灣光罩股份有限公司",
+        "StockCode": "2338",
+        "StockName": "光罩",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QWF",
+        "UnderlyingStock": "威盛電子股份有限公司",
+        "StockCode": "2388",
+        "StockName": "威盛",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QXF",
+        "UnderlyingStock": "萬海航運股份有限公司",
+        "StockCode": "2615",
+        "StockName": "萬海",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "QYF",
+        "UnderlyingStock": "高端疫苗生物製劑股份有限公司",
+        "StockCode": "6547",
+        "StockName": "高端疫苗",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "QZF",
+        "UnderlyingStock": "力晶積成電子製造股份有限公司",
+        "StockCode": "6770",
+        "StockName": "力積電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RAF",
+        "UnderlyingStock": "奇鋐科技股份有限公司",
+        "StockCode": "3017",
+        "StockName": "奇鋐",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RBF",
+        "UnderlyingStock": "中磊電子股份有限公司",
+        "StockCode": "5388",
+        "StockName": "中磊",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RCF",
+        "UnderlyingStock": "漢翔航空工業股份有限公司",
+        "StockCode": "2634",
+        "StockName": "漢翔",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RDF",
+        "UnderlyingStock": "中天生物科技股份有限公司",
+        "StockCode": "4128",
+        "StockName": "中天",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "REF",
+        "UnderlyingStock": "新唐科技股份有限公司",
+        "StockCode": "4919",
+        "StockName": "新唐",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RFF",
+        "UnderlyingStock": "嘉澤端子工業股份有限公司",
+        "StockCode": "3533",
+        "StockName": "嘉澤",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RGF",
+        "UnderlyingStock": "健策精密工業股份有限公司",
+        "StockCode": "3653",
+        "StockName": "健策",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RIF",
+        "UnderlyingStock": "國泰台灣高股息傘型證券投資信託基金之台灣ESG永續高股息ETF證券投資信託基金",
+        "StockCode": "00878",
+        "StockName": "國泰永續高股息ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "RJF",
+        "UnderlyingStock": "大亞電線電纜股份有限公司",
+        "StockCode": "1609",
+        "StockName": "大亞",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RKF",
+        "UnderlyingStock": "金像電子股份有限公司",
+        "StockCode": "2368",
+        "StockName": "金像電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RLF",
+        "UnderlyingStock": "元晶太陽能科技股份有限公司",
+        "StockCode": "6443",
+        "StockName": "元晶",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RNF",
+        "UnderlyingStock": "合一生技股份有限公司",
+        "StockCode": "4743",
+        "StockName": "合一",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "ROF",
+        "UnderlyingStock": "立端科技股份有限公司",
+        "StockCode": "6245",
+        "StockName": "立端",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "RPF",
+        "UnderlyingStock": "寶雅國際股份有限公司",
+        "StockCode": "5904",
+        "StockName": "寶雅",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "RQF",
+        "UnderlyingStock": "富邦媒體科技股份有限公司",
+        "StockCode": "8454",
+        "StockName": "富邦媒",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RRF",
+        "UnderlyingStock": "寶雅國際股份有限公司",
+        "StockCode": "5904",
+        "StockName": "寶雅",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "RSF",
+        "UnderlyingStock": "力旺電子股份有限公司",
+        "StockCode": "3529",
+        "StockName": "力旺",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "RUF",
+        "UnderlyingStock": "世紀鋼鐵結構股份有限公司",
+        "StockCode": "9958",
+        "StockName": "世紀鋼",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RVF",
+        "UnderlyingStock": "台達電子工業股份有限公司",
+        "StockCode": "2308",
+        "StockName": "台達電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RWF",
+        "UnderlyingStock": "創意電子股份有限公司",
+        "StockCode": "3443",
+        "StockName": "創意",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "RXF",
+        "UnderlyingStock": "富邦富時越南證券投資信託基金",
+        "StockCode": "00885",
+        "StockName": "富邦越南ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "RYF",
+        "UnderlyingStock": "群益台灣ESG低碳50ETF證券投資信託基金",
+        "StockCode": "00923",
+        "StockName": "群益台ESG低碳50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "RZF",
+        "UnderlyingStock": "元大美國政府20年期(以上)債券證券投資信託基金",
+        "StockCode": "00679B",
+        "StockName": "元大美債20年ETF",
+        "Type": ""
+      },
+      {
+        "Contract": "SAF",
+        "UnderlyingStock": "美時化學製藥股份有限公司",
+        "StockCode": "1795",
+        "StockName": "美時",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SBF",
+        "UnderlyingStock": "中華紙漿股份有限公司",
+        "StockCode": "1905",
+        "StockName": "華紙",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SCF",
+        "UnderlyingStock": "聚陽實業股份有限公司",
+        "StockCode": "1477",
+        "StockName": "聚陽",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SDF",
+        "UnderlyingStock": "中興電工機械股份有限公司",
+        "StockCode": "1513",
+        "StockName": "中興電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SEF",
+        "UnderlyingStock": "智邦科技股份有限公司",
+        "StockCode": "2345",
+        "StockName": "智邦",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SFF",
+        "UnderlyingStock": "台光電子材料股份有限公司",
+        "StockCode": "2383",
+        "StockName": "台光電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SGF",
+        "UnderlyingStock": "國泰全球智能電動車ETF證券投資信託基金",
+        "StockCode": "00893",
+        "StockName": "國泰智能電動車ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "SIF",
+        "UnderlyingStock": "元大美國政府1至3年期債券ETF基金",
+        "StockCode": "00719B",
+        "StockName": "元大美債1-3ETF",
+        "Type": ""
+      },
+      {
+        "Contract": "SJF",
+        "UnderlyingStock": "神基控股股份有限公司",
+        "StockCode": "3005",
+        "StockName": "神基",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SKF",
+        "UnderlyingStock": "至上電子股份有限公司",
+        "StockCode": "8112",
+        "StockName": "至上",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SLF",
+        "UnderlyingStock": "技嘉科技股份有限公司",
+        "StockCode": "2376",
+        "StockName": "技嘉",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SMF",
+        "UnderlyingStock": "群益台灣精選高息ETF證券投資信託基金",
+        "StockCode": "00919",
+        "StockName": "群益台灣精選高息ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "SNF",
+        "UnderlyingStock": "復華台灣科技優息ETF證券投資信託基金",
+        "StockCode": "00929",
+        "StockName": "復華台灣科技優息ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "SQF",
+        "UnderlyingStock": "中國信託多元收益債券ETF傘型證券投資信託基金之中國信託10年期以上高評級美元公司債券ETF證券投資信託基金",
+        "StockCode": "00772B",
+        "StockName": "中信高評級公司債ETF",
+        "Type": ""
+      },
+      {
+        "Contract": "SRF",
+        "UnderlyingStock": "元大台灣卓越50證券投資信託基金",
+        "StockCode": "0050",
+        "StockName": "元大台灣50ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "SSF",
+        "UnderlyingStock": "元大台灣高股息證券投資信託基金",
+        "StockCode": "0056",
+        "StockName": "元大高股息ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "SUF",
+        "UnderlyingStock": "元大臺灣價值高息ETF證券投資信託基金",
+        "StockCode": "00940",
+        "StockName": "元大台灣價值高息ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "SVF",
+        "UnderlyingStock": "川湖科技股份有限公司",
+        "StockCode": "2059",
+        "StockName": "川湖",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SWF",
+        "UnderlyingStock": "世紀鋼鐵結構股份有限公司",
+        "StockCode": "9958",
+        "StockName": "世紀鋼",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "SYF",
+        "UnderlyingStock": "家登精密工業股份有限公司",
+        "StockCode": "3680",
+        "StockName": "家登",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "SZF",
+        "UnderlyingStock": "家登精密工業股份有限公司",
+        "StockCode": "3680",
+        "StockName": "家登",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "UAF",
+        "UnderlyingStock": "士林電機廠股份有限公司",
+        "StockCode": "1503",
+        "StockName": "士電",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UBF",
+        "UnderlyingStock": "亞翔工程股份有限公司",
+        "StockCode": "6139",
+        "StockName": "亞翔",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UCF",
+        "UnderlyingStock": "廣明光電股份有限公司",
+        "StockCode": "6188",
+        "StockName": "廣明",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "UEF",
+        "UnderlyingStock": "上海商業儲蓄銀行股份有限公司",
+        "StockCode": "5876",
+        "StockName": "上海商銀",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UFF",
+        "UnderlyingStock": "台塑石化股份有限公司",
+        "StockCode": "6505",
+        "StockName": "台塑化",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UGF",
+        "UnderlyingStock": "達發科技股份有限公司",
+        "StockCode": "6526",
+        "StockName": "達發",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UHF",
+        "UnderlyingStock": "奇鋐科技股份有限公司",
+        "StockCode": "3017",
+        "StockName": "奇鋐",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UIF",
+        "UnderlyingStock": "達發科技股份有限公司",
+        "StockCode": "6526",
+        "StockName": "達發",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UJF",
+        "UnderlyingStock": "群益ESG 20年期以上BBB投資等級公司債ETF證券投資信託基金",
+        "StockCode": "00937B",
+        "StockName": "群益ESG投等債20+ETF",
+        "Type": ""
+      },
+      {
+        "Contract": "UKF",
+        "UnderlyingStock": "國泰20年期(以上)美國公債指數證券投資信託基金",
+        "StockCode": "00687B",
+        "StockName": "國泰20年美債ETF",
+        "Type": ""
+      },
+      {
+        "Contract": "ULF",
+        "UnderlyingStock": "雙鴻科技股份有限公司",
+        "StockCode": "3324",
+        "StockName": "雙鴻",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "UMF",
+        "UnderlyingStock": "世芯電子股份有限公司",
+        "StockCode": "3661",
+        "StockName": "世芯-KY",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UOF",
+        "UnderlyingStock": "世芯電子股份有限公司",
+        "StockCode": "3661",
+        "StockName": "世芯-KY",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UPF",
+        "UnderlyingStock": "保瑞藥業股份有限公司",
+        "StockCode": "6472",
+        "StockName": "保瑞",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UQF",
+        "UnderlyingStock": "保瑞藥業股份有限公司",
+        "StockCode": "6472",
+        "StockName": "保瑞",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "URF",
+        "UnderlyingStock": "統一NYSE FANG+ ETF證券投資信託基金",
+        "StockCode": "00757",
+        "StockName": "統一FANG+ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "USF",
+        "UnderlyingStock": "統一NYSE FANG+ ETF證券投資信託基金",
+        "StockCode": "00757",
+        "StockName": "統一FANG+ETF",
+        "Type": "上市ETF標的證券"
+      },
+      {
+        "Contract": "UTF",
+        "UnderlyingStock": "一詮精密工業股份有限公司",
+        "StockCode": "2486",
+        "StockName": "一詮",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UUF",
+        "UnderlyingStock": "台灣虎航股份有限公司",
+        "StockCode": "6757",
+        "StockName": "台灣虎航",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UVF",
+        "UnderlyingStock": "旺矽科技股份有限公司",
+        "StockCode": "6223",
+        "StockName": "旺矽",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "UWF",
+        "UnderlyingStock": "旺矽科技股份有限公司",
+        "StockCode": "6223",
+        "StockName": "旺矽",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "UXF",
+        "UnderlyingStock": "華泰電子股份有限公司",
+        "StockCode": "2329",
+        "StockName": "華泰",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "UYF",
+        "UnderlyingStock": "良維科技股份有限公司",
+        "StockCode": "6290",
+        "StockName": "良維",
+        "Type": "上櫃普通股標的證券"
+      },
+      {
+        "Contract": "UZF",
+        "UnderlyingStock": "漢唐集成股份有限公司",
+        "StockCode": "2404",
+        "StockName": "漢唐",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "VAF",
+        "UnderlyingStock": "華榮電線電纜股份有限公司",
+        "StockCode": "1608",
+        "StockName": "華榮",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "VBF",
+        "UnderlyingStock": "燿華電子股份有限公司",
+        "StockCode": "2367",
+        "StockName": "燿華",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "VCF",
+        "UnderlyingStock": "建準電機工業股份有限公司",
+        "StockCode": "2421",
+        "StockName": "建準",
+        "Type": "上市普通股標的證券"
+      },
+      {
+        "Contract": "VDF",
+        "UnderlyingStock": "致茂電子股份有限公司",
+        "StockCode": "2360",
+        "StockName": "致茂",
+        "Type": "上市普通股標的證券"
+      }
+    ]
+  }
+}

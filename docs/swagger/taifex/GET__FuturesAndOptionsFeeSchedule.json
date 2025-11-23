@@ -1,0 +1,324 @@
+{
+  "path": "/FuturesAndOptionsFeeSchedule",
+  "method": "GET",
+  "operationId": null,
+  "summary": "期交所期貨暨選擇權商品相關費用表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/FuturesAndOptionsFeeSchedule",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:39:29 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "4717",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:36:47 GMT",
+      "ETag": "\"126d-6443690c28676\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=FuturesAndOptionsFeeSchedule.json",
+      "cf-cache-status": "EXPIRED",
+      "CF-RAY": "9a2d4be32e23a343-TPE"
+    },
+    "body": [
+      {
+        "Contract": "TX",
+        "TransactionFee": "12",
+        "ClearingFee": "8",
+        "SettlementFee": "8",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "TE",
+        "TransactionFee": "12",
+        "ClearingFee": "8",
+        "SettlementFee": "8",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "TF",
+        "TransactionFee": "12",
+        "ClearingFee": "8",
+        "SettlementFee": "8",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "TXO",
+        "TransactionFee": "6",
+        "ClearingFee": "4",
+        "SettlementFee": "4",
+        "FuturesTransactionTaxRate": "0.001"
+      },
+      {
+        "Contract": "TEO",
+        "TransactionFee": "6",
+        "ClearingFee": "4",
+        "SettlementFee": "4",
+        "FuturesTransactionTaxRate": "0.001"
+      },
+      {
+        "Contract": "TFO",
+        "TransactionFee": "6",
+        "ClearingFee": "4",
+        "SettlementFee": "4",
+        "FuturesTransactionTaxRate": "0.001"
+      },
+      {
+        "Contract": "GTF",
+        "TransactionFee": "12",
+        "ClearingFee": "8",
+        "SettlementFee": "8",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "XIF",
+        "TransactionFee": "12",
+        "ClearingFee": "8",
+        "SettlementFee": "8",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "MTX",
+        "TransactionFee": "7.5",
+        "ClearingFee": "5",
+        "SettlementFee": "5",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "MXFFX",
+        "TransactionFee": "7.5",
+        "ClearingFee": "5",
+        "SettlementFee": "5",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "E4F",
+        "TransactionFee": "7.5",
+        "ClearingFee": "5",
+        "SettlementFee": "5",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "STF",
+        "TransactionFee": "3",
+        "ClearingFee": "2",
+        "SettlementFee": "2",
+        "FuturesTransactionTaxRate": "0.001"
+      },
+      {
+        "Contract": "STO",
+        "TransactionFee": "3",
+        "ClearingFee": "2",
+        "SettlementFee": "2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "TGF",
+        "TransactionFee": "6",
+        "ClearingFee": "4",
+        "SettlementFee": "4",
+        "FuturesTransactionTaxRate": "0.0000025"
+      },
+      {
+        "Contract": "GDF",
+        "TransactionFee": "6",
+        "ClearingFee": "4",
+        "SettlementFee": "4",
+        "FuturesTransactionTaxRate": "0.0000025"
+      },
+      {
+        "Contract": "TGO",
+        "TransactionFee": "3",
+        "ClearingFee": "2",
+        "SettlementFee": "2",
+        "FuturesTransactionTaxRate": "0.001"
+      },
+      {
+        "Contract": "GBF",
+        "TransactionFee": "6",
+        "ClearingFee": "4",
+        "SettlementFee": "4",
+        "FuturesTransactionTaxRate": "0.00000125"
+      },
+      {
+        "Contract": "RHF",
+        "TransactionFee": "14.4",
+        "ClearingFee": "9.6",
+        "SettlementFee": "9.6",
+        "FuturesTransactionTaxRate": "0.000001"
+      },
+      {
+        "Contract": "RTF",
+        "TransactionFee": "3",
+        "ClearingFee": "2",
+        "SettlementFee": "2",
+        "FuturesTransactionTaxRate": "0.000001"
+      },
+      {
+        "Contract": "TJF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "UDF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "SPF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "UNF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "SXF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "F1F",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "G2F",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "BTF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "ZEF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "ZFF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "SOF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "SHF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "XEF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.000001"
+      },
+      {
+        "Contract": "XJF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.000001"
+      },
+      {
+        "Contract": "XBF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.000001"
+      },
+      {
+        "Contract": "XAF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.000001"
+      },
+      {
+        "Contract": "BRF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.000005"
+      },
+      {
+        "Contract": "TMF",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": "M1F",
+        "TransactionFee": "4.8",
+        "ClearingFee": "3.2",
+        "SettlementFee": "3.2",
+        "FuturesTransactionTaxRate": "0.00002"
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      },
+      {
+        "Contract": ""
+      }
+    ]
+  }
+}

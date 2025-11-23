@@ -1,0 +1,41 @@
+{
+  "path": "/va03",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日商品類選擇權未平倉量增減",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va03",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:02 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "115",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:08 GMT",
+      "ETag": "\"73-644369cb1b8d8\"",
+      "Accept-Ranges": "bytes",
+      "Content-Disposition": "attachment; filename=va03.json",
+      "cf-cache-status": "MISS",
+      "CF-RAY": "9a2d51148c768085-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "OpenInterest": "1858",
+        "PreviousDay": "20251120",
+        "PreviousDayOpenInterest": "1860",
+        "Change": "-2"
+      }
+    ]
+  }
+}

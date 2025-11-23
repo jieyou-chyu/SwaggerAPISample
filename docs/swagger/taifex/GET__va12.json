@@ -1,0 +1,44 @@
+{
+  "path": "/va12",
+  "method": "GET",
+  "operationId": null,
+  "summary": "每日個股期貨交易量統計表（區分股票與ETF）",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/va12",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:43:07 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "119",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:40:26 GMT",
+      "ETag": "\"77-644369dc66242\"",
+      "Content-Disposition": "attachment; filename=va12.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d5134ca1a313b-TPE"
+    },
+    "body": [
+      {
+        "Date": "20251121",
+        "ContractType": "STF",
+        "Volume": "345462"
+      },
+      {
+        "Date": "20251121",
+        "ContractType": "ETF",
+        "Volume": "13899"
+      }
+    ]
+  }
+}

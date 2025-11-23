@@ -1,0 +1,116 @@
+{
+  "path": "/tpci_reward_index",
+  "method": "GET",
+  "operationId": null,
+  "summary": "櫃買「薪酬指數」歷史收盤指數",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpci_reward_index",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:53 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:31:12 GMT",
+      "ETag": "W/\"6921d740-5b1\"",
+      "Content-Disposition": "attachment;filename=tpci_reward_index.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49890ffb826b-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "GTSMCompensationIndex": "150.82",
+        "GTSMCompensationTotalReturnIndex": "217.82"
+      },
+      {
+        "Date": "1141104",
+        "GTSMCompensationIndex": "147.85",
+        "GTSMCompensationTotalReturnIndex": "213.55"
+      },
+      {
+        "Date": "1141105",
+        "GTSMCompensationIndex": "146.09",
+        "GTSMCompensationTotalReturnIndex": "211.00"
+      },
+      {
+        "Date": "1141106",
+        "GTSMCompensationIndex": "148.76",
+        "GTSMCompensationTotalReturnIndex": "214.85"
+      },
+      {
+        "Date": "1141107",
+        "GTSMCompensationIndex": "146.90",
+        "GTSMCompensationTotalReturnIndex": "212.17"
+      },
+      {
+        "Date": "1141110",
+        "GTSMCompensationIndex": "145.16",
+        "GTSMCompensationTotalReturnIndex": "209.66"
+      },
+      {
+        "Date": "1141111",
+        "GTSMCompensationIndex": "144.21",
+        "GTSMCompensationTotalReturnIndex": "208.28"
+      },
+      {
+        "Date": "1141112",
+        "GTSMCompensationIndex": "144.83",
+        "GTSMCompensationTotalReturnIndex": "209.17"
+      },
+      {
+        "Date": "1141113",
+        "GTSMCompensationIndex": "146.30",
+        "GTSMCompensationTotalReturnIndex": "211.30"
+      },
+      {
+        "Date": "1141114",
+        "GTSMCompensationIndex": "143.56",
+        "GTSMCompensationTotalReturnIndex": "207.34"
+      },
+      {
+        "Date": "1141117",
+        "GTSMCompensationIndex": "144.30",
+        "GTSMCompensationTotalReturnIndex": "208.42"
+      },
+      {
+        "Date": "1141118",
+        "GTSMCompensationIndex": "140.48",
+        "GTSMCompensationTotalReturnIndex": "202.90"
+      },
+      {
+        "Date": "1141119",
+        "GTSMCompensationIndex": "137.54",
+        "GTSMCompensationTotalReturnIndex": "198.64"
+      },
+      {
+        "Date": "1141120",
+        "GTSMCompensationIndex": "141.73",
+        "GTSMCompensationTotalReturnIndex": "204.71"
+      },
+      {
+        "Date": "1141121",
+        "GTSMCompensationIndex": "137.45",
+        "GTSMCompensationTotalReturnIndex": "198.53"
+      }
+    ]
+  }
+}

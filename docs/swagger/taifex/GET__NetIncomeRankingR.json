@@ -1,0 +1,40 @@
+{
+  "path": "/NetIncomeRankingR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "複委託期貨商稅前損益排序表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/NetIncomeRankingR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:41 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "142",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:51 GMT",
+      "ETag": "\"8e-644369823e298\"",
+      "Content-Disposition": "attachment; filename=NetIncomeRankingR.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d50933dd27aab-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "R201",
+        "FCMName": "美商愛德盟期貨經紀股份有限公司台灣分公司",
+        "NetIncomeThisMonth": "4001867"
+      }
+    ]
+  }
+}

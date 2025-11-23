@@ -1,0 +1,87 @@
+{
+  "path": "/exchangeReport/TWTBAU2",
+  "method": "GET",
+  "operationId": null,
+  "summary": "集中市場暫停先賣後買當日沖銷交易歷史查詢",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/exchangeReport/TWTBAU2",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:36 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:22:11 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222983-378\"",
+      "Content-Disposition": "attachment;filename=TWTBAU2.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Code": "0051",
+        "Name": "元大中型100",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "0053",
+        "Name": "元大電子",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "0055",
+        "Name": "元大MSCI金融",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00771",
+        "Name": "元大US高息特別股",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00850",
+        "Name": "元大臺灣ESG永續",
+        "StartDate": "1141118",
+        "EndDate": "1141124",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00901",
+        "Name": "永豐智能車供應鏈",
+        "StartDate": "1141120",
+        "EndDate": "1141126",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "00930",
+        "Name": "永豐ESG低碳高息",
+        "StartDate": "1141120",
+        "EndDate": "1141126",
+        "Reason": "分配收益"
+      },
+      {
+        "Code": "3312",
+        "Name": "弘憶股",
+        "StartDate": "1141120",
+        "EndDate": "1141126",
+        "Reason": "臨時會"
+      }
+    ]
+  }
+}

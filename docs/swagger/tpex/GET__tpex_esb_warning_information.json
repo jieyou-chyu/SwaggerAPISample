@@ -1,0 +1,55 @@
+{
+  "path": "/tpex_esb_warning_information",
+  "method": "GET",
+  "operationId": null,
+  "summary": "興櫃公布注意有價證券資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_esb_warning_information",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:00 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:33:01 GMT",
+      "ETag": "W/\"6921d7ad-185\"",
+      "Content-Disposition": "attachment;filename=tpex_esb_warning_information.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49b25c154a48-TPE"
+    },
+    "body": [
+      {
+        "公告日期": "1141121",
+        "證券代號": "7870",
+        "證券名稱": "聯剛科技",
+        "注意交易資訊": "當日交易時間內加權平均成交價振幅達20.25%(第一款)。",
+        "收盤價": "133.76"
+      },
+      {
+        "公告日期": "1141121",
+        "證券代號": "7875",
+        "證券名稱": "安圖斯",
+        "注意交易資訊": "當日交易時間內加權平均成交價振幅達40.6%(第一款)。",
+        "收盤價": "41.11"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "path": "/mopsfin_t187ap27_O",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃公司經營權及營業範圍異(變)動專區-經營權異動且營業範圍重大變更列為變更交易公司",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap27_O",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:38:39 GMT",
+      "Content-Type": "application/json",
+      "Content-Length": "4",
+      "Connection": "keep-alive",
+      "CF-RAY": "9a2d4aa669faa9bf-TPE",
+      "Last-Modified": "Sat, 22 Nov 2025 15:34:51 GMT",
+      "ETag": "\"6921d81b-4\"",
+      "Content-Disposition": "attachment;filename=mopsfin_t187ap27_O.json",
+      "Accept-Ranges": "bytes",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare"
+    },
+    "body": []
+  }
+}

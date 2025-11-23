@@ -1,0 +1,42 @@
+{
+  "path": "/NetValuePerShareR",
+  "method": "GET",
+  "operationId": null,
+  "summary": "複委託期貨商每股淨值明細表",
+  "request": {
+    "url": "https://openapi.taifex.com.tw/v1/NetValuePerShareR",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:42:38 GMT",
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "194",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Accept-Ranges": "bytes",
+      "Vary": "Accept, accept-encoding",
+      "Last-Modified": "Sat, 22 Nov 2025 22:38:39 GMT",
+      "ETag": "\"c2-64436976c0bb5\"",
+      "Content-Disposition": "attachment; filename=NetValuePerShareR.json",
+      "CF-Cache-Status": "EXPIRED",
+      "CF-RAY": "9a2d507e7ada846a-TPE"
+    },
+    "body": [
+      {
+        "YYYYMM": "202510",
+        "FCMCode": "R201",
+        "FCMName": "美商愛德盟期貨經紀股份有限公司台灣分公司",
+        "NetValue(NTD)": "175113516",
+        "Shares(InThousand)": "5000",
+        "NetValuePerShare": "35.02"
+      }
+    ]
+  }
+}

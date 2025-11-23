@@ -1,0 +1,91 @@
+{
+  "path": "/indicesReport/MFI94U",
+  "method": "GET",
+  "operationId": null,
+  "summary": "發行量加權股價報酬指數",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/indicesReport/MFI94U",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:44 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:23:56 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"692229ec-30e\"",
+      "Content-Disposition": "attachment;filename=MFI94U.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "TAIEXTotalReturnIndex": "64380"
+      },
+      {
+        "Date": "1141104",
+        "TAIEXTotalReturnIndex": "63885"
+      },
+      {
+        "Date": "1141105",
+        "TAIEXTotalReturnIndex": "62977"
+      },
+      {
+        "Date": "1141106",
+        "TAIEXTotalReturnIndex": "63392"
+      },
+      {
+        "Date": "1141107",
+        "TAIEXTotalReturnIndex": "62828"
+      },
+      {
+        "Date": "1141110",
+        "TAIEXTotalReturnIndex": "63324"
+      },
+      {
+        "Date": "1141111",
+        "TAIEXTotalReturnIndex": "63131"
+      },
+      {
+        "Date": "1141112",
+        "TAIEXTotalReturnIndex": "63500"
+      },
+      {
+        "Date": "1141113",
+        "TAIEXTotalReturnIndex": "63401"
+      },
+      {
+        "Date": "1141114",
+        "TAIEXTotalReturnIndex": "62251"
+      },
+      {
+        "Date": "1141117",
+        "TAIEXTotalReturnIndex": "62364"
+      },
+      {
+        "Date": "1141118",
+        "TAIEXTotalReturnIndex": "60794"
+      },
+      {
+        "Date": "1141119",
+        "TAIEXTotalReturnIndex": "60394"
+      },
+      {
+        "Date": "1141120",
+        "TAIEXTotalReturnIndex": "62317"
+      },
+      {
+        "Date": "1141121",
+        "TAIEXTotalReturnIndex": "60064"
+      }
+    ]
+  }
+}

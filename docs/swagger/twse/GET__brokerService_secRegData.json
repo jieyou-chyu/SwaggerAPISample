@@ -1,0 +1,157 @@
+{
+  "path": "/brokerService/secRegData",
+  "method": "GET",
+  "operationId": null,
+  "summary": "開辦定期定額業務證券商名單",
+  "request": {
+    "url": "https://openapi.twse.com.tw/v1/brokerService/secRegData",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Sun, 23 Nov 2025 02:36:21 GMT",
+      "Content-Type": "application/json",
+      "Last-Modified": "Sat, 22 Nov 2025 21:30:41 GMT",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "ETag": "W/\"69222b81-af0\"",
+      "Content-Disposition": "attachment;filename=secRegData.json",
+      "Content-Encoding": "gzip"
+    },
+    "body": [
+      {
+        "SecuritiesFirmCode": "1020",
+        "Name": "合庫",
+        "BrokerageBusinessStartingDate": "1100701",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "1030",
+        "Name": "土銀",
+        "BrokerageBusinessStartingDate": "1070103",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "1040",
+        "Name": "臺銀證券",
+        "BrokerageBusinessStartingDate": "1100726",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "1230",
+        "Name": "彰銀",
+        "BrokerageBusinessStartingDate": "1130318",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "1260",
+        "Name": "宏遠",
+        "BrokerageBusinessStartingDate": "1120502",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "2180",
+        "Name": "亞東",
+        "BrokerageBusinessStartingDate": "1110211",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "5380",
+        "Name": "第一金",
+        "BrokerageBusinessStartingDate": "1060918",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "5920",
+        "Name": "元富",
+        "BrokerageBusinessStartingDate": "1060601",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "6110",
+        "Name": "台中銀",
+        "BrokerageBusinessStartingDate": "1080102",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "7000",
+        "Name": "兆豐",
+        "BrokerageBusinessStartingDate": "1060801",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "7790",
+        "Name": "國票",
+        "BrokerageBusinessStartingDate": "1091015",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "8150",
+        "Name": "台新",
+        "BrokerageBusinessStartingDate": "1121002",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "8560",
+        "Name": "新光",
+        "BrokerageBusinessStartingDate": "1100923",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "8580",
+        "Name": "聯邦商銀",
+        "BrokerageBusinessStartingDate": "1120914",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "8880",
+        "Name": "國泰",
+        "BrokerageBusinessStartingDate": "1060428",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "9100",
+        "Name": "群益金鼎",
+        "BrokerageBusinessStartingDate": "1100104",
+        "WealthManagementBusinessStartingDate": "1070501"
+      },
+      {
+        "SecuritiesFirmCode": "9200",
+        "Name": "凱基",
+        "BrokerageBusinessStartingDate": "1060424",
+        "WealthManagementBusinessStartingDate": "1060116"
+      },
+      {
+        "SecuritiesFirmCode": "9300",
+        "Name": "華南永昌",
+        "BrokerageBusinessStartingDate": "1060329",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "9600",
+        "Name": "富邦",
+        "BrokerageBusinessStartingDate": "1060116",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "9800",
+        "Name": "元大",
+        "BrokerageBusinessStartingDate": "1060221",
+        "WealthManagementBusinessStartingDate": ""
+      },
+      {
+        "SecuritiesFirmCode": "9A00",
+        "Name": "永豐金",
+        "BrokerageBusinessStartingDate": "1060418",
+        "WealthManagementBusinessStartingDate": ""
+      }
+    ]
+  }
+}

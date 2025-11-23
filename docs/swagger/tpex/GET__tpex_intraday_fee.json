@@ -1,0 +1,2246 @@
+{
+  "path": "/tpex_intraday_fee",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃應付現股當日沖銷券差借券費率",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_intraday_fee",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:37 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:44 GMT",
+      "ETag": "W/\"6921d724-947b\"",
+      "Content-Disposition": "attachment;filename=tpex_intraday_fee.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d49278a888265-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        " LendingVolume": "3000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        " LendingVolume": "2000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "4939",
+        "CompanyName": "亞電",
+        " LendingVolume": "3000",
+        "LendingFee": "2.333"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "2000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "12000",
+        "LendingFee": "1.300"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "30000",
+        "LendingFee": "1.950"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "18000",
+        "LendingFee": "2.200"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "2000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "9000",
+        "LendingFee": "6.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "1000",
+        "LendingFee": "0.900"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "36000",
+        "LendingFee": "0.958"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "5000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "4000",
+        "LendingFee": "1.125"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "13000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "1000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "1000",
+        "LendingFee": "2.800"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "2000",
+        "LendingFee": "2.890"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "15000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "4000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "3000",
+        "LendingFee": "6.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6290",
+        "CompanyName": "良維",
+        " LendingVolume": "4000",
+        "LendingFee": "0.300"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "6290",
+        "CompanyName": "良維",
+        " LendingVolume": "2000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141103",
+        "SecuritiesCompanyCode": "8183",
+        "CompanyName": "精星",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141104",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "5000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141104",
+        "SecuritiesCompanyCode": "7402",
+        "CompanyName": "邑錡",
+        " LendingVolume": "2000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        " LendingVolume": "2000",
+        "LendingFee": "2.980"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        " LendingVolume": "8000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "4577",
+        "CompanyName": "達航科技",
+        " LendingVolume": "5000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "4706",
+        "CompanyName": "大恭",
+        " LendingVolume": "2000",
+        "LendingFee": "0.400"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "4991",
+        "CompanyName": "環宇-KY",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "4991",
+        "CompanyName": "環宇-KY",
+        " LendingVolume": "1000",
+        "LendingFee": "2.800"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "5328",
+        "CompanyName": "華容",
+        " LendingVolume": "5000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        " LendingVolume": "16000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        " LendingVolume": "2000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "8086",
+        "CompanyName": "宏捷科",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141105",
+        "SecuritiesCompanyCode": "8111",
+        "CompanyName": "立碁",
+        " LendingVolume": "1000",
+        "LendingFee": "1.500"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "3105",
+        "CompanyName": "穩懋",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "3227",
+        "CompanyName": "原相",
+        " LendingVolume": "1000",
+        "LendingFee": "1.500"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "3236",
+        "CompanyName": "千如",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "6462",
+        "CompanyName": "神盾",
+        " LendingVolume": "1000",
+        "LendingFee": "1.500"
+      },
+      {
+        "Date": "1141106",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        " LendingVolume": "2000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        " LendingVolume": "27000",
+        "LendingFee": "0.915"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        " LendingVolume": "10000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        " LendingVolume": "24000",
+        "LendingFee": "1.290"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        " LendingVolume": "17000",
+        "LendingFee": "2.570"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        " LendingVolume": "7000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "3162",
+        "CompanyName": "精確",
+        " LendingVolume": "3000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        " LendingVolume": "7000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗",
+        " LendingVolume": "1000",
+        "LendingFee": "0.900"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "8000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "22000",
+        "LendingFee": "2.254"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "2000",
+        "LendingFee": "2.900"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "33000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141107",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "3000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "3284",
+        "CompanyName": "太普高",
+        " LendingVolume": "1000",
+        "LendingFee": "1.500"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "4768",
+        "CompanyName": "晶呈科技",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        " LendingVolume": "4000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        " LendingVolume": "1000",
+        "LendingFee": "0.900"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        " LendingVolume": "1000",
+        "LendingFee": "1.500"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "5314",
+        "CompanyName": "世紀*",
+        " LendingVolume": "2000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "5351",
+        "CompanyName": "鈺創",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "6485",
+        "CompanyName": "點序",
+        " LendingVolume": "5000",
+        "LendingFee": "1.350"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "6485",
+        "CompanyName": "點序",
+        " LendingVolume": "5000",
+        "LendingFee": "1.800"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "6538",
+        "CompanyName": "倉和",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "2000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        " LendingVolume": "71000",
+        "LendingFee": "1.068"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        " LendingVolume": "6000",
+        "LendingFee": "1.220"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        " LendingVolume": "3000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        " LendingVolume": "2000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        " LendingVolume": "81000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "2000",
+        "LendingFee": "0.590"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "16000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "6000",
+        "LendingFee": "1.166"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "1000",
+        "LendingFee": "2.750"
+      },
+      {
+        "Date": "1141110",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "3000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "146000",
+        "LendingFee": "0.325"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "105000",
+        "LendingFee": "0.960"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "24000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "53000",
+        "LendingFee": "1.037"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "45000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "4000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "27000",
+        "LendingFee": "2.890"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "122000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "11000",
+        "LendingFee": "3.300"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "55000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "51000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "2000",
+        "LendingFee": "5.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "2000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "4745",
+        "CompanyName": "合富-KY",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "5328",
+        "CompanyName": "華容",
+        " LendingVolume": "10000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "5351",
+        "CompanyName": "鈺創",
+        " LendingVolume": "20000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "5351",
+        "CompanyName": "鈺創",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "2000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "26000",
+        "LendingFee": "2.600"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "1000",
+        "LendingFee": "6.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "6187",
+        "CompanyName": "萬潤",
+        " LendingVolume": "1000",
+        "LendingFee": "0.500"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141111",
+        "SecuritiesCompanyCode": "6643",
+        "CompanyName": "M31",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "115000",
+        "LendingFee": "0.774"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "85000",
+        "LendingFee": "0.780"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "8000",
+        "LendingFee": "0.900"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "38000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "89000",
+        "LendingFee": "1.021"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "165000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "2.890"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "118000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "5000",
+        "LendingFee": "3.300"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "114000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "341000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "3000",
+        "LendingFee": "6.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "30000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "3205",
+        "CompanyName": "佰研",
+        " LendingVolume": "1000",
+        "LendingFee": "0.200"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "3294",
+        "CompanyName": "英濟",
+        " LendingVolume": "2000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "8000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "20000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "5000",
+        "LendingFee": "1.120"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "4000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "1000",
+        "LendingFee": "2.600"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "1000",
+        "LendingFee": "2.700"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "8000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "16000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "1000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "2000",
+        "LendingFee": "5.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        " LendingVolume": "12000",
+        "LendingFee": "3.630"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        " LendingVolume": "2000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5381",
+        "CompanyName": "合正",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "5493",
+        "CompanyName": "三聯",
+        " LendingVolume": "4000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "6485",
+        "CompanyName": "點序",
+        " LendingVolume": "4000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "6547",
+        "CompanyName": "高端疫苗",
+        " LendingVolume": "4000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "6596",
+        "CompanyName": "寬宏藝術",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141112",
+        "SecuritiesCompanyCode": "8155",
+        "CompanyName": "博智",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "3260",
+        "CompanyName": "威剛",
+        " LendingVolume": "1000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "3363",
+        "CompanyName": "上詮",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "5289",
+        "CompanyName": "宜鼎",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        " LendingVolume": "14000",
+        "LendingFee": "0.143"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "5340",
+        "CompanyName": "建榮",
+        " LendingVolume": "6000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "6265",
+        "CompanyName": "方土昶",
+        " LendingVolume": "2000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "6903",
+        "CompanyName": "巨漢",
+        " LendingVolume": "1000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "2000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "9000",
+        "LendingFee": "0.144"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "1000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "10000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "3000",
+        "LendingFee": "4.170"
+      },
+      {
+        "Date": "1141113",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "59000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "5000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "3615",
+        "CompanyName": "安可",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "4171",
+        "CompanyName": "瑞基",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "6223",
+        "CompanyName": "旺矽",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "5000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "3000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "43000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "36000",
+        "LendingFee": "2.019"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "2000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "5000",
+        "LendingFee": "2.600"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "153000",
+        "LendingFee": "2.778"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "76000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "25000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "12000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "54000",
+        "LendingFee": "4.650"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "1000",
+        "LendingFee": "5.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "93000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141114",
+        "SecuritiesCompanyCode": "8426",
+        "CompanyName": "紅木-KY",
+        " LendingVolume": "2000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "00734B",
+        "CompanyName": "台新JPM新興債",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "5000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3211",
+        "CompanyName": "順達",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3529",
+        "CompanyName": "力旺",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3581",
+        "CompanyName": "博磊",
+        " LendingVolume": "3000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3581",
+        "CompanyName": "博磊",
+        " LendingVolume": "12000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3581",
+        "CompanyName": "博磊",
+        " LendingVolume": "28000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3680",
+        "CompanyName": "家登",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "3709",
+        "CompanyName": "鑫聯大投控",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "5212",
+        "CompanyName": "凌網",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "5351",
+        "CompanyName": "鈺創",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "6163",
+        "CompanyName": "華電網",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        " LendingVolume": "6000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        " LendingVolume": "1000",
+        "LendingFee": "1.200"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        " LendingVolume": "1000",
+        "LendingFee": "1.500"
+      },
+      {
+        "Date": "1141117",
+        "SecuritiesCompanyCode": "6584",
+        "CompanyName": "南俊國際",
+        " LendingVolume": "7000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141118",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "1.400"
+      },
+      {
+        "Date": "1141118",
+        "SecuritiesCompanyCode": "5498",
+        "CompanyName": "凱崴",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141118",
+        "SecuritiesCompanyCode": "8038",
+        "CompanyName": "長園科",
+        " LendingVolume": "8000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141118",
+        "SecuritiesCompanyCode": "8038",
+        "CompanyName": "長園科",
+        " LendingVolume": "1000",
+        "LendingFee": "0.980"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "9000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "2000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "17000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "7000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "1000",
+        "LendingFee": "5.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "6173",
+        "CompanyName": "信昌電",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "6221",
+        "CompanyName": "晉泰",
+        " LendingVolume": "6000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "6859",
+        "CompanyName": "伯特光",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "1000",
+        "LendingFee": "0.300"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141119",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "10000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1570",
+        "CompanyName": "力肯",
+        " LendingVolume": "1000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "9000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "10000",
+        "LendingFee": "0.170"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "40000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "3000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "12000",
+        "LendingFee": "2.890"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "79000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "51000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "28000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "1815",
+        "CompanyName": "富喬",
+        " LendingVolume": "2000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "3081",
+        "CompanyName": "聯亞",
+        " LendingVolume": "1000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        " LendingVolume": "3000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "3324",
+        "CompanyName": "雙鴻",
+        " LendingVolume": "1000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "9000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "4174",
+        "CompanyName": "浩鼎",
+        " LendingVolume": "2000",
+        "LendingFee": "1.300"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "4979",
+        "CompanyName": "華星光",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "4979",
+        "CompanyName": "華星光",
+        " LendingVolume": "2000",
+        "LendingFee": "2.800"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "5425",
+        "CompanyName": "台半",
+        " LendingVolume": "3000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        " LendingVolume": "11000",
+        "LendingFee": "0.820"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "6274",
+        "CompanyName": "台燿",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "2000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "4000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "15000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "13000",
+        "LendingFee": "3.740"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "1000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "120000",
+        "LendingFee": "5.393"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8048",
+        "CompanyName": "德勝",
+        " LendingVolume": "4000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        " LendingVolume": "4000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8054",
+        "CompanyName": "安國",
+        " LendingVolume": "2000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8069",
+        "CompanyName": "元太",
+        " LendingVolume": "2000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8076",
+        "CompanyName": "伍豐",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "10000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8088",
+        "CompanyName": "品安",
+        " LendingVolume": "2000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8096",
+        "CompanyName": "擎亞",
+        " LendingVolume": "6000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8299",
+        "CompanyName": "群聯",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "9000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "3000",
+        "LendingFee": "0.820"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "5000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "1000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "1000",
+        "LendingFee": "2.900"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "2000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141120",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "3000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3260",
+        "CompanyName": "威剛",
+        " LendingVolume": "1000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        " LendingVolume": "2000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3293",
+        "CompanyName": "鈊象",
+        " LendingVolume": "2000",
+        "LendingFee": "1.300"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        " LendingVolume": "5000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3297",
+        "CompanyName": "杭特",
+        " LendingVolume": "2000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3357",
+        "CompanyName": "臺慶科",
+        " LendingVolume": "1000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3624",
+        "CompanyName": "光頡",
+        " LendingVolume": "15000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3684",
+        "CompanyName": "榮昌",
+        " LendingVolume": "1000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4903",
+        "CompanyName": "聯光通",
+        " LendingVolume": "5000",
+        "LendingFee": "0.300"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4973",
+        "CompanyName": "廣穎",
+        " LendingVolume": "30000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5328",
+        "CompanyName": "華容",
+        " LendingVolume": "14000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6186",
+        "CompanyName": "新潤",
+        " LendingVolume": "2000",
+        "LendingFee": "0.200"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6188",
+        "CompanyName": "廣明",
+        " LendingVolume": "1000",
+        "LendingFee": "0.300"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        " LendingVolume": "2000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        " LendingVolume": "2000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6291",
+        "CompanyName": "沛亨",
+        " LendingVolume": "1000",
+        "LendingFee": "5.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6683",
+        "CompanyName": "雍智科技",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6727",
+        "CompanyName": "亞泰金屬",
+        " LendingVolume": "1000",
+        "LendingFee": "0.200"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "7556",
+        "CompanyName": "意德士",
+        " LendingVolume": "1000",
+        "LendingFee": "0.200"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "1000",
+        "LendingFee": "0.100"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "3000",
+        "LendingFee": "1.300"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "34000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "60000",
+        "LendingFee": "3.459"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "2000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "10000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "17000",
+        "LendingFee": "4.590"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8042",
+        "CompanyName": "金山電",
+        " LendingVolume": "1000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "5000",
+        "LendingFee": "1.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "6000",
+        "LendingFee": "1.833"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "11000",
+        "LendingFee": "2.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "50000",
+        "LendingFee": "2.384"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "6000",
+        "LendingFee": "2.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "4000",
+        "LendingFee": "2.750"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "5000",
+        "LendingFee": "2.800"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "50000",
+        "LendingFee": "2.960"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "235000",
+        "LendingFee": "3.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "236000",
+        "LendingFee": "3.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "29000",
+        "LendingFee": "3.583"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "19000",
+        "LendingFee": "3.947"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "49000",
+        "LendingFee": "4.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "350000",
+        "LendingFee": "4.200"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "4000",
+        "LendingFee": "4.250"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "207000",
+        "LendingFee": "4.455"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "8000",
+        "LendingFee": "4.500"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "45000",
+        "LendingFee": "5.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "7000",
+        "LendingFee": "5.300"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "16000",
+        "LendingFee": "5.750"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "36000",
+        "LendingFee": "6.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "4000",
+        "LendingFee": "6.600"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "1295000",
+        "LendingFee": "6.681"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "8000",
+        "LendingFee": "6.750"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "1000",
+        "LendingFee": "6.866"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8043",
+        "CompanyName": "蜜望實",
+        " LendingVolume": "526000",
+        "LendingFee": "7.000"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8358",
+        "CompanyName": "金居",
+        " LendingVolume": "4000",
+        "LendingFee": "5.000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "path": "/tpex_cmode",
+  "method": "GET",
+  "operationId": null,
+  "summary": "上櫃股票變更交易、分盤交易、管理股票與停止交易資訊",
+  "request": {
+    "url": "https://www.tpex.org.tw/openapi/v1/tpex_cmode",
+    "method": "GET",
+    "headers": {
+      "Accept": "application/json"
+    },
+    "params": {},
+    "json": null
+  },
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Date": "Sun, 23 Nov 2025 02:37:27 GMT",
+      "Content-Type": "application/json",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Content-Encoding": "gzip",
+      "Last-Modified": "Sat, 22 Nov 2025 15:30:26 GMT",
+      "ETag": "W/\"6921d712-e87\"",
+      "Content-Disposition": "attachment;filename=tpex_cmode.json",
+      "Content-Security-Policy": "frame-ancestors 'self' *.twse.com.tw *.tdcc.com.tw digitalprocesssys-epassbook.cdn.hinet.net http://digitalprocesssyst-epassbook.cdn.hinet.net;",
+      "Strict-Transport-Security": "max-age=31535000; includeSubDomains; preload",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Permissions-Policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Cache-Control": "max-age=600, private, must-revalidate, private",
+      "cf-cache-status": "DYNAMIC",
+      "Server": "cloudflare",
+      "CF-RAY": "9a2d48e61abb77f1-TPE"
+    },
+    "body": [
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3629",
+        "CompanyName": "地心引力",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "Ｙ",
+        "ManagedStock": "",
+        "MatchingFrequency": "030",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3632",
+        "CompanyName": "研勤",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "Ｙ",
+        "ManagedStock": "",
+        "MatchingFrequency": "030",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "3710",
+        "CompanyName": "連展投控",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4304",
+        "CompanyName": "勝昱",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "Ｙ",
+        "ManagedStock": "",
+        "MatchingFrequency": "060",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4529",
+        "CompanyName": "淳紳",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4530",
+        "CompanyName": "宏易",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4609",
+        "CompanyName": "唐鋒",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "4804",
+        "CompanyName": "大略-KY",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "Ｙ",
+        "ManagedStock": "",
+        "MatchingFrequency": "030",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5301",
+        "CompanyName": "寶得利",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5355",
+        "CompanyName": "佳總",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "5701",
+        "CompanyName": "劍湖山",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6103",
+        "CompanyName": "合邦",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6236",
+        "CompanyName": "中湛",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "6465",
+        "CompanyName": "威潤",
+        "AlteredTrading": "",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "Ｙ",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8093",
+        "CompanyName": "保銳",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8277",
+        "CompanyName": "商丞",
+        "AlteredTrading": "Ｙ",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "",
+        " FinancialAnnouncements": "Ｙ"
+      },
+      {
+        "Date": "1141121",
+        "SecuritiesCompanyCode": "8291",
+        "CompanyName": "尚茂",
+        "AlteredTrading": "",
+        "PeriodicTrading": "",
+        "ManagedStock": "",
+        "MatchingFrequency": "",
+        "SuspensionOfTrading": "Ｙ",
+        " FinancialAnnouncements": "Ｙ"
+      }
+    ]
+  }
+}
